@@ -92,7 +92,7 @@ Sólo digame si está armado.
 
 21
 00:02:22,760 --> 00:02:25,115
-Hace mucho canr para esto.
+Hace mucho calor para esto.
 
 22
 00:02:29,640 --> 00:02:32,677

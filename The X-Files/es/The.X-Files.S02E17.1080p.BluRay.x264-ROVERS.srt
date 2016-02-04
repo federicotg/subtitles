@@ -1556,7 +1556,7 @@ Soy Dana Scully, su colega.
 
 348
 00:40:26,360 --> 00:40:30,148
-- Ha perdido el canr del cuerpo.
+- Ha perdido el calor del cuerpo.
 - Si lo dejan allí, lo matarán.
 
 349
@@ -1589,7 +1589,7 @@ Por eso le falla el corazón.
 
 355
 00:40:49,680 --> 00:40:52,831
-Falla porque ha perdido el canr del cuerpo.
+Falla porque ha perdido el calor del cuerpo.
 
 356
 00:40:52,920 --> 00:40:57,710
