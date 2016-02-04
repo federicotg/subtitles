@@ -1,0 +1,2004 @@
+1
+00:00:07,480 --> 00:00:10,392
+LABORATORIO DE PROPULSIÓN MAHAN
+
+2
+00:00:10,480 --> 00:00:13,995
+INSTITUTO DE TECNOLOGÍA WASHINGTON
+
+3
+00:00:45,480 --> 00:00:47,596
+Dámela. Deja que lo haga yo.
+
+4
+00:00:48,520 --> 00:00:50,829
+Primero el número y después la tarjeta.
+
+5
+00:00:50,960 --> 00:00:52,951
+¿Cuál es tu número, Roland?
+
+6
+00:00:53,960 --> 00:00:56,030
+Tres quince.
+
+7
+00:01:01,880 --> 00:01:04,155
+¿Ves qué fácil?
+
+8
+00:01:10,640 --> 00:01:13,518
+- ¿Rendimiento del motor?
+- 94 por ciento.
+
+9
+00:01:13,640 --> 00:01:14,914
+¡Necesitamos más!
+
+10
+00:01:15,000 --> 00:01:18,549
+- ¿Cómo está la contrapresión?
+- ¿Tú que crees? Subiendo.
+
+11
+00:01:18,680 --> 00:01:20,875
+Aumenta la inclinación de las palas.
+
+12
+00:01:21,000 --> 00:01:25,596
+- ¡Dije que aumentaras la inclinación!
+- ¡La inclinación es pi sobre nueve!
+
+13
+00:01:25,680 --> 00:01:27,875
+Alcanzamos la velocidad máxima.
+
+14
+00:01:28,000 --> 00:01:29,115
+¡No!
+
+15
+00:01:29,200 --> 00:01:32,192
+Deja que siga. ¡Funcionará!
+
+16
+00:01:32,360 --> 00:01:35,352
+¡El motor se autodestruirá!
+No lo pienso hacer.
+
+17
+00:01:35,640 --> 00:01:39,679
+No se autodestruirá.
+¡Vamos! ¡Casi lo tenemos!
+
+18
+00:01:39,840 --> 00:01:42,832
+- Hay un error en tus ecuaciones.
+- ¿Qué pasó?
+
+19
+00:01:42,920 --> 00:01:46,754
+- Nada. Surnow se echó atrás.
+- ¡Estoy protegiendo el proyecto!
+
+20
+00:01:46,840 --> 00:01:50,958
+- Y cuatro años de trabajo, Frank.
+- Trabajo que quedará en nada.
+
+21
+00:01:51,040 --> 00:01:55,795
+A no ser que presentemos algún progreso,
+serán ellos los que se echen atrás, Ron.
+
+22
+00:01:59,040 --> 00:02:05,036
+- Tiene razón. Deberías haber continuado.
+- Nosotros tenemos que alcanzar el Mach 15.
+
+23
+00:02:05,120 --> 00:02:10,558
+¡No quiero arriesgarlo todo sólo porque
+quieren ver sus nombres publicados!
+
+24
+00:02:10,680 --> 00:02:13,114
+Son las publicaciones las que dan dinero.
+
+25
+00:02:13,200 --> 00:02:17,034
+Si lo único que buscan es brillar,
+fantástico. Adelante.
+
+26
+00:02:17,160 --> 00:02:19,276
+Yo me dedicaré a los cálculos.
+
+27
+00:02:23,240 --> 00:02:25,356
+Buenas noches, Dr. Keats.
+
+28
+00:03:13,320 --> 00:03:15,117
+¡¿Que diablos?!
+
+29
+00:03:18,880 --> 00:03:21,599
+¡Roland! ¡Abre la puerta!
+
+30
+00:03:25,120 --> 00:03:29,955
+¡Abre la puerta!
+Roland, escúchame con mucha atención.
+
+31
+00:03:30,080 --> 00:03:33,231
+Tienes que abrir esta puerta, Roland.
+¡Deja de teclear!
+
+32
+00:03:33,400 --> 00:03:34,879
+¡Roland!
+
+33
+00:03:52,160 --> 00:03:53,832
+¡Roland! ¡Abre la puerta!
+
+34
+00:03:54,000 --> 00:03:55,149
+¡¿Qué estás haciendo?!
+
+35
+00:03:56,480 --> 00:03:57,879
+¡Abre la puerta!
+
+36
+00:03:59,600 --> 00:04:02,160
+Roland, ¡¿me escuchas?!
+
+37
+00:05:15,520 --> 00:05:18,239
+EXPEDIENTE X
+
+38
+00:05:30,160 --> 00:05:32,720
+SUCESOS PARANORMALES
+
+39
+00:05:38,080 --> 00:05:40,150
+EL GOBIERNO NIEGA
+TODO CONOCIMIENTO
+
+40
+00:05:57,280 --> 00:05:59,589
+LA VERDAD ESTÁ AHÍ FUERA
+
+41
+00:06:01,280 --> 00:06:04,955
+- ¿Qué tal la boda?
+- ¿La parte en la que se desmayó el novio
+
+42
+00:06:05,040 --> 00:06:08,430
+- o en la que el perro mordió al baterista?
+- ¿Agarraste el ramo?
+
+43
+00:06:08,560 --> 00:06:12,712
+Alo mejor. ¿Era eso lo que
+no podías decirme por teléfono?
+
+44
+00:06:12,840 --> 00:06:15,957
+El proyecto que dicen
+que no existe, existe.
+
+45
+00:06:16,120 --> 00:06:20,033
+- ¿El proyecto Ícaro?
+- La nueva generación de motores a reacción
+
+46
+00:06:20,120 --> 00:06:23,192
+que doblan la velocidad
+utilizando la mitad del combustible.
+
+47
+00:06:23,320 --> 00:06:25,436
+Por lo menos en teoría.
+
+48
+00:06:25,520 --> 00:06:29,035
+¿Ronald Surnow era
+un científico aeronáutico
+
+49
+00:06:29,120 --> 00:06:31,793
+- del proyecto aquí en la universidad?
+- Sí.
+
+50
+00:06:32,160 --> 00:06:33,957
+¿Están muy cerca?
+
+51
+00:06:34,160 --> 00:06:38,836
+No estoy seguro, pero Surnow es el segundo
+científico muerto en los últimos 6 meses.
+
+52
+00:06:39,000 --> 00:06:41,070
+Bien. ¿Y por que es un expediente X?
+
+53
+00:06:41,760 --> 00:06:44,718
+¿No creerás que esto está
+relacionado con los ovnis?
+
+54
+00:06:44,840 --> 00:06:48,799
+Hay algo inexplicable,
+pero no imposible de identificar.
+
+55
+00:06:55,000 --> 00:06:57,070
+- ¿Keats?
+- Ahí.
+
+56
+00:06:57,160 --> 00:06:58,309
+¿Dr Keats?
+
+57
+00:06:59,240 --> 00:07:01,231
+Somos del FBI.
+
+58
+00:07:01,320 --> 00:07:03,231
+Agente Mulder. La agente Scully.
+
+59
+00:07:03,360 --> 00:07:06,079
+Nos dijeron que usted descubrió
+al Dr. Surnow.
+
+60
+00:07:06,160 --> 00:07:08,151
+Lo que quedaba de el.
+
+61
+00:07:10,360 --> 00:07:13,557
+¿Cómo cree que quedó atrapado
+en el túnel de viento?
+
+62
+00:07:13,680 --> 00:07:15,750
+Alguien lo debió encerrar allí.
+
+63
+00:07:15,840 --> 00:07:18,673
+- La puerta se acciona desde ahí.
+- ¿Por ordenador?
+
+64
+00:07:18,800 --> 00:07:21,951
+Ya se lo expliqué a la policía.
+
+65
+00:07:22,040 --> 00:07:25,669
+Otro miembro de su equipo
+murió recientemente. ¿No es así?
+
+66
+00:07:25,840 --> 00:07:27,910
+Sí. Arthur Grable.
+
+67
+00:07:28,040 --> 00:07:31,350
+Murió en un accidente
+automovilístico en noviembre.
+
+68
+00:07:31,440 --> 00:07:34,273
+Soy Frank Nollette.
+También trabajo en el proyecto.
+
+69
+00:07:34,360 --> 00:07:38,239
+- ¿Está seguro de que fue un accidente?
+- ¿Adónde quiere llegar?
+
+70
+00:07:39,360 --> 00:07:43,478
+Su trabajo parece un objetivo perfecto
+para el espionaje industrial.
+
+71
+00:07:44,520 --> 00:07:46,397
+¿Quién escribió esto?
+
+72
+00:07:52,400 --> 00:07:54,516
+Ron trabajaba en ello cuando me fui.
+
+73
+00:07:54,600 --> 00:07:59,390
+La letra no parece corresponder
+con ninguna de las otras caligrafías.
+
+74
+00:08:00,520 --> 00:08:02,397
+No es mía.
+
+75
+00:08:05,720 --> 00:08:07,915
+¿Y de Roland Fuller?
+
+76
+00:08:08,040 --> 00:08:11,271
+Roland es el... conserje.
+
+77
+00:08:11,400 --> 00:08:15,279
+Según el informe de la policía,
+era la única otra persona que estuvo aquí.
+
+78
+00:08:15,400 --> 00:08:18,392
+- Roland no escribió eso.
+- ¿Cómo lo sabe?
+
+79
+00:08:19,400 --> 00:08:23,154
+Digamos que Roland no es
+precisamente un físico nuclear.
+
+80
+00:08:23,880 --> 00:08:27,429
+HOGAR HERITAGE HALFWAY
+COLSON, WASHINGTON
+
+81
+00:08:35,720 --> 00:08:38,280
+Toma.
+
+82
+00:08:39,200 --> 00:08:41,236
+Tracy.
+
+83
+00:08:41,320 --> 00:08:43,709
+Con estrellas.
+
+84
+00:08:45,280 --> 00:08:46,554
+¿Roland?
+
+85
+00:08:46,640 --> 00:08:50,315
+Aquí hay unas personas que
+desean hablar contigo.
+
+86
+00:08:53,440 --> 00:08:55,271
+Me salí de la hoja.
+
+87
+00:08:56,880 --> 00:08:59,235
+- Lo siento.
+- No pasa nada, Roland.
+
+88
+00:08:59,320 --> 00:09:00,799
+Tracy.
+
+89
+00:09:00,920 --> 00:09:03,673
+¿Quieres venir a ayudarme
+en la sala de la TV?
+
+90
+00:09:03,800 --> 00:09:05,358
+Bueno.
+
+91
+00:09:07,640 --> 00:09:10,313
+¡Hola, Roland!
+¿Te importa si nos sentamos?
+
+92
+00:09:11,120 --> 00:09:13,111
+Gracias.
+
+93
+00:09:13,240 --> 00:09:16,118
+¿Te importa si te hacemos unas preguntas?
+
+94
+00:09:17,800 --> 00:09:20,473
+¿Te acuerdas de cuando trabajaste anoche?
+
+95
+00:09:21,880 --> 00:09:26,476
+¿Recuerdas haber visto algo raro?
+¿Viste a algún extraño?
+
+96
+00:09:29,920 --> 00:09:31,399
+Quizá...
+
+97
+00:09:31,480 --> 00:09:33,835
+¿quizá el Dr. Surnow o el Dr. Keats
+
+98
+00:09:33,920 --> 00:09:36,480
+o el Dr. Nollette hicieron algo extraño?
+
+99
+00:09:37,480 --> 00:09:38,833
+No.
+
+100
+00:09:43,920 --> 00:09:46,036
+Te deben gustar las estrellas.
+
+101
+00:09:46,520 --> 00:09:48,715
+Ciento cuarenta y siete.
+
+102
+00:09:49,520 --> 00:09:52,796
+- ¿Perdona?
+- Estrellas.
+
+103
+00:09:59,520 --> 00:10:01,511
+También te gustan los números, ¿no?
+
+104
+00:10:18,280 --> 00:10:20,350
+Roland, deja que te ayude.
+
+105
+00:10:20,440 --> 00:10:22,431
+Una... dos...
+
+106
+00:10:22,520 --> 00:10:24,351
+tres...
+
+107
+00:10:24,440 --> 00:10:27,557
+cuatro... cinco...
+
+108
+00:10:28,000 --> 00:10:30,070
+seis...
+
+109
+00:10:30,200 --> 00:10:33,476
+- siete...
+- Roland, ¿está todo bien?
+
+110
+00:10:33,560 --> 00:10:35,949
+Roland, ¿estás bien?
+
+111
+00:10:36,040 --> 00:10:37,473
+Once...
+
+112
+00:10:37,560 --> 00:10:40,472
+- Doce... trece...
+- ¿Qué pasó?
+
+113
+00:10:41,240 --> 00:10:43,629
+¡¿Qué le dijeron para alterarlo así?!
+
+114
+00:10:43,720 --> 00:10:44,709
+Dieciséis...
+
+115
+00:10:44,840 --> 00:10:46,558
+Diecisiete...
+
+116
+00:10:47,240 --> 00:10:50,994
+OFICINA REGIONAL DEL FBI
+SEATTLE, WASHINGTON
+
+117
+00:10:51,080 --> 00:10:54,277
+Ésta es definitivamente
+la obra de un cuarto individuo.
+
+118
+00:10:54,440 --> 00:10:59,798
+Las cursivas de los doctores no coinciden
+con lo que encontraron en el pizarrón.
+
+119
+00:10:59,880 --> 00:11:02,553
+¿Puede hacer el favor de probar esta?
+
+120
+00:11:03,240 --> 00:11:06,118
+- ¿Qué es?
+- Algo que Roland estaba garabateando.
+
+121
+00:11:06,240 --> 00:11:10,916
+- No creerás realmente que Roland...
+- Era la única otra persona allí.
+
+122
+00:11:11,040 --> 00:11:15,431
+Pero estamos hablando de una ecuación
+de dinámica de fluidos compleja.
+
+123
+00:11:15,520 --> 00:11:17,511
+Roland apenas tiene un CI de 70.
+
+124
+00:11:17,600 --> 00:11:22,833
+Viste su facilidad para las matemáticas.
+¿No hay autistas con dones poco usuales?
+
+125
+00:11:22,920 --> 00:11:26,515
+Sí, pero los que los tienen
+se comportan como calculadoras humanas.
+
+126
+00:11:26,600 --> 00:11:29,273
+Pueden realizar ciertas funciones,
+
+127
+00:11:29,360 --> 00:11:33,433
+pero no conocen el valor
+o el significado de nada.
+
+128
+00:11:33,520 --> 00:11:36,080
+Puede que tenga razón,
+el resultado es negativo.
+
+129
+00:11:36,160 --> 00:11:40,312
+El trazo final del seis,
+y la línea superior del cinco...
+
+130
+00:11:41,120 --> 00:11:43,509
+Lo siento. Él no lo escribió.
+
+131
+00:12:10,360 --> 00:12:14,194
+LABORATORIO DE PROPULSIÓN MAHAN
+BLOQUE 214
+
+132
+00:13:18,240 --> 00:13:20,390
+NITRÓGENO LIQUIDO
+
+133
+00:14:06,760 --> 00:14:11,675
+Un cuerpo orgánico expuesto a nitrógeno
+líquido a menos 320 grados se congela,
+
+134
+00:14:11,760 --> 00:14:14,672
+muestra una gran resistencia a la tracción,
+
+135
+00:14:14,760 --> 00:14:18,594
+pero es muy vulnerable a fuerzas
+por compresión o impacto.
+
+136
+00:14:18,680 --> 00:14:21,638
+He visto una demostración con un pez.
+
+137
+00:14:21,760 --> 00:14:24,797
+No creo que hagan este experimento
+en el Mundo de Beakman.
+
+138
+00:14:27,120 --> 00:14:29,190
+¿Ya recogiste las huellas?
+
+139
+00:14:29,280 --> 00:14:31,430
+- Todo suyo.
+- Gracias.
+
+140
+00:14:39,240 --> 00:14:41,435
+¡Eh, Scully! Mira estos archivos.
+
+141
+00:14:41,520 --> 00:14:42,669
+¿CONTRASEÑA?
+
+142
+00:14:42,760 --> 00:14:44,716
+KMAN debe ser Keats.
+
+143
+00:14:44,800 --> 00:14:47,997
+Este archivo fue cerrado anoche a las 12:31.
+
+144
+00:14:48,880 --> 00:14:53,670
+Pero mira. Alguien abrió un archivo
+llamado ARTHUR después de las 12:31.
+
+145
+00:14:53,760 --> 00:14:56,149
+Y trabajó con él durante casi cinco horas.
+
+146
+00:14:56,360 --> 00:14:58,635
+Bueno, no pudo haber sido Keats.
+
+147
+00:14:58,720 --> 00:15:02,918
+A juzgar por el rigor del cuerpo,
+murió sobre las 12:30.
+
+148
+00:15:03,000 --> 00:15:05,468
+¿Así que alguien entró, mató a Keats,
+
+149
+00:15:05,640 --> 00:15:08,916
+y después trabajó un rato en
+un viejo archivo del Dr. Grable?
+
+150
+00:15:12,000 --> 00:15:13,399
+ACCESO DENEGADO
+
+151
+00:15:13,480 --> 00:15:17,155
+No puedo acceder al archivo ARTHUR.
+Necesitamos la contraseña.
+
+152
+00:15:18,760 --> 00:15:21,797
+Prueba... 15626.
+
+153
+00:15:32,760 --> 00:15:34,751
+¿Cómo lo sabías...?
+
+154
+00:15:34,840 --> 00:15:39,755
+Es el trabajo de Arthur Grable sobre
+las ecuaciones que investigan los otros.
+
+155
+00:15:39,840 --> 00:15:42,354
+Mira todas esas entradas.
+
+156
+00:15:44,040 --> 00:15:47,271
+Alguien ha continuado con
+su trabajo desde que murió.
+
+157
+00:15:48,320 --> 00:15:51,073
+¿Cómo sabías cuál era la contraseña?
+
+158
+00:15:59,920 --> 00:16:02,878
+¡Dile adiós! ¡Dile adiós con la mano!
+
+159
+00:16:06,760 --> 00:16:08,876
+¡Dile adiós! ¡Adiós!
+
+160
+00:16:10,360 --> 00:16:11,793
+¡Dile adiós!
+
+161
+00:16:16,760 --> 00:16:18,352
+¿Roland?
+
+162
+00:16:21,520 --> 00:16:23,988
+¿Por qué dormiste con la ropa puesta?
+
+163
+00:16:27,600 --> 00:16:31,388
+Bueno, vamos a vestirte. Tienes visita.
+
+164
+00:16:40,600 --> 00:16:42,909
+No debo hablar con ellos.
+
+165
+00:16:43,040 --> 00:16:45,395
+¿Quién te dijo eso?
+
+166
+00:16:47,480 --> 00:16:49,550
+¿Recuerdas la charla que tuvimos
+
+167
+00:16:49,640 --> 00:16:51,756
+sobre ser tímido?
+
+168
+00:16:53,280 --> 00:16:55,396
+Éstas son buenas personas, Roland.
+
+169
+00:17:05,360 --> 00:17:08,272
+¡Oye, Roland, tienes más camisas que yo!
+
+170
+00:17:08,400 --> 00:17:11,870
+Esta es perfecta para hoy. ¿Qué te parece?
+
+171
+00:17:11,960 --> 00:17:13,871
+- La verde.
+- ¿La verde?
+
+172
+00:17:13,960 --> 00:17:15,678
+Por favor.
+
+173
+00:17:16,600 --> 00:17:18,955
+Sra. Stodie, ¿puedo hablar con usted?
+
+174
+00:17:19,360 --> 00:17:21,430
+Te veo luego, Roland.
+
+175
+00:17:24,800 --> 00:17:26,870
+¿Ésta?
+
+176
+00:17:26,960 --> 00:17:28,951
+Ahí tienes.
+
+177
+00:17:29,280 --> 00:17:32,875
+- ¿Te gusta trabajar en la universidad?
+- Sí.
+
+178
+00:17:32,960 --> 00:17:34,951
+Me dijeron que trabajas muy bien.
+
+179
+00:17:37,640 --> 00:17:39,949
+¿Recuerdas cómo conseguiste el trabajo?
+
+180
+00:17:41,480 --> 00:17:43,550
+Un señor habló con la Sra. Stodie.
+
+181
+00:17:43,640 --> 00:17:45,596
+¿Qué señor?
+
+182
+00:17:46,600 --> 00:17:48,636
+El Dr. Grable.
+
+183
+00:17:49,800 --> 00:17:51,916
+¿El Dr. Grable se portaba bien contigo?
+
+184
+00:17:52,000 --> 00:17:54,116
+Sí.
+
+185
+00:17:54,240 --> 00:17:56,196
+¿Cuándo hablaste con él por última vez?
+
+186
+00:17:59,640 --> 00:18:02,108
+¿La semana pasada? ¿El día anterior?
+
+187
+00:18:04,280 --> 00:18:06,316
+El Dr. Grable murió.
+
+188
+00:18:10,680 --> 00:18:13,114
+Lo siento.
+
+189
+00:18:15,200 --> 00:18:17,270
+Las personas mueren.
+
+190
+00:18:17,360 --> 00:18:19,510
+Se van.
+
+191
+00:18:21,000 --> 00:18:23,639
+Y se supone que no deberían volver.
+
+192
+00:18:26,800 --> 00:18:29,360
+¿Mencionó alguna vez el nombre
+de Arthur?
+
+193
+00:18:29,480 --> 00:18:33,439
+Era el nombre de pila del Dr. Grable,
+pero lo llamábamos Dr. Grable.
+
+194
+00:18:33,520 --> 00:18:36,512
+Dudo que Roland supiese
+que se llamaba Arthur.
+
+195
+00:18:36,640 --> 00:18:41,350
+Sra. Stodie, ¿podría obtener
+una copia del historial de Roland?
+
+196
+00:18:41,480 --> 00:18:46,713
+- Los historiales son confidenciales.
+- Entiendo, pero los puedo obtener.
+
+197
+00:18:46,840 --> 00:18:51,118
+Si no perdemos tiempo en el tribunal,
+tendremos más tiempo para ayudar a Roland.
+
+198
+00:18:51,280 --> 00:18:53,714
+Arthur Grable contrató a Roland Fuller.
+
+199
+00:18:53,840 --> 00:18:57,310
+Especificó que quería
+a un discapacitado psíquico.
+
+200
+00:18:57,400 --> 00:19:01,359
+¿Crees que Arthur Grable
+contrató a Roland para utilizarlo?
+
+201
+00:19:02,840 --> 00:19:05,559
+¿Quieres decir que
+Arthur Grable no está muerto?
+
+202
+00:19:05,640 --> 00:19:09,394
+Si tenía intención de matar a Nollette,
+Keats y Surnow,
+
+203
+00:19:09,520 --> 00:19:12,910
+¿por que no prepararlo para
+parecer el menos sospechoso?
+
+204
+00:19:13,080 --> 00:19:15,833
+Pero, por la pinta de esta foto,
+está fiambre.
+
+205
+00:19:15,920 --> 00:19:18,036
+Quizá sea un montaje.
+
+206
+00:19:18,120 --> 00:19:23,911
+Eso explicaría por qué su trabajo continúa,
+6 meses después de su... muerte.
+
+207
+00:19:24,080 --> 00:19:29,108
+Esta necrológica dice que Grable nació
+en Seattle. Hijo de un banquero importante.
+
+208
+00:19:29,200 --> 00:19:32,078
+Su madre colaboraba con sociedades
+de beneficencia.
+
+209
+00:19:32,160 --> 00:19:34,754
+Hijo único. Summa cum Laude en física.
+
+210
+00:19:34,880 --> 00:19:39,670
+Doctorado y posdoctorado en
+ingeniería aeronáutica en Harvey Mudd.
+
+211
+00:19:39,760 --> 00:19:42,797
+Un futuro brillante truncado trágicamente.
+
+212
+00:19:43,320 --> 00:19:45,390
+Roland también es de Seattle.
+
+213
+00:19:45,480 --> 00:19:48,995
+Pasó casi toda su vida
+en el Hogar Heritage Halfway.
+
+214
+00:19:49,120 --> 00:19:51,953
+El juzgado ordenó sellar la
+identidad de sus padres.
+
+215
+00:19:52,120 --> 00:19:57,069
+Hay muy poca información anterior a
+los tres años, cuando entró en el hogar.
+
+216
+00:19:57,160 --> 00:19:59,230
+¿Dice cuando nació?
+
+217
+00:20:02,000 --> 00:20:04,309
+El 15 dejulio de 1952.
+
+218
+00:20:10,720 --> 00:20:12,915
+Es la fecha de nacimiento de Arthur.
+
+219
+00:20:23,640 --> 00:20:25,756
+¿No te gustaría poder volar?
+
+220
+00:20:26,360 --> 00:20:28,430
+Yo puedo.
+
+221
+00:20:28,960 --> 00:20:31,155
+Cuando sueño.
+
+222
+00:20:32,960 --> 00:20:36,350
+La gente puede hacer cualquier
+cosa cuando sueña, ¿sabes?
+
+223
+00:20:38,240 --> 00:20:40,356
+Una vez...
+
+224
+00:20:40,440 --> 00:20:43,955
+Una vez soñé que estábamos casados
+
+225
+00:20:44,960 --> 00:20:46,951
+y que vivíamos en una casa.
+
+226
+00:20:49,400 --> 00:20:52,278
+¿Tú tienes sueños, Roland?
+
+227
+00:21:01,840 --> 00:21:03,956
+A mí me los puedes contar.
+
+228
+00:21:04,640 --> 00:21:06,471
+¿Roland?
+
+229
+00:21:07,320 --> 00:21:09,436
+¿Quién es Arthur?
+
+230
+00:21:19,560 --> 00:21:22,393
+¡Lo siento, Roland!
+
+231
+00:21:22,480 --> 00:21:25,199
+¡Lo siento!
+
+232
+00:21:30,600 --> 00:21:32,716
+¡Roland!
+
+233
+00:21:36,800 --> 00:21:38,028
+¡Roland!
+
+234
+00:21:38,200 --> 00:21:40,236
+¡Vete!
+
+235
+00:21:44,440 --> 00:21:46,556
+¡Roland!
+
+236
+00:21:46,680 --> 00:21:48,716
+¡Vete!
+
+237
+00:21:49,000 --> 00:21:50,991
+¡No quiero hacerte daño!
+
+238
+00:21:52,320 --> 00:21:54,436
+¡Vete!
+
+239
+00:21:58,840 --> 00:22:00,910
+Vete.
+
+240
+00:22:05,080 --> 00:22:07,230
+- ¿Es usted?
+- Sí.
+
+241
+00:22:07,320 --> 00:22:08,833
+¡Una fiesta bárbara!
+
+242
+00:22:08,920 --> 00:22:11,036
+¿Qué celebraban?
+
+243
+00:22:15,440 --> 00:22:20,434
+Un profesor de física cuántica
+de Harvey Mudd... me suspendió.
+
+244
+00:22:20,520 --> 00:22:23,830
+Cuestionaba uno de los principios
+de una de mis teorías.
+
+245
+00:22:23,920 --> 00:22:26,275
+Una teoría que publiqué después en #Nature.
+
+246
+00:22:26,360 --> 00:22:28,920
+En fin... volviendo al profesor...
+
+247
+00:22:29,040 --> 00:22:32,749
+Una tarde decidimos desarmarle el carro
+
+248
+00:22:32,880 --> 00:22:36,634
+y volver a armarlo en su oficina,
+y dejarlo encendido.
+
+249
+00:22:36,720 --> 00:22:40,349
+- Una broma típica de un pequeño Pitágoras.
+- Fue idea de Arthur Grable.
+
+250
+00:22:40,520 --> 00:22:44,115
+- ¿El que está sentado es Arthur Grable?
+- Sí.
+
+251
+00:22:44,200 --> 00:22:47,875
+- ¿Le gustaba hacer bromas?
+- Además de brillante,
+
+252
+00:22:47,960 --> 00:22:50,394
+era un genio tramando cosas complicadas.
+
+253
+00:22:50,600 --> 00:22:55,037
+¿Podría hacer que pareciese que un
+hombre con un CI de 70 tiene acceso
+
+254
+00:22:55,120 --> 00:22:58,078
+y... trabaja en sus viejos archivos?
+
+255
+00:23:00,200 --> 00:23:02,634
+Arthur tendría que estar todavía vivo.
+
+256
+00:23:02,720 --> 00:23:06,030
+- ¿Podría haber simulado su propia muerte?
+- No.
+
+257
+00:23:06,120 --> 00:23:09,954
+El informe de la policía sobre
+el accidente era muy incompleto.
+
+258
+00:23:10,080 --> 00:23:12,878
+La carretera estaba seca.
+Sin problemas mecánicos.
+
+259
+00:23:12,960 --> 00:23:17,988
+El cuerpo nunca se ingresó en un depósito
+de cadáveres del condado y no hubo funeral.
+
+260
+00:23:18,120 --> 00:23:20,554
+Si intentan decir
+
+261
+00:23:20,720 --> 00:23:25,999
+que Arthur Grable asesinó a Surnow
+y a Keats, y que ahora me toca a mi,
+
+262
+00:23:26,120 --> 00:23:28,111
+están muy equivocados.
+
+263
+00:23:29,760 --> 00:23:32,149
+Art no pudo cometer esos asesinatos.
+
+264
+00:23:32,240 --> 00:23:35,118
+¿Cómo puede estar tan seguro?
+
+265
+00:23:37,920 --> 00:23:39,956
+Éste es Arthur Grable.
+
+266
+00:23:40,040 --> 00:23:43,715
+Debido al grave daño interno
+que sufrió el cuerpo en el accidente
+
+267
+00:23:43,800 --> 00:23:45,995
+sólo pudimos conservar la cabeza.
+
+268
+00:23:46,120 --> 00:23:48,998
+¿A su cliente no le resultará poco práctico
+
+269
+00:23:49,120 --> 00:23:53,989
+que lo descongelen en el futuro y
+descubrir que no tiene movilidad funcional?
+
+270
+00:23:54,160 --> 00:23:57,948
+Cuando la ciencia descubra la forma
+de revivir a nuestros clientes...
+
+271
+00:23:58,080 --> 00:24:01,436
+- Habrá descubierto cómo clonar el cuerpo.
+- ¡Exactamente!
+
+272
+00:24:01,520 --> 00:24:07,152
+Esta tecnología avanza con una rapidez
+increíble. Pregúntenle a cualquiera aquí.
+
+273
+00:24:07,240 --> 00:24:11,995
+Mientras que cada segundo que pasa
+nos acerca a la muerte,
+
+274
+00:24:12,080 --> 00:24:15,152
+a nuestros clientes los acerca
+cada vez más a la vida.
+
+275
+00:24:18,360 --> 00:24:21,113
+Estas fluctuaciones de temperatura,
+¿ocurren a menudo?
+
+276
+00:24:21,200 --> 00:24:24,510
+Hemos tenido algunos problemas
+con la cápsula del Dr. Grable.
+
+277
+00:24:24,600 --> 00:24:27,637
+Los técnicos la revisaron
+y no encontraron nada.
+
+278
+00:24:27,760 --> 00:24:30,035
+¿Es posible que la causa sea el cerebro?
+
+279
+00:24:30,160 --> 00:24:31,957
+No.
+
+280
+00:24:32,040 --> 00:24:34,508
+Pero estamos buscando una explicación.
+
+281
+00:24:34,600 --> 00:24:39,833
+El paciente se conservará perfectamente
+si hay nitrógeno líquido en la cápsula.
+
+282
+00:24:39,960 --> 00:24:42,872
+¿Podríamos ver el historial de Arthur Grable?
+
+283
+00:24:47,840 --> 00:24:49,990
+Gracias.
+
+284
+00:24:54,080 --> 00:24:57,072
+Dr. Barrington, en la medicina del futuro,
+
+285
+00:24:57,200 --> 00:25:00,556
+¿qué requisitos habrá
+para ser donante de órganos?
+
+286
+00:25:00,640 --> 00:25:05,634
+Una estructura genética compatible.
+Es preferible que el donante sea un pariente.
+
+287
+00:25:08,360 --> 00:25:09,918
+Mulder.
+
+288
+00:25:13,920 --> 00:25:16,309
+Arthur Grable registró un único donante.
+
+289
+00:25:17,360 --> 00:25:21,148
+Roland Fuller y Arthur Grable
+nacieron el mismo día.
+
+290
+00:25:21,440 --> 00:25:23,590
+Creo que son gemelos.
+
+291
+00:25:25,240 --> 00:25:27,117
+¿Mayor o menor?
+
+292
+00:25:27,240 --> 00:25:30,949
+De la misma edad.
+Sólo que con menos pelo y mejor vista.
+
+293
+00:25:31,080 --> 00:25:35,232
+- Bien. ¿Y el bigote?
+- No, quítale toda la barba.
+
+294
+00:25:41,240 --> 00:25:42,116
+¿Lo siguiente?
+
+295
+00:25:42,240 --> 00:25:45,835
+Pelo más corto, con entradas.
+
+296
+00:25:51,240 --> 00:25:52,958
+Quítale las gafas.
+
+297
+00:25:56,960 --> 00:25:59,713
+- Es Roland.
+- Quitándole o poniéndole unos kilos.
+
+298
+00:26:16,600 --> 00:26:19,114
+No pasa nada. No se los contaré a nadie.
+
+299
+00:26:24,720 --> 00:26:27,280
+Sabes, anoche tuve un sueño.
+
+300
+00:26:29,280 --> 00:26:32,272
+Soñé que nadaba en una piscina.
+
+301
+00:26:33,600 --> 00:26:36,114
+Y podía ver a mi padre bajo el agua.
+
+302
+00:26:36,960 --> 00:26:39,838
+Pero cuando me sumergí,
+el agua me hacía arder los ojos.
+
+303
+00:26:41,520 --> 00:26:44,193
+Y había otro hombre en la piscina,
+
+304
+00:26:44,320 --> 00:26:46,311
+que me vigilaba.
+
+305
+00:26:46,520 --> 00:26:48,636
+Me molestaba.
+
+306
+00:26:49,400 --> 00:26:52,676
+Me hacía preguntas que no quería contestar.
+
+307
+00:26:54,320 --> 00:26:56,356
+Tuve que irme.
+
+308
+00:26:57,000 --> 00:26:59,116
+No pude encontrar a mi padre.
+
+309
+00:27:06,000 --> 00:27:08,992
+No te puedo contar mis sueños.
+
+310
+00:27:09,920 --> 00:27:12,309
+¿Por qué no?
+
+311
+00:27:15,880 --> 00:27:17,552
+Son malos.
+
+312
+00:27:20,720 --> 00:27:23,632
+Tus sueños son malos, Roland.
+
+313
+00:27:24,280 --> 00:27:25,713
+Pero tú no.
+
+314
+00:27:26,800 --> 00:27:28,631
+Eres una buena persona.
+
+315
+00:27:33,360 --> 00:27:35,351
+Le pegué a Tracy.
+
+316
+00:27:39,360 --> 00:27:42,238
+¿Tus sueños te hicieron pegarle a Tracy?
+
+317
+00:28:12,280 --> 00:28:14,510
+¿Sabes cómo funciona este juguete, Roland?
+
+318
+00:28:17,600 --> 00:28:19,636
+Dámelo.
+
+319
+00:28:39,440 --> 00:28:42,318
+¿No ves?, la forma
+en que manejas el juguete,
+
+320
+00:28:42,920 --> 00:28:45,229
+es como lo que te está pasando a ti.
+
+321
+00:28:47,440 --> 00:28:49,431
+Tú eres la nave espacial, Roland.
+
+322
+00:28:51,440 --> 00:28:53,635
+Y tus sueños son los mandos.
+
+323
+00:28:58,840 --> 00:29:01,354
+¿Quién...?
+
+324
+00:29:02,440 --> 00:29:04,476
+¿Quién controla los mandos?
+
+325
+00:29:09,680 --> 00:29:12,114
+¿Has visto a este hombre últimamente?
+
+326
+00:29:19,400 --> 00:29:22,676
+Vamos, Arthur.
+Tenemos que decirle adiós a Roland.
+
+327
+00:29:23,680 --> 00:29:24,908
+Adiós.
+
+328
+00:29:30,480 --> 00:29:31,515
+Roland...
+
+329
+00:29:31,680 --> 00:29:33,511
+¡Roland!
+
+330
+00:29:33,680 --> 00:29:35,716
+¡Roland, para!
+
+331
+00:29:36,560 --> 00:29:39,028
+¡Roland!
+
+332
+00:29:43,360 --> 00:29:44,349
+¡Roland!
+
+333
+00:29:48,120 --> 00:29:51,829
+- ¡Roland!
+- Tenemos que mantenerlo bajo observación.
+
+334
+00:29:56,800 --> 00:29:58,870
+¡Roland!
+
+335
+00:29:59,520 --> 00:30:02,193
+- Está tratando de escapar.
+- ¡Roland!
+
+336
+00:30:04,400 --> 00:30:06,311
+¡Roland!
+
+337
+00:30:06,720 --> 00:30:08,790
+¡Roland!
+
+338
+00:30:20,440 --> 00:30:23,432
+LABORATORIO DE PROPULSIÓN MAHAN
+
+339
+00:30:24,760 --> 00:30:29,072
+Nollette desapareció. Deberíamos hacer que
+lo busque uno de seguridad.
+
+340
+00:30:29,160 --> 00:30:31,390
+Nadie te va a proporcionar nada
+
+341
+00:30:31,520 --> 00:30:35,911
+cuando expliques tu teoría de cómo
+Roland Fuller cometió esos asesinatos.
+
+342
+00:30:36,000 --> 00:30:38,560
+Tienes hermanos. ¿Verdad, Scully?
+
+343
+00:30:38,640 --> 00:30:41,518
+Sí. Uno mayor y otro menor.
+
+344
+00:30:41,600 --> 00:30:46,958
+¿Nunca te pasó que piensas en llamar a
+uno todo el día, y de repente te llama?
+
+345
+00:30:47,080 --> 00:30:50,436
+¿Es una forma de reducir
+mi cuenta de teléfono?
+
+346
+00:30:50,560 --> 00:30:52,869
+Creo en las conexiones psíquicas.
+
+347
+00:30:52,960 --> 00:30:57,988
+Está probado que es más intensa entre
+hermanos. Especialmente entre gemelos.
+
+348
+00:30:58,120 --> 00:31:03,672
+Bien... quizá. Pero en este caso,
+uno tiene más cosas en común con un helado
+
+349
+00:31:03,760 --> 00:31:06,433
+que con su propio hermano.
+
+350
+00:31:06,560 --> 00:31:11,429
+Grable no está muerto. Está en un estado
+de consciencia del que nadie ha vuelto.
+
+351
+00:31:11,560 --> 00:31:14,870
+¿Y si ese estado le permite
+desarrollar un poder psíquico
+
+352
+00:31:14,960 --> 00:31:18,669
+que la mente consciente está demasiado
+ocupada para explorar o creer?
+
+353
+00:31:18,800 --> 00:31:22,713
+Podría usar ese poder para controlar
+a su hermano y matar a los científicos.
+
+354
+00:31:22,800 --> 00:31:25,997
+¿Pero por qué?
+Ha trabajado con ellos durante años.
+
+355
+00:31:26,120 --> 00:31:29,476
+Esa pregunta sólo la
+puede contestar el Dr. Nollette.
+
+356
+00:31:29,600 --> 00:31:31,636
+De acuerdo. Vámonos.
+
+357
+00:31:31,720 --> 00:31:33,711
+Tengo que llamar a mi hermano.
+
+358
+00:31:36,600 --> 00:31:39,068
+Tenemos que encontrar a Nollette.
+
+359
+00:31:39,600 --> 00:31:42,194
+Hablemos con los de seguridad del campus.
+
+360
+00:31:42,320 --> 00:31:44,959
+- ¿Vamos por aquí?
+- No, por la izquierda.
+
+361
+00:32:08,040 --> 00:32:10,076
+Bueno,
+
+362
+00:32:10,240 --> 00:32:12,674
+donde quiera que estés, Arthur,
+
+363
+00:32:13,720 --> 00:32:16,188
+estoy seguro de que me lo agradecerás.
+
+364
+00:34:12,760 --> 00:34:15,433
+Arthur y Roland Grable,
+
+365
+00:34:15,560 --> 00:34:20,714
+nacieron en el Puget Presbyterian, hijos del
+Sr. y Sra. Grable, el 15 dejulio de 1952.
+
+366
+00:34:20,800 --> 00:34:23,951
+Arthur es cuatro minutos mayor que Roland.
+
+367
+00:34:24,120 --> 00:34:26,839
+Gemelos monocigóticos.
+
+368
+00:34:27,000 --> 00:34:32,199
+Significa que proceden de un único óvulo
+fertilizado por un único espermatozoide.
+
+369
+00:34:33,560 --> 00:34:35,994
+Los estudios indican que en algunos casos,
+
+370
+00:34:36,080 --> 00:34:39,834
+el gemelo se forma en una fase
+temprana del estado embrionario.
+
+371
+00:34:39,920 --> 00:34:42,798
+Una mutación en una célula
+es rechazada por las otras.
+
+372
+00:34:42,880 --> 00:34:48,193
+¿El rechazo de un cromosoma por las células
+de Arthur causó la enfermedad de Roland?
+
+373
+00:34:48,320 --> 00:34:52,598
+Podría explicar el genio de Arthur y
+el talento de Roland para las matemáticas.
+
+374
+00:34:52,680 --> 00:34:54,796
+Podña.
+
+375
+00:34:57,080 --> 00:34:58,195
+Agente Scully.
+
+376
+00:34:58,320 --> 00:35:01,676
+Soy Larry Barrington de la Fundación Avalon.
+
+377
+00:35:01,800 --> 00:35:03,791
+Tenemos un problema.
+
+378
+00:35:04,320 --> 00:35:07,153
+Alguien entró en las instalaciones anoche.
+
+379
+00:35:07,240 --> 00:35:09,356
+Así es.
+
+380
+00:35:09,440 --> 00:35:13,911
+Se trata de la cápsula de Arthur Grable.
+El termostato está dando problemas.
+
+381
+00:35:14,040 --> 00:35:17,589
+- ¿Se dañaron los tejidos?
+- Estamos intentando averiguarlo.
+
+382
+00:35:17,680 --> 00:35:22,959
+La temperatura sigue aumentando. El acceso
+al programa de enfriamiento está bloqueado.
+
+383
+00:35:24,080 --> 00:35:27,231
+Alguien estuvo manipulando
+la cápsula de Arthur Grable.
+
+384
+00:35:27,400 --> 00:35:29,675
+Están intentando estabilizarla.
+
+385
+00:35:31,160 --> 00:35:33,196
+¿Nollette?
+
+386
+00:36:26,240 --> 00:36:28,310
+¿Qué...?
+
+387
+00:36:29,120 --> 00:36:30,917
+¿Qué es eso?
+
+388
+00:37:00,800 --> 00:37:03,917
+Si he visto más allá que otros hombres,
+
+389
+00:37:05,440 --> 00:37:09,433
+es porque me he apoyado
+en los hombros de gigantes.
+
+390
+00:37:11,800 --> 00:37:13,950
+No...
+
+391
+00:37:15,800 --> 00:37:17,950
+Esto no te pertenece.
+
+392
+00:37:18,840 --> 00:37:21,229
+Es increíble.
+
+393
+00:37:21,320 --> 00:37:25,916
+Está este cuerpo,
+sentado ahí enfrente mío, hablando.
+
+394
+00:37:26,000 --> 00:37:28,434
+Pero tú lo controlas, Arthur.
+
+395
+00:37:29,800 --> 00:37:31,836
+¡Tú...
+
+396
+00:37:31,960 --> 00:37:34,520
+usurpaste mi trabajo!
+
+397
+00:37:36,000 --> 00:37:38,798
+¿De qué te va servir tu trabajo?
+
+398
+00:37:38,960 --> 00:37:43,272
+Has muerto antes de poder terminarlo,
+antes de que pudieras publicarlo.
+
+399
+00:37:43,360 --> 00:37:45,476
+¡Era mío!
+
+400
+00:37:45,600 --> 00:37:47,670
+Y, además, un trabajo brillante.
+
+401
+00:37:47,800 --> 00:37:51,759
+Cuando vi lo que había en la pizarra,
+supe que habían encontrado la clave.
+
+402
+00:37:51,840 --> 00:37:56,356
+El Mach 15 estaba a nuestro alcance.
+Nuestro futuro estaba asegurado.
+
+403
+00:37:57,040 --> 00:37:59,190
+Irónico, ¿no es cierto?
+
+404
+00:37:59,280 --> 00:38:02,989
+Tú hiciste todo el trabajo,
+y yo me llevo toda la gloria.
+
+405
+00:38:03,120 --> 00:38:05,031
+¡No!
+
+406
+00:38:05,120 --> 00:38:07,190
+Sí.
+
+407
+00:38:08,120 --> 00:38:10,190
+Sí, Arthur.
+
+408
+00:38:10,320 --> 00:38:13,198
+Estaba aquí, intentando solucionar
+el problema de la toma de aire,
+
+409
+00:38:13,280 --> 00:38:17,034
+muy cerca de la solución,
+cuando me atacaste.
+
+410
+00:38:17,120 --> 00:38:19,634
+Afortunadamente, llevaba una pistola.
+
+411
+00:38:19,840 --> 00:38:23,355
+Después del asesinato de mis colegas,
+¿quién me lo puede reprochar?
+
+412
+00:38:25,000 --> 00:38:26,911
+Esto... Esto es muy interesante.
+
+413
+00:38:30,000 --> 00:38:31,877
+¡Enﬁendo!
+
+414
+00:38:32,000 --> 00:38:34,116
+¡Eso es!
+
+415
+00:38:35,600 --> 00:38:37,318
+¡Lo tengo!
+
+416
+00:39:36,680 --> 00:39:37,999
+¡Arthur!
+
+417
+00:39:39,200 --> 00:39:40,599
+VELOCIDAD DEL VIENTO
+
+418
+00:39:42,600 --> 00:39:44,636
+¡Arthur! ¡Abre la puerta!
+
+419
+00:39:44,720 --> 00:39:45,675
+VELOCIDAD MACH
+
+420
+00:39:45,960 --> 00:39:48,076
+¡Arthur!
+
+421
+00:39:52,600 --> 00:39:54,113
+TÚNEL DE VIENTO
+
+422
+00:39:57,200 --> 00:39:58,633
+VELOCIDAD DEL VIENTO
+
+423
+00:40:06,240 --> 00:40:07,309
+VELOCIDAD MACH
+
+424
+00:40:20,760 --> 00:40:22,079
+¡Arthur!
+
+425
+00:40:22,160 --> 00:40:25,357
+¿Cómo se para esto? ¡Dime cómo!
+
+426
+00:40:25,440 --> 00:40:27,556
+- ¡Arthur!
+- ¡Eh!
+
+427
+00:40:27,720 --> 00:40:30,518
+Roland, necesitamos tu ayuda.
+
+428
+00:40:30,680 --> 00:40:33,831
+Por favor, necesitamos que
+nos ayudes a parar la máquina.
+
+429
+00:40:37,720 --> 00:40:39,153
+Intenta recordar cómo se hace.
+
+430
+00:40:41,760 --> 00:40:44,832
+Roland, tienes que ayudarle o morirá.
+
+431
+00:40:50,160 --> 00:40:52,151
+¡Dile adiós, Arthur!
+
+432
+00:41:13,160 --> 00:41:16,197
+- Vamos, Roland.
+- ¡No me acuerdo!
+
+433
+00:41:49,080 --> 00:41:50,877
+POLICÍA DE COLSON
+
+434
+00:41:57,480 --> 00:42:01,109
+Se le mantendrá bajo observación
+psiquiátrica para evaluarlo.
+
+435
+00:42:01,240 --> 00:42:06,951
+- ¿Se le acusa de asesinato?
+- Todavía no han llegado a una decisión.
+
+436
+00:42:07,040 --> 00:42:12,160
+Hemos recomendado que pase a su custodia
+tan pronto como lo permita el tribunal.
+
+437
+00:42:13,160 --> 00:42:15,116
+¿Cómo puede haber sucedido?
+
+438
+00:42:15,240 --> 00:42:18,312
+Roland nunca tuvo tendencias violentas.
+
+439
+00:42:18,920 --> 00:42:22,674
+Creo que no actuaba bajo su propia voluntad.
+
+440
+00:42:22,800 --> 00:42:24,870
+¿Qué quiere decir?
+
+441
+00:42:24,960 --> 00:42:27,633
+Éste es el trabajo de Arthur,
+el hermano de Roland.
+
+442
+00:42:27,760 --> 00:42:30,957
+Es una nueva teoría de propulsión
+a reacción, sin acabar.
+
+443
+00:42:31,160 --> 00:42:34,948
+En las últimas dos semanas,
+Roland completó los cálculos.
+
+444
+00:42:35,360 --> 00:42:37,112
+¿Cómo?
+
+445
+00:42:37,280 --> 00:42:40,829
+No estamos seguros.
+Sólo sabemos que, de alguna forma, Roland
+
+446
+00:42:40,960 --> 00:42:43,872
+fue capaz de terminar
+el trabajo de su hermano.
+
+447
+00:43:02,480 --> 00:43:04,596
+¿Roland?
+
+448
+00:43:08,120 --> 00:43:10,190
+¿Adónde vas?
+
+449
+00:43:13,560 --> 00:43:15,630
+Roland, no te vayas.
+
+450
+00:43:16,000 --> 00:43:18,070
+Tengo que irme.
+
+451
+00:43:19,320 --> 00:43:21,311
+Bueno. Adiós.
+
+452
+00:43:23,320 --> 00:43:25,356
+Tracy...
+
+453
+00:43:27,360 --> 00:43:29,430
+Espera.
+
+454
+00:43:42,720 --> 00:43:44,836
+Quédate con mis estrellas.
+
+455
+00:43:57,440 --> 00:43:59,556
+Te quiero.
+
+456
+00:44:01,960 --> 00:44:04,030
+Yo también.
+
+457
+00:45:13,960 --> 00:45:15,029
+#¡Esto lo hice yo!
+
+458
+00:45:15,120 --> 00:45:16,109
+Subtítulos de Visiontext:
+Maria Hirschi-Bruce
+
+
