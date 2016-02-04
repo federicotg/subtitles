@@ -269,7 +269,7 @@ fuerzas de seguridad diferentes.
 
 61
 00:05:07,160 --> 00:05:10,072
-No es #El silencio de los corderos,#
+No es El silencio de los corderos,
 pero es mi trabajo.
 
 62
@@ -435,7 +435,7 @@ tenga algo que ocultar.
 97
 00:07:25,280 --> 00:07:28,795
 EMPRESAS EMGEN
-GAITH ERSBU RG, MARYLAN D
+GAITHERSBURG, MARYLAND
 
 98
 00:07:36,560 --> 00:07:39,279

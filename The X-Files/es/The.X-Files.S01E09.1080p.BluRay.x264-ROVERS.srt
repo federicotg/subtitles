@@ -2145,7 +2145,7 @@ Está en su despacho.
 
 472
 00:35:30,200 --> 00:35:31,713
-AYUDENME
+AYÚDENME
 
 473
 00:35:31,840 --> 00:35:33,910
@@ -2726,7 +2726,7 @@ a explorar y comprender el espacio.
 
 601
 00:44:56,520 --> 00:44:59,318
-Desvelando sus misterios y viviendolo
+Desvelando sus misterios y viviéndolo
 
 602
 00:44:59,480 --> 00:45:02,119
