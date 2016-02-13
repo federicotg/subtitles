@@ -240,7 +240,7 @@ Monstruos. Soy su hombre.
 54
 00:04:31,080 --> 00:04:34,436
 - Debo de haber hecho algo que le cayó mal.
-- ¿Que quieres decir?
+- ¿Qué quieres decir?
 
 55
 00:04:34,520 --> 00:04:36,590
@@ -576,7 +576,7 @@ Florida, el 9 de agosto de 1992.
 
 128
 00:10:32,400 --> 00:10:36,518
-- ¿Que describía?
+- ¿Qué describía?
 - Era el diácono de la iglesia local.
 
 129
@@ -633,7 +633,7 @@ Te lo dije.
 
 140
 00:12:09,320 --> 00:12:13,472
-- Trabajo con Mulder. ¿Que me dice?
+- Trabajo con Mulder. ¿Qué me dice?
 - No mucho. Llamaron a la tele.
 
 141
@@ -819,7 +819,7 @@ Hijos de puta.
 
 181
 00:15:10,040 --> 00:15:12,270
-¿Que haces?
+¿Qué haces?
 
 182
 00:15:12,400 --> 00:15:13,435
@@ -1042,12 +1042,12 @@ entre la policía y la gente que está adentro
 
 231
 00:19:57,960 --> 00:20:00,554
-- ¿Que hace?
+- ¿Qué hace?
 - Tengo el cable enredado.
 
 232
 00:20:00,640 --> 00:20:03,757
-Desenredelo. Y apúrese.
+Desenrédelo. Y apúrese.
 
 233
 00:20:03,840 --> 00:20:05,910
@@ -1211,7 +1211,7 @@ Gracias por su paciencia.
 
 269
 00:24:23,880 --> 00:24:25,950
-¿Que pasa?
+¿Qué pasa?
 
 270
 00:24:27,000 --> 00:24:29,116
@@ -1425,12 +1425,12 @@ RESIDENCIA DE GARY LAMBERT
 
 316
 00:27:43,760 --> 00:27:48,595
-- ¿Que busca?
+- ¿Qué busca?
 - Lo sabré cuando lo encuentre.
 
 317
 00:28:01,600 --> 00:28:05,832
-- ¿Que es esto?
+- ¿Qué es esto?
 - El seguía los movimientos de su jefe.
 
 318
@@ -1440,7 +1440,7 @@ RESIDENCIA DE GARY LAMBERT
 
 319
 00:28:25,640 --> 00:28:27,790
-¿Que le pasa?
+¿Qué le pasa?
 
 320
 00:28:35,640 --> 00:28:40,634
@@ -1735,7 +1735,7 @@ Debes de haberlo visto venir.
 
 384
 00:35:51,520 --> 00:35:54,273
-¿Que encontraste?
+¿Qué encontraste?
 
 385
 00:35:54,360 --> 00:35:56,920
@@ -1830,7 +1830,7 @@ Llegó justo. Estaba por despacharlo.
 405
 00:38:19,040 --> 00:38:21,554
 Me puede quitar esto.
-¿Que me dice?
+¿Qué me dice?
 
 406
 00:38:21,640 --> 00:38:23,198
@@ -1895,7 +1895,7 @@ Bueno. Desáteme, porfavor.
 
 420
 00:40:15,240 --> 00:40:19,153
-- ¿Que hace?
+- ¿Qué hace?
 - Necesita un poco de aire fresco.
 
 421
@@ -2000,11 +2000,11 @@ Describa al intruso.
 442
 00:43:30,400 --> 00:43:34,109
 - Estaba oscuro.
-- Vio algo. ¿Que era?
+- Vio algo. ¿Qué era?
 
 443
 00:43:45,600 --> 00:43:47,989
-¿Que le dijiste?
+¿Qué le dijiste?
 
 444
 00:43:48,640 --> 00:43:52,269

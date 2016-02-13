@@ -1217,7 +1217,7 @@ Win, ¿quieres jugar?
 269
 00:28:14,080 --> 00:28:16,833
 - ¿Qué demonios haces?
-- ¿Que que hago?
+- ¿Que qué hago?
 
 270
 00:28:17,600 --> 00:28:20,512

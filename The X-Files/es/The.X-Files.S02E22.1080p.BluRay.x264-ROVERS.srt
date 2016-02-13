@@ -835,7 +835,7 @@ la primera víctima del contagio.
 
 185
 00:21:10,520 --> 00:21:14,149
-- ¿Que había en el paquete?
+- ¿Qué había en el paquete?
 - Está vacío.
 
 186

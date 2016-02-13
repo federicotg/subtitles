@@ -30,8 +30,7 @@ Mamá, ¿papá va a estar bien?
 
 8
 00:00:55,640 --> 00:00:59,713
- ' . '
-¡ ama! ¿Que hay de papá?
+¡Mamá! ¿Qué hay de papá?
 
 9
 00:00:59,800 --> 00:01:02,633

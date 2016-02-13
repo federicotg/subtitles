@@ -186,7 +186,7 @@ aparecían en el informe policial.
 
 42
 00:05:01,840 --> 00:05:04,149
-¿Que vínculo
+¿Qué vínculo
 tenía el comisario muerto con él?
 
 43
@@ -1481,7 +1481,7 @@ Traigan el equipo de seguimiento.
 327
 00:28:15,440 --> 00:28:18,637
 -¿Hola?
-- ¿Que me dicen?
+- ¿Qué me dicen?
 
 328
 00:28:18,800 --> 00:28:22,076
@@ -1715,7 +1715,7 @@ Usted es un criminólogo notable.
 
 377
 00:31:07,920 --> 00:31:12,072
-Graduado dela Universidad de Oxford.
+Graduado de la Universidad de Oxford.
 Un joven inteligente en todo sentido.
 
 378

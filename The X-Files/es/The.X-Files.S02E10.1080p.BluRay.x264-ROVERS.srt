@@ -109,8 +109,8 @@ Todo saldrá bien, hijo.
 
 25
 00:03:36,466 --> 00:03:38,957
-¡Eh! - '
-¿Que te pasa?
+¡Eh!
+¿Qué te pasa?
 
 26
 00:03:43,974 --> 00:03:45,054
@@ -1750,7 +1750,7 @@ Vayan a empacar. Vienen todos conmigo.
 380
 00:38:36,523 --> 00:38:40,687
 Los números de las tarjetas. Los chicos
-de las familias dela lista, que empaquen.
+de las familias de la lista, que empaquen.
 
 381
 00:38:40,777 --> 00:38:44,941

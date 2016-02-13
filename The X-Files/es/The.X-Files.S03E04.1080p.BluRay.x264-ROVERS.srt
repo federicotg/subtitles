@@ -795,7 +795,7 @@ No quiero emitir energía negativa.
 
 176
 00:14:47,000 --> 00:14:49,514
-¿Que es? ¿Qué ve?
+¿Qué es? ¿Qué ve?
 
 177
 00:14:50,240 --> 00:14:52,959
