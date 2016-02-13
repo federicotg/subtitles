@@ -1490,7 +1490,7 @@ me fui de aquí y viajé a un lugar.
 
 337
 00:30:20,280 --> 00:30:25,229
-Ese lugar. LO lleva consigo.
+Ese lugar. Lo lleva consigo.
 LO tiene adentro.
 
 338
@@ -1529,11 +1529,11 @@ Supuse que quería verme.
 346
 00:31:22,560 --> 00:31:26,439
 - No sé de qué me habla.
-- LO vi salir de mi edificio.
+- Lo vi salir de mi edificio.
 
 347
 00:31:26,840 --> 00:31:29,798
-Se ha equivocado. LO siento.
+Se ha equivocado. Lo siento.
 
 348
 00:31:37,280 --> 00:31:40,158
@@ -1613,7 +1613,7 @@ Soy Dana Scully. Trabajo con su hijo.
 
 364
 00:33:11,800 --> 00:33:15,031
-Sé IO que dice el FBI,
+Sé lo que dice el FBI,
 
 365
 00:33:15,120 --> 00:33:18,669
@@ -1627,7 +1627,7 @@ de que encontrarán a su hijo.
 367
 00:33:20,280 --> 00:33:23,397
 - Creo que está vivo.
-- ¿Cómo IO sabe?
+- ¿Cómo lo sabe?
 
 368
 00:33:25,280 --> 00:33:28,078
@@ -1635,7 +1635,7 @@ Tengo una sensación muy fuerte.
 
 369
 00:33:44,200 --> 00:33:49,228
-- Se IO haré saber apenas IO sepa yo.
+- Se lo haré saber apenas lo sepa yo.
 - Gracias. Muchas gracias.
 
 370
@@ -1699,7 +1699,7 @@ por la cinta que usted ya no tiene.
 383
 00:34:48,040 --> 00:34:50,508
 - Miente.
-- NO he venido para mentirle.
+- No he venido para mentirle.
 
 384
 00:34:50,600 --> 00:34:55,037
@@ -1825,7 +1825,7 @@ Mamá...
 
 411
 00:36:51,240 --> 00:36:54,312
-No IO puedo creer. Temia IO peor.
+No lo puedo creer. Temía lo peor.
 
 412
 00:36:54,480 --> 00:36:57,916
@@ -1868,7 +1868,7 @@ Estas fotos son de 1972. ¿Dónde?
 
 421
 00:37:24,320 --> 00:37:26,390
-NO IO sé.
+No lo sé.
 
 422
 00:37:27,040 --> 00:37:30,191
@@ -1882,7 +1882,7 @@ de Estado. Viajaba. ¿Adónde?
 
 424
 00:37:34,280 --> 00:37:36,077
-- NO me hagas esto.
+- No me hagas esto.
 - ¡Míralas!
 
 425
@@ -1909,7 +1909,7 @@ Creo que tiene que ver con Samantha.
 430
 00:37:58,240 --> 00:38:02,028
 Creo que tiene que ver
-con IO que le pasó a mi hermana.
+con lo que le pasó a mi hermana.
 
 431
 00:38:13,840 --> 00:38:14,556
@@ -2027,7 +2027,7 @@ Si se da vuelta le vuelo la cabeza.
 
 458
 00:41:11,840 --> 00:41:17,312
-- No crea que no IO haría, hijo de puta.
+- No crea que no lo haría, hijo de puta.
 - Le creo. Calma. Estoy con usted.
 
 459
@@ -2045,11 +2045,11 @@ Dése vuelta y siéntese sobre las manos.
 462
 00:41:59,800 --> 00:42:03,873
 - ¿Puedo decirle por qué estoy aquí?
-- YO sé por que está aquí.
+- Yo sé por que está aquí.
 
 463
 00:42:04,400 --> 00:42:07,790
-Quiero saber quién IO envió.
+Quiero saber quién lo envió.
 De quién es el mandadero.
 
 464
@@ -2095,7 +2095,7 @@ No hay juez que los resista.
 473
 00:43:20,760 --> 00:43:24,389
 - ¿Cuál es la Opción, dejar que me mate?
-- NO vine para matarla.
+- No vine para matarla.
 
 474
 00:43:25,080 --> 00:43:27,230
