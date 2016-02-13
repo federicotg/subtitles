@@ -292,7 +292,7 @@ Pregunta: Si lo soltaran,
 66
 00:06:51,040 --> 00:06:54,669
 Respuesta: Me gustaría recuperar
-mi trabajo. Pregunta: ¿Por que?
+mi trabajo. Pregunta: ¿Por qué?
 
 67
 00:06:54,760 --> 00:06:59,754

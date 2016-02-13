@@ -39,7 +39,7 @@ tengo la tarea de controlarlos.
 
 9
 00:01:55,200 --> 00:01:57,998
-¿Controlarnos? ¿Por que?
+¿Controlarnos? ¿Por qué?
 
 10
 00:01:58,120 --> 00:02:05,117
@@ -570,7 +570,7 @@ saber el porqué.
 
 127
 00:13:27,480 --> 00:13:29,516
-Está bien. ¿Por que?
+Está bien. ¿Por qué?
 
 128
 00:13:29,640 --> 00:13:31,596

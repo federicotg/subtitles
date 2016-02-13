@@ -804,7 +804,7 @@ de este agujero.
 
 175
 00:16:42,600 --> 00:16:46,434
-- ¿Por que? ¿Está en la lista?
+- ¿Por qué? ¿Está en la lista?
 - No digo nada.
 
 176

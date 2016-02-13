@@ -96,7 +96,7 @@ la muerte con nadie.
 
 22
 00:04:41,680 --> 00:04:46,515
-- Sí, Glen Chao. Está ahí. ¿Por que?
+- Sí, Glen Chao. Está ahí. ¿Por qué?
 - ¿Puede llamarlo? Quiero que lea esto.
 
 23
@@ -954,7 +954,7 @@ en caso de incendio.
 
 207
 00:25:05,920 --> 00:25:09,754
-- ¿Por que? ¿Qué está pensando?
+- ¿Por qué? ¿Qué está pensando?
 - Que no tuvo ningún accidente laboral.
 
 208

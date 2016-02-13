@@ -516,7 +516,7 @@ El letrero dice "recién hechas".
 112
 00:09:57,840 --> 00:10:00,912
 - Están recién hechas.
-- No, recien recien.
+- No, recién recién.
 
 113
 00:10:01,040 --> 00:10:03,713
@@ -1199,7 +1199,7 @@ la exposición al medio ambiente.
 
 258
 00:26:10,560 --> 00:26:12,915
-En terminos normales,
+En términos normales,
 pero el que produjo esto,
 
 259

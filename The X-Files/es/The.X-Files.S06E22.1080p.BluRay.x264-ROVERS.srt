@@ -916,7 +916,7 @@ encontraríamos un cuerpo.
 198
 00:21:08,960 --> 00:21:13,033
 - ¿Trajiste látex?
-- No, ¿por que?
+- No, ¿por qué?
 
 199
 00:21:13,160 --> 00:21:17,199

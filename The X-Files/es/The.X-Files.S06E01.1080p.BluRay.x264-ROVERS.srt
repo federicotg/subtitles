@@ -1279,7 +1279,7 @@ y el crecimiento de la entidad.
 
 277
 00:28:29,440 --> 00:28:33,797
-- Pero sigue buscando calor. ¿Por que?
+- Pero sigue buscando calor. ¿Por qué?
 - ¿Y si aún se está desarrollando?
 
 278

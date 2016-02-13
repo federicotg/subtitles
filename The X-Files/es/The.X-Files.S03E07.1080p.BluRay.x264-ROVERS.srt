@@ -778,7 +778,7 @@ nadie entrar o salir de la piscina.
 169
 00:16:53,120 --> 00:16:57,477
 - usted y su familia están en peligro.
-- ¿Por que? ¿La muerte de mi asistente?
+- ¿Por qué? ¿La muerte de mi asistente?
 
 170
 00:16:57,600 --> 00:17:01,229
@@ -895,7 +895,7 @@ Yo también.
 194
 00:19:11,320 --> 00:19:14,437
 - Ve a ver a Trevor. Enseguida subo.
-- ¿Por que? ¿Qué pasa?
+- ¿Por qué? ¿Qué pasa?
 
 195
 00:19:14,520 --> 00:19:17,557
