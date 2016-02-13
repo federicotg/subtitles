@@ -1119,7 +1119,7 @@ es posible que no haya más expedientes X.
 249
 00:25:50,800 --> 00:25:53,917
 Prepara una intravenosa.
-D5, salina 150 ala mitad.
+D5, salina 150 a la mitad.
 
 250
 00:25:54,000 --> 00:25:58,516

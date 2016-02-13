@@ -4,8 +4,7 @@ Chicos...
 
 2
 00:01:25,520 --> 00:01:27,431
- ’ . ’
-¡ ama! ¡Mama!
+ ¡Mamá! ¡Mamá!
 
 3
 00:01:27,520 --> 00:01:29,272
@@ -13,8 +12,7 @@ Chicos...
 
 4
 00:01:41,440 --> 00:01:44,477
- ’ .
-¡ ma! ¡Ruby no está!
+¡Mamá! ¡Ruby no está!
 
 5
 00:01:46,840 --> 00:01:48,956
@@ -621,7 +619,7 @@ Le enviaré una torta.
 
 141
 00:13:10,840 --> 00:13:14,196
-ESTOY EN LAACERA DE ENFRENTE.
+ESTOY EN LA ACERA DE ENFRENTE.
 SÍGANME.
 
 142

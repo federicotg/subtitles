@@ -125,13 +125,13 @@ LA VERDAD ESTÁ AHÍ AFUERA
 
 28
 00:02:55,425 --> 00:03:01,216
-Vamos a ver al editor cientíﬁco
+Vamos a ver al editor científico
 Eric Parker, en el Monte Avalon. ¿Eric?
 
 29
 00:03:01,306 --> 00:03:04,093
 Es una jornada histórica
-con un grupo de cientíﬁcos
+con un grupo de científicos
 
 30
 00:03:04,184 --> 00:03:08,848
@@ -140,7 +140,7 @@ semejante a un gran insecto de titanio.
 
 31
 00:03:08,939 --> 00:03:13,478
-El Firewalker descendera’ hacia
+El Firewalker descenderá hacia
 el interior de un volcán en actividad.
 
 32
@@ -154,12 +154,12 @@ Recogerá muestras del fondo del cráter
 
 34
 00:03:19,491 --> 00:03:22,779
-con datos cientíﬁcos
+con datos científicos
 sobre el centro dela Tierra.
 
 35
 00:03:22,953 --> 00:03:25,365
-¿Datos cientíﬁcos?
+¿Datos científicos?
 
 36
 00:03:25,455 --> 00:03:28,913
@@ -1258,7 +1258,7 @@ de origen desconocido.
 
 274
 00:26:42,768 --> 00:26:45,100
-Conﬁrmado. Estamos ala espera.
+Confirmado. Estamos a la espera.
 
 275
 00:26:47,106 --> 00:26:49,848
@@ -1870,7 +1870,7 @@ síntomas de contaminación.
 
 410
 00:43:20,681 --> 00:43:27,177
-Los de Peligro Biológico conﬁscaron
+Los de Peligro Biológico confiscaron
 nuestras muestras y notas de campo.
 
 411

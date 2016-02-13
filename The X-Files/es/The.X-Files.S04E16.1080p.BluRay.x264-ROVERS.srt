@@ -1025,7 +1025,7 @@ que usted habría firmado.
 
 223
 00:18:52,920 --> 00:18:56,833
-El certiﬁcado de defunción
+El certificado de defunción
 del sargento Nathaniel Teager.
 
 224
@@ -1120,7 +1120,7 @@ Diabetes, glaucoma, degeneración macular.
 
 244
 00:20:47,040 --> 00:20:50,396
-Se cría un campo visual deﬁcitario.
+Se cría un campo visual deficitario.
 
 245
 00:20:52,240 --> 00:20:56,597
@@ -1163,7 +1163,7 @@ Algo preocupante.
 253
 00:21:24,520 --> 00:21:26,511
 - ¿Dónde está?
-- En mi oﬁcina.
+- En mi oficina.
 
 254
 00:21:26,600 --> 00:21:29,239
@@ -1943,7 +1943,7 @@ Informen sus posiciones.
 426
 00:35:48,480 --> 00:35:51,153
 Debemos esa libertad
-al desinteresado sacriﬁcio...
+al desinteresado sacrificio...
 
 427
 00:35:51,240 --> 00:35:55,836

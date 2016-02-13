@@ -1458,8 +1458,7 @@ Cerveza.
 
 325
 00:34:10,240 --> 00:34:12,959
-'AI ’ ' ' '
-¿go mas? ¿Cigarrillos?
+¿Algo más? ¿Cigarrillos?
 
 326
 00:34:13,120 --> 00:34:15,475

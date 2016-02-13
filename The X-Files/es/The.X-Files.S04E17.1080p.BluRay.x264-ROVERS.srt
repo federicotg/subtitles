@@ -106,7 +106,7 @@ Lee al dorso.
 25
 00:05:24,800 --> 00:05:28,952
 "En conmemoración al Apollo 11
-y ala misión ala Luna. Julio de 1969".
+y a la misión a la Luna. Julio de 1969".
 
 26
 00:05:30,800 --> 00:05:32,711
@@ -1253,7 +1253,7 @@ Eh, ¿Gonzales?
 272
 00:28:15,520 --> 00:28:20,310
 10. 500 metros.
-Es insigniﬁcante. Nada que nos preocupe.
+Es insignificante. Nada que nos preocupe.
 
 273
 00:28:20,400 --> 00:28:24,473

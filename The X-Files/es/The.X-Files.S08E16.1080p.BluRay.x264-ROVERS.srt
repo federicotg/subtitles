@@ -1310,7 +1310,7 @@ que olvidarte de esto.
 
 288
 00:29:28,040 --> 00:29:30,759
-Enﬁendo.
+Entiendo.
 
 289
 00:29:32,400 --> 00:29:36,712
@@ -1893,7 +1893,7 @@ donde no te conviene.
 
 417
 00:41:50,240 --> 00:41:54,597
-Enﬁendo,John.
+Entiendo,John.
 Tú me pediste información.
 
 418

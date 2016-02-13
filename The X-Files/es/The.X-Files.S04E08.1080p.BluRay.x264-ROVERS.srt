@@ -676,7 +676,7 @@ de Buenos Aires está atrasado.
 
 153
 00:13:14,960 --> 00:13:19,829
-Veriﬁquen por favor en los monitores
+Verifiquen por favor en los monitores
 del terminal la nueva hora de llegada.
 
 154

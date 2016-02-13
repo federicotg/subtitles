@@ -1352,7 +1352,7 @@ Soy un agente federal y estoy armado.
 300
 00:34:47,160 --> 00:34:49,754
 - Suelte el arma.
-- Suelte ala niña.
+- Suelte a la niña.
 
 301
 00:34:49,840 --> 00:34:52,832

@@ -855,8 +855,7 @@ Estoy listo, ¡pueden venir!
 
 189
 00:16:24,040 --> 00:16:26,508
- . ’
-¡ amos! ¡Hablame!
+¡Vamos! ¡Háblame!
 
 190
 00:16:27,080 --> 00:16:28,593

@@ -1162,7 +1162,7 @@ Suéltame.
 
 258
 00:22:28,600 --> 00:22:30,556
-¡Tengo que ir ala calle Spring!
+¡Tengo que ir a la calle Spring!
 
 259
 00:22:30,640 --> 00:22:33,279

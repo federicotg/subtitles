@@ -1323,7 +1323,7 @@ Tiene que haber otro camino a la verdad.
 
 296
 00:29:26,320 --> 00:29:29,551
-- Oﬁcina del Tribunal.
+- Oficina del Tribunal.
 - Soy el agente especial Fox Mulder, FBI,
 
 297
@@ -1645,8 +1645,7 @@ de lo que le resta de libertad. Vamos.
 
 365
 00:34:55,000 --> 00:34:57,116
- . ’
-¡ ox! ¡Ayudame!
+ ¡Fox! ¡Ayúdame!
 
 366
 00:34:57,360 --> 00:34:59,749

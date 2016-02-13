@@ -446,12 +446,12 @@ su anonimidad o supervivencia
 
 101
 00:10:01,351 --> 00:10:04,843
-deﬁnen a los incidentes de Franklin
+definen a los incidentes de Franklin
 como asesinatos intempestivos.
 
 102
 00:10:06,272 --> 00:10:10,356
-El elemento confuso de estos perﬁles
+El elemento confuso de estos perfiles
 es que, dadas sus características,
 
 103
@@ -481,7 +481,7 @@ disfunción en el comportamiento:
 108
 00:10:28,795 --> 00:10:32,788
 alteración en el sueño, dolor de cabeza,
-diﬁcultades en la alimentación.
+dificultades en la alimentación.
 
 109
 00:10:32,882 --> 00:10:35,419
@@ -553,7 +553,7 @@ Un teléfono celular, un visor digital.
 124
 00:11:30,481 --> 00:11:36,101
 Honestamente, Scully, nunca he tenido
-tanta diﬁcultad en crear un perﬁl.
+tanta dificultad en crear un perfil.
 
 125
 00:11:37,113 --> 00:11:40,196
@@ -913,7 +913,7 @@ sino por uso.
 
 205
 00:19:17,573 --> 00:19:22,943
-Otra evidencia ﬁsiológica presente
+Otra evidencia fisiológica presente
 indica episodios de fobia intensa.
 
 206
@@ -941,7 +941,7 @@ del dedo de otro perpetrador.
 
 211
 00:19:40,429 --> 00:19:44,138
-Aunque es necesario hacer ma’s análisis,
+Aunque es necesario hacer más análisis,
 
 212
 00:19:44,266 --> 00:19:48,225
@@ -1119,7 +1119,7 @@ LENTES DE NOCHE
 251
 00:24:10,616 --> 00:24:14,029
 Frohike, los hombres como tú
-le dan un mal nombre ala perversión.
+le dan un mal nombre a la perversión.
 
 252
 00:24:14,119 --> 00:24:16,952
@@ -1775,7 +1775,7 @@ CARTUCHO DE 308 MUNICIONES
 396
 00:40:20,877 --> 00:40:25,166
 Mantengan la calma.
-Aléjense de este ediﬁcio.
+Aléjense de este edificio.
 
 397
 00:40:26,215 --> 00:40:28,297

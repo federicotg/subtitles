@@ -1817,7 +1817,7 @@ Allí van.
 399
 00:33:06,640 --> 00:33:12,112
 Encontramos el coche de Modell. El motor
-aún caliente. Debe estar en el ediﬁcio.
+aún caliente. Debe estar en el edificio.
 
 400
 00:33:12,240 --> 00:33:15,312
@@ -2018,7 +2018,7 @@ Allí. Esa masa clara en su lóbulo temporal.
 442
 00:36:36,960 --> 00:36:42,080
 Mira a tu alrededor.
-La ﬁcha de Modell debe estar allí.
+La ficha de Modell debe estar allí.
 
 443
 00:36:46,960 --> 00:36:48,871

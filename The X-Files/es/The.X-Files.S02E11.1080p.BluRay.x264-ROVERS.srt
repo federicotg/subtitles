@@ -2098,7 +2098,7 @@ aunque no se ha ¡nculpado a nadie.
 
 463
 00:43:06,334 --> 00:43:09,826
-Los testigos no fueron conﬁables
+Los testigos no fueron confiables
 debido a las regresiones
 
 464

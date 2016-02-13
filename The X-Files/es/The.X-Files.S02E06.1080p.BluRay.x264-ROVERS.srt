@@ -25,7 +25,7 @@ Como si alguien lo estuviera catalogando.
 6
 00:00:46,922 --> 00:00:50,585
 - ¡Vamos!
-- ¡Mulder! ¡A yúdame! ¡Mulder!
+- ¡Mulder! ¡Ayúdame! ¡Mulder!
 
 7
 00:01:44,313 --> 00:01:47,271
@@ -400,7 +400,7 @@ Gracias.
 
 92
 00:11:11,296 --> 00:11:14,413
-No se llevara’n a Duane Barry otra vez.
+No se llevarán a Duane Barry otra vez.
 
 93
 00:11:16,801 --> 00:11:18,917
@@ -679,7 +679,7 @@ BIENVENIDO A LA CUMBRE DE SKYLAND
 
 153
 00:17:52,280 --> 00:17:54,566
-Segunda torre ala vista.
+Segunda torre a la vista.
 
 154
 00:17:57,952 --> 00:18:00,238
@@ -737,7 +737,7 @@ Actividad inestable.
 
 166
 00:21:29,830 --> 00:21:32,913
-El informe ﬁnanciero
+El informe financiero
 con Susan Roberts.
 
 167

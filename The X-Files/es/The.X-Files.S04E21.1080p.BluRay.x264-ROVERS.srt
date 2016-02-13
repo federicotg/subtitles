@@ -440,7 +440,7 @@ es B positivo, el tipo de la víctima.
 98
 00:18:45,200 --> 00:18:49,637
 Sufría un tipo de anemia caracterizada
-por una deﬁciencia de ácido fólico.
+por una deficiencia de ácido fólico.
 
 99
 00:18:49,720 --> 00:18:54,111

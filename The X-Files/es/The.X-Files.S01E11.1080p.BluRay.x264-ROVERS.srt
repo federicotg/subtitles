@@ -375,8 +375,8 @@ Se... puso todo oscuro.
 
 87
 00:06:31,320 --> 00:06:33,151
-¿Sí? ' ’
-¿Cuando?
+¿Sí?
+¿Cuándo?
 
 88
 00:06:34,240 --> 00:06:38,074
@@ -766,7 +766,7 @@ Esperas que la trama continúe.
 
 175
 00:14:16,440 --> 00:14:19,398
-Vigilaré ala niña.
+Vigilaré a la niña.
 Tú investiga la clínica.
 
 176
