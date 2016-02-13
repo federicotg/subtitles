@@ -59,7 +59,7 @@ Una muchacha tan bella.
 
 15
 00:02:59,560 --> 00:03:01,630
-¿Quien está ahí?
+¿Quién está ahí?
 
 16
 00:03:10,240 --> 00:03:12,629
@@ -782,11 +782,11 @@ No...
 
 176
 00:17:03,200 --> 00:17:05,270
-¿Quien le hizo eso?
+¿Quién le hizo eso?
 
 177
 00:17:06,640 --> 00:17:09,598
-- ¿Fue el?
+- ¿Fue él?
 - Parece que sí.
 
 178

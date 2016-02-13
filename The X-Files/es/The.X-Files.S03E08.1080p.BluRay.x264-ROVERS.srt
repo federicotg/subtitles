@@ -1316,7 +1316,7 @@ saber qué aspecto tiene, dónde vive.
 289
 00:32:01,080 --> 00:32:05,949
 Nuestra presencia ya es reveladora.
-Si preguntamos por el, alguien le avisará.
+Si preguntamos por él, alguien le avisará.
 
 290
 00:32:06,480 --> 00:32:08,755
@@ -1433,7 +1433,7 @@ Dígame qué más.
 
 316
 00:36:02,920 --> 00:36:08,836
-Si no puede tenerla toda para el,
+Si no puede tenerla toda para él,
 entonces se vuelve peligroso.
 
 317

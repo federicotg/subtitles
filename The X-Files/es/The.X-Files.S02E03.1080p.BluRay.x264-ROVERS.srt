@@ -839,7 +839,7 @@ Yo lo hice.
 
 189
 00:18:06,502 --> 00:18:09,084
-- Yo lo rompi.
+- Yo lo rompí.
 - ¿Por qué?
 
 190

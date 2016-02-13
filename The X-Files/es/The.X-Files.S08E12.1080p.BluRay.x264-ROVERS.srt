@@ -899,7 +899,7 @@ Acabamos de recibir órdenes.
 198
 00:18:49,720 --> 00:18:52,792
 - Vamos a continuar.
-- ¿Quien lo dice?
+- ¿Quién lo dice?
 
 199
 00:18:52,880 --> 00:18:54,711

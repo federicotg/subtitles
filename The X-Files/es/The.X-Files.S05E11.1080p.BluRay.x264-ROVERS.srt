@@ -101,7 +101,7 @@ Tengo entendido que quieres hablar con él.
 
 24
 00:02:13,400 --> 00:02:16,995
-- ¿Salazar? ¿Quien habla?
+- ¿Salazar? ¿Quién habla?
 - 14 y Arlington.
 
 25
@@ -767,7 +767,7 @@ Sólo Donald sabía dónde estaba. Y David.
 
 167
 00:17:06,400 --> 00:17:09,278
-- ¿Quien es David?
+- ¿Quién es David?
 - David Markham. Ocupado del hardware.
 
 168
@@ -839,7 +839,7 @@ encontrar e inmovilizar el maldito sistema.
 182
 00:18:06,960 --> 00:18:10,839
 El archivo se llamaba Kill Switch.
-Sin el, nadie puede encontrarlo.
+Sin él, nadie puede encontrarlo.
 
 183
 00:18:10,960 --> 00:18:13,679

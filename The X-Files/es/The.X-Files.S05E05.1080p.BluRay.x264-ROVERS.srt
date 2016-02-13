@@ -103,7 +103,7 @@ Les gusta acercarse y tocarle el cabello.
 
 24
 00:02:16,000 --> 00:02:19,390
-- ¿No se burlan de el?
+- ¿No se burlan de él?
 - A la gente le gusta.
 
 25
@@ -139,7 +139,7 @@ que tiene el público es:
 
 32
 00:03:14,400 --> 00:03:16,436
-¿Quien está ahí?
+¿Quién está ahí?
 
 33
 00:03:57,840 --> 00:03:59,592
@@ -1071,12 +1071,12 @@ cuando quedé embarazada.
 
 235
 00:20:20,320 --> 00:20:23,710
-- ¿Quien demonios es?
+- ¿Quién demonios es?
 - Es la voz que oímos en el bosque.
 
 236
 00:20:23,800 --> 00:20:26,712
-Es el, el Gran Mutante.
+Es él, el Gran Mutante.
 
 237
 00:20:58,200 --> 00:21:00,760
@@ -1487,7 +1487,7 @@ Creo que sí.
 
 329
 00:33:14,680 --> 00:33:17,069
-¿Quien está allí?
+¿Quién está allí?
 
 330
 00:33:17,160 --> 00:33:19,230

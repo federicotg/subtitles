@@ -624,11 +624,11 @@ Te lo dije.
 
 138
 00:11:35,080 --> 00:11:37,150
-¿Quien es usted?
+¿Quién es usted?
 
 139
 00:12:04,600 --> 00:12:08,593
-- ¿Quien es el agente a cargo?
+- ¿Quién es el agente a cargo?
 - El agente Rice. El alto, de traje.
 
 140
@@ -648,7 +648,7 @@ estamos llamando sin exito.
 
 143
 00:12:19,840 --> 00:12:22,229
-- ¿Quien está allí?
+- ¿Quién está allí?
 - No se sabe cuántos son.
 
 144
@@ -739,7 +739,7 @@ Me gustaría oírlo que tiene que decir.
 
 163
 00:13:40,680 --> 00:13:43,114
-- ¿Quien es usted?
+- ¿Quién es usted?
 - Me llamo Mulder.
 
 164

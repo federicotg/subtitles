@@ -1116,7 +1116,7 @@ Se pasó una semana de la fecha.
 244
 00:24:38,640 --> 00:24:42,428
 - Espero que tengan auto.
-- ¿No lo conoce a el, señor... ?
+- ¿No lo conoce a él, señor... ?
 
 245
 00:24:42,520 --> 00:24:45,193
@@ -1783,7 +1783,7 @@ Espera un segundo. ¿Qué haces?
 
 388
 00:37:32,920 --> 00:37:35,832
-- ¿Qué harás por el?
+- ¿Qué harás por él?
 - Lo mantendré con vida.
 
 389

@@ -626,7 +626,7 @@ Mulder.
 138
 00:10:22,400 --> 00:10:25,915
 - ¿Nichols te contó algo?
-- No. Estoyjustamente en eso.
+- No. Estoy justamente en eso.
 
 139
 00:10:26,040 --> 00:10:28,634
@@ -1719,7 +1719,7 @@ Está en la unidad de investigación médica.
 
 381
 00:32:51,880 --> 00:32:53,632
-¿Quien diablos es?
+¿Quién diablos es?
 
 382
 00:32:53,720 --> 00:32:57,235
@@ -2192,7 +2192,7 @@ es difícil explicarlo.
 
 487
 00:40:34,880 --> 00:40:38,270
-Fue el, agente Scully.
+Fue él, agente Scully.
 
 488
 00:40:38,720 --> 00:40:40,836

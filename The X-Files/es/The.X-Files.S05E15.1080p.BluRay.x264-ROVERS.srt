@@ -954,7 +954,7 @@ Soy el agente Michel.
 
 210
 00:21:31,600 --> 00:21:36,037
-- ¿Quien los llamó?
+- ¿Quién los llamó?
 - Ustedes, idiota. Tu departamento.
 
 211

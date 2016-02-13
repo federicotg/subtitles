@@ -823,7 +823,7 @@ pero no estamos al tanto de ello.
 
 177
 00:18:08,160 --> 00:18:12,472
-- ¿Quien hizo esto?
+- ¿Quién hizo esto?
 - No estamos seguros.
 
 178
@@ -1002,7 +1002,7 @@ Espera, tengo otra llamada.
 
 216
 00:21:36,200 --> 00:21:41,797
-Kojak me tiene al tanto. ¿Quien quiere
+Kojak me tiene al tanto. ¿Quién quiere
 que lo interprete en la película?
 
 217

@@ -239,7 +239,7 @@ en realidad les estaba diciendo
 
 54
 00:06:13,720 --> 00:06:15,073
-¿Quien es Kennedy?
+¿Quién es Kennedy?
 
 55
 00:06:16,600 --> 00:06:20,639
@@ -740,7 +740,7 @@ desaparecer para siempre.
 
 163
 00:15:51,520 --> 00:15:57,072
-- ¿Qué diablos tienes con el?
+- ¿Qué diablos tienes con él?
 - Nada. Sólo es un amigo.
 
 164

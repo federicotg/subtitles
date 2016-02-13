@@ -801,7 +801,7 @@ Bájenlo. Necesitamos un médico.
 
 177
 00:20:03,000 --> 00:20:06,595
-¿Quien le hizo esto?
+¿Quién le hizo esto?
 
 178
 00:20:21,320 --> 00:20:24,596

@@ -807,7 +807,7 @@ Lo puedo probar.
 181
 00:23:26,360 --> 00:23:29,511
 Conozco tu secreto.
-¿Quien más lo sabe?
+¿Quién más lo sabe?
 
 182
 00:23:32,360 --> 00:23:35,716

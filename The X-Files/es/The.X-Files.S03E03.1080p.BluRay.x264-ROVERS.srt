@@ -492,7 +492,7 @@ tienes que haberlo visto suceder.
 
 109
 00:10:22,000 --> 00:10:24,036
-¡Ése era el!
+¡Ése era él!
 
 110
 00:10:36,320 --> 00:10:39,517
@@ -654,7 +654,7 @@ Habrás visto algo, entonces.
 
 144
 00:13:31,680 --> 00:13:36,276
-No, hombre, cuando estoyjugando,
+No, hombre, cuando estoy jugando,
 estoy allí.
 
 145
@@ -1560,7 +1560,7 @@ Le salvé la vida a mi jefe.
 344
 00:29:01,920 --> 00:29:04,798
 - No estoy tan segura.
-- ¿Por que? ¿Quien les dijo eso?
+- ¿Por qué? ¿Quién les dijo eso?
 
 345
 00:29:04,880 --> 00:29:06,677
@@ -1652,7 +1652,7 @@ Darin era alumno mío.
 
 364
 00:30:27,760 --> 00:30:30,797
-¿Cómo describiría su relación con el?
+¿Cómo describiría su relación con él?
 
 365
 00:30:30,920 --> 00:30:34,833
