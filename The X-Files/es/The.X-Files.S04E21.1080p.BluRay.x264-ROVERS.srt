@@ -397,7 +397,7 @@ No es tan fácil escaparse.
 
 89
 00:17:26,520 --> 00:17:29,796
-Quien cava un agujero, puede caer en el.
+Quien cava un agujero, puede caer en él.
 
 90
 00:18:19,920 --> 00:18:22,354
@@ -1482,7 +1482,7 @@ y cuando se llevó a Scully.
 
 329
 00:38:53,240 --> 00:38:55,196
-Por eso la policía debe estar tras el.
+Por eso la policía debe estar tras él.
 
 330
 00:38:55,280 --> 00:38:59,592

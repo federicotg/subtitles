@@ -79,7 +79,7 @@ Vamos.
 
 19
 00:06:52,360 --> 00:06:53,429
-Poraqui
+Por aquí.
 
 20
 00:07:17,400 --> 00:07:18,879
@@ -87,7 +87,7 @@ Que diablos...
 
 21
 00:07:22,400 --> 00:07:24,072
-Poraqui
+Por aquí.
 
 22
 00:09:10,200 --> 00:09:12,998
@@ -646,7 +646,7 @@ No lo se.
 144
 00:23:17,840 --> 00:23:21,230
 Tengo informaciones
-que le interesarán mucho a el.
+que le interesarán mucho a él.
 
 145
 00:23:21,320 --> 00:23:24,118
@@ -1391,7 +1391,7 @@ retirando los obstáculos innecesarios.
 
 309
 00:42:10,440 --> 00:42:12,954
-Si su madre se estuviera por morir, el...
+Si su madre se estuviera por morir, él...
 
 310
 00:42:13,800 --> 00:42:15,756

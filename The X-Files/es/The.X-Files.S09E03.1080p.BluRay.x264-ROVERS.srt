@@ -1116,7 +1116,7 @@ sacar a la luz el programa.
 249
 00:24:15,920 --> 00:24:19,913
 No puede localizar a un sujeto.
-Tú la estás conduciendo a el.
+Tú la estás conduciendo a él.
 
 250
 00:24:20,000 --> 00:24:22,036

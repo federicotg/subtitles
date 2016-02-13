@@ -1885,7 +1885,7 @@ no debe moverse. No lo dejaré solo.
 
 415
 00:35:29,080 --> 00:35:32,231
-- Me quedo yo con el. Vaya con la agente.
+- Me quedo yo con él. Vaya con la agente.
 - No.
 
 416

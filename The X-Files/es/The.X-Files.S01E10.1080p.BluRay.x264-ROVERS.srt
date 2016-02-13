@@ -1579,7 +1579,7 @@ MUELLE 7
 350
 00:35:44,680 --> 00:35:47,877
 Negativo, patrulla Halcón.
-Tengan mucho cuidado con el.
+Tengan mucho cuidado con él.
 
 351
 00:36:10,000 --> 00:36:12,309

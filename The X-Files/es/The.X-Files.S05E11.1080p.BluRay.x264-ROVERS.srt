@@ -88,7 +88,7 @@ Spanish Jack está en la cafetería Metro.
 
 21
 00:01:59,520 --> 00:02:01,909
-Tengo entendido que quieres hablar con el.
+Tengo entendido que quieres hablar con él.
 
 22
 00:02:02,400 --> 00:02:04,550
@@ -1413,7 +1413,7 @@ Arrójalo.
 
 310
 00:33:25,280 --> 00:33:28,556
-- Deshazte de el.
+- Deshazte de él.
 - Tiene el Kill Switch.
 
 311
@@ -1422,7 +1422,7 @@ Arrójalo.
 
 312
 00:33:36,800 --> 00:33:38,791
-Deshazte de el.
+Deshazte de él.
 
 313
 00:34:04,440 --> 00:34:07,273

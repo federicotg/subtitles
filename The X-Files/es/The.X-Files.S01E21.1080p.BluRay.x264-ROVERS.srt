@@ -474,7 +474,7 @@ Agente Mulder, fíjese en sus dedos.
 
 106
 00:09:20,480 --> 00:09:22,038
-Fíjese en el.
+Fíjese en él.
 
 107
 00:09:22,120 --> 00:09:24,554
@@ -663,7 +663,7 @@ Te ayudaré en la vigilancia.
 147
 00:11:47,600 --> 00:11:51,115
 Yo vigilare. Tú revisa los casos
-anteriores para probar que fue el.
+anteriores para probar que fue él.
 
 148
 00:11:51,240 --> 00:11:56,360

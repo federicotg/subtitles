@@ -936,7 +936,7 @@ Todo buen plan necesita un testaferro.
 205
 00:18:28,560 --> 00:18:33,031
 - Creo que tiene el teléfono descompuesto.
-- Será difícil comunicarnos con el.
+- Será difícil comunicarnos con él.
 
 206
 00:18:33,160 --> 00:18:36,391

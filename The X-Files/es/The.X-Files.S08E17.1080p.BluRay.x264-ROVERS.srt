@@ -356,7 +356,7 @@ de los Archivos X.
 
 80
 00:09:54,360 --> 00:09:58,956
-No puedo porque tiene que ver con el.
+No puedo porque tiene que ver con él.
 
 81
 00:10:00,400 --> 00:10:01,719

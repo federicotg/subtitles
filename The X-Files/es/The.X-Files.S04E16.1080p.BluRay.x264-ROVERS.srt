@@ -805,7 +805,7 @@ Quiero saber a quien.
 
 175
 00:15:43,040 --> 00:15:45,918
-- Sí, es el.
+- Sí, es él.
 - ¿Está segura?
 
 176
@@ -1215,7 +1215,7 @@ nada puede explicar su relato.
 
 265
 00:22:41,760 --> 00:22:46,629
-Estaba al teléfono con el. Le dispararon
+Estaba al teléfono con él. Le dispararon
 en la frente. El pudo ver al asesino.
 
 266
@@ -1353,7 +1353,7 @@ de parar a este asesino es atrapándolo.
 
 295
 00:24:29,880 --> 00:24:32,474
-Hallando su próximo blanco antes que el.
+Hallando su próximo blanco antes que él.
 
 296
 00:24:37,320 --> 00:24:41,438
@@ -1488,7 +1488,7 @@ Quieres información sobre prisioneros.
 325
 00:27:53,600 --> 00:27:56,592
 - Un hombre llamado Teager.
-- No tengo nada sobre el.
+- No tengo nada sobre él.
 
 326
 00:27:56,760 --> 00:27:59,957
@@ -1948,7 +1948,7 @@ al desinteresado sacrificio...
 427
 00:35:51,240 --> 00:35:55,836
 - Sector tres sin problemas.
-- Cuatro, sin rastro de el.
+- Cuatro, sin rastro de él.
 
 428
 00:35:55,920 --> 00:36:00,198

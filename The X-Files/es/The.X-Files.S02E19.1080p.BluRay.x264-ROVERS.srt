@@ -53,7 +53,7 @@ Dame una.
 13
 00:01:16,320 --> 00:01:21,678
 - Parece que está a la deriva.
-- Estamos yendo directo hacia el.
+- Estamos yendo directo hacia él.
 
 14
 00:01:24,000 --> 00:01:28,710
@@ -828,7 +828,7 @@ Es un borracho.
 
 184
 00:17:37,640 --> 00:17:41,110
-Al diablo con el.
+Al diablo con él.
 No voy a escuchar sus mentiras.
 
 185
@@ -1471,7 +1471,7 @@ pero no de vueltas atrás de mí.
 
 328
 00:31:36,320 --> 00:31:40,154
-- Malgastamos mucha agua en el.
+- Malgastamos mucha agua en él.
 - ¿Quién es usted para decidir?
 
 329

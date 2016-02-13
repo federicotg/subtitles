@@ -900,7 +900,7 @@ se acercan a la entrada.
 
 194
 00:16:48,591 --> 00:16:51,048
-Abra la puerta y regrese aqui.
+Abra la puerta y regrese aquí.
 
 195
 00:17:00,645 --> 00:17:02,636
@@ -915,7 +915,7 @@ Abra la puerta y regrese aqui.
 197
 00:17:09,028 --> 00:17:12,270
 - Sólo queremos ayudar a los heridos.
-- Por aqui.
+- Por aquí.
 
 198
 00:17:14,367 --> 00:17:16,699
@@ -1706,7 +1706,7 @@ OK, pero él se queda.
 
 373
 00:32:41,501 --> 00:32:43,537
-Vamos. Salgan de aqui.
+Vamos. Salgan de aquí.
 
 374
 00:32:44,713 --> 00:32:46,795
@@ -1714,7 +1714,7 @@ Levántense. Vamos.
 
 375
 00:32:46,882 --> 00:32:49,043
-Salgan de aqui. Vamos.
+Salgan de aquí. Vamos.
 
 376
 00:32:55,265 --> 00:32:59,850

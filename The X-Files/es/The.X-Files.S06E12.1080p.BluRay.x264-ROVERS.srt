@@ -589,7 +589,7 @@ porque aquí estás a salvo.
 
 129
 00:11:10,680 --> 00:11:12,591
-No puedes protegerme de el.
+No puedes protegerme de él.
 
 130
 00:11:12,720 --> 00:11:16,395
@@ -1416,7 +1416,7 @@ Te salve.
 
 310
 00:26:59,200 --> 00:27:03,716
-Sólo hay una forma... de salvarlo a el.
+Sólo hay una forma... de salvarlo a él.
 
 311
 00:27:05,680 --> 00:27:08,319

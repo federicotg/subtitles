@@ -969,7 +969,7 @@ Kevin.
 215
 00:18:01,680 --> 00:18:05,195
 No puede volver a casa.
-No es seguro para el. Se lo dije.
+No es seguro para él. Se lo dije.
 
 216
 00:18:12,680 --> 00:18:15,672
@@ -2039,7 +2039,7 @@ un amigo,
 454
 00:05:11,520 --> 00:05:15,354
 y por lo general
-puedo conversar de estas cosas con el.
+puedo conversar de estas cosas con él.
 
 455
 00:05:16,600 --> 00:05:19,068

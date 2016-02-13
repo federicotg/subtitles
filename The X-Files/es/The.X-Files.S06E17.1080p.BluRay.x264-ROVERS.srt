@@ -1438,7 +1438,7 @@ Es mi hijo.
 
 320
 00:35:01,400 --> 00:35:03,834
-Ahora me llevarás a el.
+Ahora me llevarás a él.
 
 321
 00:35:06,720 --> 00:35:09,518

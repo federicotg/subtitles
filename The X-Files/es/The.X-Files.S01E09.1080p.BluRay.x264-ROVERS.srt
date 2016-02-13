@@ -402,7 +402,7 @@ Creo en el programa espacial.
 
 89
 00:06:36,920 --> 00:06:41,948
-Creo en la gente que trabaja en el.
+Creo en la gente que trabaja en él.
 Mañana hay previsto otro lanzamiento.
 
 90
@@ -2608,7 +2608,7 @@ Acabo de enterarme.
 
 575
 00:43:29,360 --> 00:43:31,430
-Algo se apoderó de el.
+Algo se apoderó de él.
 
 576
 00:43:31,520 --> 00:43:35,149
@@ -2627,7 +2627,7 @@ Creo que en realidad nunca supo
 579
 00:43:43,000 --> 00:43:46,151
 exactamente cómo funcionaba
-através de el.
+através de él.
 
 580
 00:43:46,240 --> 00:43:48,549
@@ -2690,7 +2690,7 @@ Creo que, fuese lo que fuese,
 
 593
 00:44:28,000 --> 00:44:30,560
-se lo llevó con el.
+se lo llevó con él.
 
 594
 00:44:30,640 --> 00:44:33,632

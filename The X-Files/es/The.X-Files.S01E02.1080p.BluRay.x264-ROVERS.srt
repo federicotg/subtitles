@@ -29,7 +29,7 @@ Equipo Uno entrando.
 
 7
 00:00:47,800 --> 00:00:49,791
-Tienen que dejarme hablar con el.
+Tienen que dejarme hablar con él.
 
 8
 00:01:03,200 --> 00:01:05,475
@@ -1184,7 +1184,7 @@ Querida, ¿quiénes son estas personas?
 
 264
 00:24:06,200 --> 00:24:10,751
-No es el. No es mi marido.
+No es él. No es mi marido.
 Le hicieron algo.
 
 265
@@ -1252,7 +1252,7 @@ Fue el último partido de Lombardi.
 279
 00:25:01,520 --> 00:25:04,910
 - ¿Por que tengo que responder a esto?
-- No es el.
+- No es él.
 
 280
 00:25:10,240 --> 00:25:13,789

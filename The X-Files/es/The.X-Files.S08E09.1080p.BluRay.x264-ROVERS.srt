@@ -243,7 +243,7 @@ Ahora pasa esto...
 53
 00:06:22,120 --> 00:06:25,635
 - No sabemos si era él al volante.
-- Sí, era el.
+- Sí, era él.
 
 54
 00:06:25,760 --> 00:06:29,992
@@ -1554,7 +1554,7 @@ Buscaba un culpable.
 340
 00:42:30,000 --> 00:42:34,551
 Adondequiera que se haya ido, la
-respuesta a esa pregunta se fue con el.
+respuesta a esa pregunta se fue con él.
 
 341
 00:42:34,640 --> 00:42:38,269

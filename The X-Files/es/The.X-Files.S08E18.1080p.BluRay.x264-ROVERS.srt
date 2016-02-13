@@ -850,7 +850,7 @@ el agente John Doggett.
 186
 00:19:34,200 --> 00:19:39,638
 - Estoy listo para tomar el mensaje.
-- Necesito hablar directamente con el.
+- Necesito hablar directamente con él.
 
 187
 00:19:42,600 --> 00:19:44,477
@@ -1653,7 +1653,7 @@ Voy a buscar al agente Mulder.
 
 361
 00:35:43,240 --> 00:35:47,279
-Levántese. Hay más como el.
+Levántese. Hay más como él.
 
 362
 00:35:52,720 --> 00:35:55,951

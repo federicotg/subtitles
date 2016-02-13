@@ -200,7 +200,7 @@ Mulder estaba corriendo.
 
 45
 00:04:56,920 --> 00:05:00,037
-Tal vez se parecía a Mulder, pero no era el.
+Tal vez se parecía a Mulder, pero no era él.
 
 46
 00:05:00,120 --> 00:05:04,796
@@ -215,7 +215,7 @@ era Fox Mulder.
 48
 00:05:07,920 --> 00:05:13,153
 No dudo que se parecía a Mulder,
-y es natural que crea que era el.
+y es natural que crea que era él.
 
 49
 00:05:13,240 --> 00:05:16,118
@@ -867,7 +867,7 @@ Me dijiste que Mulder no lo permitiría.
 194
 00:24:40,320 --> 00:24:44,154
 Que no dejaría que arruinara
-mi carrera por esto. Por el.
+mi carrera por esto. Por él.
 
 195
 00:24:46,200 --> 00:24:53,197

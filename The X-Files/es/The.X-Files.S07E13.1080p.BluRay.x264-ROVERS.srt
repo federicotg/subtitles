@@ -1286,7 +1286,7 @@ está el jugador 4. Es su telemetría.
 287
 00:29:48,560 --> 00:29:51,996
 - ¿A que te refieres?
-- El cuatro. Es el.
+- El cuatro. Es él.
 
 288
 00:29:52,120 --> 00:29:54,190
@@ -1715,7 +1715,7 @@ Dios mío.
 382
 00:41:50,080 --> 00:41:54,073
 Eliminaste el juego
-y a Mulder y Scully con el.
+y a Mulder y Scully con él.
 
 383
 00:41:59,120 --> 00:42:00,951

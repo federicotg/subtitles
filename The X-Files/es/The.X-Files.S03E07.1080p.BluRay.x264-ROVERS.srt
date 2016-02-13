@@ -255,7 +255,7 @@ Si quisiéramos investigarlo,
 58
 00:05:49,320 --> 00:05:53,154
 - El General Callahan es el superior.
-- Queremos hablar con el.
+- Queremos hablar con él.
 
 59
 00:05:53,280 --> 00:05:57,432
@@ -904,12 +904,12 @@ Hablaremos arriba.
 
 196
 00:19:23,840 --> 00:19:25,034
-Poraqui
+Por aquí.
 
 197
 00:19:32,240 --> 00:19:35,755
 Se enciende solo.
-El telefono ni suena.
+El teléfono ni suena.
 
 198
 00:19:35,840 --> 00:19:38,308
@@ -1183,7 +1183,7 @@ El cartero de Rappo.
 
 257
 00:25:57,480 --> 00:25:59,710
-Sí, es el. ¿Qué ha hecho?
+Sí, es él. ¿Qué ha hecho?
 
 258
 00:25:59,800 --> 00:26:02,155

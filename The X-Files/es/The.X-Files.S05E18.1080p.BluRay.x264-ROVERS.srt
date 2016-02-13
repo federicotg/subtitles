@@ -127,7 +127,7 @@ Acción.
 29
 00:02:45,400 --> 00:02:49,188
 - Va hacia el oeste. Se está desplazando.
-- Voy hacia el.
+- Voy hacia él.
 
 30
 00:02:51,000 --> 00:02:55,755
@@ -827,7 +827,7 @@ poner al agente Mulder en esta situación.
 
 178
 00:17:09,960 --> 00:17:14,875
-Pretenden algo de el.
+Pretenden algo de él.
 Es la única manera de descubrir qué.
 
 179

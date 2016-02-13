@@ -581,7 +581,7 @@ Por mucho tiempo.
 
 129
 00:17:49,560 --> 00:17:53,030
-Siento un llamado que viene de el.
+Siento un llamado que viene de él.
 
 130
 00:17:56,560 --> 00:18:02,999
@@ -1106,7 +1106,7 @@ era un informante.
 
 243
 00:30:34,760 --> 00:30:38,833
-- Y fui yo quien le dio dinero a el.
+- Y fui yo quien le dio dinero a él.
 - Eso no fue lo que vi.
 
 244

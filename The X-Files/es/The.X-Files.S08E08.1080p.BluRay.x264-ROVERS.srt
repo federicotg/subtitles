@@ -1200,7 +1200,7 @@ Tenemos un problema.
 
 268
 00:31:19,200 --> 00:31:21,634
-Tenemos que ocuparnos de el.
+Tenemos que ocuparnos de él.
 
 269
 00:31:26,800 --> 00:31:28,392
@@ -1339,7 +1339,7 @@ Necesito mi libro, Randall.
 
 299
 00:35:07,680 --> 00:35:09,671
-No puede buscar mi dinero sin el.
+No puede buscar mi dinero sin él.
 
 300
 00:35:31,640 --> 00:35:35,599

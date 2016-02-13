@@ -571,7 +571,7 @@ Un paso en falso podría descubrirle.
 126
 00:09:09,720 --> 00:09:12,314
 No sabes si todo esto
-sólo es un juego para el.
+sólo es un juego para él.
 
 127
 00:09:12,400 --> 00:09:15,278
@@ -1033,7 +1033,7 @@ El nombre, si lo puedes obtener.
 
 231
 00:17:28,880 --> 00:17:32,873
-Bien, estoy en el... mismo prefijo, 1517.
+Bien, estoy en él... mismo prefijo, 1517.
 
 232
 00:17:33,640 --> 00:17:34,868

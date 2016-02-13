@@ -21,7 +21,7 @@ terapéutica, entró en estado de shock.
 5
 00:00:22,080 --> 00:00:23,593
 - ¿Signos vitales?
-- Debiles.
+- Débiles.
 
 6
 00:00:23,720 --> 00:00:26,792
@@ -30,7 +30,7 @@ Pulso: 40. Presión sanguínea:
 
 7
 00:00:26,920 --> 00:00:31,311
-Llame por telefono al FBI.
+Llame por teléfono al FBI.
 Hay que notificar a la agente Scully.
 
 8
@@ -884,7 +884,7 @@ en ningún complot clandestino.
 
 196
 00:20:24,480 --> 00:20:27,040
-Pero no puedo salvarlo a el.
+Pero no puedo salvarlo a él.
 
 197
 00:20:28,920 --> 00:20:31,878
@@ -1225,7 +1225,7 @@ La ley está en peligro, senador.
 269
 00:31:20,120 --> 00:31:22,793
 El Dr. Orgel sí.
-Le puede preguntar a el.
+Le puede preguntar a él.
 
 270
 00:31:22,880 --> 00:31:25,713
@@ -1496,7 +1496,7 @@ Un amigo mío se está muriendo.
 329
 00:39:10,600 --> 00:39:14,718
 Ellos lo mataron.
-Lo que Orgel sabía murió con el.
+Lo que Orgel sabía murió con él.
 
 330
 00:39:14,800 --> 00:39:19,316

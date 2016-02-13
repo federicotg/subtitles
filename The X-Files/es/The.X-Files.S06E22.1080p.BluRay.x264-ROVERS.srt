@@ -1549,7 +1549,7 @@ Gracias por venir. Preguntó por ti anoche.
 336
 00:38:18,120 --> 00:38:21,795
 No estoy seguro,
-y no sabemos que hacer por el.
+y no sabemos que hacer por él.
 
 337
 00:38:21,880 --> 00:38:26,829
@@ -1573,7 +1573,7 @@ donde nunca se había visto.
 
 341
 00:38:34,560 --> 00:38:37,074
-- Quiero hablar con el.
+- Quiero hablar con él.
 - Es peligroso.
 
 342

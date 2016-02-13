@@ -1046,7 +1046,7 @@ Te equivocas. Te mostraré algo.
 234
 00:25:58,560 --> 00:26:03,111
 Anoche arrestaron al Sr. Wiggins.
-Dice que Fellig mató al chico, no el.
+Dice que Fellig mató al chico, no él.
 
 235
 00:26:03,240 --> 00:26:07,791
@@ -1262,7 +1262,7 @@ Yo sólo me presento para tomar la foto.
 280
 00:29:34,800 --> 00:29:37,712
 Yo no me llevo a esas personas.
-Lo hace el.
+Lo hace él.
 
 281
 00:29:37,800 --> 00:29:39,950
@@ -1270,7 +1270,7 @@ Lo hace el.
 
 282
 00:30:12,120 --> 00:30:14,429
-Ése es el.
+Ése es él.
 
 283
 00:30:14,560 --> 00:30:16,630
@@ -1522,7 +1522,7 @@ Nunca dejaron de buscarlo oficialmente.
 338
 00:35:30,440 --> 00:35:34,752
 - ¿Cuándo?
-- No saques cuentas. Es el.
+- No saques cuentas. Es él.
 
 339
 00:35:34,880 --> 00:35:38,714

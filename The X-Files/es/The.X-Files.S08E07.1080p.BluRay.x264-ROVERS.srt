@@ -754,7 +754,7 @@ Habló con Anthony Tipet esta noche.
 
 167
 00:18:39,000 --> 00:18:43,152
-- Dejó un mensaje. No hablé con el.
+- Dejó un mensaje. No hablé con él.
 - ¿Qué quería?
 
 168
@@ -949,7 +949,7 @@ No quiere dormirse.
 212
 00:23:02,800 --> 00:23:05,917
 - ¿Doggett?
-- Quiero hablar con el. Ahora.
+- Quiero hablar con él. Ahora.
 
 213
 00:23:47,200 --> 00:23:49,714

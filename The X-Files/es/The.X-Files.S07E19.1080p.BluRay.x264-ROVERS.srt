@@ -1614,7 +1614,7 @@ o la derecha?
 347
 00:35:23,680 --> 00:35:30,119
 Para interpretar a un personaje
-debo llegar a lo más íntimo de el.
+debo llegar a lo más íntimo de él.
 
 348
 00:35:37,720 --> 00:35:40,678
