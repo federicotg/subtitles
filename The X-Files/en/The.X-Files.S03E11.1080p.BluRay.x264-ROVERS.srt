@@ -133,7 +133,7 @@ Mulder.
 
 32
 00:02:57,160 --> 00:02:59,116
-(Scully) I’ve been trying to reach you all day.
+(Scully) I've been trying to reach you all day.
 
 33
 00:03:45,160 --> 00:03:47,390
@@ -910,7 +910,7 @@ now established themselves in this country.
 199
 00:18:17,520 --> 00:18:21,911
 - Do they attack people?
-- No, but they’re different than our breeds.
+- No, but they're different than our breeds.
 
 200
 00:18:21,200 --> 00:18:23,873
@@ -957,7 +957,7 @@ onto government property?
 
 209
 00:19:05,600 --> 00:19:09,434
-- Well, what’s going on? What do you see?
+- Well, what's going on? What do you see?
 - I'm in a house.
 
 210
@@ -1313,7 +1313,7 @@ You know, you could have been killed.
 
 287
 00:28:13,080 --> 00:28:16,277
-- I can’t sleep.
+- I can't sleep.
 - What happened at the USDA site?
 
 288
@@ -1356,7 +1356,7 @@ flush toilet was named Thomas Crapper?
 
 296
 00:29:14,280 --> 00:29:16,953
-- Bambi has a theory I’ve never come across.
+- Bambi has a theory I've never come across.
 - Who?
 
 297
@@ -2426,7 +2426,7 @@ been achieved on another planet...
 527
 00:53:21,520 --> 00:53:24,717
 ..by organisms that had
-a billion years’ head start on us.
+a billion years' head start on us.
 
 528
 00:53:24,800 --> 00:53:28,634
