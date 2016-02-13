@@ -211,7 +211,7 @@ Inspeccionó la puerta.
 48
 00:06:23,960 --> 00:06:26,599
 - ¿Cómo se llama?
-- Es un señorjaponés.
+- Es un señor japonés.
 
 49
 00:06:26,720 --> 00:06:29,075

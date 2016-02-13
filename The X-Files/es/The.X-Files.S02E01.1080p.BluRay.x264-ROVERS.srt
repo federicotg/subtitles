@@ -1549,7 +1549,7 @@ Continua con la vigilancia.
 
 341
 00:42:30,214 --> 00:42:32,830
-Debería estarjusto aquí.
+Debería estar justo aquí.
 
 342
 00:42:43,770 --> 00:42:46,477

@@ -330,7 +330,7 @@ al final del partido, perdiese o ganase.
 
 74
 00:08:10,573 --> 00:08:13,155
-Hay que saberjugar
+Hay que saber jugar
 para estar en el jardín derecho.
 
 75
