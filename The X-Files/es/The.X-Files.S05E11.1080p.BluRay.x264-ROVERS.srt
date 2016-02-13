@@ -115,7 +115,7 @@ una serpiente es un hijo desagradecido?".
 
 27
 00:02:37,400 --> 00:02:40,870
-CON CÓDIGO — DATAFRON. WALTON
+CON CÓDIGO - DATAFRON. WALTON
 
 28
 00:02:40,960 --> 00:02:41,949
@@ -1612,7 +1612,7 @@ ALMACENAMIENTO EN PROCESO
 
 356
 00:40:48,680 --> 00:40:50,875
-— ¿Qué estás haciendo?
+- ¿Qué estás haciendo?
 - Vete.
 
 357

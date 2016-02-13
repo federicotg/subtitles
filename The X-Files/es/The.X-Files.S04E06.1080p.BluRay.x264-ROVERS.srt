@@ -680,7 +680,7 @@ Sí.
 
 151
 00:12:51,560 --> 00:12:54,154
-— ¿Has terminado por hoy?
+- ¿Has terminado por hoy?
 - Sí.
 
 152

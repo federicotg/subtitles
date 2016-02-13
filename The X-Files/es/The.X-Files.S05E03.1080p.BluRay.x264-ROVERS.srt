@@ -68,7 +68,7 @@ Háblenos. ¿Quién está aquí? Vamos.
 
 16
 00:01:57,720 --> 00:02:01,474
-— ¡Quietos! ¡Policía!
+- ¡Quietos! ¡Policía!
 - No dispare.
 
 17

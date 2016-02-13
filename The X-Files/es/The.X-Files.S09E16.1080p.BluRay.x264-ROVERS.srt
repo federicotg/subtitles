@@ -719,7 +719,7 @@ Gracias.
 
 165
 00:18:55,560 --> 00:18:58,711
-— ¿Qué haces?
+- ¿Qué haces?
 - Pruebo que Doggett está equivocado,
 
 166

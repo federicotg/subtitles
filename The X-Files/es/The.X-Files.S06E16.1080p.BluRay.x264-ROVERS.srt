@@ -739,8 +739,7 @@ Quizá vio al perro que estoy buscando.
 
 164
 00:16:36,760 --> 00:16:39,877
-. Se“ .
-¿nor? ¿Me oye?
+¿Señor? ¿Me oye?
 
 165
 00:17:16,800 --> 00:17:18,552

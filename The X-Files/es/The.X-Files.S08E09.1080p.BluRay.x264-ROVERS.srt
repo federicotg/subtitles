@@ -792,7 +792,7 @@ a instalaciones del municipio.
 
 172
 00:21:13,360 --> 00:21:17,672
-— ¿Quiere que se lo deletree?
+- ¿Quiere que se lo deletree?
 - No importa.
 
 173

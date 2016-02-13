@@ -115,7 +115,7 @@ PIONERO DE LA CURA DEL INSOMNIO
 
 27
 00:04:26,183 --> 00:04:29,926
-— Hay un incendio en mi departamento.
+- Hay un incendio en mi departamento.
 - ¿Esta' en 700 Este Calle 56?
 
 28
@@ -362,7 +362,7 @@ La llama un tal George Hale.
 81
 00:08:25,213 --> 00:08:27,295
 - ¿Dónde estás?
-— En el Aeropuerto.
+- En el Aeropuerto.
 
 82
 00:08:27,382 --> 00:08:29,418
@@ -1587,7 +1587,7 @@ El nos hizo lo que somos.
 
 353
 00:30:34,291 --> 00:30:37,283
-— Él y el Dr. Girardi.
+- Él y el Dr. Girardi.
 - ¿Quién es el Dr. Girardi?
 
 354

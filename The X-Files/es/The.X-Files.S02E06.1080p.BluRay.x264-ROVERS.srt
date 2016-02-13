@@ -748,7 +748,7 @@ que en los mercados extranjeros.
 168
 00:21:38,214 --> 00:21:43,629
 El precio del oro bajó dos dólares
-a pesar de la especulación inﬂacionaria.
+a pesar de la especulación inflacionaria.
 
 169
 00:21:43,719 --> 00:21:45,880
@@ -941,7 +941,7 @@ Lo siento.
 
 211
 00:27:21,723 --> 00:27:26,683
-— ¿Qué pasa? ¿Qué le dijo?
+- ¿Qué pasa? ¿Qué le dijo?
 - Nada.
 
 212
