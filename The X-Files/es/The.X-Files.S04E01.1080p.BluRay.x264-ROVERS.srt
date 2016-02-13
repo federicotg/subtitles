@@ -302,7 +302,7 @@ Estoy aquí sentada en el auto.
 
 69
 00:14:21,320 --> 00:14:23,276
-¿Por qué ?
+¿Por qué?
 
 70
 00:14:23,800 --> 00:14:27,270
@@ -714,7 +714,7 @@ si no estás preparada para entrar.
 159
 00:24:16,640 --> 00:24:20,394
 - ¿Qué quieres decir con eso?
-- Déjan así.
+- Déjalo así.
 
 160
 00:24:21,120 --> 00:24:23,475

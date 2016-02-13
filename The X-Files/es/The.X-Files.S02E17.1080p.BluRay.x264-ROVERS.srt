@@ -391,7 +391,7 @@ sus naturalezas idénticas.
 
 87
 00:07:20,120 --> 00:07:22,918
-Todos trabajaban en abortos. ¿Porqué?
+Todos trabajaban en abortos. ¿Por qué?
 
 88
 00:07:23,000 --> 00:07:26,879
@@ -689,7 +689,7 @@ Mulder, ¿Porqué no me dijiste que era ella?
 153
 00:14:59,520 --> 00:15:02,671
 - No podía decírtelo.
-- ¿Porqué?
+- ¿Por qué?
 
 154
 00:15:04,200 --> 00:15:07,158
@@ -813,7 +813,7 @@ estoy en: 1235 Calle 91, Rockville.
 
 182
 00:18:09,480 --> 00:18:12,358
-CLINICA PARA LA MUJER
+CLÍNICA PARA LA MUJER
 ROCKVILLE, MARYLAND
 
 183
@@ -832,7 +832,7 @@ Mulder, vuelve apenas puedas.
 
 186
 00:18:31,320 --> 00:18:33,390
-¿Porqué? ¿Qué encontraron ?
+¿Por qué? ¿Qué encontraron?
 
 187
 00:18:34,200 --> 00:18:36,668
@@ -911,7 +911,7 @@ Por favor.
 204
 00:21:14,760 --> 00:21:17,354
 - Era una mentira.
-- Necesitabamos su ayuda.
+- Necesitábamos su ayuda.
 
 205
 00:21:17,440 --> 00:21:22,036
@@ -1016,7 +1016,7 @@ WASHINGTON
 
 228
 00:23:58,960 --> 00:24:01,155
-Tratado por ¡nhalar humo,
+Tratado por inhalar humo,
 
 229
 00:24:01,240 --> 00:24:06,234
@@ -1025,7 +1025,7 @@ Hospital en estado satisfactorio.
 
 230
 00:24:06,360 --> 00:24:10,956
-Se ¡nspeccionó la clínica
+Se inspeccionó la clínica
 de abortos donde se lo halló,
 
 231
@@ -1035,7 +1035,7 @@ las mujeres no fuero hallados.
 
 232
 00:24:14,760 --> 00:24:17,593
-Mi ¡nforme queda incompleto.
+Mi informe queda incompleto.
 
 233
 00:24:17,720 --> 00:24:20,917

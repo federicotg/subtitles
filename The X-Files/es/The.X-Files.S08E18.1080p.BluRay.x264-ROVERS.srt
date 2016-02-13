@@ -1758,7 +1758,7 @@ que no están infectados:
 
 384
 00:38:01,200 --> 00:38:02,952
-YO,
+Yo,
 Mulder y un hombre llamado Diego Garza,
 
 385
@@ -1845,12 +1845,12 @@ Solicito permiso para aterrizar. Adelante.
 
 403
 00:40:03,520 --> 00:40:06,910
-Agente Doggett, creo que se
+Agente Doggett, creo que sé
 por que nos dejan ir.
 
 404
 00:40:07,000 --> 00:40:10,959
-¿De que está hablando?
+¿De qué está hablando?
 ¿Qué sucede?
 
 405

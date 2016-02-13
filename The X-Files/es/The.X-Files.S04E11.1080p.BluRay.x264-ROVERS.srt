@@ -1112,7 +1112,7 @@ no tengas contacto directo con el hongo.
 
 242
 00:26:59,880 --> 00:27:04,237
-- No debes ¡nhalarlo, ni tocarlo.
+- No debes inhalarlo, ni tocarlo.
 - Lozano, tenga cuidado.
 
 243
@@ -1142,7 +1142,7 @@ que se llama meteorito.
 248
 00:27:21,400 --> 00:27:24,870
 Creado por algún cuerpo
-o resto de materia ¡nterplanetaria,
+o resto de materia interplanetaria,
 
 249
 00:27:24,960 --> 00:27:27,872
@@ -1166,7 +1166,7 @@ Ahora ésa no es la cuestión.
 253
 00:27:38,680 --> 00:27:41,148
 - Y el hongo...
-- Déjan por mi cuenta.
+- Déjalo por mi cuenta.
 
 254
 00:27:41,240 --> 00:27:45,358
@@ -1346,7 +1346,7 @@ Creo que deberíamos esperar un momento.
 
 292
 00:32:04,120 --> 00:32:05,394
-¿Porqué?
+¿Por qué?
 
 293
 00:32:05,480 --> 00:32:07,789
