@@ -183,7 +183,7 @@ Un niño sano que no habla.
 
 42
 00:06:08,960 --> 00:06:13,158
-- ¿Son el señor y la señora UndenNood?
+- ¿Son el señor y la señora Underwood?
 - ¿Son del FBI?
 
 43
@@ -197,7 +197,7 @@ Es un milagro, ¿no?
 
 45
 00:06:21,480 --> 00:06:26,315
-Sra. UndenNood, lo que quiera
+Sra. Underwood, lo que quiera
 que le haya pasado a su hijo,
 
 46
@@ -647,7 +647,7 @@ OKLAHOMA, 7:42 A.M.
 143
 00:16:15,240 --> 00:16:19,597
 - ¿Es acerca de mi libertad condicional?
-- Es acerca de Billy UndenNood.
+- Es acerca de Billy Underwood.
 
 144
 00:16:19,720 --> 00:16:22,632
@@ -1082,7 +1082,7 @@ Perdonen que los haya hecho esperar.
 
 240
 00:27:00,360 --> 00:27:03,033
-Sra. UndenNood, soy Sharon Pearl.
+Sra. Underwood, soy Sharon Pearl.
 
 241
 00:27:03,120 --> 00:27:07,875
@@ -1374,7 +1374,7 @@ les traigo más malas noticias.
 
 307
 00:36:07,960 --> 00:36:11,669
-El otro hijo de los UndenNood desapareció.
+El otro hijo de los Underwood desapareció.
 
 308
 00:36:11,760 --> 00:36:15,753
@@ -1553,7 +1553,7 @@ Está huyendo.
 347
 00:41:11,480 --> 00:41:15,553
 - No hay otro.
-- ¡Billy UndenNood!
+- ¡Billy Underwood!
 
 348
 00:41:15,640 --> 00:41:17,710

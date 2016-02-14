@@ -162,7 +162,7 @@ APU. Transmisión a alimentación interna.
 
 36
 00:03:39,760 --> 00:03:42,558
-Prearranque finalizado. InhibirAPU.
+Prearranque finalizado. Inhibir APU.
 
 37
 00:03:42,640 --> 00:03:45,200

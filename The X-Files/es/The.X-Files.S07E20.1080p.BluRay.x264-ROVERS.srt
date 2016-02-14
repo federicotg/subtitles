@@ -580,11 +580,11 @@ en una casa color rosa?
 
 127
 00:13:36,240 --> 00:13:38,549
-AldenNood. Casa azul.
+Alderwood. Casa azul.
 
 128
 00:13:38,680 --> 00:13:40,636
-¿En AldenNood?
+¿En Alderwood?
 
 129
 00:13:40,720 --> 00:13:43,234
@@ -708,7 +708,7 @@ Soy Betty Templeton.
 
 156
 00:16:42,240 --> 00:16:44,231
-Avenida AldenNood.
+Avenida Alderwood.
 
 157
 00:16:44,440 --> 00:16:46,476

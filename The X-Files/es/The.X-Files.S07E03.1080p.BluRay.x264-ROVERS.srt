@@ -86,7 +86,7 @@ ahora tienes el control.
 
 21
 00:03:40,160 --> 00:03:42,799
-- Hola, DenNood.
+- Hola, Derwood.
 - Hola, Rob.
 
 22
@@ -170,7 +170,7 @@ Oiga, usted. ¿Cómo se llama?
 
 39
 00:05:20,400 --> 00:05:24,552
-- DenNood Spinks.
+- Derwood Spinks.
 - ¿Tiene su broche?
 
 40
@@ -602,7 +602,7 @@ Rayos. ¿Qué pasa?
 
 137
 00:15:01,760 --> 00:15:04,718
-¿DenNood, cómo entraste?
+¿Derwood, cómo entraste?
 
 138
 00:15:06,120 --> 00:15:09,715
@@ -627,7 +627,7 @@ nos puso frente al paredón.
 
 143
 00:15:29,160 --> 00:15:31,594
-¿DenNood, en que te puedo ayudar?
+¿Derwood, en que te puedo ayudar?
 
 144
 00:15:31,680 --> 00:15:33,796
@@ -682,7 +682,7 @@ No es salsa de tomate.
 
 156
 00:16:28,000 --> 00:16:30,230
-¿Qué quieres, DenNood?
+¿Qué quieres, Derwood?
 
 157
 00:16:32,240 --> 00:16:35,073
@@ -775,7 +775,7 @@ Pasaba por acá,
 
 177
 00:18:13,800 --> 00:18:16,109
-y vi a DenNood Spinks a una cuadra.
+y vi a Derwood Spinks a una cuadra.
 
 178
 00:18:16,240 --> 00:18:19,994
@@ -1205,7 +1205,7 @@ Hola, Rob.
 
 274
 00:28:37,000 --> 00:28:41,994
-- DenNood Spinks desapareció.
+- Derwood Spinks desapareció.
 - Junto con su auto y sus cosas.
 
 275
@@ -1247,7 +1247,7 @@ No hablo por mi compañera.
 283
 00:29:09,920 --> 00:29:16,075
 Creo que aquello que mató a Donald Pankow
-también mató a DenNood Spinks.
+también mató a Derwood Spinks.
 
 284
 00:29:16,160 --> 00:29:18,958
@@ -1498,7 +1498,7 @@ Un momento.
 
 340
 00:36:18,760 --> 00:36:21,832
-¿Conque DenNood Spinks está sano y salvo?
+¿Conque Derwood Spinks está sano y salvo?
 
 341
 00:36:29,840 --> 00:36:33,833
@@ -1511,7 +1511,7 @@ Un momento.
 
 343
 00:36:39,200 --> 00:36:44,399
-DenNood había venido aquí
+Derwood había venido aquí
 ese día que usted lo vio.
 
 344
@@ -1630,7 +1630,7 @@ Hola.
 
 370
 00:38:55,560 --> 00:38:59,155
-No. Fue DenNood Spinks.
+No. Fue Derwood Spinks.
 
 371
 00:38:59,240 --> 00:39:01,310
