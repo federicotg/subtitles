@@ -576,7 +576,7 @@ Soy yo, Fox, tu hermano.
 
 129
 00:20:25,520 --> 00:20:28,193
-- ¿Por que actúa así?
+- ¿Por qué actúa así?
 - No tiene lenguaje alguno.
 
 130
@@ -1352,7 +1352,7 @@ No. Yo...
 
 300
 00:40:39,080 --> 00:40:41,878
-¿Por que es tan importante para usted?
+¿Por qué es tan importante para usted?
 
 301
 00:40:44,840 --> 00:40:49,960

@@ -21,7 +21,7 @@ Quiero hacerlo.
 
 6
 00:02:02,720 --> 00:02:03,914
-¿Por que lo haces?
+¿Por qué lo haces?
 
 7
 00:02:14,040 --> 00:02:15,359
@@ -195,7 +195,7 @@ Nos gustaría hablar con Ariel Luria.
 
 44
 00:06:43,120 --> 00:06:47,352
-¿Por que la molestan otra vez?
+¿Por qué la molestan otra vez?
 Ella ya habló con la policía.
 
 45
@@ -242,7 +242,7 @@ para exhumar el cuerpo de Isaac.
 
 55
 00:07:29,520 --> 00:07:31,875
-¿Por que tienen que hacerlo?
+¿Por qué tienen que hacerlo?
 
 56
 00:07:31,960 --> 00:07:37,159
@@ -333,7 +333,7 @@ si nos dice dónde está ese hombre.
 
 75
 00:08:43,640 --> 00:08:45,995
-Aunque lo supiera, ¿por que se lo diría?
+Aunque lo supiera, ¿por qué se lo diría?
 
 76
 00:08:46,080 --> 00:08:51,200
@@ -855,7 +855,7 @@ Jacob Weiss.
 
 192
 00:19:40,160 --> 00:19:41,275
-¿Por que quieren verlo?
+¿Por qué quieren verlo?
 
 193
 00:19:41,560 --> 00:19:43,471
@@ -1141,7 +1141,7 @@ Lo siento.
 
 258
 00:27:01,640 --> 00:27:03,835
-¿Por que lo mató, Jacob?
+¿Por qué lo mató, Jacob?
 
 259
 00:27:05,320 --> 00:27:09,552
@@ -1267,7 +1267,7 @@ Dicen que has confesado.
 
 286
 00:29:08,160 --> 00:29:10,628
-- ¿Por que haces esto?
+- ¿Por qué haces esto?
 - Para protegerte.
 
 287

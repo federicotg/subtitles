@@ -816,7 +816,7 @@ Dame tu arma.
 180
 00:18:35,920 --> 00:18:39,469
 - Estuvo aquí. Vino por la mujer.
-- ¿Por que la esposa de Bowman?
+- ¿Por qué la esposa de Bowman?
 
 181
 00:18:39,560 --> 00:18:43,189
@@ -855,7 +855,7 @@ para decirle que llegaría tarde.
 
 189
 00:19:23,720 --> 00:19:26,792
-¿Por que le harían algo así a Nathan?
+¿Por qué le harían algo así a Nathan?
 
 190
 00:19:26,920 --> 00:19:32,711
@@ -930,7 +930,7 @@ Sí, señor.
 206
 00:20:44,320 --> 00:20:47,835
 - ¿Mulder?
-- ¿Por que no mató a esos dos policías?
+- ¿Por qué no mató a esos dos policías?
 
 207
 00:20:47,920 --> 00:20:51,799
@@ -954,7 +954,7 @@ Hay algo que no tiene sentido.
 
 211
 00:22:32,880 --> 00:22:36,793
-- ¿Por que tardaste tanto?
+- ¿Por qué tardaste tanto?
 - Scully, lo tengo. Ven ya.
 
 212
@@ -1074,12 +1074,12 @@ que él iba a retomar su patrón anterior.
 
 237
 00:24:17,840 --> 00:24:23,073
-¿Por que no mató a los policías
-o al guardia? ¿Por que no me mató a mí?
+¿Por qué no mató a los policías
+o al guardia? ¿Por qué no me mató a mí?
 
 238
 00:24:23,160 --> 00:24:26,948
-¿Por que no me obligó a dispararme
+¿Por qué no me obligó a dispararme
 en la boca? Pudo haberlo hecho.
 
 239
@@ -1502,7 +1502,7 @@ que esa mujer hable por teléfono.
 
 328
 00:32:29,400 --> 00:32:32,517
-¿Por que nadie atiende
+¿Por qué nadie atiende
 en la central de la casa santuario?
 
 329
@@ -1646,7 +1646,7 @@ ENFERMERA
 
 359
 00:36:35,800 --> 00:36:37,870
-¿Por que lo hiciste?
+¿Por qué lo hiciste?
 
 360
 00:36:39,800 --> 00:36:42,872
@@ -1909,7 +1909,7 @@ Quiero decirle que hizo un buen trabajo.
 
 419
 00:44:08,560 --> 00:44:09,595
-¿Por que lo dice?
+¿Por qué lo dice?
 
 420
 00:44:09,720 --> 00:44:14,271
@@ -1931,7 +1931,7 @@ Le ganó en su juego.
 
 424
 00:44:30,400 --> 00:44:33,198
-Entonces, ¿por que me siento perdido?
+Entonces, ¿por qué me siento perdido?
 
 425
 00:45:22,480 --> 00:45:24,471

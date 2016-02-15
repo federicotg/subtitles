@@ -406,7 +406,7 @@ Necesita tu ayuda.
 
 92
 00:11:23,800 --> 00:11:26,712
-¿Quién es? ¿Por que hace esto?
+¿Quién es? ¿Por qué hace esto?
 
 93
 00:11:27,280 --> 00:11:29,316
@@ -745,7 +745,7 @@ se matan con el primer corte.
 
 166
 00:20:22,960 --> 00:20:26,714
-¿Por que estaba descolgado el teléfono
+¿Por qué estaba descolgado el teléfono
 cuando llegó a casa de los Sim?
 
 167
@@ -810,7 +810,7 @@ Apareció en el examen toxicológico.
 
 180
 00:21:20,400 --> 00:21:24,473
-- ¿Por que no está en su estómago?
+- ¿Por qué no está en su estómago?
 - Fue absorbido por la sangre.
 
 181
@@ -1221,7 +1221,7 @@ detective Kresge, policía de San Diego.
 268
 00:29:46,400 --> 00:29:49,995
 - Su hija es paciente nuestra.
-- ¿Por que la trataban?
+- ¿Por qué la trataban?
 
 269
 00:29:50,080 --> 00:29:52,310

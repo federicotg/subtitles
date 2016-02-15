@@ -670,7 +670,7 @@ la misma ropa.
 148
 00:14:33,280 --> 00:14:37,193
 - ¿Puede que éste sea otro detective?
-- ¿Por que no averiguas?
+- ¿Por qué no averiguas?
 
 149
 00:14:37,280 --> 00:14:39,555
@@ -748,7 +748,7 @@ no hubiera sobrevivido.
 
 165
 00:18:23,760 --> 00:18:28,709
-- ¿Por que discutieron?
+- ¿Por qué discutieron?
 - No lo se. Me mantuve a cierta distancia.
 
 166
@@ -1171,7 +1171,7 @@ dentro de otra jaula.
 
 257
 00:30:18,560 --> 00:30:21,472
-- ¿Por que me tienes tanto miedo?
+- ¿Por qué me tienes tanto miedo?
 - No te tengo miedo.
 
 258
@@ -1478,7 +1478,7 @@ Es el único modo de matarlos.
 325
 00:38:19,640 --> 00:38:23,110
 - Una simple herida de bala no sirve.
-- ¿Por que lo quiere?
+- ¿Por qué lo quiere?
 
 326
 00:38:24,600 --> 00:38:30,197
@@ -1579,7 +1579,7 @@ un proyecto y su hermana.
 
 348
 00:41:45,080 --> 00:41:48,709
-- ¿Por que no me lo dijo antes?
+- ¿Por qué no me lo dijo antes?
 - Es la primera vez que hablamos.
 
 349

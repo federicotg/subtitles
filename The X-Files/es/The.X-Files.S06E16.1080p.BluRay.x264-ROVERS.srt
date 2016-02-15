@@ -1235,7 +1235,7 @@ Es el perro equivocado.
 273
 00:26:06,480 --> 00:26:09,313
 - Vinieron para nada.
-- ¿Por que lo dice?
+- ¿Por qué lo dice?
 
 274
 00:26:09,400 --> 00:26:11,914
@@ -1699,7 +1699,7 @@ EMERGENCIAS
 
 374
 00:36:19,440 --> 00:36:22,750
-¿Por que me alejaste del sospechoso
+¿Por qué me alejaste del sospechoso
 para encadenarme aquí?
 
 375

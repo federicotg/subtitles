@@ -190,7 +190,7 @@ La palabra clave es "suelto".
 42
 00:04:33,400 --> 00:04:37,109
 - ¿Qué estás ocultando?
-- ¿Por que crees que te oculto algo?
+- ¿Por qué crees que te oculto algo?
 
 43
 00:04:37,320 --> 00:04:40,471
@@ -756,7 +756,7 @@ Queequeg.
 165
 00:09:11,280 --> 00:09:15,034
 Encantado. Ansel,
-¿por que no miras en el bosque?
+¿por qué no miras en el bosque?
 
 166
 00:09:07,840 --> 00:09:09,796
@@ -1435,7 +1435,7 @@ los límites terrenales de este lago.
 
 318
 00:18:21,120 --> 00:18:23,554
-Tú eres científica. ¿Por que preguntas eso?
+Tú eres científica. ¿Por qué preguntas eso?
 
 319
 00:18:20,360 --> 00:18:25,673
@@ -1562,7 +1562,7 @@ Pobre Queequeg.
 
 346
 00:20:56,400 --> 00:20:58,994
-¿Por que le pusiste ese nombre?
+¿Por qué le pusiste ese nombre?
 
 347
 00:20:59,120 --> 00:21:01,998
@@ -2071,7 +2071,7 @@ pata de palo.
 
 456
 00:30:43,800 --> 00:30:45,791
-¿Por que estás decepcionado?
+¿Por qué estás decepcionado?
 
 457
 00:30:45,880 --> 00:30:49,156

@@ -341,7 +341,7 @@ Anoche secuestraron a una chica.
 
 76
 00:09:14,560 --> 00:09:16,312
-¿Por que me lo preguntan a mí?
+¿Por qué me lo preguntan a mí?
 
 77
 00:09:16,400 --> 00:09:19,517

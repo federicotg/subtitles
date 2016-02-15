@@ -1154,7 +1154,7 @@ La tapa del inodoro.
 
 255
 00:24:24,320 --> 00:24:26,436
-¿Por que matar a Mike?
+¿Por qué matar a Mike?
 
 256
 00:24:26,520 --> 00:24:29,193
@@ -1632,7 +1632,7 @@ en sus viajes por el Lejano Oriente.
 
 360
 00:40:43,200 --> 00:40:44,679
-¿Por que lo hizo?
+¿Por qué lo hizo?
 
 361
 00:40:44,760 --> 00:40:49,197

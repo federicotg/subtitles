@@ -850,7 +850,7 @@ no serán capaces de aceptarla como causa.
 
 186
 00:20:51,120 --> 00:20:54,590
-- ¿Por que no puedes aceptar los hechos?
+- ¿Por qué no puedes aceptar los hechos?
 - No hay hechos.
 
 187
@@ -1154,7 +1154,7 @@ encontrado pruebas.
 251
 00:25:55,880 --> 00:25:59,156
 - Pero no estoy listo para anunciarlo.
-- ¿Por que no?
+- ¿Por qué no?
 
 252
 00:25:59,800 --> 00:26:01,950

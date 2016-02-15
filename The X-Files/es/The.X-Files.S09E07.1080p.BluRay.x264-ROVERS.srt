@@ -75,7 +75,7 @@ Quizá me guste saltar.
 
 19
 00:04:34,360 --> 00:04:37,272
-¿Por que no hablaste antes?
+¿Por qué no hablaste antes?
 
 20
 00:04:37,400 --> 00:04:40,392
@@ -1079,7 +1079,7 @@ Déjanoslo a nosotros.
 
 244
 00:41:40,240 --> 00:41:43,391
-¿Por que querrías recordar?
+¿Por qué querrías recordar?
 
 245
 00:41:45,440 --> 00:41:52,118
@@ -1092,7 +1092,7 @@ Lo vi todo. Tanta pena.
 
 247
 00:42:01,440 --> 00:42:07,788
-¿Por que luchar con tanto empeño
+¿Por qué luchar con tanto empeño
 
 248
 00:42:08,960 --> 00:42:12,270

@@ -607,7 +607,7 @@ Nunca estuviste aquí.
 
 132
 00:13:31,240 --> 00:13:31,877
-¿Por que no?
+¿Por qué no?
 
 133
 00:13:32,600 --> 00:13:34,716
@@ -829,7 +829,7 @@ No.
 
 182
 00:17:31,400 --> 00:17:33,516
-¿Por que no se me informó sobre esto?
+¿Por qué no se me informó sobre esto?
 
 183
 00:17:34,120 --> 00:17:35,758
@@ -1942,7 +1942,7 @@ como mecanismo de convocatoria.
 428
 00:38:49,600 --> 00:38:52,160
 - Mulder, no tiene sentido.
-- ¿Por que no?
+- ¿Por qué no?
 
 429
 00:38:52,240 --> 00:38:54,800
@@ -2053,7 +2053,7 @@ para que le de indicaciones.
 
 452
 00:41:30,840 --> 00:41:34,230
-- ¿Por que está llamando aquí?
+- ¿Por qué está llamando aquí?
 - Estoy buscando a la agente Scully.
 
 453

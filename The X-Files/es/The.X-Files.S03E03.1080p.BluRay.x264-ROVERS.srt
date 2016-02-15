@@ -751,7 +751,7 @@ Déjate de jugar con el control remoto.
 
 166
 00:14:57,040 --> 00:15:00,794
-¿Por que miras eso?
+¿Por qué miras eso?
 Son todos unos fracasados.
 
 167
@@ -1099,7 +1099,7 @@ No voy a ninguna parte sin la Sra. Kiveat.
 
 243
 00:20:23,320 --> 00:20:26,153
-¿Por que crees que querrá
+¿Por qué crees que querrá
 ir contigo a alguna parte?
 
 244
@@ -1545,7 +1545,7 @@ No se cómo murió esa gente.
 
 341
 00:28:48,840 --> 00:28:51,354
-¿Por que huyó cuando nos vio?
+¿Por qué huyó cuando nos vio?
 
 342
 00:28:52,240 --> 00:28:55,789
@@ -1830,7 +1830,7 @@ Está camino al hospital.
 
 403
 00:34:13,320 --> 00:34:16,630
-¿Por que me haces esto?
+¿Por qué me haces esto?
 ¡Somos amigos!
 
 404

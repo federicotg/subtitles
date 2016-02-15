@@ -211,7 +211,7 @@ Morris.
 
 48
 00:05:46,440 --> 00:05:48,590
-¿Por que los dejaste ir?
+¿Por qué los dejaste ir?
 
 49
 00:05:50,760 --> 00:05:52,910
@@ -728,7 +728,7 @@ No es Terry.
 
 163
 00:20:27,040 --> 00:20:32,034
-Terence, ¿por que no ayudas a tu viejo
+Terence, ¿por qué no ayudas a tu viejo
 a encontrar las llaves del auto?
 
 164

@@ -205,7 +205,7 @@ Quiero verlo cuando lo termines.
 
 47
 00:04:37,680 --> 00:04:39,477
-¿Por que no vas a ver una película?
+¿Por qué no vas a ver una película?
 
 48
 00:04:40,200 --> 00:04:45,069
@@ -995,7 +995,7 @@ las revoluciones que iniciamos.
 
 226
 00:19:17,160 --> 00:19:20,152
-No, no. ¿Por que tuviste que hacerlo?
+No, no. ¿Por qué tuviste que hacerlo?
 
 227
 00:19:20,400 --> 00:19:22,072

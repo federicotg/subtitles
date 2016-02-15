@@ -332,7 +332,7 @@ Te va a decir que está bien.
 
 76
 00:08:27,840 --> 00:08:31,435
-- ¿Por que apagaron las luces?
+- ¿Por qué apagaron las luces?
 - Tiene problemas con la vista.
 
 77
@@ -1622,7 +1622,7 @@ que investigara la resolución R8819,
 
 356
 00:42:31,280 --> 00:42:33,919
-¿por que llamar para decirle eso?
+¿por qué llamar para decirle eso?
 
 357
 00:42:34,840 --> 00:42:38,753

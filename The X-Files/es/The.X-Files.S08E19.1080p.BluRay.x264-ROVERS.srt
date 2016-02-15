@@ -604,7 +604,7 @@ Me dijeron que Doggett desapareció.
 140
 00:19:17,960 --> 00:19:21,919
 - Investigaba un homicidio. No ha vuelto.
-- ¿Por que no me lo dijeron?
+- ¿Por qué no me lo dijeron?
 
 141
 00:19:22,040 --> 00:19:24,873
@@ -957,7 +957,7 @@ Soy un agente federal.
 217
 00:30:59,440 --> 00:31:04,275
 No lo entiendo.
-¿Por que nos querrá encerrar aquí abajo?
+¿Por qué nos querrá encerrar aquí abajo?
 
 218
 00:31:06,280 --> 00:31:09,590
@@ -1091,7 +1091,7 @@ sino de un hombre.
 
 247
 00:33:28,400 --> 00:33:30,914
-- ¿Por que lo dices?
+- ¿Por qué lo dices?
 - Regalaste lo que te regale.
 
 248

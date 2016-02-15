@@ -361,7 +361,7 @@ que la gente piense lo mismo.
 
 77
 00:10:21,160 --> 00:10:24,152
-- Estoy bien. ¿Por que preguntas?
+- Estoy bien. ¿Por qué preguntas?
 - ¿Quién es, mamá?
 
 78
@@ -608,7 +608,7 @@ Sólo es una idea.
 
 131
 00:15:04,000 --> 00:15:07,754
-- ¿Por que no sales del pueblo?
+- ¿Por qué no sales del pueblo?
 - No tengo adonde ir.
 
 132
@@ -1145,7 +1145,7 @@ Está bien.
 
 247
 00:30:18,040 --> 00:30:20,793
-- ¿Por que volviste?
+- ¿Por qué volviste?
 - Tienes que salir de aquí.
 
 248

@@ -284,7 +284,7 @@ dependiendo de con quién hable.
 
 61
 00:09:50,440 --> 00:09:52,078
-¿Por que es eso?
+¿Por qué es eso?
 
 62
 00:09:52,160 --> 00:09:56,676
@@ -518,7 +518,7 @@ Acéptalo, Scully.
 
 111
 00:13:42,840 --> 00:13:45,149
-¿Por que les mentiste?
+¿Por qué les mentiste?
 
 112
 00:13:46,560 --> 00:13:52,590
@@ -782,7 +782,7 @@ El Dr. Lewton ha muerto.
 
 170
 00:21:44,000 --> 00:21:46,389
-¿Por que no?
+¿Por qué no?
 
 171
 00:21:47,000 --> 00:21:49,560
@@ -1093,7 +1093,7 @@ Yo no la mate.
 
 239
 00:30:16,120 --> 00:30:18,236
-¿Por que tiene sangre en la ropa?
+¿Por qué tiene sangre en la ropa?
 
 240
 00:30:18,400 --> 00:30:23,315
@@ -1179,7 +1179,7 @@ Oye, Scully. Ven un momento.
 259
 00:31:48,760 --> 00:31:52,309
 Me acabo de dar cuenta.
-¿Por que hay tanta agua aquí?
+¿Por qué hay tanta agua aquí?
 
 260
 00:31:52,480 --> 00:31:56,393

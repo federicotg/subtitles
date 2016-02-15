@@ -620,7 +620,7 @@ Sí, sigo siendo yo.
 
 141
 00:16:23,000 --> 00:16:25,753
-¿Por que no baja el arma?
+¿Por qué no baja el arma?
 
 142
 00:16:25,880 --> 00:16:28,394
@@ -1286,7 +1286,7 @@ a todos los bancos de datos de ese lugar.
 
 283
 00:29:01,680 --> 00:29:04,478
-¿Por que harían eso?
+¿Por qué harían eso?
 
 284
 00:29:05,480 --> 00:29:10,679
@@ -1478,7 +1478,7 @@ el código de acceso.
 
 325
 00:32:41,920 --> 00:32:44,912
-Scully, ¿por que volviste?
+Scully, ¿por qué volviste?
 
 326
 00:32:45,920 --> 00:32:48,718
@@ -1875,7 +1875,7 @@ por la que no revele tu nombre.
 
 413
 00:41:35,480 --> 00:41:39,473
-¿Por que no voy a exponerte
+¿Por qué no voy a exponerte
 si eres un mentiroso de mierda?
 
 414

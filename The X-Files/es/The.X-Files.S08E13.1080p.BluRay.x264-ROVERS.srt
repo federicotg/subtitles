@@ -180,7 +180,7 @@ Mi esposa dio a luz a un alienígena.
 40
 00:04:58,200 --> 00:05:02,591
 Muy bien, Sr. Haskell.
-¿Por que no comienza desde el principio?
+¿Por qué no comienza desde el principio?
 
 41
 00:05:09,240 --> 00:05:12,232
@@ -615,7 +615,7 @@ pero es normal, igual que el suyo.
 135
 00:16:16,440 --> 00:16:21,594
 - ¿No vio nada raro?
-- ¿Por que me lo pregunta?
+- ¿Por qué me lo pregunta?
 
 136
 00:16:21,680 --> 00:16:27,038
@@ -690,7 +690,7 @@ Dije que no se podía hacer nada.
 151
 00:17:35,920 --> 00:17:39,629
 Si no se puede hacer nada,
-¿por que investigas?
+¿por qué investigas?
 
 152
 00:17:39,760 --> 00:17:43,389
@@ -727,7 +727,7 @@ no cabe duda.
 159
 00:18:22,440 --> 00:18:27,389
 ¿De que se me acusa?
-¿Por que me llamaron? Me iban a ayudar.
+¿Por qué me llamaron? Me iban a ayudar.
 
 160
 00:18:27,480 --> 00:18:32,508
@@ -773,7 +773,7 @@ de las malformaciones congénitas.
 
 169
 00:19:11,400 --> 00:19:16,520
-- ¿Por que habría de matar a su esposa?
+- ¿Por qué habría de matar a su esposa?
 - Por eso acudía ustedes.
 
 170
@@ -1292,7 +1292,7 @@ Pero si es de la CIA, fue a mi oficina por algo.
 
 282
 00:32:31,520 --> 00:32:34,318
-¿Por que habría de molestarse?
+¿Por qué habría de molestarse?
 
 283
 00:32:34,400 --> 00:32:40,157
@@ -1629,7 +1629,7 @@ Al menos estás bien.
 
 357
 00:41:08,280 --> 00:41:11,033
-¿Por que no me lo dijiste?
+¿Por qué no me lo dijiste?
 
 358
 00:41:12,160 --> 00:41:14,230

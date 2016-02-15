@@ -939,7 +939,7 @@ Estoy bien.
 
 213
 00:25:18,280 --> 00:25:22,034
-¿Por que buscar a Krycek
+¿Por qué buscar a Krycek
 para luego jugar con él?
 
 214
@@ -1141,7 +1141,7 @@ Soy tu padre.
 
 259
 00:29:57,640 --> 00:30:02,395
-Si eres mi padre, ¿por que no me crees?
+Si eres mi padre, ¿por qué no me crees?
 
 260
 00:30:02,480 --> 00:30:05,040
@@ -1278,7 +1278,7 @@ De encontrar las pruebas.
 
 291
 00:33:49,760 --> 00:33:52,877
-¿Por que yo? ¿Por que ahora?
+¿Por qué yo? ¿Por qué ahora?
 
 292
 00:33:55,120 --> 00:34:00,353

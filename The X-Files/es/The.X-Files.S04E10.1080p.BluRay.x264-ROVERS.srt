@@ -585,7 +585,7 @@ Dieciséis víctimas, John.
 
 132
 00:13:06,120 --> 00:13:08,429
-¿Por que dijo que sólo hubo 13?
+¿Por qué dijo que sólo hubo 13?
 
 133
 00:13:09,520 --> 00:13:13,195
@@ -2040,7 +2040,7 @@ pero te conozco.
 
 456
 00:43:12,680 --> 00:43:15,911
-¿Por que no vas a casa
+¿Por qué no vas a casa
 y tratas de dormir un poco?
 
 457

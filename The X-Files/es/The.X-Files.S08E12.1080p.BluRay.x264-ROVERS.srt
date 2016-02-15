@@ -374,7 +374,7 @@ Te seguiremos durante todo el trayecto.
 
 81
 00:09:00,960 --> 00:09:04,794
-- ¿Por que hace tanto calor aquí?
+- ¿Por qué hace tanto calor aquí?
 - Anoche cerraron la ventilación.
 
 82
@@ -409,7 +409,7 @@ un hombre.
 88
 00:09:24,320 --> 00:09:28,677
 Si tanto lo duda, agente Doggett,
-¿por que trajo el arma?
+¿por qué trajo el arma?
 
 89
 00:09:52,080 --> 00:09:54,435
@@ -1262,7 +1262,7 @@ de salvarla de ella.
 278
 00:25:09,520 --> 00:25:13,274
 Si sabe lo que hace,
-¿por que no ha descubierto que pasa?
+¿por qué no ha descubierto que pasa?
 
 279
 00:25:13,360 --> 00:25:15,351

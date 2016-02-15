@@ -168,7 +168,7 @@ arrestar al agente Mulder.
 
 38
 00:05:35,720 --> 00:05:37,233
-¿Por que razón?
+¿Por qué razón?
 
 39
 00:05:37,320 --> 00:05:42,553
@@ -385,7 +385,7 @@ Sólo que no puede ser probado.
 
 85
 00:08:51,920 --> 00:08:52,875
-¿Por que no?
+¿Por qué no?
 
 86
 00:08:52,960 --> 00:08:58,159
@@ -446,7 +446,7 @@ Allí conoció a Max.
 
 98
 00:09:32,920 --> 00:09:35,480
-- ¿Por que mentiría?
+- ¿Por qué mentiría?
 - No lo se.
 
 99
@@ -478,7 +478,7 @@ Bien, Scully. Scully...
 
 105
 00:10:06,880 --> 00:10:09,952
-Mulder, ¿por que tantas muertes?
+Mulder, ¿por qué tantas muertes?
 
 106
 00:10:10,040 --> 00:10:14,158

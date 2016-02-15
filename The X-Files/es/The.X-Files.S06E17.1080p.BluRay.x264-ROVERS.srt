@@ -70,7 +70,7 @@ _ ¿Conque le hizo daño a Whaley?
 
 17
 00:01:59,080 --> 00:02:02,709
-- ¿Por que hiciste eso?
+- ¿Por qué hiciste eso?
 - El hombre me enfureció, jefe.
 
 18
@@ -901,7 +901,7 @@ Así fue que llegó.
 
 201
 00:22:19,960 --> 00:22:22,633
-¿Por que se iría
+¿Por qué se iría
 sin obtener la información?
 
 202
@@ -1590,7 +1590,7 @@ Ven. No te haré daño.
 
 356
 00:38:17,560 --> 00:38:21,951
-Está bien. ¿Por que no te acercas?
+Está bien. ¿Por qué no te acercas?
 
 357
 00:38:22,040 --> 00:38:24,270

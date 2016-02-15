@@ -1051,7 +1051,7 @@ Aleg rate.
 240
 00:25:29,680 --> 00:25:32,911
 - Necesito ayuda.
-- ¿Por que piensas eso?
+- ¿Por qué piensas eso?
 
 241
 00:25:33,960 --> 00:25:37,635
@@ -1319,7 +1319,7 @@ un buen policía con uno loco.
 
 299
 00:30:24,240 --> 00:30:27,437
-¿Por que me dicen todo esto?
+¿Por qué me dicen todo esto?
 
 300
 00:30:28,000 --> 00:30:30,992
@@ -1665,7 +1665,7 @@ Eso fue ayer.
 
 378
 00:39:29,560 --> 00:39:35,157
-- ¿Por que no me lo dices ahora?
+- ¿Por qué no me lo dices ahora?
 - Escúcheme bien.
 
 379

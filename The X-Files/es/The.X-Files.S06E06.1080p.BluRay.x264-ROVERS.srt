@@ -270,7 +270,7 @@ No.
 58
 00:04:45,200 --> 00:04:48,192
 - No bromees.
-- ¿Por que habría de llevármelas?
+- ¿Por qué habría de llevármelas?
 
 59
 00:04:48,280 --> 00:04:55,709
@@ -1077,7 +1077,7 @@ Vivo aquí. Muchas gracias.
 237
 00:23:09,560 --> 00:23:13,235
 - ¿Dónde está mi compañero?
-- ¿Por que me apunta con esa arma?
+- ¿Por qué me apunta con esa arma?
 
 238
 00:23:13,320 --> 00:23:16,153
@@ -1179,7 +1179,7 @@ en que me trata.
 
 260
 00:24:28,200 --> 00:24:31,556
-- ¿Por que están los muebles cubiertos?
+- ¿Por qué están los muebles cubiertos?
 - Estamos redecorando.
 
 261
@@ -1272,8 +1272,8 @@ El año pasado no vino nadie.
 
 280
 00:26:17,480 --> 00:26:21,598
-¿Por que elegiste Navidad?
-¿Por que no Noche de Brujas?
+¿Por qué elegiste Navidad?
+¿Por qué no Noche de Brujas?
 
 281
 00:26:21,680 --> 00:26:26,276
@@ -1426,7 +1426,7 @@ No.
 
 314
 00:29:24,840 --> 00:29:28,753
-¿Por que están llenos de desesperanza
+¿Por qué están llenos de desesperanza
 y melancolía navideña?
 
 315
@@ -1470,7 +1470,7 @@ el resultado es el mismo.
 323
 00:30:01,880 --> 00:30:05,509
 - No le enseño mi agujero a cualquiera.
-- ¿Por que a mí?
+- ¿Por qué a mí?
 
 324
 00:30:05,600 --> 00:30:09,718
@@ -1936,7 +1936,7 @@ sea refutarte.
 
 427
 00:42:32,480 --> 00:42:35,313
-¿Por que otro motivo
+¿Por qué otro motivo
 querías que estuviese contigo?
 
 428
