@@ -284,7 +284,7 @@ Tengo que llegar a un lugar.
 
 65
 00:08:35,724 --> 00:08:38,761
-No lo sé... melo dirán cuando llegue.
+No lo sé... me lo dirán cuando llegue.
 
 66
 00:08:47,610 --> 00:08:51,853
