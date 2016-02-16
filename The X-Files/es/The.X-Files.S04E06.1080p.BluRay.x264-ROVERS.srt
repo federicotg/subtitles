@@ -853,7 +853,7 @@ pero es una emergencia.
 
 191
 00:16:26,120 --> 00:16:30,557
-No, porfavor. Soy el Dr. Jack Franklin.
+No, por favor. Soy el Dr. Jack Franklin.
 ¿Quieren tomar asiento?
 
 192
@@ -1779,7 +1779,7 @@ No. Por favor, no.
 
 395
 00:39:26,960 --> 00:39:29,918
-No. No, porfavor, no.
+No. No, por favor, no.
 
 396
 00:39:48,800 --> 00:39:53,476

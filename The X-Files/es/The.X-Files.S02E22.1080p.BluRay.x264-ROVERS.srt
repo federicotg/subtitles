@@ -17,7 +17,7 @@ Robert de biodiversidad llamando a base.
 
 5
 00:02:06,600 --> 00:02:08,716
-Base, respondan, porfavor.
+Base, respondan, por favor.
 
 6
 00:02:10,400 --> 00:02:15,315
