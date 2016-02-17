@@ -968,7 +968,7 @@ a raíz de información nueva.
 
 212
 00:24:03,080 --> 00:24:09,076
-- ¿De que hablas?
+- ¿De qué hablas?
 - Pruebas de que alguien ha interferido.
 
 213
@@ -1214,7 +1214,7 @@ Tú eres la que corre peligro.
 
 265
 00:29:25,920 --> 00:29:28,480
-¿De quien? ¿De que?
+¿De quién? ¿De qué?
 
 266
 00:29:28,600 --> 00:29:32,309

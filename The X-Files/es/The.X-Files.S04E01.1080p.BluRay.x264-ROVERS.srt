@@ -586,7 +586,7 @@ Soy yo, Fox, tu hermano.
 
 131
 00:20:37,400 --> 00:20:39,311
-¿De que está hablando?
+¿De qué está hablando?
 
 132
 00:20:39,400 --> 00:20:43,154
@@ -650,7 +650,7 @@ que le interesarán mucho a él.
 
 145
 00:23:21,320 --> 00:23:24,118
-- ¿De que tipo?
+- ¿De qué tipo?
 - Referente a su madre.
 
 146
@@ -856,7 +856,7 @@ Un número infinito de variaciones.
 190
 00:29:28,600 --> 00:29:31,672
 - Un inventario.
-- ¿De que?
+- ¿De qué?
 
 191
 00:29:31,840 --> 00:29:33,910
@@ -931,7 +931,7 @@ al vacunarme de chica contra la viruela.
 
 206
 00:30:34,600 --> 00:30:36,591
-¿Y por que tú?
+¿Y por qué tú?
 
 207
 00:30:36,920 --> 00:30:39,195

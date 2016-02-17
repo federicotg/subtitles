@@ -1023,7 +1023,7 @@ que vea esto como otra alternativa.
 
 227
 00:26:04,680 --> 00:26:08,912
-- ¿De que?
+- ¿De qué?
 - Vamos a resolver este caso.
 
 228
@@ -1419,7 +1419,7 @@ Fuiste a buscar a Billy.
 317
 00:37:01,800 --> 00:37:06,954
 - No se cómo llegó allí.
-- ¿Entonces por que fuiste a la casa?
+- ¿Entonces por qué fuiste a la casa?
 
 318
 00:37:08,480 --> 00:37:11,358

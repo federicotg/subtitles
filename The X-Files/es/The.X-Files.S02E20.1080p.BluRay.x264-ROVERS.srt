@@ -540,7 +540,7 @@ donde dormir esta noche.
 118
 00:10:23,120 --> 00:10:27,113
 Hay alojamiento al otro lado del
-camino, pero ¿de que se trata?
+camino, pero ¿de qué se trata?
 
 119
 00:10:27,200 --> 00:10:29,953
@@ -1628,7 +1628,7 @@ Nadie entró. Pero alguien salió.
 
 361
 00:35:59,760 --> 00:36:02,399
-- ¿De que hablas?
+- ¿De qué hablas?
 - No estoy seguro.
 
 362
@@ -1935,7 +1935,7 @@ Y crea mutaciones.
 
 430
 00:43:58,560 --> 00:44:00,790
-- ¿Sabes por que?
+- ¿Sabes por qué?
 - No. ¿Por qué?
 
 431

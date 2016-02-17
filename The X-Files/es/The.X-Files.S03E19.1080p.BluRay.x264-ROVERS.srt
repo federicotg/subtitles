@@ -110,7 +110,7 @@ Un segundo.
 25
 00:04:53,000 --> 00:04:56,879
 - El detective Glen Chao, agente Mulder.
-- Hola. ¿De que se trata?
+- Hola. ¿De qué se trata?
 
 26
 00:04:57,000 --> 00:05:01,516
@@ -791,7 +791,7 @@ respuestas porque hablo su idioma.
 
 171
 00:22:01,400 --> 00:22:05,916
-Pero, ¿de que sirve un intérprete
+Pero, ¿de qué sirve un intérprete
 si todos hablan el idioma del silencio?
 
 172
@@ -930,7 +930,7 @@ Te lo diré enseguida.
 
 202
 00:24:47,400 --> 00:24:50,631
-- ¿De que hablaban?
+- ¿De qué hablaban?
 - Tiene la ventana trasera bloqueada.
 
 203
@@ -1269,7 +1269,7 @@ y lo del fantasma sea una treta.
 
 279
 00:31:11,640 --> 00:31:15,189
-¿De que grupo era la sangre
+¿De qué grupo era la sangre
 que encontramos en la alfombra?
 
 280

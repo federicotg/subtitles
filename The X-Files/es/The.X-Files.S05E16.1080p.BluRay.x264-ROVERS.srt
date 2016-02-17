@@ -649,7 +649,7 @@ Pasó todas la preguntas menos una:
 
 145
 00:12:24,160 --> 00:12:27,835
-¿Te recuerdo por que no se acepta
+¿Te recuerdo por qué no se acepta
 el detector de mentiras en los juicios?
 
 146
@@ -1048,7 +1048,7 @@ que le hace dilatar las pupilas.
 
 233
 00:20:20,480 --> 00:20:23,552
-- ¿De que?
+- ¿De qué?
 - Eso indica reacción a los estímulos,
 
 234
@@ -1750,7 +1750,7 @@ Si todo está listo por aquí.
 
 390
 00:36:36,760 --> 00:36:38,910
-¿De que habla?
+¿De qué habla?
 
 391
 00:36:39,000 --> 00:36:43,676
@@ -1916,7 +1916,7 @@ Gotts ya está aquí.
 
 427
 00:39:40,880 --> 00:39:43,872
-¿De que hablas?
+¿De qué hablas?
 
 428
 00:39:46,320 --> 00:39:48,959

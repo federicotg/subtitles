@@ -1285,7 +1285,7 @@ Sí, ya lo se. Yo solicite la citación.
 286
 00:25:41,960 --> 00:25:45,714
 - Esa citación ha sido eliminada.
-- ¿De que está hablando?
+- ¿De qué está hablando?
 
 287
 00:25:45,800 --> 00:25:51,079
@@ -1393,7 +1393,7 @@ en la cárcel por un crimen que no cometiste?
 
 310
 00:27:39,920 --> 00:27:44,391
-- ¿De que estás hablando? ¡Soy culpable!
+- ¿De qué estás hablando? ¡Soy culpable!
 - ¡Sé que eres inocente!
 
 311
@@ -1519,7 +1519,7 @@ a ese nivel de inteligencia artificial.
 
 338
 00:29:31,880 --> 00:29:36,158
-¿Y por que intenta el gobierno
+¿Y por qué intenta el gobierno
 usurpar las investigaciones de Wilczek?
 
 339

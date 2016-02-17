@@ -891,7 +891,7 @@ Este es el análisis.
 
 197
 00:14:49,800 --> 00:14:52,712
-- ¿De que se trata?
+- ¿De qué se trata?
 - Nadie en el laboratorio sabe que es.
 
 198
@@ -1705,7 +1705,7 @@ Jason.
 378
 00:32:41,040 --> 00:32:44,555
 - Algo le ocurrió.
-- ¿De que habla?
+- ¿De qué habla?
 
 379
 00:32:44,640 --> 00:32:49,350

@@ -1272,7 +1272,7 @@ Dicen que has confesado.
 
 287
 00:29:10,720 --> 00:29:14,076
-- ¿De que?
+- ¿De qué?
 - Creo que lo sabes.
 
 288
@@ -1620,7 +1620,7 @@ animado a través de un ritual místico.
 
 366
 00:34:51,040 --> 00:34:55,795
-Mulder, ¿de que hablas?
+Mulder, ¿de qué hablas?
 ¿Y con que objetivo? ¿Venganza?
 
 367

@@ -244,7 +244,7 @@ Debió de ser el agente Mulder.
 
 55
 00:08:02,880 --> 00:08:07,237
-- ¿De que estás hablando?
+- ¿De qué estás hablando?
 - Dejaré que él te responda.
 
 56
@@ -1486,7 +1486,7 @@ Hablas demasiado rápido.
 324
 00:31:25,560 --> 00:31:29,633
 ¿Dices que provocaste el incendio?
-¿De que tienes miedo?
+¿De qué tienes miedo?
 
 325
 00:31:42,160 --> 00:31:44,276

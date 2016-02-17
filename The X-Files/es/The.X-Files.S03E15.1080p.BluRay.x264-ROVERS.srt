@@ -338,7 +338,7 @@ No es nada.
 
 80
 00:07:54,280 --> 00:07:56,396
-¿De que querías hablarme?
+¿De qué querías hablarme?
 
 81
 00:07:56,480 --> 00:07:59,870
@@ -531,7 +531,7 @@ es un estado previo al coma.
 
 122
 00:10:35,080 --> 00:10:39,471
-- ¿De que tipo de exposición hablamos?
+- ¿De qué tipo de exposición hablamos?
 - 200, tal vez 400 roentgenes,
 
 123
@@ -1136,7 +1136,7 @@ Agente Scully, ¿podría bajar del auto?
 
 255
 00:26:19,480 --> 00:26:22,711
-- ¿De que se trata?
+- ¿De qué se trata?
 - Queda detenida.
 
 256

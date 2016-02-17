@@ -414,7 +414,7 @@ Roche manejaba un El Camino blanco.
 92
 00:09:17,480 --> 00:09:20,358
 - Lo vi en mi sueño.
-- ¿De que estas hablando?
+- ¿De qué estas hablando?
 
 93
 00:09:20,440 --> 00:09:22,829
@@ -975,7 +975,7 @@ Me dijeron que la orden era suya.
 
 219
 00:21:16,200 --> 00:21:20,113
-¿Puede explicar por que se le ocurrió
+¿Puede explicar por qué se le ocurrió
 agredir a un prisionero en custodia?
 
 220

@@ -611,7 +611,7 @@ Me tenía que asegurar.
 
 139
 00:16:15,800 --> 00:16:19,509
-- ¿De que?
+- ¿De qué?
 - De que sigue siendo usted.
 
 140
@@ -872,7 +872,7 @@ Quería hablar con el presidente.
 
 195
 00:20:33,800 --> 00:20:37,509
-- ¿De que crees que le quería hablar?
+- ¿De qué crees que le quería hablar?
 - ¿Sabía algo?
 
 196
@@ -1371,7 +1371,7 @@ No seas ambiguo. Me están acusando.
 
 301
 00:30:49,640 --> 00:30:51,551
-¿Acusando? ¿De que?
+¿Acusando? ¿De qué?
 
 302
 00:30:51,640 --> 00:30:54,108
@@ -1560,7 +1560,7 @@ Estoy empezando a dudar de ti.
 
 343
 00:34:06,960 --> 00:34:10,555
-¿De que lado estás?
+¿De qué lado estás?
 
 344
 00:34:10,640 --> 00:34:13,359

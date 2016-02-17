@@ -1749,7 +1749,7 @@ aunque no tenga el virus...
 
 382
 00:35:09,360 --> 00:35:14,229
-- ¿De que manera entra dentro del plan?
+- ¿De qué manera entra dentro del plan?
 - El truco de las tres cartas.
 
 383
@@ -1837,7 +1837,7 @@ es mucho más difícil.
 
 400
 00:36:23,080 --> 00:36:26,436
-- ¿De que diario?
+- ¿De qué diario?
 - El pistolero solitario.
 
 401

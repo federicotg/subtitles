@@ -842,7 +842,7 @@ Alguien más puede lastimarse.
 
 181
 00:27:24,960 --> 00:27:30,193
-- ¿De que está hablando?
+- ¿De qué está hablando?
 - Kazuo Sakurai, el diplomático que detuvo.
 
 182
@@ -1069,7 +1069,7 @@ en que se puede entender o denunciarlo.
 
 229
 00:31:05,200 --> 00:31:07,919
-¿De que se trata?
+¿De qué se trata?
 
 230
 00:31:08,000 --> 00:31:10,833
@@ -1208,12 +1208,12 @@ Los mismos que fueron asesinados ayer.
 258
 00:33:21,600 --> 00:33:25,275
 - Encontrado aquí, en tierra americana.
-- ¿Asesinado por que?
+- ¿Asesinado por qué?
 
 259
 00:33:25,360 --> 00:33:28,477
 - Eso es lo que quisiera saber.
-- ¿Asesinado por quien?
+- ¿Asesinado por quién?
 
 260
 00:33:28,560 --> 00:33:32,109

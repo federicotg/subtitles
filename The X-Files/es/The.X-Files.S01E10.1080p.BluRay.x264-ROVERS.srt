@@ -450,7 +450,7 @@ en busca de un encuentro.
 
 100
 00:13:10,720 --> 00:13:12,836
-¿De que si no?
+¿De qué si no?
 
 101
 00:13:12,920 --> 00:13:15,673
@@ -1591,7 +1591,7 @@ Me duele. Paren.
 
 353
 00:36:28,000 --> 00:36:29,672
-¿Por qué, por qué, por qué, por que?
+¿Por qué, por qué, por qué, por qué?
 
 354
 00:36:29,800 --> 00:36:32,234

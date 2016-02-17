@@ -1624,7 +1624,7 @@ Encienda su televisor.
 357
 00:32:23,720 --> 00:32:28,316
 ¿Ve quién está ahí?
-¿Obtiene información para quien?
+¿Obtiene información para quién?
 
 358
 00:32:28,400 --> 00:32:31,756
@@ -1699,7 +1699,7 @@ Me estaba espiando.
 
 373
 00:34:51,920 --> 00:34:54,480
-¿Sabe para quien?
+¿Sabe para quién?
 
 374
 00:34:54,560 --> 00:34:59,076
@@ -1795,7 +1795,7 @@ que me salvaría la vida, en cierta forma.
 
 394
 00:36:49,560 --> 00:36:51,915
-¿Un trato con quien?
+¿Un trato con quién?
 
 395
 00:36:52,000 --> 00:36:56,596

@@ -132,7 +132,7 @@ múltiples heridas por mordeduras.
 
 31
 00:04:27,840 --> 00:04:28,909
-¿De que?
+¿De qué?
 
 32
 00:04:29,000 --> 00:04:32,675
@@ -1240,7 +1240,7 @@ Es el perro equivocado.
 274
 00:26:09,400 --> 00:26:11,914
 - Herí a una mascota.
-- ¿De que tipo?
+- ¿De qué tipo?
 
 275
 00:26:12,040 --> 00:26:15,316
@@ -1833,7 +1833,7 @@ Quizá ése fue mi error.
 
 404
 00:42:50,200 --> 00:42:54,398
-- ¿Y por que no ibas a creerle?
+- ¿Y por qué no ibas a creerle?
 - Apenas la conocía.
 
 405

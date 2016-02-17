@@ -1331,7 +1331,7 @@ No regresarás. No lo permitire.
 
 303
 00:35:04,360 --> 00:35:07,909
-- ¿De que hablas?
+- ¿De qué hablas?
 - Hay que saber cuándo parar.
 
 304

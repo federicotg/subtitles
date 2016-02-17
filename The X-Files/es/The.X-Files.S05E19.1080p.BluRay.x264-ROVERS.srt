@@ -192,7 +192,7 @@ sea posible. Para evaluar una amenaza.
 
 44
 00:03:43,480 --> 00:03:46,517
-- ¿Para quien?
+- ¿Para quién?
 - Vinleight. Fabrican revestimientos.
 
 45
@@ -900,7 +900,7 @@ Quítelo de la vista.
 
 199
 00:17:37,600 --> 00:17:39,750
-¿Quiere saber por que
+¿Quiere saber por qué
 eso me saltó encima?
 
 200
@@ -1164,7 +1164,7 @@ Le debo la vida. Todos se la debemos.
 
 259
 00:23:40,680 --> 00:23:43,592
-¿Tiene idea de por que
+¿Tiene idea de por qué
 tenía esa fijación con usted?
 
 260

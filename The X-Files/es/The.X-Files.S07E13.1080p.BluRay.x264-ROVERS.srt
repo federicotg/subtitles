@@ -219,7 +219,7 @@ de un cohete que apunta al infinito.
 50
 00:07:48,040 --> 00:07:51,794
 - Hubo un pequeño percance.
-- ¿De que tipo?
+- ¿De qué tipo?
 
 51
 00:07:51,880 --> 00:07:54,599
@@ -814,7 +814,7 @@ y juegan a los indios y vaqueros del futuro.
 
 181
 00:19:33,240 --> 00:19:35,674
-¿De que sirve este juego
+¿De qué sirve este juego
 
 182
 00:19:35,760 --> 00:19:40,117
@@ -1365,7 +1365,7 @@ A contar los dientes, mejor dicho.
 304
 00:32:08,280 --> 00:32:11,716
 - El juego desapareció.
-- ¿De que hablan?
+- ¿De qué hablan?
 
 305
 00:32:11,840 --> 00:32:15,719

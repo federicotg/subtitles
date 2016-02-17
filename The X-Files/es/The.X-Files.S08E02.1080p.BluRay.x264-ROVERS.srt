@@ -257,7 +257,7 @@ Es un alienígena.
 57
 00:06:02,320 --> 00:06:08,475
 - Es un caza recompensas.
-- ¿Recompensa para encontrar a quien?
+- ¿Recompensa para encontrar a quién?
 
 58
 00:06:08,800 --> 00:06:11,872

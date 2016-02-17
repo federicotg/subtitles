@@ -241,7 +241,7 @@ y hace sospechar de tus motivos.
 
 53
 00:05:19,920 --> 00:05:22,480
-¿De que motivos sospechas?
+¿De qué motivos sospechas?
 
 54
 00:05:22,560 --> 00:05:26,075
@@ -584,7 +584,7 @@ porque aquí estás a salvo.
 
 128
 00:11:07,840 --> 00:11:10,559
-- ¿A salvo de quien?
+- ¿A salvo de quién?
 - Tú lo sabes. De mi padre.
 
 129
@@ -1499,7 +1499,7 @@ quien adoptó mi causa fútil.
 328
 00:28:35,680 --> 00:28:37,875
 - En contra de su padre.
-- ¿Fútil por que?
+- ¿Fútil por qué?
 
 329
 00:28:38,000 --> 00:28:40,434

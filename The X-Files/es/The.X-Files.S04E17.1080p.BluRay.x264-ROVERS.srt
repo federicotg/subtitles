@@ -350,7 +350,7 @@ a aterrizar.
 
 78
 00:08:30,680 --> 00:08:34,832
-- ¿Por quién, o por que?
+- ¿Por quién, o por qué?
 - No quiero conjeturar.
 
 79
@@ -1172,7 +1172,7 @@ por la presión cíclica en el fuselaje.
 
 255
 00:26:15,560 --> 00:26:17,994
-- ¿Provocadas por que?
+- ¿Provocadas por qué?
 - Desgaste y fatiga.
 
 256

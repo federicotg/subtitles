@@ -178,7 +178,7 @@ Quiere hacerles algunas preguntas.
 39
 00:05:53,160 --> 00:05:57,756
 Es un agente del FBI. Quiere hacernos
-algunas preguntas. ¿De que se trata?
+algunas preguntas. ¿De qué se trata?
 
 40
 00:05:57,840 --> 00:06:01,355
@@ -405,7 +405,7 @@ una Walther PPK?
 88
 00:11:25,920 --> 00:11:29,913
 - Le faltaban tres balas.
-- ¿De que se trata todo esto?
+- ¿De qué se trata todo esto?
 
 89
 00:11:30,040 --> 00:11:34,352
@@ -415,7 +415,7 @@ donde Mulder investigaba un caso.
 90
 00:11:34,480 --> 00:11:39,679
 Nunca presentó un informe sobre el caso
-ni los disparos. ¿Sabes por que?
+ni los disparos. ¿Sabes por qué?
 
 91
 00:11:40,240 --> 00:11:43,118

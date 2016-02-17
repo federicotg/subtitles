@@ -647,12 +647,12 @@ No voy a hacerte pasar por esto.
 
 144
 00:11:10,240 --> 00:11:13,437
-- ¿Hacerme pasar por que?
+- ¿Hacerme pasar por qué?
 - El jueguito psicológico de Phoebe.
 
 145
 00:11:13,520 --> 00:11:15,511
-¿De que estás hablando?
+¿De qué estás hablando?
 
 146
 00:11:16,200 --> 00:11:20,432
@@ -1460,7 +1460,7 @@ Gracias.
 323
 00:26:07,160 --> 00:26:10,197
 - Voy para allá.
-- ¿De que se trata?
+- ¿De qué se trata?
 
 324
 00:26:10,280 --> 00:26:13,397

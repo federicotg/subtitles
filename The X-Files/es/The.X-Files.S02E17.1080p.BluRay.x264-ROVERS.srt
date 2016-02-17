@@ -12,7 +12,7 @@ Si no nos protegen estamos muertos.
 
 4
 00:00:11,240 --> 00:00:14,596
-- ¿Con quien habla Mamá?
+- ¿Con quién habla Mamá?
 - Tu hermana.
 
 5
@@ -288,7 +288,7 @@ Si no funciona, podrías morir.
 
 65
 00:05:53,320 --> 00:05:54,469
-¿De que?
+¿De qué?
 
 66
 00:05:54,600 --> 00:05:57,558

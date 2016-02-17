@@ -140,7 +140,7 @@ tu seria investigación.
 33
 00:04:17,200 --> 00:04:21,034
 - Oí una historia que te hará temblar.
-- ¿De que se trata?
+- ¿De qué se trata?
 
 34
 00:04:21,120 --> 00:04:24,317
@@ -493,7 +493,7 @@ A la mayoría les da miedo el bosque.
 
 109
 00:09:23,560 --> 00:09:25,630
-¿Miedo? ¿De que?
+¿Miedo? ¿De qué?
 
 110
 00:09:25,760 --> 00:09:27,830
@@ -721,7 +721,7 @@ Fuiste a la academia del FBI.
 161
 00:12:38,040 --> 00:12:41,555
 En serio. Eres genial con los críos.
-¿De que estás hablando?
+¿De qué estás hablando?
 
 162
 00:12:41,720 --> 00:12:45,156
@@ -955,7 +955,7 @@ Mala conducta.
 214
 00:20:06,480 --> 00:20:10,553
 - Y podremos añadir "ocultar pruebas".
-- ¿De que está hablando?
+- ¿De qué está hablando?
 
 215
 00:20:10,680 --> 00:20:12,591

@@ -1367,7 +1367,7 @@ Ahora sabemos que se trata de un loco.
 
 303
 00:26:39,000 --> 00:26:41,514
-Sí, ¿de que fecha es?
+Sí, ¿de qué fecha es?
 
 304
 00:26:44,240 --> 00:26:46,595
@@ -1575,7 +1575,7 @@ Frank. Frank, cuelgue el teléfono.
 
 347
 00:29:22,040 --> 00:29:24,873
-¿De que está hablando?
+¿De qué está hablando?
 ¿Adónde quiere llegar?
 
 348

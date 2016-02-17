@@ -149,7 +149,7 @@ Por favor.
 
 33
 00:04:58,400 --> 00:05:01,551
-¿De que asesinato me habla?
+¿De qué asesinato me habla?
 
 34
 00:05:03,520 --> 00:05:06,557
@@ -358,7 +358,7 @@ una mañana interesante en la corte.
 
 80
 00:09:19,680 --> 00:09:22,478
-¿De que nos quiere hablar?
+¿De qué nos quiere hablar?
 
 81
 00:09:22,560 --> 00:09:25,120

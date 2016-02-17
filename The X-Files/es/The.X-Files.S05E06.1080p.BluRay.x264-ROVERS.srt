@@ -185,7 +185,7 @@ pero no la que está adentro.
 
 42
 00:04:12,880 --> 00:04:15,519
-- ¿De que hablas?
+- ¿De qué hablas?
 - No es posible,
 
 43
@@ -1268,7 +1268,7 @@ Suerte que la encontramos.
 
 278
 00:30:19,720 --> 00:30:22,871
-¿Entonces por que los cheques
+¿Entonces por qué los cheques
 están hechos a nombre de su madre?
 
 279

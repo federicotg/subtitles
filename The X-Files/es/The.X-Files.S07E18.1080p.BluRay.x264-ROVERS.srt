@@ -564,7 +564,7 @@ Puedo decirles de que murió.
 
 126
 00:13:18,040 --> 00:13:20,190
-- ¿De que?
+- ¿De qué?
 - Hipoxemia.
 
 127
@@ -1211,7 +1211,7 @@ en los pulmones de Thomas Gustall.
 
 271
 00:27:19,040 --> 00:27:24,239
-¿Y por que los pulmones de Scobie
+¿Y por qué los pulmones de Scobie
 no tenían el mismo aspecto?
 
 272
