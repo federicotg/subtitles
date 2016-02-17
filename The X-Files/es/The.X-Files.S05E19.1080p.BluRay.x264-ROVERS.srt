@@ -296,7 +296,7 @@ Ellos prefirieron no hacerlo.
 
 66
 00:05:16,840 --> 00:05:19,479
-Atención, pueblo de lllinois.
+Atención, pueblo de Illinois.
 
 67
 00:05:19,600 --> 00:05:22,433
@@ -1470,7 +1470,7 @@ del agente Mulder.
 
 326
 00:29:11,960 --> 00:29:16,158
-¿Por qué ha vuelto a lllinois?
+¿Por qué ha vuelto a Illinois?
 Creí que el caso estaba cerrado.
 
 327
@@ -1509,7 +1509,7 @@ Usted debe examinarlo.
 334
 00:29:53,840 --> 00:29:57,719
 - ¿O no lo sabía?
-- Lo hare inmediatamente, señor.
+- Lo haré inmediatamente, señor.
 
 335
 00:29:59,400 --> 00:30:02,870
@@ -1820,7 +1820,7 @@ Llegó justo. Estaba por despacharlo.
 403
 00:37:23,560 --> 00:37:26,677
 - ¿Autopsia completa?
-- No. Demoslo vuelta.
+- No. Démoslo vuelta.
 
 404
 00:37:27,560 --> 00:37:30,996

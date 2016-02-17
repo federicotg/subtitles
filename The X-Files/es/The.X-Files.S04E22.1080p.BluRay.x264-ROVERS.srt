@@ -654,7 +654,7 @@ Yo no se nada.
 
 147
 00:12:31,520 --> 00:12:35,832
-No hice nada. Dejenme en paz.
+No hice nada. Déjenme en paz.
 
 148
 00:12:35,960 --> 00:12:39,589
@@ -690,7 +690,7 @@ No. No.
 
 156
 00:13:12,840 --> 00:13:14,353
-¡Por favor dejenme en paz!
+¡Por favor déjenme en paz!
 
 157
 00:13:14,520 --> 00:13:17,273

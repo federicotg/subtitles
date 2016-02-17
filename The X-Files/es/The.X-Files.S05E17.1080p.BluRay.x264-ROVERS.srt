@@ -480,7 +480,7 @@ de lesión en el tejido
 
 109
 00:11:12,600 --> 00:11:15,751
-ni quemaduras electricas
+ni quemaduras eléctricas
 ni otro traumatismo grave.
 
 110
@@ -1409,7 +1409,7 @@ Creen haber encontrado a la cuarta niña.
 311
 00:30:07,720 --> 00:30:12,077
 Mientras yo este aquí,
-nadie podrá protegerlas. Dejenme ir.
+nadie podrá protegerlas. Déjenme ir.
 
 312
 00:30:13,360 --> 00:30:15,590

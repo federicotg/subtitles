@@ -844,7 +844,7 @@ con la instalación eléctrica.
 186
 00:18:00,680 --> 00:18:04,275
 - ¿Qué crees que es?
-- No se, pero lo hare analizar.
+- No se, pero lo haré analizar.
 
 187
 00:18:04,360 --> 00:18:07,670
