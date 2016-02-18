@@ -1285,7 +1285,7 @@ está el jugador 4. Es su telemetría.
 
 287
 00:29:48,560 --> 00:29:51,996
-- ¿A que te refieres?
+- ¿A qué te refieres?
 - El cuatro. Es él.
 
 288

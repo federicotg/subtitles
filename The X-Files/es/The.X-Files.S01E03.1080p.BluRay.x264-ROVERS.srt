@@ -156,7 +156,7 @@ O más bien su ausencia.
 
 35
 00:05:26,800 --> 00:05:28,279
-¿A que te refieres?
+¿A qué te refieres?
 
 36
 00:05:28,400 --> 00:05:30,914
@@ -1088,7 +1088,7 @@ CONCORDANCIA: 100%
 
 242
 00:20:12,800 --> 00:20:16,793
-Lo único que se a ciencia cierta es...
+Lo único que sé a ciencia cierta es...
 que lo dejaron libre.
 
 243

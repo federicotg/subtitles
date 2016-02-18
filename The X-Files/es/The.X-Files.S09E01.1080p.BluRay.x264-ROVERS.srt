@@ -402,7 +402,7 @@ No apareces en ella.
 
 91
 00:11:41,400 --> 00:11:44,915
-¿A que te refieres?
+¿A qué te refieres?
 
 92
 00:11:48,280 --> 00:11:51,556
@@ -595,7 +595,7 @@ Les teme.
 
 134
 00:17:12,840 --> 00:17:17,356
-¿A que aparezca la verdadera cinta
+¿A qué aparezca la verdadera cinta
 y lo acusen de asesinar a Krycek?
 
 135
@@ -715,7 +715,7 @@ que regresar a la oficina de Nueva Orleáns.
 
 160
 00:20:15,520 --> 00:20:19,752
-¿A que te refieres?
+¿A qué te refieres?
 Te asignaron a los Archivos X.
 
 161
@@ -1478,7 +1478,7 @@ La próxima vez, traeré una silla.
 328
 00:39:06,200 --> 00:39:09,590
 - El agente Doggett se fue.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 329
 00:39:09,720 --> 00:39:12,359

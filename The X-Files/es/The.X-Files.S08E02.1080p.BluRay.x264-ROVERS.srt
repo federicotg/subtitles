@@ -502,7 +502,7 @@ con la información. Lo vi, pero...
 
 112
 00:14:59,160 --> 00:15:01,116
-¿A que se refiere con eso?
+¿A qué se refiere con eso?
 
 113
 00:15:01,200 --> 00:15:03,270
@@ -929,7 +929,7 @@ Lo oigo.
 
 208
 00:27:18,760 --> 00:27:20,671
-¿A que te refieres?
+¿A qué te refieres?
 
 209
 00:27:22,360 --> 00:27:24,920

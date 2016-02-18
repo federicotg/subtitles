@@ -1366,7 +1366,7 @@ Dana, ¿me puedes ayudar en la cocina?
 299
 00:33:35,760 --> 00:33:38,911
 - Dime lo que está pasando.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 300
 00:33:39,040 --> 00:33:43,591
@@ -1956,7 +1956,7 @@ adicional con otra muestra de sangre.
 429
 00:44:28,200 --> 00:44:31,556
 - ¿Qué muestra?
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 430
 00:44:31,640 --> 00:44:33,915

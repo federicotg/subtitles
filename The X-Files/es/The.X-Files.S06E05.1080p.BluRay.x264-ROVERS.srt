@@ -796,7 +796,7 @@ y ahora no quieres salir de la casa.
 
 173
 00:16:10,880 --> 00:16:13,678
-- ¿A que te refieres?
+- ¿A qué te refieres?
 - Tienes razón.
 
 174
@@ -1508,7 +1508,7 @@ más que yo con un sacerdote.
 328
 00:33:00,600 --> 00:33:04,798
 - Yo sólo voy a acompañarlo.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 329
 00:33:05,800 --> 00:33:07,791
@@ -1783,7 +1783,7 @@ Vamos.
 
 390
 00:39:59,280 --> 00:40:02,078
-¿A que se refieren?
+¿A qué se refieren?
 ¿Adónde se lo llevan?
 
 391
@@ -1825,7 +1825,7 @@ Señor
 
 399
 00:41:08,680 --> 00:41:11,956
-- ¿A que te refieres?
+- ¿A qué te refieres?
 - Devolví a McDonough y a la Sra. Chee
 
 400

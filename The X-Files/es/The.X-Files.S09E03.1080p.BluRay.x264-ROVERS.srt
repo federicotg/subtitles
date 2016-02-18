@@ -763,7 +763,7 @@ esta llamada, pero no tuve alternativa.
 
 171
 00:17:54,080 --> 00:17:56,594
-¿A que se refiere?
+¿A qué se refiere?
 
 172
 00:17:57,400 --> 00:18:00,756
@@ -1454,7 +1454,7 @@ lo que encontré?
 
 325
 00:35:54,560 --> 00:35:57,996
-¿A que se refiere?
+¿A qué se refiere?
 Mulder se fue hace tiempo.
 
 326

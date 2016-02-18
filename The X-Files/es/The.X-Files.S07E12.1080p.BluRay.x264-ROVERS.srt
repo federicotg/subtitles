@@ -1142,7 +1142,7 @@ es un tatuaje en la cabeza.
 255
 00:22:31,360 --> 00:22:34,079
 - Éste no es.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 256
 00:22:34,160 --> 00:22:37,835
@@ -1220,7 +1220,7 @@ Adam avisa que hay un ataque.
 
 273
 00:24:38,120 --> 00:24:43,478
-¿Qué pasa? ¿A que le disparas?
+¿Qué pasa? ¿A qué le disparas?
 ¿Qué estás haciendo?
 
 274
@@ -1944,7 +1944,7 @@ del peor modo posible.
 
 437
 00:37:12,800 --> 00:37:17,078
-- ¿A que te refieres?
+- ¿A qué te refieres?
 - Lo mismo que con los otros.
 
 438

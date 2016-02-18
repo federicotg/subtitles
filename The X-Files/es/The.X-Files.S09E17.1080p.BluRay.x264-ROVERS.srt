@@ -655,7 +655,7 @@ un matón de poca monta.
 
 145
 00:19:12,680 --> 00:19:15,672
-¿A que se debe la pregunta?
+¿A qué se debe la pregunta?
 
 146
 00:19:15,800 --> 00:19:21,909
@@ -959,7 +959,7 @@ UN MENSAJE
 211
 00:28:02,760 --> 00:28:05,911
 - Algo me huele mal.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 212
 00:28:07,760 --> 00:28:10,149

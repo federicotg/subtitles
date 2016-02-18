@@ -357,7 +357,7 @@ Nos quedamos sin combustible.
 
 81
 00:15:26,040 --> 00:15:30,033
-- ¿A que distancia estamos?
+- ¿A qué distancia estamos?
 - A más o menos 30 km.
 
 82

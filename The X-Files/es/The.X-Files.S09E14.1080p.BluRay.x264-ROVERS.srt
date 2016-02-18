@@ -1089,7 +1089,7 @@ Lo siento, no pueden salir de aquí.
 
 239
 00:25:09,160 --> 00:25:13,517
-- ¿A que se refiere?
+- ¿A qué se refiere?
 - No pueden salir de aquí. Hace mucho frío.
 
 240

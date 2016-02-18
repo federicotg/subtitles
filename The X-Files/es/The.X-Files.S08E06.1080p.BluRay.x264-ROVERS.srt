@@ -214,7 +214,7 @@ Me disparó.
 
 48
 00:06:51,480 --> 00:06:54,392
-¿Su suegro? ¿A que se refiere?
+¿Su suegro? ¿A qué se refiere?
 
 49
 00:06:54,480 --> 00:06:59,873
@@ -557,7 +557,7 @@ Esto debe de ser la investigación.
 
 124
 00:14:46,200 --> 00:14:49,351
-¿A que hora ocurrió el asesinato?
+¿A qué hora ocurrió el asesinato?
 
 125
 00:14:49,440 --> 00:14:54,673

@@ -1770,7 +1770,7 @@ Es muy afortunada, ¿lo sabe?
 
 393
 00:39:53,800 --> 00:39:56,155
-¿A que se refiere?
+¿A qué se refiere?
 
 394
 00:40:00,000 --> 00:40:01,638
@@ -1778,7 +1778,7 @@ Espere.
 
 395
 00:40:03,760 --> 00:40:07,639
-¿A que se refiere?
+¿A qué se refiere?
 ¿"Afortunada" como los demás?
 
 396

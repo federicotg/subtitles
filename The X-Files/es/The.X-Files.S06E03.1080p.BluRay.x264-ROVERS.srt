@@ -116,7 +116,7 @@ Lo siento. Jamás lo oí nombrar.
 
 26
 00:03:38,080 --> 00:03:39,638
-¿A que te refieres?
+¿A qué te refieres?
 
 27
 00:03:39,720 --> 00:03:44,874
@@ -156,7 +156,7 @@ Traigan el prisionero a mi camarote.
 35
 00:04:21,360 --> 00:04:24,909
 - ¿Qué?
-- ¿A que bandera le jura lealtad?
+- ¿A qué bandera le jura lealtad?
 
 36
 00:04:25,000 --> 00:04:27,878
@@ -505,7 +505,7 @@ WASHINGTON, DC
 
 112
 00:14:43,120 --> 00:14:45,873
-- ¿A que se refieren?
+- ¿A qué se refieren?
 - Demos un paseo.
 
 113

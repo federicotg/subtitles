@@ -625,7 +625,7 @@ Ya nunca vengo aquí sin mi arma.
 
 139
 00:11:07,280 --> 00:11:09,396
-¿A que distancia está la ciudad?
+¿A qué distancia está la ciudad?
 
 140
 00:11:10,000 --> 00:11:12,560

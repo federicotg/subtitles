@@ -1362,7 +1362,7 @@ pero no hay nada que lo indique.
 
 306
 00:32:58,880 --> 00:33:00,871
-¿A que viene esto?
+¿A qué viene esto?
 
 307
 00:33:00,960 --> 00:33:03,076

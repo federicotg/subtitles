@@ -1039,7 +1039,7 @@ en la definición de "ciega".
 231
 00:20:12,080 --> 00:20:15,789
 - O es ciega o no lo es.
-- ¿A que se refiere?
+- ¿A qué se refiere?
 
 232
 00:20:15,920 --> 00:20:20,277

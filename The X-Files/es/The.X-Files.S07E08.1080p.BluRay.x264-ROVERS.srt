@@ -2011,7 +2011,7 @@ Buenos días. ¿Durmieron bien?
 447
 00:39:01,920 --> 00:39:05,993
 - Bravo. De veras.
-- ¿A que te refieres?
+- ¿A qué te refieres?
 
 448
 00:39:06,120 --> 00:39:10,636
@@ -2226,7 +2226,7 @@ para evitar que hagan su último acto.
 
 494
 00:42:09,040 --> 00:42:13,079
-- ¿A que te refieres?
+- ¿A qué te refieres?
 - ¿Por qué un plan tan elaborado?
 
 495
