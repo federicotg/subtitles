@@ -228,11 +228,11 @@ Era el por teléfono, ¿verdad?
 
 52
 00:04:38,360 --> 00:04:40,430
-Dígame donde está.
+Dígame dónde está.
 
 53
 00:04:41,840 --> 00:04:44,400
-No se de que habla.
+No sé de qué habla.
 
 54
 00:04:55,600 --> 00:04:57,636
@@ -1499,7 +1499,7 @@ Dígame donde está mi hermana.
 
 335
 00:37:23,880 --> 00:37:27,031
-- No se de que habla.
+- No sé de qué habla.
 - ¡La base del cuello!
 
 336

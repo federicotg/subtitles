@@ -1150,7 +1150,7 @@ Sabemos que tiene un cómplice.
 
 250
 00:25:32,920 --> 00:25:37,118
-- No se de que hablan.
+- No sé de qué hablan.
 - ¿Cómo logró despistar al guardia?
 
 251

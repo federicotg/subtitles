@@ -1490,7 +1490,7 @@ Agente Scully.
 318
 00:42:35,560 --> 00:42:40,714
 - No puede dejar que se suba.
-- No se de que me está hablando.
+- No sé de qué me está hablando.
 
 319
 00:42:42,720 --> 00:42:45,792

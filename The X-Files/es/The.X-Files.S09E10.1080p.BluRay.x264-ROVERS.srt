@@ -1023,7 +1023,7 @@ equipo.
 
 223
 00:27:49,920 --> 00:27:52,992
-No se de que está hablando.
+No sé de qué está hablando.
 
 224
 00:27:53,080 --> 00:27:56,197
