@@ -275,7 +275,7 @@ y querían hablar con alguien del FBI.
 
 62
 00:04:57,480 --> 00:04:59,232
-Yo envie la nota.
+Yo envié la nota.
 
 63
 00:04:59,400 --> 00:05:01,197
@@ -313,7 +313,7 @@ que hay un saboteador dentro de la NASA.
 70
 00:05:24,200 --> 00:05:28,796
 Hace dos semanas, se canceló una misión
-tres minutos antes del despegue
+tres segundos antes del despegue
 
 71
 00:05:28,880 --> 00:05:31,872
@@ -607,7 +607,7 @@ una investigación detallada?
 
 133
 00:09:24,800 --> 00:09:28,429
-No se de dónde sacó este artefacto,
+No sé de dónde sacó este artefacto,
 
 134
 00:09:28,600 --> 00:09:32,115
