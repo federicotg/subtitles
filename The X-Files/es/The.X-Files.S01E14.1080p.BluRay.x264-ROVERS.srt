@@ -107,7 +107,7 @@ llevando una maleta. La cartera no está.
 
 25
 00:05:28,520 --> 00:05:31,432
-No se por que nos llamaron a nosotros.
+No sé por qué nos llamaron a nosotros.
 
 26
 00:05:31,600 --> 00:05:37,311

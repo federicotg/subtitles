@@ -969,7 +969,7 @@ Estarás ocupado.
 215
 00:21:51,320 --> 00:21:56,758
 Siento emociones encontradas.
-No se por dónde comenzar.
+No sé por dónde comenzar.
 
 216
 00:21:58,760 --> 00:22:03,709
@@ -1405,7 +1405,7 @@ Estarás ocupado.
 311
 00:31:50,520 --> 00:31:56,117
 Siento emociones encontradas.
-No se por dónde comenzar.
+No sé por dónde comenzar.
 
 312
 00:31:56,200 --> 00:32:01,957
@@ -1415,7 +1415,7 @@ por razones que ojalá comprendas.
 313
 00:32:04,040 --> 00:32:09,433
 Siento emociones encontradas.
-No se por dónde comenzar.
+No sé por dónde comenzar.
 
 314
 00:32:09,520 --> 00:32:13,798

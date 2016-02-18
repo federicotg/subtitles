@@ -5,7 +5,7 @@ He comprobado todas las conexiones.
 
 2
 00:00:31,360 --> 00:00:33,954
-No se por que no hay corriente eléctrica.
+No sé por qué no hay corriente eléctrica.
 
 3
 00:00:34,040 --> 00:00:37,749
@@ -323,7 +323,7 @@ No pareces muy convencido.
 72
 00:07:27,400 --> 00:07:32,554
 Parece una locura.
-No sé por que Chrissy no se acuerda.
+No sé por qué Chrissy no se acuerda.
 
 73
 00:07:32,720 --> 00:07:34,836
@@ -371,7 +371,7 @@ Todo parece una locura.
 
 83
 00:08:07,080 --> 00:08:10,914
-Y no se por que Chrissy lo recuerda así.
+Y no sé por que Chrissy lo recuerda así.
 
 84
 00:08:11,080 --> 00:08:12,752
