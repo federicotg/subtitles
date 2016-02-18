@@ -333,7 +333,7 @@ Tarde dos días en limpiar la sartén.
 
 74
 00:06:49,760 --> 00:06:52,558
-No se cuántos de ellos existirán.
+No sé cuántos de ellos existirán.
 Sólo vi a uno.
 
 75

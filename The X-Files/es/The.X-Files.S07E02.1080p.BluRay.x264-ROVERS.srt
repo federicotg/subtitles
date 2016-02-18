@@ -1501,7 +1501,7 @@ Debes levantarte.
 
 338
 00:38:25,240 --> 00:38:30,109
-No se cuánto tiempo tenemos.
+No sé cuánto tiempo tenemos.
 Debes levantarte.
 
 339

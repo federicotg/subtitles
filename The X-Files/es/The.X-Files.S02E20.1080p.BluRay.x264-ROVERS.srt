@@ -1951,7 +1951,7 @@ no deben ser resueltos.
 433
 00:44:12,560 --> 00:44:16,314
 - ¿Qué le pasa a su amigo?
-- No se cuál es su problema.
+- No sé cuál es su problema.
 
 434
 00:44:16,400 --> 00:44:19,915
