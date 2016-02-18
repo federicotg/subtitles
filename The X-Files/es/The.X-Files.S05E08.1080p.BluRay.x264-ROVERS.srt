@@ -842,7 +842,7 @@ La cita la hizo mi secretaria esta mañana.
 
 186
 00:19:08,880 --> 00:19:13,192
-Sólo se que debía encontrarme aquí
+Sólo sé que debía encontrarme aquí
 con un tal Sr. Mulder.
 
 187
@@ -944,7 +944,7 @@ Sí, señor.
 
 209
 00:20:54,720 --> 00:21:00,033
-Quizá. Pero no se.
+Quizá. Pero no sé.
 Hay algo que no tiene sentido.
 
 210
@@ -1133,7 +1133,7 @@ ANNANDALE, VIRGINIA
 
 249
 00:25:12,400 --> 00:25:18,350
-Lo siento. No se si puedo decirles
+Lo siento. No sé si puedo decirles
 más de lo que ya les he dicho.
 
 250

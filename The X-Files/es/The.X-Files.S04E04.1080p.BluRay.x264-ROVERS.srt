@@ -15,7 +15,7 @@ una bruja, ¿verdad? Cálmate.
 4
 00:00:25,160 --> 00:00:29,153
 - Tenemos una cita.
-- Ya se que tenemos una cita.
+- Ya sé que tenemos una cita.
 
 5
 00:00:35,200 --> 00:00:36,918
@@ -302,7 +302,7 @@ Los tintes... se desvanecen...
 68
 00:06:31,520 --> 00:06:35,513
 - Bien, entonces ¿cuál es tu teoría?
-- No se si tengo una teoría.
+- No sé si tengo una teoría.
 
 69
 00:06:39,040 --> 00:06:42,271

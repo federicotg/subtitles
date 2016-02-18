@@ -381,7 +381,7 @@ Me inyectaron.
 
 88
 00:11:08,080 --> 00:11:10,958
-No se, pero me ardía.
+No sé, pero me ardía.
 
 89
 00:11:12,160 --> 00:11:16,631
@@ -1064,7 +1064,7 @@ nada más.
 243
 00:26:12,000 --> 00:26:15,276
 - ¿Adónde se habrá ido?
-- No lo se.
+- No lo sé.
 
 244
 00:26:15,360 --> 00:26:17,874
@@ -1198,7 +1198,7 @@ por su bien, pero no pudo cuidarse solo.
 
 274
 00:29:58,440 --> 00:30:00,237
-No lo se.
+No lo sé.
 
 275
 00:30:03,080 --> 00:30:06,595
@@ -1250,7 +1250,7 @@ Hable con una mujer, una tal Dra. Edwards.
 285
 00:33:16,560 --> 00:33:19,757
 - ¿Tiene idea de que le inyectaron?
-- No lo se.
+- No lo sé.
 
 286
 00:33:19,840 --> 00:33:23,037

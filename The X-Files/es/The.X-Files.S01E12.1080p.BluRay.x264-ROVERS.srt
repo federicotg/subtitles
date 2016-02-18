@@ -1015,7 +1015,7 @@ Sí. De acuerdo.
 
 227
 00:18:24,520 --> 00:18:26,636
-No se si tiene importancia,
+No sé si tiene importancia,
 
 228
 00:18:26,720 --> 00:18:30,872
@@ -1156,7 +1156,7 @@ Observen.
 257
 00:20:57,080 --> 00:20:59,640
 - ¿Tú que crees, Jimmie?
-- No lo se.
+- No lo sé.
 
 258
 00:21:01,920 --> 00:21:03,990
@@ -2156,7 +2156,7 @@ No te tienes ni idea.
 
 481
 00:42:44,520 --> 00:42:47,717
-- No lo se.
+- No lo sé.
 - ¿No lo sabes?
 
 482

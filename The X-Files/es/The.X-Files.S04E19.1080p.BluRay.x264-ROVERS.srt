@@ -362,7 +362,7 @@ Le insertaron algo.
 80
 00:06:23,360 --> 00:06:27,239
 Le tomé la temperatura.
-No se si la lectura era precisa,
+No sé si la lectura era precisa,
 
 81
 00:06:27,320 --> 00:06:31,154
@@ -443,7 +443,7 @@ Esto ocurre cuando bebes y conduces.
 
 98
 00:07:26,120 --> 00:07:28,998
-No se que decir, salvo que esto
+No sé que decir, salvo que esto
 
 99
 00:07:29,080 --> 00:07:33,278
@@ -673,7 +673,7 @@ Se suponía que me alojaría aquí.
 
 148
 00:11:06,320 --> 00:11:09,278
-Lo lamento, señor. No se que decirle.
+Lo lamento, señor. No sé que decirle.
 
 149
 00:11:09,400 --> 00:11:11,516
@@ -1182,7 +1182,7 @@ creado una reacción celular tan violenta?
 
 261
 00:19:56,120 --> 00:19:58,190
-No lo se.
+No lo sé.
 
 262
 00:19:58,280 --> 00:20:02,717
@@ -2071,7 +2071,7 @@ Es también el mío.
 459
 00:38:22,440 --> 00:38:25,432
 - La quiero de vuelta.
-- Lo se.
+- Lo sé.
 
 460
 00:38:25,600 --> 00:38:29,639

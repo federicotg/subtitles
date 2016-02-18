@@ -287,7 +287,7 @@ Tengo miedo por mi hijo,
 
 63
 00:07:32,320 --> 00:07:36,199
-y no se que hacer.
+y no sé que hacer.
 
 64
 00:07:46,840 --> 00:07:50,992
@@ -541,7 +541,7 @@ Estábamos en el mismo escuadrón.
 
 119
 00:12:34,680 --> 00:12:36,716
-No se, señor.
+No sé, señor.
 
 120
 00:12:37,040 --> 00:12:39,508
@@ -1944,7 +1944,7 @@ Me siento mejor de lo que tú te ves.
 
 430
 00:42:48,120 --> 00:42:50,395
-No lo se.
+No lo sé.
 
 431
 00:43:01,080 --> 00:43:03,674
