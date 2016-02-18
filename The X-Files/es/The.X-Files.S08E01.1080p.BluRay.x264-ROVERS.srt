@@ -23,7 +23,7 @@ me puede decir que pasa aquí?
 6
 00:04:01,320 --> 00:04:04,756
 - Reunimos material.
-- ¿Para que?
+- ¿Para qué?
 
 7
 00:04:04,840 --> 00:04:08,230
@@ -842,7 +842,7 @@ se usó hace dos días en Raleigh.
 
 185
 00:27:29,480 --> 00:27:34,076
-¿Hace dos días? ¿Por quién? ¿Para que?
+¿Hace dos días? ¿Por quién? ¿Para qué?
 
 186
 00:27:34,160 --> 00:27:38,551
@@ -949,7 +949,7 @@ Su deterioro está documentado.
 209
 00:30:35,080 --> 00:30:39,437
 - ¿Hasta dónde llegaría?
-- ¿Para que?
+- ¿Para qué?
 
 210
 00:30:39,520 --> 00:30:44,150
@@ -1001,7 +1001,7 @@ Para reunir información.
 
 220
 00:31:28,080 --> 00:31:31,390
-¿Para que? ¿Para probarlo?
+¿Para qué? ¿Para probarlo?
 
 221
 00:31:32,160 --> 00:31:35,152

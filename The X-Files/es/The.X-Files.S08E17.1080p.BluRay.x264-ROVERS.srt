@@ -567,7 +567,7 @@ Yo llamé al agente Mulder.
 
 125
 00:16:39,480 --> 00:16:42,631
-¿Para que?
+¿Para qué?
 Ahí no hay nada que le interese.
 
 126
@@ -577,7 +577,7 @@ y deja que le explique la conexión?
 
 127
 00:16:46,440 --> 00:16:51,195
-- ¿La conexión? ¿Con que?
+- ¿La conexión? ¿Con qué?
 - Te lo iba a decir.
 
 128

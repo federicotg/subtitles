@@ -41,7 +41,7 @@ para salir a revisar las cerraduras.
 
 10
 00:00:55,960 --> 00:01:00,112
-- ¿Para que?
+- ¿Para qué?
 - No necesitas saberlo.
 
 11
@@ -862,7 +862,7 @@ Justo con usted quería hablar.
 
 196
 00:28:09,200 --> 00:28:13,398
-- ¿Raro? ¿Como que?
+- ¿Raro? ¿Como qué?
 - ¿Animales peligrosos?
 
 197

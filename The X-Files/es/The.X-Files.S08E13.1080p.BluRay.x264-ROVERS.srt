@@ -1068,7 +1068,7 @@ La agente Scully es médica.
 233
 00:27:56,400 --> 00:28:00,552
 - Muy bien, vamos a prepararla.
-- ¿Para que?
+- ¿Para qué?
 
 234
 00:28:00,640 --> 00:28:05,395

@@ -1690,7 +1690,7 @@ del artefacto, ya se lo que son.
 
 366
 00:42:10,640 --> 00:42:12,790
-- ¿Para que?
+- ¿Para qué?
 - Genes.
 
 367

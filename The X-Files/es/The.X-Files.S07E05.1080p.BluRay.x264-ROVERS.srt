@@ -30,7 +30,7 @@ No sirve para esto.
 
 8
 00:01:15,600 --> 00:01:18,034
-¿Para que?
+¿Para qué?
 
 9
 00:01:18,160 --> 00:01:21,436
@@ -1579,7 +1579,7 @@ Vayámonos de aquí, lejos.
 
 356
 00:34:09,680 --> 00:34:15,038
-¿Para que? Esto es lo mejor
+¿Para qué? Esto es lo mejor
 que me ha ocurrido.
 
 357
