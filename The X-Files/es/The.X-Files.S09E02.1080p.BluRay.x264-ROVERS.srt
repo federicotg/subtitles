@@ -575,7 +575,7 @@ Dios mío.
 130
 00:15:00,760 --> 00:15:04,116
 -¿Está consciente?
-- No lo se.
+- No lo sé.
 
 131
 00:15:04,240 --> 00:15:10,156
@@ -643,7 +643,7 @@ Oí que se movía la manija de la puerta.
 145
 00:16:41,920 --> 00:16:48,029
 Alguien estaba moviendo la manija.
-Eran ladrones, lo se.
+Eran ladrones, lo sé.
 
 146
 00:16:48,120 --> 00:16:53,752
@@ -1103,7 +1103,7 @@ No le importaría dejarnos hacerla, ¿verdad?
 
 247
 00:28:26,960 --> 00:28:31,511
-No lo se. Tendría que hablar
+No lo sé. Tendría que hablar
 con mi abogado al respecto.
 
 248
@@ -1267,7 +1267,7 @@ Siempre me doy cuenta.
 285
 00:33:00,600 --> 00:33:05,116
 No hago nada.
-No se que quieres decir.
+No sé que quieres decir.
 
 286
 00:33:06,400 --> 00:33:09,119

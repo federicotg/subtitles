@@ -150,7 +150,7 @@ Señor...
 34
 00:02:30,520 --> 00:02:33,592
 - Por favor, me hace daño.
-- Lo se. Lo se.
+- Lo sé. Lo sé.
 
 35
 00:02:33,720 --> 00:02:37,395
@@ -458,7 +458,7 @@ equivocadas. ¿Cuál es cuál?
 
 101
 00:08:02,200 --> 00:08:07,672
-Yo sólo se que Yappi ha provisto más
+Yo sólo sé que Yappi ha provisto más
 pistas sólidas que usted en este caso.
 
 102
@@ -1046,7 +1046,7 @@ es tan importante.
 
 231
 00:18:48,000 --> 00:18:52,551
-No se que tipo de cobertura ofrece el FBI,
+No sé que tipo de cobertura ofrece el FBI,
 pero la General Mutual tiene...
 
 232
@@ -1130,7 +1130,7 @@ y en consecuencia yo no nazca nunca.
 
 249
 00:20:11,640 --> 00:20:14,313
-No se que es,
+No sé que es,
 pero pertenecía a una de las víctima.
 
 250
@@ -1294,7 +1294,7 @@ Lo se.
 285
 00:22:38,680 --> 00:22:41,194
 - ¿Pero cómo?
-- No lo se.
+- No lo sé.
 
 286
 00:22:43,720 --> 00:22:45,790
@@ -1537,7 +1537,7 @@ de nuevo antes de que lo atrape.
 338
 00:26:59,560 --> 00:27:03,838
 No, solo tengo más información sobre
-su personalidad que se que no le interesa.
+su personalidad que sé que no le interesa.
 
 339
 00:27:05,120 --> 00:27:06,951
@@ -1616,7 +1616,7 @@ El pastel, crema de coco.
 
 356
 00:27:58,720 --> 00:28:03,589
-- No se. No estoy seguro. Está borroso.
+- No sé. No estoy seguro. Está borroso.
 - Lo que sea. Continúe por favor.
 
 357
@@ -2197,7 +2197,7 @@ en el pasado y en el futuro.
 486
 00:38:10,240 --> 00:38:13,118
 - Son cosas terribles.
-- Lo se.
+- Lo sé.
 
 487
 00:38:13,200 --> 00:38:16,033
@@ -2351,7 +2351,7 @@ pero mató a Havez.
 
 521
 00:42:08,960 --> 00:42:13,317
-- No se. No lo pude encontrar.
+- No sé. No lo pude encontrar.
 - ¿Entonces donde está?
 
 522

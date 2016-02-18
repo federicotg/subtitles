@@ -453,7 +453,7 @@ y ahora quiere verte.
 
 99
 00:10:38,080 --> 00:10:41,277
-No se si tengo tiempo.
+No sé si tengo tiempo.
 
 100
 00:10:41,440 --> 00:10:44,000
@@ -598,7 +598,7 @@ No, mis razones son más egoístas aún.
 132
 00:14:43,080 --> 00:14:46,709
 - Me asustas, Daniel.
-- Lo se.
+- Lo sé.
 
 133
 00:14:49,280 --> 00:14:51,874
@@ -897,7 +897,7 @@ No me digas que viniste por mí.
 199
 00:22:00,960 --> 00:22:05,750
 - Llegaste en un momento tan extraño.
-- Lo se. Tienes una vida.
+- Lo sé. Tienes una vida.
 
 200
 00:22:05,920 --> 00:22:09,435
@@ -1287,7 +1287,7 @@ el bienestar del Dr. Waterston.
 285
 00:35:30,880 --> 00:35:33,440
 - Usted no es su médico.
-- Lo se.
+- Lo sé.
 
 286
 00:35:33,520 --> 00:35:37,911

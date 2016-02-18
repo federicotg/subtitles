@@ -734,7 +734,7 @@ le haré una pregunta más directa.
 
 159
 00:13:51,760 --> 00:13:53,398
-No, no lo se.
+No, no lo sé.
 
 160
 00:13:53,520 --> 00:13:58,310
@@ -1185,7 +1185,7 @@ No comprendo.
 262
 00:23:42,880 --> 00:23:45,997
 - ¿Por qué no me lo decía?
-- No lo se.
+- No lo sé.
 
 263
 00:23:46,120 --> 00:23:49,476
@@ -1213,7 +1213,7 @@ Ven conmigo a ver a mamá.
 
 268
 00:24:11,080 --> 00:24:14,470
-Y se que tiene muchísimas
+Y sé que tiene muchísimas
 ganas de verte.
 
 269
@@ -1272,7 +1272,7 @@ mucho tiempo que estudié medicina,
 
 281
 00:25:51,520 --> 00:25:54,478
-pero no se que me está inyectando.
+pero no sé que me está inyectando.
 
 282
 00:25:54,560 --> 00:25:56,630
@@ -2184,7 +2184,7 @@ Es una noticia increíble.
 
 477
 00:44:17,680 --> 00:44:20,752
-No lo se. Creo que nunca lo sabré.
+No lo sé. Creo que nunca lo sabré.
 
 478
 00:44:23,560 --> 00:44:26,074

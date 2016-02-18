@@ -681,7 +681,7 @@ abierta en este barrio.
 
 150
 00:13:18,256 --> 00:13:20,338
-No se sabe quien puede aparecer.
+No se sabe quién puede aparecer.
 
 151
 00:13:20,591 --> 00:13:23,333

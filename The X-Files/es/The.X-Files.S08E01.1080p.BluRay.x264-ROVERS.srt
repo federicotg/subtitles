@@ -297,7 +297,7 @@ a las que le confiaba cosas.
 
 67
 00:10:11,640 --> 00:10:14,712
-No se si lo sabía.
+No sé si lo sabía.
 
 68
 00:10:18,840 --> 00:10:21,877
@@ -376,7 +376,7 @@ de lo que debería hablarte en persona.
 
 85
 00:13:26,240 --> 00:13:33,157
-No se si estás en la ciudad
+No sé si estás en la ciudad
 o si estás revisando tus mensajes, pero...
 
 86
@@ -729,7 +729,7 @@ Todos los viajes fueron de 595 km a 603 km.
 
 161
 00:24:12,280 --> 00:24:14,748
-No lo se.
+No lo sé.
 
 162
 00:24:15,400 --> 00:24:20,394
@@ -864,7 +864,7 @@ Era uno de sus motivos.
 
 190
 00:29:12,760 --> 00:29:15,149
-No se que pensar.
+No sé que pensar.
 
 191
 00:29:17,840 --> 00:29:22,311

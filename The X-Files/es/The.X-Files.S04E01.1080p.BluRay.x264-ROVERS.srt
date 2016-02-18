@@ -125,7 +125,7 @@ Por aquí.
 
 30
 00:10:57,960 --> 00:11:00,110
-No lo se.
+No lo sé.
 
 31
 00:11:00,200 --> 00:11:02,111
@@ -133,7 +133,7 @@ Necesito saberlo.
 
 32
 00:11:03,800 --> 00:11:06,268
-Lojuro, no lo se.
+Lojuro, no lo sé.
 
 33
 00:11:44,880 --> 00:11:48,031
@@ -237,7 +237,7 @@ para que pueda ver el trabajo...
 54
 00:13:12,920 --> 00:13:15,832
 - Entonces, ¿dónde está?
-- No lo se.
+- No lo sé.
 
 55
 00:13:15,920 --> 00:13:18,992
@@ -641,7 +641,7 @@ Te vi al entrar al edificio. ¿Dónde está él?
 
 143
 00:23:16,320 --> 00:23:17,753
-No lo se.
+No lo sé.
 
 144
 00:23:17,840 --> 00:23:21,230
@@ -979,7 +979,7 @@ marcados e inventariados?
 216
 00:31:23,520 --> 00:31:25,988
 - ¿Por quién?
-- No lo se.
+- No lo sé.
 
 217
 00:31:26,080 --> 00:31:28,275
@@ -988,7 +988,7 @@ Tendría que ser una agencia del gobierno.
 218
 00:31:28,360 --> 00:31:31,511
 - ¿Con que propósito?
-- Tampoco lo se.
+- Tampoco lo sé.
 
 219
 00:31:31,600 --> 00:31:36,879

@@ -498,7 +498,7 @@ Fui a su apartamento.
 
 112
 00:14:34,720 --> 00:14:37,951
-- Lo se.
+- Lo sé.
 - ¿Adónde fue?
 
 113
@@ -519,7 +519,7 @@ No se dónde está Mulder.
 
 117
 00:15:47,040 --> 00:15:49,952
-No se si se lo diría si lo supiera.
+No sé si se lo diría si lo supiera.
 
 118
 00:15:52,360 --> 00:15:57,639
@@ -736,7 +736,7 @@ por estar en Washington.
 164
 00:20:40,200 --> 00:20:43,829
 - Pero acabas de llegar.
-- Lo se.
+- Lo sé.
 
 165
 00:20:55,360 --> 00:20:57,794
@@ -963,7 +963,7 @@ que abandonaras la investigación.
 214
 00:28:45,760 --> 00:28:51,756
 No lo hice. Encontramos algo.
-No se que es, pero estamos investigando.
+No sé que es, pero estamos investigando.
 
 215
 00:28:51,880 --> 00:28:55,031
@@ -1124,7 +1124,7 @@ Si se puede preguntar.
 
 249
 00:31:22,240 --> 00:31:26,472
-- No lo se.
+- No lo sé.
 - Se llevó sus secretos a la tumba.
 
 250
@@ -1343,7 +1343,7 @@ para contarle.
 
 298
 00:36:06,840 --> 00:36:10,833
-No se que decir. Buena suerte.
+No sé que decir. Buena suerte.
 
 299
 00:36:10,920 --> 00:36:13,878
@@ -1507,7 +1507,7 @@ llamado Roland McFarland.
 334
 00:39:33,200 --> 00:39:35,953
 - ¿Información codificada de que?
-- No lo se.
+- No lo sé.
 
 335
 00:39:36,120 --> 00:39:40,033

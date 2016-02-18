@@ -1173,7 +1173,7 @@ Agente Scully, tiene muy buen corazón.
 259
 00:21:48,400 --> 00:21:52,313
 Enviaron una a mi editorial.
-No se que era más perturbador,
+No sé que era más perturbador,
 
 260
 00:21:52,400 --> 00:21:58,555
@@ -1591,7 +1591,7 @@ Entonces, ¿quién es este tipo?
 
 352
 00:28:52,400 --> 00:28:57,474
-No lo se, pero seguro que figura
+No lo sé, pero seguro que figura
 en la base de datos del ejército.
 
 353
@@ -1912,7 +1912,7 @@ Ya no estoy seguro de nada.
 
 423
 00:34:10,280 --> 00:34:14,353
-No se si este puré de papas
+No sé si este puré de papas
 está realmente aquí.
 
 424
@@ -2214,7 +2214,7 @@ o totalmente psicóticos.
 
 489
 00:40:44,840 --> 00:40:50,039
-Y se que su editorial pertenece a Warden
+Y sé que su editorial pertenece a Warden
 White Inc, filial de MacDougall-Kesler,
 
 490

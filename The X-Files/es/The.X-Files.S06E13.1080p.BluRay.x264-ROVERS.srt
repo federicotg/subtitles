@@ -127,7 +127,7 @@ desde la Florida.
 
 30
 00:03:25,800 --> 00:03:31,352
-No se si vio la noticia. Nos azotará una
+No sé si vio la noticia. Nos azotará una
 gran tormenta en las próximas 24 horas.
 
 31
@@ -456,7 +456,7 @@ No lo puedo sacar.
 
 100
 00:10:01,120 --> 00:10:05,033
-No se si aquí me hará falta
+No sé si aquí me hará falta
 el arma o un arpón.
 
 101
@@ -1001,7 +1001,7 @@ Parece que fue atacado o picado.
 
 220
 00:23:01,440 --> 00:23:06,036
-No se. Parece una reacción
+No sé. Parece una reacción
 que afecta su respiración autónoma.
 
 221
@@ -1179,7 +1179,7 @@ Sólo quiero llevarla a un sitio seguro.
 
 258
 00:25:31,200 --> 00:25:34,192
-No se. Pero hirió de gravedad
+No sé. Pero hirió de gravedad
 al ayudante del sheriff.
 
 259
@@ -1306,7 +1306,7 @@ ha penetrado su cuerpo.
 285
 00:27:10,040 --> 00:27:13,715
 - ¿Qué fue lo que le comió el cuello?
-- No lo se.
+- No lo sé.
 
 286
 00:27:13,840 --> 00:27:16,593
@@ -1377,7 +1377,7 @@ a enviar una unidad de rescate.
 300
 00:28:06,440 --> 00:28:10,149
 Las carreteras están intransitables.
-No se si podemos mover al ayudante.
+No sé si podemos mover al ayudante.
 
 301
 00:28:10,280 --> 00:28:13,750

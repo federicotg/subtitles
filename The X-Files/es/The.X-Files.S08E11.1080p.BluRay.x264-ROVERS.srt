@@ -692,7 +692,7 @@ querrían ocultarlo?
 150
 00:18:39,000 --> 00:18:44,028
 - ¿Para que querría el cadáver?
-- No se si lo encontró.
+- No sé si lo encontró.
 
 151
 00:18:47,360 --> 00:18:49,794
@@ -1264,7 +1264,7 @@ ni cómo explicarlo.
 
 275
 00:42:14,680 --> 00:42:20,198
-Sólo se que estoy tan cerca de encontrar
+Sólo sé que estoy tan cerca de encontrar
 a Mulder como cuando comencé.
 
 276

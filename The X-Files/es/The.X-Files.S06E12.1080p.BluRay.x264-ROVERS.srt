@@ -603,7 +603,7 @@ No comprendes.
 132
 00:11:19,760 --> 00:11:23,799
 - No sabes acerca de mí.
-- Sí. Ahora lo se todo.
+- Sí. Ahora lo sé todo.
 
 133
 00:11:23,920 --> 00:11:30,155
@@ -1373,7 +1373,7 @@ Es gracias a ello.
 
 300
 00:26:13,920 --> 00:26:18,357
-Ahora lo se. Sólo ahora.
+Ahora lo sé. Sólo ahora.
 
 301
 00:26:18,480 --> 00:26:21,836
@@ -1602,7 +1602,7 @@ Te llevaré con Cassandra.
 350
 00:32:14,160 --> 00:32:18,631
 - Cassandra se fue.
-- Lo se, y yo se adónde.
+- Lo sé, y yo se adónde.
 
 351
 00:32:18,720 --> 00:32:23,032
@@ -1681,7 +1681,7 @@ Es él.
 
 367
 00:36:01,360 --> 00:36:03,510
-No lo se.
+No lo sé.
 
 368
 00:36:08,520 --> 00:36:10,590
