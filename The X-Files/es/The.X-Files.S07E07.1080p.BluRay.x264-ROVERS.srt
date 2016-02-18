@@ -1140,7 +1140,7 @@ Me encanta tu cabello.
 
 249
 00:26:23,360 --> 00:26:28,036
-- No se que producto usar.
+- No sé que producto usar.
 - No usarás ningún producto.
 
 250

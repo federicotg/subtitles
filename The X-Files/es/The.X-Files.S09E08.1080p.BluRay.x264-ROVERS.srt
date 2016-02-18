@@ -306,7 +306,7 @@ No.
 
 68
 00:06:37,040 --> 00:06:42,558
-Sólo se que debo resolver esto,
+Sólo sé que debo resolver esto,
 y les agradecería su ayuda.
 
 69
@@ -1275,12 +1275,12 @@ Polvo de carbón, de una mina.
 
 283
 00:31:39,240 --> 00:31:41,151
-No lo se.
+No lo sé.
 
 284
 00:32:12,680 --> 00:32:16,116
 - ¿Qué estamos buscando?
-- No lo se.
+- No lo sé.
 
 285
 00:32:16,200 --> 00:32:20,318

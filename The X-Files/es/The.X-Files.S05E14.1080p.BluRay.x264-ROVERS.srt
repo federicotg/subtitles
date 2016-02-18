@@ -460,7 +460,7 @@ PROHIBIDO EL PASO
 
 100
 00:13:00,160 --> 00:13:03,311
-No se que decir.
+No sé que decir.
 
 101
 00:13:03,400 --> 00:13:05,675
@@ -1776,7 +1776,7 @@ de un vehículo militar.
 
 393
 00:41:35,080 --> 00:41:36,957
-No lo se.
+No lo sé.
 
 394
 00:41:54,800 --> 00:41:57,872
@@ -1832,7 +1832,7 @@ esta oficina que lo tiene en alta estima.
 405
 00:42:49,480 --> 00:42:51,630
 - ¿Quién?
-- No lo se.
+- No lo sé.
 
 406
 00:42:53,960 --> 00:42:57,475

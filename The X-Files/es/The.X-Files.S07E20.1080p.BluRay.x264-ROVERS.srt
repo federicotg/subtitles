@@ -683,7 +683,7 @@ Estás en problemas, ¿no?
 
 150
 00:16:20,320 --> 00:16:22,788
-No lo se.
+No lo sé.
 
 151
 00:16:22,960 --> 00:16:25,076
@@ -1228,7 +1228,7 @@ pero dice que llegó al límite.
 269
 00:28:09,160 --> 00:28:11,515
 - ¿Qué está ocurriendo?
-- No lo se.
+- No lo sé.
 
 270
 00:28:11,600 --> 00:28:13,431
@@ -1347,7 +1347,7 @@ Es un cargo del FBI, señor.
 
 296
 00:30:41,720 --> 00:30:44,792
-Ya lo se. No soy estúpido.
+Ya lo sé. No soy estúpido.
 
 297
 00:30:49,480 --> 00:30:55,237
@@ -1539,7 +1539,7 @@ con Betty Templeton y Lulu Pfeiffer.
 
 338
 00:35:38,600 --> 00:35:42,559
-No lo se, pero logré ubicar
+No lo sé, pero logré ubicar
 el origen de su vínculo.
 
 339

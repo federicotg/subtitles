@@ -52,7 +52,7 @@ Felicitaciones, por cierto.
 12
 00:01:00,920 --> 00:01:05,755
 - ¿Con que necesitamos ayuda?
-- No lo se. Sólo...
+- No lo sé. Sólo...
 
 13
 00:01:05,840 --> 00:01:09,879
@@ -339,7 +339,7 @@ durante la primera fase de su embarazo.
 74
 00:07:34,320 --> 00:07:36,550
 - ¿Él quemó la clínica?
-- No lo se.
+- No lo sé.
 
 75
 00:07:36,680 --> 00:07:42,152
@@ -1137,7 +1137,7 @@ para otros experimentos.
 
 248
 00:27:33,200 --> 00:27:35,270
-Sólo se que era algo bueno.
+Sólo sé que era algo bueno.
 
 249
 00:27:35,400 --> 00:27:38,870
@@ -1219,7 +1219,7 @@ Tú eres la que corre peligro.
 266
 00:29:28,600 --> 00:29:32,309
 No estoy seguro.
-Sólo se que te tengo que sacar de aquí.
+Sólo sé que te tengo que sacar de aquí.
 
 267
 00:29:32,400 --> 00:29:35,710

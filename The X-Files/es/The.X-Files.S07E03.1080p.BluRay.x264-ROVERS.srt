@@ -315,7 +315,7 @@ Tal vez una lengua o una probóscide.
 
 71
 00:07:57,160 --> 00:07:58,593
-No se.
+No sé.
 
 72
 00:08:00,160 --> 00:08:01,718
@@ -649,7 +649,7 @@ el principal sospechoso soy yo.
 148
 00:15:48,960 --> 00:15:53,192
 Pero eso no importa,
-pues se que fuiste tú.
+pues sé que fuiste tú.
 
 149
 00:16:02,560 --> 00:16:04,198
@@ -686,7 +686,7 @@ No es salsa de tomate.
 
 157
 00:16:32,240 --> 00:16:35,073
-No se. ¿Qué tienes?
+No sé. ¿Qué tienes?
 
 158
 00:16:36,520 --> 00:16:41,594
@@ -734,7 +734,7 @@ pero seguía allí cuando me fui a dormir.
 
 168
 00:17:23,160 --> 00:17:25,628
-No se que decirle.
+No sé que decirle.
 
 169
 00:17:25,760 --> 00:17:29,116
@@ -1233,7 +1233,7 @@ que se iba de la ciudad.
 
 280
 00:29:00,880 --> 00:29:03,075
-No se.
+No sé.
 
 281
 00:29:03,160 --> 00:29:06,232

@@ -341,7 +341,7 @@ Tecnología de punta en hemorragias.
 
 77
 00:09:30,880 --> 00:09:33,599
-- Está muerto, ya lo se.
+- Está muerto, ya lo sé.
 - ¿Contra quién jugaba?
 
 78
@@ -1111,7 +1111,7 @@ Omitir el archivo problemático.
 247
 00:25:43,800 --> 00:25:46,872
 - ¿Qué ocurrió?
-- No se.
+- No sé.
 
 248
 00:25:47,000 --> 00:25:50,959
@@ -1244,7 +1244,7 @@ No sabemos. Se fue tras ella.
 
 278
 00:29:11,000 --> 00:29:13,230
-Ya lo se. ¿Pero adónde fue?
+Ya lo sé. ¿Pero adónde fue?
 
 279
 00:29:13,320 --> 00:29:15,595

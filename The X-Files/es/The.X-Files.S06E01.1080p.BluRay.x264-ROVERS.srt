@@ -339,7 +339,7 @@ No crea nada.
 73
 00:08:54,480 --> 00:08:59,190
 Escucha, no me gusta decirte esto.
-Y se que no lo quieres oír.
+Y sé que no lo quieres oír.
 
 74
 00:08:59,280 --> 00:09:04,957
@@ -996,7 +996,7 @@ a quién le haces los mandados.
 
 216
 00:22:51,080 --> 00:22:53,116
-Creo que lo se.
+Creo que lo sé.
 
 217
 00:22:57,080 --> 00:23:00,038
@@ -1250,7 +1250,7 @@ No vimos el cadáver.
 271
 00:28:05,320 --> 00:28:09,313
 - ¿Quién se lo llevó?
-- No lo se. No quisieron decirnos.
+- No lo sé. No quisieron decirnos.
 
 272
 00:28:09,440 --> 00:28:12,034
@@ -1389,7 +1389,7 @@ Hay rastros del virus en su sistema.
 
 301
 00:32:45,200 --> 00:32:48,237
-No lo se, pero creo
+No lo sé, pero creo
 que estamos por descubrir algo.
 
 302

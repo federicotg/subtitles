@@ -307,7 +307,7 @@ Quiero ayudarte.
 
 70
 00:10:43,400 --> 00:10:47,075
-No se que hacer.
+No sé que hacer.
 No tengo mucho tiempo.
 
 71
@@ -422,7 +422,7 @@ CALLE G WASHINGTON, DC
 
 95
 00:15:08,320 --> 00:15:10,993
-No se si me recuerda.
+No sé si me recuerda.
 Mi nombre es Skinner.
 
 96
@@ -469,7 +469,7 @@ No soy doctor.
 
 105
 00:15:48,520 --> 00:15:51,193
-Sólo se que preguntó por usted.
+Sólo sé que preguntó por usted.
 
 106
 00:15:57,720 --> 00:16:00,678
@@ -1136,7 +1136,7 @@ No. Me voy a casa.
 
 253
 00:31:19,480 --> 00:31:24,793
-No se si puedes oírme,
+No sé si puedes oírme,
 intentaremos sacarte de aquí.
 
 254
@@ -1481,7 +1481,7 @@ ahí están las piezas para armarlas.
 
 331
 00:41:43,880 --> 00:41:48,590
-Y se que te salvarán si resistes.
+Y sé que te salvarán si resistes.
 
 332
 00:41:58,920 --> 00:42:00,751

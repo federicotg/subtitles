@@ -261,7 +261,7 @@ al hospital. Ingresó cadáver.
 59
 00:04:22,840 --> 00:04:27,231
 - ¿Cuál fue la causa de su muerte?
-- No lo se, pero no fue del cáncer.
+- No lo sé, pero no fue del cáncer.
 
 60
 00:04:27,320 --> 00:04:32,075
@@ -431,7 +431,7 @@ llamó a la caballería.
 97
 00:06:47,640 --> 00:06:50,677
 - ¿Y dónde está?
-- No lo se.
+- No lo sé.
 
 98
 00:06:50,800 --> 00:06:52,472
@@ -518,7 +518,7 @@ tocándolos?
 
 115
 00:08:15,240 --> 00:08:17,117
-No se ni cómo ni por que lo hizo,
+No sé ni cómo ni por qué lo hizo,
 
 116
 00:08:17,240 --> 00:08:21,119
@@ -979,7 +979,7 @@ Tal vez consiga abrirle los ojos.
 
 219
 00:15:20,240 --> 00:15:21,798
-No lo se.
+No lo sé.
 
 220
 00:15:27,360 --> 00:15:28,793
@@ -1156,7 +1156,7 @@ los Expedientes X, pero ninguno como este.
 258
 00:18:13,840 --> 00:18:17,230
 - No creo que este chico sea una farsa.
-- Mulder, se que es intrigante
+- Mulder, sé que es intrigante
 
 259
 00:18:17,360 --> 00:18:21,558
@@ -2025,7 +2025,7 @@ señor Mulder!
 455
 00:32:06,920 --> 00:32:13,678
 ¡No puedo rebatir tu retórica bíblica,
-pero se que la ley te declarará inocente!
+pero sé que la ley te declarará inocente!
 
 456
 00:32:19,760 --> 00:32:21,876
@@ -2533,7 +2533,7 @@ dice que vio a Samuel salir andando.
 
 570
 00:41:41,800 --> 00:41:43,950
-Ya se que parece increíble, pero
+Ya sé que parece increíble, pero
 
 571
 00:41:44,080 --> 00:41:46,116

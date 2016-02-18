@@ -504,7 +504,7 @@ Parece una colmena.
 
 112
 00:10:12,360 --> 00:10:15,511
-No se. Nunca he visto nada igual.
+No sé. Nunca he visto nada igual.
 
 113
 00:10:24,920 --> 00:10:26,956
@@ -605,7 +605,7 @@ Los hombres que trabajaban en esta zona.
 
 136
 00:13:14,680 --> 00:13:19,390
-No se. Lo mismo que nos pasará
+No sé. Lo mismo que nos pasará
 a nosotros cuando caiga la noche.
 
 137
@@ -957,7 +957,7 @@ Miren esto.
 
 214
 00:18:34,680 --> 00:18:38,229
-No lo se.
+No lo sé.
 Nunca he visto un anillo como este.
 
 215
@@ -1577,7 +1577,7 @@ Muy bien.
 
 352
 00:30:50,920 --> 00:30:53,718
-No lo se. Ya pensaremos en algo.
+No lo sé. Ya pensaremos en algo.
 
 353
 00:30:53,800 --> 00:30:58,430

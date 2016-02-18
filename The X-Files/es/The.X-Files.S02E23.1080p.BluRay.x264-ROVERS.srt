@@ -403,7 +403,7 @@ No encontraron huellas digitales.
 
 89
 00:09:01,440 --> 00:09:03,476
-No lo se.
+No lo sé.
 
 90
 00:09:07,280 --> 00:09:12,308
@@ -608,7 +608,7 @@ Seguro que algo aparecerá.
 134
 00:13:41,560 --> 00:13:46,429
 - ¿No tienes idea, verdad?
-- Estaba allí, Scully. Lo se.
+- Estaba allí, Scully. Lo sé.
 
 135
 00:13:50,760 --> 00:13:54,958
@@ -747,7 +747,7 @@ Sí. Es el Dr. Chester Banton.
 
 165
 00:16:17,920 --> 00:16:20,480
-No se. Supongo que no.
+No sé. Supongo que no.
 
 166
 00:16:20,560 --> 00:16:23,552
@@ -955,7 +955,7 @@ Estoy menos convencido ahora.
 210
 00:19:35,440 --> 00:19:38,079
 - ¿Qué crees que es?
-- No se.
+- No sé.
 
 211
 00:19:38,600 --> 00:19:44,436

@@ -1024,7 +1024,7 @@ Señor, lo que ha hecho...
 
 224
 00:24:01,120 --> 00:24:04,669
-- ..podría salvar a Mulder. Lo se.
+- ..podría salvar a Mulder. Lo sé.
 - Gracias.
 
 225
@@ -1325,7 +1325,7 @@ que puede fabricar una bomba. ¿Quién es?
 
 287
 00:30:49,200 --> 00:30:51,270
-No lo se.
+No lo sé.
 
 288
 00:31:04,040 --> 00:31:09,478
@@ -1338,7 +1338,7 @@ o comenzaremos a matar pasajeros.
 
 290
 00:31:13,000 --> 00:31:15,070
-No lo se.
+No lo sé.
 
 291
 00:31:51,960 --> 00:31:55,430
