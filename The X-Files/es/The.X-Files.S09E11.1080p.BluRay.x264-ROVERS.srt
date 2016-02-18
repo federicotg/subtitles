@@ -904,7 +904,7 @@ Es sólo cuestión de tiempo.
 210
 00:28:04,600 --> 00:28:09,435
 Quería ser enfermera,
-pero no se hacer mucho.
+pero no sé hacer mucho.
 
 211
 00:28:09,520 --> 00:28:11,988
@@ -1208,7 +1208,7 @@ Y hasta me tienen que ayudar con eso,
 
 281
 00:36:52,800 --> 00:36:56,839
-porque no se leer los nombres
+porque no sé leer los nombres
 de las tarjetas.
 
 282

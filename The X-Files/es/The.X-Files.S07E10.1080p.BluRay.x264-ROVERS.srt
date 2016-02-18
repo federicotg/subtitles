@@ -963,7 +963,7 @@ Fox, habla tu madre.
 
 214
 00:21:45,920 --> 00:21:51,233
-Esperaba tu llamada, pero no se nada de ti.
+Esperaba tu llamada, pero no sé nada de ti.
 Estarás ocupado.
 
 215
@@ -1399,7 +1399,7 @@ Fox, habla tu madre.
 
 310
 00:31:45,160 --> 00:31:50,439
-Esperaba tu llamada, pero no se nada de ti.
+Esperaba tu llamada, pero no sé nada de ti.
 Estarás ocupado.
 
 311

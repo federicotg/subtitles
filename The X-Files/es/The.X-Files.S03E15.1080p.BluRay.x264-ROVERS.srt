@@ -636,7 +636,7 @@ de investigación de la marina.
 144
 00:12:38,560 --> 00:12:43,350
 - ¿Ha encontrado algo?
-- No, pero no se bien que estoy buscando.
+- No, pero no sé bien qué estoy buscando.
 
 145
 00:12:43,520 --> 00:12:45,590

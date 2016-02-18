@@ -221,7 +221,7 @@ ni desagradecido.
 
 52
 00:06:52,040 --> 00:06:56,192
-En este momento, no se cuál es mi lugar.
+En este momento, no sé cuál es mi lugar.
 
 53
 00:06:59,240 --> 00:07:01,515
@@ -1573,7 +1573,7 @@ Yo también me pregunto lo mismo.
 346
 00:34:21,640 --> 00:34:27,158
 Por eso vine. No puedo ubicar a ninguno
-de los dos, y no se adónde fueron.
+de los dos, y no sé adónde fueron.
 
 347
 00:34:30,160 --> 00:34:32,435

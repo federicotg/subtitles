@@ -195,7 +195,7 @@ hace dos horas que están en el lugar,
 44
 00:06:33,240 --> 00:06:36,630
 los informes iniciales indican
-que no se hay supervivientes
+que no hay supervivientes
 
 45
 00:06:36,720 --> 00:06:41,874
@@ -1862,7 +1862,7 @@ Deje que lo invite también.
 
 408
 00:41:32,760 --> 00:41:35,558
-- No, no se preocupes.
+- No, no se preocupe.
 - No. Insisto.
 
 409

@@ -1627,7 +1627,7 @@ ahora mismo?
 358
 00:39:55,920 --> 00:39:59,310
 ¿El tamaño exacto del organismo
-aún no se ha sido determinado?
+aún no ha sido determinado?
 
 359
 00:39:59,440 --> 00:40:01,476
