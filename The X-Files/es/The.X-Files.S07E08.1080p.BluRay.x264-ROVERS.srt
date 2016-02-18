@@ -354,7 +354,7 @@ Vamos. Haz algo.
 
 80
 00:07:30,720 --> 00:07:32,199
-No lo se.
+No lo sé.
 
 81
 00:07:41,240 --> 00:07:43,549
@@ -2289,7 +2289,7 @@ para girar la cabeza por completo?
 
 508
 00:43:09,120 --> 00:43:12,908
-- No lo se.
+- No lo sé.
 - Yo sí. Te mostraré.
 
 509

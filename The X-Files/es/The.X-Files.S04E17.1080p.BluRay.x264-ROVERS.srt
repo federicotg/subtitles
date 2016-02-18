@@ -481,7 +481,7 @@ Bien, digamos que lo encontramos.
 
 106
 00:11:33,360 --> 00:11:35,430
-No lo se.
+No lo sé.
 
 107
 00:11:36,280 --> 00:11:40,592
@@ -679,7 +679,7 @@ podrían haber sido causadas.
 149
 00:16:12,120 --> 00:16:14,554
 - ¿Qué estaría haciendo Max con eso?
-- No lo se.
+- No lo sé.
 
 150
 00:16:14,640 --> 00:16:18,599
@@ -961,7 +961,7 @@ a menos que entre en el espacio militar.
 209
 00:22:36,360 --> 00:22:42,151
 - ¿Hubo registro del vuelo 549?
-- Sí, señor. Lo se de memoria.
+- Sí, señor. Lo sé de memoria.
 
 210
 00:22:42,240 --> 00:22:47,439
@@ -1085,7 +1085,7 @@ Lo destruyó y desapareció.
 236
 00:25:04,040 --> 00:25:08,511
 ¡Miren esto!
-No se que tipo de juego practicaba aquí.
+No sé que tipo de juego practicaba aquí.
 
 237
 00:25:08,600 --> 00:25:11,160
@@ -1310,7 +1310,7 @@ Estamos en pie hace 36 horas,
 
 285
 00:28:58,240 --> 00:29:01,994
-Sí, lo se. Pero necesito que
+Sí, lo sé. Pero necesito que
 vengas aquí y que escuches algo ahora.
 
 286
@@ -1652,7 +1652,7 @@ Fox Mulder. Soy del FBI.
 361
 00:38:08,040 --> 00:38:13,831
 Algún tipo de operación de rescate.
-No lo se.
+No lo sé.
 
 362
 00:38:13,920 --> 00:38:15,148

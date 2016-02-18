@@ -391,7 +391,7 @@ Que mi suegro me disparó.
 
 87
 00:09:46,840 --> 00:09:49,832
-No se que fue lo que viví.
+No sé que fue lo que viví.
 
 88
 00:09:51,000 --> 00:09:54,595
@@ -530,7 +530,7 @@ Es una cámara oculta.
 118
 00:14:16,000 --> 00:14:20,755
 Ojalá me lo hubiera dicho antes.
-No se si es una buena idea.
+No sé si es una buena idea.
 
 119
 00:14:20,880 --> 00:14:22,632
@@ -913,7 +913,7 @@ Supongamos que todo eso es cierto.
 
 203
 00:22:58,960 --> 00:23:00,996
-No lo se.
+No lo sé.
 
 204
 00:23:02,880 --> 00:23:05,110
@@ -929,7 +929,7 @@ Tiene que haber una razón.
 
 207
 00:23:17,640 --> 00:23:20,757
-Aunque no se que podría ser.
+Aunque no sé que podría ser.
 
 208
 00:23:22,240 --> 00:23:26,199

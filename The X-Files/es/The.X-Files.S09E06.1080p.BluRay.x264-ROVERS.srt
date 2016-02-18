@@ -138,7 +138,7 @@ NO_CONFÍES_EN_NADIE@MAIL.COM
 32
 00:04:01,400 --> 00:04:06,838
 Me contuve de escribirte antes
-por motivos que se que valoras.
+por motivos que sé que valoras.
 
 33
 00:04:06,960 --> 00:04:12,671
@@ -151,7 +151,7 @@ Me siento solo, Dana,
 
 35
 00:04:15,960 --> 00:04:20,078
-y no se si soy capaz de vivir así.
+y no sé si soy capaz de vivir así.
 
 36
 00:04:20,160 --> 00:04:25,678
@@ -356,7 +356,7 @@ Ahí está el teléfono.
 
 80
 00:09:31,080 --> 00:09:37,235
-No se si es buena idea
+No sé si es buena idea
 hacerla denuncia policial.
 
 81
@@ -831,7 +831,7 @@ Sí.
 
 187
 00:22:55,960 --> 00:22:59,919
-- No se si le entiendo.
+- No sé si le entiendo.
 - Haga lo que le voy a decir.
 
 188

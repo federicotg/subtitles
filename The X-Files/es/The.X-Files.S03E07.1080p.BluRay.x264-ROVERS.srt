@@ -259,7 +259,7 @@ Si quisiéramos investigarlo,
 
 59
 00:05:53,280 --> 00:05:57,432
-- No se si está disponible.
+- No sé si está disponible.
 - Pídale que se ponga a disposición.
 
 60
@@ -622,7 +622,7 @@ justicia por el asesinato de sus familias.
 135
 00:11:41,720 --> 00:11:44,280
 - ¿Por qué habría de hacerlo?
-- No lo se.
+- No lo sé.
 
 136
 00:11:44,360 --> 00:11:46,271
@@ -1160,7 +1160,7 @@ Trevor sólo tenía ocho años.
 
 252
 00:25:40,080 --> 00:25:42,913
-No lo se.
+No lo sé.
 Yo no mate a nadie.
 
 253
@@ -1216,7 +1216,7 @@ Demonios.
 264
 00:26:18,280 --> 00:26:21,317
 - ¿Qué quiso decir?
-- No se. Lo agrego a la lista.
+- No sé. Lo agrego a la lista.
 
 265
 00:26:21,440 --> 00:26:25,115

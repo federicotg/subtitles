@@ -261,7 +261,7 @@ y querían hablar con alguien del FBI.
 59
 00:04:34,120 --> 00:04:37,476
 - ¿Por qué tanto secreto?
-- No lo se.
+- No lo sé.
 
 60
 00:04:37,560 --> 00:04:41,030
@@ -308,7 +308,7 @@ que hay un saboteador dentro de la NASA.
 69
 00:05:20,360 --> 00:05:24,069
 - ¿Tiene pruebas del sabotaje?
-- No lo se. Quizá.
+- No lo sé. Quizá.
 
 70
 00:05:24,200 --> 00:05:28,796
@@ -1043,7 +1043,7 @@ Es probable que la prensa no sepa nada.
 228
 00:15:12,840 --> 00:15:16,958
 - ¿Piensas que fue un sabotaje?
-- No lo se. A veces las máquinas fallan.
+- No lo sé. A veces las máquinas fallan.
 
 229
 00:15:17,040 --> 00:15:20,191
@@ -1106,7 +1106,7 @@ Tengo que volver a Houston.
 242
 00:16:45,960 --> 00:16:48,190
 - ¿Qué pasó?
-- No lo se.
+- No lo sé.
 
 243
 00:16:48,280 --> 00:16:50,430
@@ -1131,7 +1131,7 @@ Era horrible.
 
 248
 00:17:03,600 --> 00:17:06,114
-No se que era.
+No sé que era.
 
 249
 00:17:19,320 --> 00:17:21,788
@@ -2010,7 +2010,7 @@ Han fallado demasiadas cosas.
 442
 00:33:02,200 --> 00:33:04,668
 - ¿Cómo lo sabe?
-- Lo se. Estoy seguro.
+- Lo sé. Estoy seguro.
 
 443
 00:33:04,760 --> 00:33:08,639

@@ -131,7 +131,7 @@ Ustedes regresen a la escuela.
 30
 00:03:50,680 --> 00:03:54,958
 - ¿Dónde está? ¿Dónde está Mulder?
-- No lo se.
+- No lo sé.
 
 31
 00:03:55,040 --> 00:03:59,079
@@ -209,7 +209,7 @@ Quizá no lo conocía mucho,
 
 47
 00:05:04,880 --> 00:05:07,838
-pero se que quien estaba allí
+pero sé que quien estaba allí
 era Fox Mulder.
 
 48
@@ -371,7 +371,7 @@ se enteró adónde íbamos.
 
 83
 00:09:30,480 --> 00:09:35,235
-No lo se, pero destrozará este lugar
+No lo sé, pero destrozará este lugar
 buscando a la persona equivocada.
 
 84
@@ -457,7 +457,7 @@ Ya no sabemos en quien confiar.
 
 102
 00:13:47,120 --> 00:13:52,194
-Me llevarán. Lo se.
+Me llevarán. Lo sé.
 Siempre lo he sabido.
 
 103
@@ -816,7 +816,7 @@ Entonces dímelo.
 183
 00:23:37,200 --> 00:23:42,069
 Dímelo tú.
-¿Cómo se que eres tú?
+¿Cómo sé que eres tú?
 
 184
 00:23:47,720 --> 00:23:50,314

@@ -386,7 +386,7 @@ todo lo posible.
 
 86
 00:10:15,080 --> 00:10:20,359
-No lo se. Algo que sea posible encontrar
+No lo sé. Algo que sea posible encontrar
 en un Archivo X.
 
 87
@@ -1405,7 +1405,7 @@ Sea lo que sea, no te preocupes.
 309
 00:42:13,680 --> 00:42:16,956
 - ¿Qué está pasando aquí?
-- No lo se.
+- No lo sé.
 
 310
 00:42:26,360 --> 00:42:28,078

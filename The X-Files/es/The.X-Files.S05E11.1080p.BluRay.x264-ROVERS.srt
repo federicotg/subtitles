@@ -787,7 +787,7 @@ el sistema comenzó a mostrar intención.
 
 171
 00:17:21,640 --> 00:17:26,156
-No lo se. Un día, David estaba en el sistema
+No lo sé. Un día, David estaba en el sistema
 y no regresaba cuando la llamábamos.
 
 172
@@ -1346,7 +1346,7 @@ Cállese o regresarán.
 294
 00:32:04,320 --> 00:32:06,834
 - ¿Qué quieren?
-- No lo se.
+- No lo sé.
 
 295
 00:32:06,920 --> 00:32:09,798
@@ -1536,7 +1536,7 @@ Ayúdame, Esther.
 
 338
 00:38:39,840 --> 00:38:42,229
-No lo se.
+No lo sé.
 
 339
 00:38:42,360 --> 00:38:45,238

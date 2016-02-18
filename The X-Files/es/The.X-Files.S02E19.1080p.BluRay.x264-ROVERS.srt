@@ -238,7 +238,7 @@ mi paciente y váyase antes de que la eche.
 
 53
 00:06:03,600 --> 00:06:06,797
-Vi a alguien, pero no se si era el teniente.
+Vi a alguien, pero no sé si era el teniente.
 
 54
 00:06:06,960 --> 00:06:11,795
@@ -1266,7 +1266,7 @@ Primero, suéltame.
 
 283
 00:26:45,680 --> 00:26:48,399
-¿Cómo se que dices la verdad?
+¿Cómo sé que dices la verdad?
 
 284
 00:26:49,520 --> 00:26:51,431
@@ -1278,7 +1278,7 @@ Luego mírate a ti mismo.
 
 286
 00:27:11,040 --> 00:27:13,600
-DEPURACION DE AGUAS CLOACALES
+DEPURACIÓN DE AGUAS CLOACALES
 
 287
 00:27:48,760 --> 00:27:51,433

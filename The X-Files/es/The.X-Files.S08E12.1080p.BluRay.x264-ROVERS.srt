@@ -979,7 +979,7 @@ del lugar donde se paró el tren.
 
 216
 00:20:11,240 --> 00:20:13,276
-No lo se.
+No lo sé.
 
 217
 00:20:15,840 --> 00:20:17,512
@@ -992,7 +992,7 @@ Sáquenmelo.
 219
 00:20:32,800 --> 00:20:36,679
 - ¿Qué es?
-- No lo se, pero me quema.
+- No lo sé, pero me quema.
 
 220
 00:20:36,800 --> 00:20:39,314
@@ -1026,12 +1026,12 @@ Denme agua.
 
 227
 00:21:04,000 --> 00:21:07,788
-No lo se, y me preocupa que usted
+No lo sé, y me preocupa que usted
 tampoco lo sepa. Scully, dime algo.
 
 228
 00:21:07,920 --> 00:21:12,198
-No se que decirte.
+No sé que decirte.
 Es algo que ataca la dermis.
 
 229
@@ -1350,7 +1350,7 @@ Responde, maldición.
 
 299
 00:27:13,240 --> 00:27:16,391
-No se. Busco a un agente del FBI,
+No sé. Busco a un agente del FBI,
 Dana Scully.
 
 300
@@ -1435,7 +1435,7 @@ Está matando gente.
 317
 00:28:25,960 --> 00:28:27,757
 - ¿Cómo?
-- No lo se.
+- No lo sé.
 
 318
 00:28:27,880 --> 00:28:31,839
@@ -1596,7 +1596,7 @@ pero ahora debo encontrar a este tipo.
 353
 00:32:09,400 --> 00:32:14,076
 Algo desata la reacción de este organismo
-que tienes en la piel, y no se que es.
+que tienes en la piel, y no sé que es.
 
 354
 00:32:14,200 --> 00:32:16,714
@@ -1735,7 +1735,7 @@ Scully, ¿puedes creerlo?
 384
 00:34:56,880 --> 00:35:01,271
 - ¿Qué está señalando?
-- No lo se.
+- No lo sé.
 
 385
 00:35:01,360 --> 00:35:05,273
@@ -1782,11 +1782,11 @@ Qué suerte la mía.
 394
 00:35:42,240 --> 00:35:47,109
 - Doggett, ¿adónde va?
-- No lo se, pero quiere que lo siga.
+- No lo sé, pero quiere que lo siga.
 
 395
 00:36:03,880 --> 00:36:09,398
-Scully, no se si puedes ver esto.
+Scully, no sé si puedes ver esto.
 Creo que encontré la fuente del contagio.
 
 396

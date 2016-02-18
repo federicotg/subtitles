@@ -302,7 +302,7 @@ Mentiste.
 
 70
 00:06:46,240 --> 00:06:49,516
-Lo has visto antes, lo se. Les mentiste.
+Lo has visto antes, lo sé. Les mentiste.
 
 71
 00:06:49,600 --> 00:06:51,397
@@ -1581,7 +1581,7 @@ No puedo volver a esa casa.
 365
 00:34:52,880 --> 00:34:55,394
 - Está muerto.
-- Lo se.
+- Lo sé.
 
 366
 00:34:55,520 --> 00:34:57,829
@@ -1589,7 +1589,7 @@ Te está protegiendo, ¿verdad?
 
 367
 00:35:06,200 --> 00:35:09,556
-No se si saben cómo es
+No sé si saben cómo es
 el trabajo de una secretaria.
 
 368
@@ -2070,7 +2070,7 @@ Sí, pero de verdad que me gustaría ir.
 
 478
 00:44:02,040 --> 00:44:05,715
-No lo se. ¿Hasta que hora
+No lo sé. ¿Hasta que hora
 crees que estará abierto?
 
 479

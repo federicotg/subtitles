@@ -99,11 +99,11 @@ Está perdiendo agua.
 
 23
 00:05:15,480 --> 00:05:18,392
-Ya se que no están permitidas.
+Ya sé que no están permitidas.
 
 24
 00:05:18,480 --> 00:05:21,916
-No se que decirle.
+No sé que decirle.
 Creo que fue un regalo.
 
 25
@@ -527,7 +527,7 @@ Está perdiendo agua.
 
 118
 00:17:09,760 --> 00:17:12,194
-Ya se que no están permitidas.
+Ya sé que no están permitidas.
 
 119
 00:17:12,280 --> 00:17:15,590

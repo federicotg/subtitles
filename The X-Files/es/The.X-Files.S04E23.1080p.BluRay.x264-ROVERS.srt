@@ -38,7 +38,7 @@ Tengo miedo, Fox. Tengo miedo.
 
 10
 00:01:50,200 --> 00:01:51,349
-No lo se.
+No lo sé.
 
 11
 00:01:52,040 --> 00:01:53,871
@@ -65,7 +65,7 @@ en Providence, pero...
 
 16
 00:02:07,360 --> 00:02:10,557
-No lo se. Estoy cubierto de sangre.
+No lo sé. Estoy cubierto de sangre.
 
 17
 00:02:10,840 --> 00:02:13,798
@@ -139,7 +139,7 @@ con un tremendo dolor de cabeza.
 
 33
 00:04:42,040 --> 00:04:45,271
-No lo se. No recuerdo... nada.
+No lo sé. No recuerdo... nada.
 
 34
 00:04:45,880 --> 00:04:47,711
@@ -170,7 +170,7 @@ Hable contigo por teléfono.
 
 40
 00:05:07,960 --> 00:05:13,398
-No lo se, pero empacaste un bolso.
+No lo sé, pero empacaste un bolso.
 Tienes un juego de ropa allí.
 
 41
@@ -193,7 +193,7 @@ No.
 
 45
 00:05:36,480 --> 00:05:38,471
-No lo se.
+No lo sé.
 
 46
 00:05:47,960 --> 00:05:50,952
@@ -374,7 +374,7 @@ Claro.
 85
 00:09:27,800 --> 00:09:31,554
 - ¿Cómo?
-- No lo se. La he visto antes.
+- No lo sé. La he visto antes.
 
 86
 00:09:33,320 --> 00:09:36,232
@@ -397,7 +397,7 @@ He estado en esa casa.
 90
 00:09:59,520 --> 00:10:01,875
 - ¿Cuándo?
-- No lo se, pero he estado allí.
+- No lo sé, pero he estado allí.
 
 91
 00:10:02,000 --> 00:10:04,195
@@ -454,7 +454,7 @@ Eres un pequeño espía.
 103
 00:11:33,960 --> 00:11:37,157
 - ¿Qué ocurrió?
-- No lo se. Simplemente me golpeó.
+- No lo sé. Simplemente me golpeó.
 
 104
 00:11:37,280 --> 00:11:40,829
@@ -503,7 +503,7 @@ un disturbio fisiológico agudo.
 
 114
 00:12:14,640 --> 00:12:21,193
-No se si perdiste la conciencia,
+No sé si perdiste la conciencia,
 pero ha sido la repetición de algún suceso.
 
 115
@@ -614,7 +614,7 @@ Y que tuvo uno aquí mismo en el jardín.
 
 140
 00:15:22,520 --> 00:15:24,511
-No lo se.
+No lo sé.
 
 141
 00:15:25,160 --> 00:15:26,593
@@ -1000,7 +1000,7 @@ encontrarían la misma picada.
 225
 00:21:26,600 --> 00:21:28,716
 - ¿Quién la habrá producido?
-- No lo se,
+- No lo sé,
 
 226
 00:21:28,800 --> 00:21:33,510
@@ -1272,7 +1272,7 @@ que se trató de un asesinato-suicidio.
 284
 00:27:21,800 --> 00:27:24,439
 - Pero yo estuve allí.
-- Lo se.
+- Lo sé.
 
 285
 00:27:25,680 --> 00:27:27,636
@@ -1375,7 +1375,7 @@ que trató a Amy Cassandra.
 306
 00:28:55,800 --> 00:29:00,476
 - ¿Has estado aquí antes?
-- No lo se, pero encontramos mi coche.
+- No lo sé, pero encontramos mi coche.
 
 307
 00:29:13,040 --> 00:29:15,554

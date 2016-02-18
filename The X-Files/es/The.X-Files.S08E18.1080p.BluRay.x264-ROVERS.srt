@@ -902,7 +902,7 @@ Sí, y está muerto, Mulder.
 197
 00:20:22,360 --> 00:20:25,875
 - No es posible.
-- Lo se. Podría ser un incidente aislado,
+- Lo sé. Podría ser un incidente aislado,
 
 198
 00:20:25,960 --> 00:20:29,839
@@ -1247,7 +1247,7 @@ o protegen algo, ¿que diablos es?
 
 272
 00:25:15,840 --> 00:25:19,355
-- Aún no lo se.
+- Aún no lo sé.
 - Cuando lo sepa, dígamelo.
 
 273
@@ -1597,7 +1597,7 @@ una amenaza por haber sabido algo.
 
 348
 00:33:26,200 --> 00:33:28,270
-Eso no lo se.
+Eso no lo sé.
 
 349
 00:33:32,080 --> 00:33:37,313
@@ -1815,7 +1815,7 @@ Escuche.
 396
 00:38:54,920 --> 00:38:57,388
 - ¿Adónde fueron?
-- No lo se.
+- No lo sé.
 
 397
 00:38:57,560 --> 00:39:00,916

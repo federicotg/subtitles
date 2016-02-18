@@ -95,7 +95,7 @@ Despacio. Espérenlo.
 22
 00:02:21,960 --> 00:02:24,952
 - ¿Qué acaba de ocurrir?
-- No se que diablos pasó.
+- No sé que diablos pasó.
 
 23
 00:02:25,240 --> 00:02:28,232
@@ -104,7 +104,7 @@ Despacio. Espérenlo.
 24
 00:02:28,320 --> 00:02:32,632
 Mi amigo no se siente bien.
-No se que está pasando... Dios.
+No sé que está pasando... Dios.
 
 25
 00:02:33,200 --> 00:02:35,191
@@ -960,7 +960,7 @@ sobrevivientes, dos adolescentes.
 
 207
 00:21:23,280 --> 00:21:25,350
-No lo se.
+No lo sé.
 
 208
 00:21:28,120 --> 00:21:31,874
@@ -1180,7 +1180,7 @@ por todo el cine?
 
 254
 00:25:50,920 --> 00:25:52,956
-No lo se.
+No lo sé.
 
 255
 00:25:59,280 --> 00:26:02,397
@@ -1570,7 +1570,7 @@ Se acabaron las pruebas, Sr. Mulder.
 342
 00:37:06,040 --> 00:37:11,797
 Si va matar a Mulder para proteger su
-secreto, es demasiado tarde. Yo lo se.
+secreto, es demasiado tarde. Yo lo sé.
 
 343
 00:37:15,640 --> 00:37:20,998

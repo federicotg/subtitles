@@ -789,7 +789,7 @@ Ellens ni siquiera está en el mapa.
 
 176
 00:15:08,480 --> 00:15:10,152
-Ya lo se. Vamos.
+Ya lo sé. Vamos.
 
 177
 00:15:10,240 --> 00:15:11,992
@@ -816,7 +816,7 @@ ACCESO RESTRINGIDO.
 
 182
 00:15:52,360 --> 00:15:54,430
-No lo se. Quizá no vea nada.
+No lo sé. Quizá no vea nada.
 
 183
 00:15:57,000 --> 00:16:01,596
@@ -841,7 +841,7 @@ Mulder? ¿A buscar ovnis?
 
 188
 00:16:55,760 --> 00:16:59,753
-No lo se. Tú sigue mirando. Es increíble.
+No lo sé. Tú sigue mirando. Es increíble.
 
 189
 00:17:01,120 --> 00:17:05,318
@@ -861,7 +861,7 @@ Un avión no puede maniobrar así.
 
 193
 00:17:13,800 --> 00:17:18,794
-No lo se. Rayos láser disparados desde
+No lo sé. Rayos láser disparados desde
 el suelo, reflejándose en las nubes.
 
 194
@@ -1060,7 +1060,7 @@ estrelló en Roswell, Nuevo México, en 1947.
 
 237
 00:21:27,520 --> 00:21:31,433
-Ya se que no te crees la historia,
+Ya sé que no te crees la historia,
 pero escúchame.
 
 238

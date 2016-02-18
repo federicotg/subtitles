@@ -155,7 +155,7 @@ Váyase a casa. Duerma un poco.
 
 36
 00:04:46,880 --> 00:04:49,792
-¿Cómo se que no me está manipulando?
+¿Cómo sé que no me está manipulando?
 
 37
 00:04:49,880 --> 00:04:52,155
@@ -335,7 +335,7 @@ Esta fuente,
 
 75
 00:07:08,920 --> 00:07:12,754
-- No lo se.
+- No lo sé.
 - ¿No te preocupa que nos utilicen?
 
 76

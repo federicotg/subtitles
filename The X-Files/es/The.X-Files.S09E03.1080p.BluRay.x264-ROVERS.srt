@@ -1179,7 +1179,7 @@ Ya hay alguien allí.
 
 263
 00:26:19,920 --> 00:26:23,117
-No lo se. No lo aclaramos.
+No lo sé. No lo aclaramos.
 
 264
 00:26:23,240 --> 00:26:25,435
@@ -1361,7 +1361,7 @@ Y ya que no tengo nada que perder,
 
 305
 00:34:12,120 --> 00:34:17,399
-permítame decir que se que está implicado
+permítame decir que sé que está implicado
 en todo esto hasta el fondo.
 
 306

@@ -612,7 +612,7 @@ No encontré nada parecido.
 
 136
 00:13:59,080 --> 00:14:06,031
-No se. Por la reacción del Dr. Voss,
+No sé. Por la reacción del Dr. Voss,
 creo que debemos investigar.
 
 137
@@ -958,7 +958,7 @@ Hubo otra muerte. En el centro.
 214
 00:22:02,120 --> 00:22:04,953
 - ¿Cómo ocurrió?
-- No lo se.
+- No lo sé.
 
 215
 00:22:05,080 --> 00:22:09,198
@@ -1550,7 +1550,7 @@ Moriría en la operación.
 
 346
 00:36:58,840 --> 00:37:01,877
-No se que otras opciones tenemos.
+No sé que otras opciones tenemos.
 
 347
 00:37:03,800 --> 00:37:06,951

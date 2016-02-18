@@ -926,7 +926,7 @@ No se nada sobre ese correo diplomático.
 209
 00:18:57,720 --> 00:19:00,280
 - ¿Nada sobre el tema?
-- No, no se.
+- No, no sé.
 
 210
 00:19:01,640 --> 00:19:05,872
@@ -1178,11 +1178,11 @@ El Dr. Sacks, él...
 
 264
 00:24:21,280 --> 00:24:24,590
-No se, Mulder. Nunca lo había visto antes.
+No sé, Mulder. Nunca lo había visto antes.
 
 265
 00:24:24,680 --> 00:24:26,875
-No se si está muerto o vivo.
+No sé si está muerto o vivo.
 
 266
 00:24:26,960 --> 00:24:30,350
@@ -1386,7 +1386,7 @@ de estado de coma o de rigor somático.
 
 311
 00:28:58,640 --> 00:29:01,950
-No lo se, pero tenemos que sacarlo de aquí.
+No lo sé, pero tenemos que sacarlo de aquí.
 
 312
 00:29:17,040 --> 00:29:18,996

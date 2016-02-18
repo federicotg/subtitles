@@ -428,7 +428,7 @@ Y se ha convertido en la mía también.
 
 96
 00:08:57,960 --> 00:09:00,872
-Tal vez indirectamente. No lo se.
+Tal vez indirectamente. No lo sé.
 
 97
 00:09:02,360 --> 00:09:05,477
@@ -951,7 +951,7 @@ No es más que un estafador.
 215
 00:21:51,320 --> 00:21:53,311
 - ¿Cómo lo sabes?
-- ¿Cómo lo se?
+- ¿Cómo lo sé?
 
 216
 00:21:53,400 --> 00:21:57,313
