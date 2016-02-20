@@ -542,7 +542,7 @@ Es la explicación más sencilla.
 
 123
 00:14:39,003 --> 00:14:43,337
-Alguien le pudo darla dirección.
+Alguien le pudo dar la dirección.
 No sé quien.
 
 124

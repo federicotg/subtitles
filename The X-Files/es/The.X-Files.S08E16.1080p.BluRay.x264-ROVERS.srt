@@ -54,7 +54,7 @@ Por favor... El presidente...
 13
 00:01:22,760 --> 00:01:26,309
 El intruso está detenido.
-Pueden bajarla guardia.
+Pueden bajar la guardia.
 
 14
 00:01:28,000 --> 00:01:30,560
@@ -1175,7 +1175,7 @@ por héroe porque no lo es.
 259
 00:27:04,360 --> 00:27:10,595
 Ocupa una oficina dedicada
-a encontrarla verdad, y la entierra.
+a encontrar la verdad, y la entierra.
 
 260
 00:27:10,680 --> 00:27:13,638

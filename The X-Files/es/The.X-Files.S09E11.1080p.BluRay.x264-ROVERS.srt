@@ -287,7 +287,7 @@ la parada anterior a lo que sigue.
 68
 00:10:08,240 --> 00:10:12,119
 - ¿Adónde va?
-- A buscarla salida.
+- A buscar la salida.
 
 69
 00:11:00,400 --> 00:11:05,030

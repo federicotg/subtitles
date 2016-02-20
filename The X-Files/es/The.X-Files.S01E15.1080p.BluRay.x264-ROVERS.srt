@@ -364,7 +364,7 @@ conducía el coche en la fuga.
 81
 00:08:38,240 --> 00:08:43,234
 Entre los dos han matado a siete personas
-y se han llevado cerca de 100:000 dólares.
+y se han llevado cerca de 100.000 dólares.
 
 82
 00:08:43,320 --> 00:08:46,710
@@ -2151,7 +2151,7 @@ del colegio, eso supone cubrir un área
 475
 00:38:27,400 --> 00:38:29,868
 de 5 kilómetros cuadrados.
-Unas 1:000 casas.
+Unas 1.000 casas.
 
 476
 00:38:30,000 --> 00:38:32,514

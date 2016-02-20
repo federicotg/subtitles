@@ -133,7 +133,7 @@ del cargamento tóxico
 30
 00:03:56,280 --> 00:04:01,877
 que provocó la evacuación de los
-12:000 habitantes de Townsend, Wisconsin.
+12.000 habitantes de Townsend, Wisconsin.
 
 31
 00:04:02,000 --> 00:04:05,754
@@ -147,16 +147,16 @@ un accidente ferroviario?
 
 33
 00:04:09,080 --> 00:04:13,995
-Sr. Mulder, EE UU está rodeado
+Sr. Mulder, EE.UU.está rodeado
 por una barrera electrónica
 
 34
 00:04:14,080 --> 00:04:17,868
-que se extiende 25:000 km hacia el espacio.
+que se extiende 25.000 km hacia el espacio.
 
 35
 00:04:18,600 --> 00:04:25,756
-La usamos para controlar los 7:087
+La usamos para controlar los 7.087
 artefactos que orbitan la Tierra.
 
 36
@@ -224,7 +224,7 @@ será como si nada hubiera ocurrido.
 50
 00:06:27,480 --> 00:06:30,756
 - ¡Vamos, muévanse!
-- Hay que colocarla barricada.
+- Hay que colocar la barricada.
 
 51
 00:06:31,440 --> 00:06:33,476
@@ -942,7 +942,7 @@ Y tengo un hijo a quien debo cuidar.
 210
 00:21:29,520 --> 00:21:33,229
 Captando una señal de frecuencia
-muy elevada. 200:000 megahercios.
+muy elevada. 200.000 megahercios.
 
 211
 00:21:33,360 --> 00:21:34,679
@@ -1353,7 +1353,7 @@ Ya he visto ese corte dos veces.
 
 301
 00:31:15,720 --> 00:31:18,029
-En dos mujeres a 1:500 km de distancia.
+En dos mujeres a 1.500 km de distancia.
 
 302
 00:31:18,120 --> 00:31:20,554
@@ -1456,7 +1456,7 @@ La base de Whitmarsh lo está captando.
 323
 00:32:41,000 --> 00:32:43,878
 - ¿Dónde está?
-- #Sector 35, 16:000 m, velocidad cero.
+- #Sector 35, 16.000 m, velocidad cero.
 
 324
 00:32:44,000 --> 00:32:49,438

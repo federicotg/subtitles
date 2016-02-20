@@ -764,12 +764,12 @@ sin las medidas de seguridad apropiadas?
 
 167
 00:11:19,920 --> 00:11:23,913
-Hay unas 17:000 cosas
+Hay unas 17.000 cosas
 que pueden fallar en la lanzadera.
 
 168
 00:11:24,040 --> 00:11:27,112
-Y unas 17:000 personas
+Y unas 17.000 personas
 asegurando que eso no ocurra.
 
 169
@@ -1324,7 +1324,7 @@ Les daré control total del transbordador.
 289
 00:20:18,520 --> 00:20:23,640
 Debemos darles control de la nave para
-hacerla rotación y realizarla descarga.
+hacer la rotación y realizar la descarga.
 
 290
 00:20:23,760 --> 00:20:26,672
@@ -1521,7 +1521,7 @@ nave fantasma atrapada en órbita.
 334
 00:23:56,200 --> 00:24:00,113
 ¿Traerlos de vuelta
-sin realizarla descarga?
+sin realizar la descarga?
 
 335
 00:24:00,200 --> 00:24:03,078
@@ -1981,7 +1981,7 @@ Ya lo viste. Está loco.
 
 436
 00:32:43,280 --> 00:32:45,236
-Si no logra realizarla descarga,
+Si no logra realizar la descarga,
 
 437
 00:32:45,320 --> 00:32:47,515
@@ -2438,7 +2438,7 @@ Reentrada a la ionosfera en 35 segundos.
 
 537
 00:39:54,600 --> 00:39:57,717
-Tendríamos que cambiarla posición
+Tendríamos que cambiar la posición
 y avisarles antes de la desconexión.
 
 538

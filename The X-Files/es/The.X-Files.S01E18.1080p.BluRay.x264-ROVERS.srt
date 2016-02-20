@@ -1032,7 +1032,7 @@ no vemos motivos para cargar al condado
 231
 00:16:03,720 --> 00:16:08,589
 con su mantenimiento hasta el juicio, pero
-solicitamos una fianza de 100:000 dólares.
+solicitamos una fianza de 100.000 dólares.
 
 232
 00:16:08,720 --> 00:16:11,598
@@ -1040,7 +1040,7 @@ Está bien. Si no hay ninguna objeción
 
 233
 00:16:11,720 --> 00:16:13,756
-se fija la fianza en 100:000 dólares...
+se fija la fianza en 100.000 dólares...
 
 234
 00:16:15,000 --> 00:16:18,549

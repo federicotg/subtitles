@@ -667,7 +667,7 @@ Esta niña se llama Tina Simmons.
 
 153
 00:12:52,520 --> 00:12:56,035
-Vive a 5:000 kilómetros de aquí,
+Vive a 5.000 kilómetros de aquí,
 en Greenwich, Connecticut.
 
 154

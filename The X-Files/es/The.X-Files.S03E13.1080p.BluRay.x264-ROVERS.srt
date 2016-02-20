@@ -1650,7 +1650,7 @@ Yo no lo mate.
 
 362
 00:34:03,760 --> 00:34:06,274
-Usted puede colocarla cantidad.
+Usted puede colocar la cantidad.
 
 363
 00:34:15,920 --> 00:34:18,036

@@ -459,7 +459,7 @@ se desplaza en un mínimo de 50 km2.
 
 99
 00:09:35,200 --> 00:09:40,638
-Ganesha pesaba más de 2:000 kg
+Ganesha pesaba más de 2.000 kg
 y vivía en una jaula de 15 m x 15 m.
 
 100
@@ -642,7 +642,7 @@ hasta que estuvo lejos del zoo?
 137
 00:12:15,000 --> 00:12:19,118
 Las luces de la obra eran de
-vapor de mercurio, 10:000 bujías.
+vapor de mercurio, 10.000 bujías.
 
 138
 00:12:19,200 --> 00:12:22,237

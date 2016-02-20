@@ -308,7 +308,7 @@ Su paradero es desconocido.
 
 68
 00:06:35,280 --> 00:06:37,430
-Haley le dio 50:000 dólares en títulos al
+Haley le dio 50.000 dólares en títulos al
 
 69
 00:06:37,520 --> 00:06:40,318

@@ -135,7 +135,7 @@ Ahora soy un mero objeto de pruebas.
 
 33
 00:05:13,440 --> 00:05:15,192
-¿Los ayudó a encontrarla roca?
+¿Los ayudó a encontrar la roca?
 
 34
 00:05:15,280 --> 00:05:18,590
@@ -165,7 +165,7 @@ La búsqueda de la cura es lenta.
 40
 00:05:37,720 --> 00:05:40,280
 ¿Por eso hacen las pruebas,
-para encontrarla cura?
+para encontrar la cura?
 
 41
 00:05:40,400 --> 00:05:43,756

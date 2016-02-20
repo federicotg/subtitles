@@ -43,7 +43,7 @@ Necesitamos agua, Evan. Ahora mismo.
 
 11
 00:01:09,920 --> 00:01:14,471
-Ayúdame a sacarla lavadora.
+Ayúdame a sacar la lavadora.
 Por favor, Evan, ayúdame.
 
 12
@@ -495,7 +495,7 @@ donde las pueda ver.
 
 108
 00:11:10,440 --> 00:11:13,432
-¿Quiénes son y que demonios hacen?
+¿Quiénes son y qué demonios hacen?
 
 109
 00:11:14,760 --> 00:11:16,671
@@ -594,7 +594,7 @@ a terminar lo que interrumpió.
 
 130
 00:12:33,000 --> 00:12:35,150
-Sí, señor. ¿Me devuere el arma?
+Sí, señor. ¿Me devuelve el arma?
 
 131
 00:12:40,880 --> 00:12:42,518
