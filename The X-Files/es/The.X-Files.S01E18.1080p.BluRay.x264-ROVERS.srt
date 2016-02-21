@@ -2004,7 +2004,7 @@ a administrárselo, cosa que no creo.
 
 451
 00:31:51,880 --> 00:31:55,998
-las pruebas. La ley de #habeas corpus#
+las pruebas. La ley de <i>habeas corpus</i>
 los obligará a ponerte en libertad.
 
 452
@@ -2694,7 +2694,7 @@ que llegan a verlo que quieren ver.
 
 606
 00:45:42,680 --> 00:45:44,079
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 607
 00:45:44,160 --> 00:45:45,149

@@ -465,7 +465,7 @@ Es una manera de vivir interesante.
 
 104
 00:13:26,880 --> 00:13:28,916
-Mi vida por un #todoterreno.
+Mi vida por un todoterreno.
 
 105
 00:13:36,080 --> 00:13:39,152
@@ -1479,11 +1479,11 @@ desaparecido? No tienen transporte.
 
 333
 00:43:57,120 --> 00:43:59,111
-No tienen transporte #terrenal.
+No tienen transporte terrenal.
 
 334
 00:44:46,760 --> 00:44:48,751
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 335
 00:44:48,840 --> 00:44:49,829

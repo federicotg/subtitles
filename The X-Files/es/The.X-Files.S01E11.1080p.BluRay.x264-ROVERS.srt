@@ -579,7 +579,7 @@ Desde que nací, hace ocho años.
 
 133
 00:11:37,960 --> 00:11:40,872
-#Ésta es la firma ceremonial...
+Ésta es la firma ceremonial...
 
 134
 00:11:46,800 --> 00:11:50,315
@@ -844,16 +844,16 @@ La Dra. Kendrick traía sólo problemas.
 
 192
 00:15:32,680 --> 00:15:37,196
-#Hola. Bienvenido al Centro
+Hola. Bienvenido al Centro
 Luther Stapes de Medicina Reproductiva.
 
 193
 00:15:37,280 --> 00:15:39,350
-#Soy la Dra. Sally Kendrick,
+Soy la Dra. Sally Kendrick,
 
 194
 00:15:39,480 --> 00:15:43,553
-#especialista en el apasionante campo
+especialista en el apasionante campo
 de la fertilización in vitro.
 
 195
@@ -925,12 +925,12 @@ La Dra. Kendrick... desapareció.
 
 210
 00:16:34,600 --> 00:16:39,310
-#Conocemos el pesar de la infertilidad,
+Conocemos el pesar de la infertilidad,
 y estamos preparados para ayudarle.
 
 211
 00:16:39,400 --> 00:16:41,550
-#Durante la próxima media hora...
+Durante la próxima media hora...
 
 212
 00:16:42,560 --> 00:16:44,630
@@ -953,12 +953,12 @@ hacer desaparecer los resultados?
 
 216
 00:16:54,640 --> 00:17:00,272
-#...pero con nuestros avances científicos,
+...pero con nuestros avances científicos,
 un poco de suerte y mucha esperanza,
 
 217
 00:17:02,760 --> 00:17:04,637
-#pueden ocurrir milagros.
+pueden ocurrir milagros.
 
 218
 00:17:04,760 --> 00:17:06,637
@@ -2248,6 +2248,6 @@ Maria Hirschi-Bruce
 
 517
 00:45:45,160 --> 00:45:46,912
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 

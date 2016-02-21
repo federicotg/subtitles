@@ -163,7 +163,7 @@ No quiero... Es decir, sí quiero.
 36
 00:07:07,640 --> 00:07:12,509
 - ¿Qué estás mirando, Mulder?
-- #"Los enjambres más mortales".
+- "Los enjambres más mortales".
 
 37
 00:07:12,640 --> 00:07:16,553

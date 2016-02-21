@@ -796,20 +796,20 @@ hace dos noches.
 
 177
 00:19:06,760 --> 00:19:09,399
-#Incendio cerca de la carretera D7,
+Incendio cerca de la carretera D7,
 
 178
 00:19:09,520 --> 00:19:12,398
-#tres km al oeste
+tres km al oeste
 del cruce de Canyon Ridge.
 
 179
 00:19:12,520 --> 00:19:14,909
-#Sugiero envíen a los bomberos. Cambio.
+Sugiero envíen a los bomberos. Cambio.
 
 180
 00:19:15,000 --> 00:19:17,230
-#Aquí el sheriff Wright. ¿Reciben?
+Aquí el sheriff Wright. ¿Reciben?
 
 181
 00:19:18,000 --> 00:19:22,391
@@ -822,24 +822,24 @@ La recepción fallaba por alguna razón.
 
 183
 00:19:25,000 --> 00:19:28,913
-#Aquí la unidad 53. Hay un herido.
+Aquí la unidad 53. Hay un herido.
 Solicito atención médica.
 
 184
 00:19:29,000 --> 00:19:31,309
-#¡Digo que solicito atención médica!
+¡Digo que solicito atención médica!
 
 185
 00:19:32,000 --> 00:19:36,551
-#Se va la onda... apenas... mal, muy mal.
+Se va la onda... apenas... mal, muy mal.
 
 186
 00:19:36,640 --> 00:19:38,915
-#Un momento. ¿Qué diablos...?
+Un momento. ¿Qué diablos...?
 
 187
 00:19:39,000 --> 00:19:42,470
-#¡Charlie! ¡Tenemos un problema!
+¡Charlie! ¡Tenemos un problema!
 
 188
 00:19:44,800 --> 00:19:46,631
@@ -1445,7 +1445,7 @@ Un meteorito mucho mayor,... señor.
 
 321
 00:32:34,240 --> 00:32:37,710
-- #Base de Whitmarsh. Tenemos un objeto.#
+- <i>Base de Whitmarsh. Tenemos un objeto.</i>
 - Espere un momento.
 
 322
@@ -1456,7 +1456,7 @@ La base de Whitmarsh lo está captando.
 323
 00:32:41,000 --> 00:32:43,878
 - ¿Dónde está?
-- #Sector 35, 16.000 m, velocidad cero.
+- Sector 35, 16.000 m, velocidad cero.
 
 324
 00:32:44,000 --> 00:32:49,438
@@ -1465,7 +1465,7 @@ sobre un pueblo del este de Wisconsin.
 
 325
 00:32:49,600 --> 00:32:51,397
-#Tenemos un objeto. Confirmado.
+Tenemos un objeto. Confirmado.
 
 326
 00:33:47,320 --> 00:33:50,756
@@ -1501,7 +1501,7 @@ Mulder, mira esto.
 
 334
 00:34:23,880 --> 00:34:27,156
-#Patrulla Halcón informando
+Patrulla Halcón informando
 sobre intrusión no identificada.
 
 335
@@ -2076,6 +2076,6 @@ Maria Hirschi-Bruce
 
 462
 00:45:47,840 --> 00:45:48,636
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 

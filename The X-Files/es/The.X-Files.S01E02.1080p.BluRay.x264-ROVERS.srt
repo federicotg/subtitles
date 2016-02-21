@@ -1797,7 +1797,7 @@ llega usted con sus cuentos.
 
 402
 00:38:26,040 --> 00:38:28,918
-#- El paquete está por llegar.#
+<i>- El paquete está por llegar.</i>
 - Recibido.
 
 403
@@ -1930,48 +1930,48 @@ tan rápido como podamos.
 
 432
 00:42:18,160 --> 00:42:21,755
-#El teniente coronel Robert Budahas
+El teniente coronel Robert Budahas
 volvió a su casa,
 
 433
 00:42:21,880 --> 00:42:26,874
-#aunque su conciencia de la desaparición
+aunque su conciencia de la desaparición
 es muy vaga y poco concluyente.
 
 434
 00:42:26,960 --> 00:42:31,112
-#La insistencia del agente Mulder en que
+La insistencia del agente Mulder en que
 Budahas podría ser piloto de pruebas en
 
 435
 00:42:31,240 --> 00:42:36,109
-#una operación de alto secreto con aviones
+una operación de alto secreto con aviones
 que usaban tecnología de un ovni recuperado
 
 436
 00:42:36,280 --> 00:42:42,310
-#y sufre un trauma debido al estrés
+y sufre un trauma debido al estrés
 de pilotarlos, también es poco concluyente.
 
 437
 00:42:42,600 --> 00:42:46,229
-#Aunque esta agente puede corroborar la
+Aunque esta agente puede corroborar la
 afirmación del agente Mulder de haber visto
 
 438
 00:42:46,320 --> 00:42:51,599
-#dos objetos voladores no identificados
+dos objetos voladores no identificados
 en el cielo al norte de la base de Ellens
 
 439
 00:42:51,680 --> 00:42:55,150
-#su naturaleza y diseño exactos
+su naturaleza y diseño exactos
 no se pudieron determinar.
 
 440
 00:42:55,280 --> 00:43:04,154
-#Salvo otra investigación autorizada, el
-caso - expediente #DF101364 - está cerrado.
+Salvo otra investigación autorizada, el
+caso - expediente DF101364 - está cerrado.
 
 441
 00:43:46,360 --> 00:43:48,351

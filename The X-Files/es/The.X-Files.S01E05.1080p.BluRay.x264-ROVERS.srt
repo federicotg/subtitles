@@ -2060,7 +2060,7 @@ Solía creer que esa historia era cierta.
 
 455
 00:44:22,040 --> 00:44:23,951
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 456
 00:44:24,040 --> 00:44:25,029

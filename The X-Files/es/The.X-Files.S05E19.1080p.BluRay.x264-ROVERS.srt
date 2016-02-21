@@ -1367,7 +1367,7 @@ El delirio de uno puede pasarse a otro.
 
 303
 00:26:57,840 --> 00:27:01,958
-#¿Folie a deux? #No es eso.
+<i>¿Folie a deux?</i> No es eso.
 Tampoco es el síndrome de Helsinki.
 
 304
@@ -2016,7 +2016,7 @@ La verdad. Así como la entiendo yo.
 
 446
 00:43:59,920 --> 00:44:03,674
-#Folie a deux.#
+<i>Folie a deux.</i>
 Una locura compartida entre dos.
 
 447

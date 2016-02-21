@@ -2586,7 +2586,7 @@ volveremos a saber de John Barnett.
 
 577
 00:45:50,320 --> 00:45:52,117
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 578
 00:45:52,200 --> 00:45:53,189

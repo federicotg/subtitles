@@ -45,7 +45,7 @@ Hay un avión derribado dentro del perímetro.
 
 11
 00:01:35,840 --> 00:01:38,718
-#En este momento
+En este momento
 no tenemos nada en el aire.
 
 12
@@ -55,11 +55,11 @@ Vamos a echar un vistazo.
 
 13
 00:01:46,160 --> 00:01:48,720
-#Medevac Uno, aquí Creciente Roja.
+Medevac Uno, aquí Creciente Roja.
 
 14
 00:01:48,840 --> 00:01:53,277
-#Creciente Sur informa sobre un aparato
+Creciente Sur informa sobre un aparato
 derribado en su zona.
 
 15
@@ -86,12 +86,12 @@ REAGAN, TENNESSEE
 
 20
 00:02:54,000 --> 00:02:57,595
-#Les habla el viejo gran Opry
+Les habla el viejo gran Opry
 en WSM Radio 650.
 
 21
 00:02:57,760 --> 00:03:00,228
-#Patrocinado por Goody's,
+Patrocinado por Goody's,
 contra el dolor de cabeza.
 
 22
@@ -106,26 +106,26 @@ Les doy mi palabra. Goody's.
 
 24
 00:03:19,120 --> 00:03:23,238
-#Tenía forma alargada, y luces rojas y verdes.
+Tenía forma alargada, y luces rojas y verdes.
 ¡Iba rapidísimo!
 
 25
 00:03:23,320 --> 00:03:26,392
-#Vi a tres de ellos volando
+Vi a tres de ellos volando
 sobre el condado de Chester.
 
 26
 00:03:26,560 --> 00:03:29,438
-#Seis oficiales los perseguían por la 22.
+Seis oficiales los perseguían por la 22.
 
 27
 00:03:31,160 --> 00:03:33,958
-#¡Veo a uno!
+¡Veo a uno!
 ¡Está sobre el depósito de agua!
 
 28
 00:03:34,040 --> 00:03:36,110
-#¡Yo también lo veo!
+¡Yo también lo veo!
 
 29
 00:04:49,880 --> 00:04:54,635
@@ -1283,11 +1283,11 @@ pero sé que siguen a la escucha.
 
 278
 00:26:52,360 --> 00:26:54,430
-#¡Mulder!
+¡Mulder!
 
 279
 00:26:56,040 --> 00:26:58,349
-#¿Estás en casa?
+¿Estás en casa?
 
 280
 00:27:01,360 --> 00:27:03,874
@@ -1965,7 +1965,7 @@ qué mentira debo creerme.
 
 434
 00:44:49,480 --> 00:44:50,595
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 435
 00:44:50,680 --> 00:44:51,669

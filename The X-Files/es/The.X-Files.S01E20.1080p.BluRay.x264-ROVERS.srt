@@ -1892,11 +1892,11 @@ WINTHROP, WASHINGTON
 
 422
 00:40:47,520 --> 00:40:50,114
-#Atención a todo el personal.
+Atención a todo el personal.
 
 423
 00:40:50,200 --> 00:40:54,113
-#Se requiere un alto nivel de
+Se requiere un alto nivel de
 bio-seguridad en la planta tres.
 
 424
@@ -1994,7 +1994,7 @@ Esa no es una opción, señor Mulder.
 
 445
 00:43:44,840 --> 00:43:46,114
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 446
 00:43:46,200 --> 00:43:47,189

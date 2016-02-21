@@ -665,11 +665,11 @@ evolucionar en su ambiente:
 
 146
 00:15:32,320 --> 00:15:33,992
-#Urschleim #en silicona.
+<i>Urschleim</i> en silicona.
 
 147
 00:15:34,160 --> 00:15:37,311
-- #¿Urschleim #en silicona?
+- <i>¿Urschleim</i> en silicona?
 - El organismo primigenio.
 
 148

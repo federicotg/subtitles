@@ -895,7 +895,7 @@ Pero sólo uno tenía un Ciera plateado
 
 200
 00:14:32,400 --> 00:14:35,198
-e hizo #bungee #con una gasa
+e hizo <i>bungee</i> con una gasa
 atada al cuello.
 
 201
@@ -2186,7 +2186,7 @@ PENTÁGONO
 
 492
 00:45:45,960 --> 00:45:46,915
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 493
 00:45:47,000 --> 00:45:47,989

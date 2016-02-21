@@ -1071,7 +1071,7 @@ de una de mis teorías.
 
 245
 00:22:23,920 --> 00:22:26,275
-Una teoría que publiqué después en #Nature.
+Una teoría que publiqué después en <i>Nature</i>.
 
 246
 00:22:26,360 --> 00:22:28,920
@@ -1994,7 +1994,7 @@ Yo también.
 
 457
 00:45:13,960 --> 00:45:15,029
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 458
 00:45:15,120 --> 00:45:16,109

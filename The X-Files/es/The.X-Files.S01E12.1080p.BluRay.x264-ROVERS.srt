@@ -2270,6 +2270,6 @@ Maria Hirschi-Bruce
 
 505
 00:45:02,640 --> 00:45:04,437
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 

@@ -792,7 +792,7 @@ Justo al lado de mi mesa.
 179
 00:13:49,560 --> 00:13:53,758
 Lo mataron en Chinatown, parece que
-fue una banda. Se supone que los #Triads,
+fue una banda. Se supone que los <i>Triads</i>,
 
 180
 00:13:53,920 --> 00:13:56,115
@@ -898,7 +898,7 @@ más acerca de Charlie Morris.
 
 202
 00:15:13,280 --> 00:15:19,071
-#Tengo la dirección de su compañero.
+Tengo la dirección de su compañero.
 Espero que pueda decirnos algo.
 
 203
@@ -1006,7 +1006,7 @@ estaba barriendo Chinatown.
 
 225
 00:17:15,320 --> 00:17:16,912
-- ¿Los #Triads?
+- ¿Los <i>Triads</i>?
 - Sí.
 
 226
@@ -1587,12 +1587,12 @@ la preexistencia del alma humana.
 
 354
 00:28:04,320 --> 00:28:08,108
-#Cuando cuente hasta cinco,
+Cuando cuente hasta cinco,
 dime dónde estás ahora.
 
 355
 00:28:08,240 --> 00:28:12,995
-#Uno... dos... tres... cuatro... cinco.
+Uno... dos... tres... cuatro... cinco.
 
 356
 00:28:15,320 --> 00:28:18,232
@@ -1622,7 +1622,7 @@ Es de noche.
 
 362
 00:28:30,320 --> 00:28:32,117
-#24.
+24.
 
 363
 00:28:33,600 --> 00:28:37,229
@@ -1641,7 +1641,7 @@ Es de noche.
 
 366
 00:28:47,360 --> 00:28:48,873
-#¡No puedo! ¡No puedo!
+¡No puedo! ¡No puedo!
 
 367
 00:28:49,000 --> 00:28:52,356
@@ -1669,19 +1669,19 @@ atiborrarla de torazina?
 
 372
 00:29:04,080 --> 00:29:06,196
-#¡No! ¡No! ¡No!
+¡No! ¡No! ¡No!
 
 373
 00:29:06,320 --> 00:29:08,356
-#No pasa nada. No pasa nada.
+No pasa nada. No pasa nada.
 
 374
 00:29:08,440 --> 00:29:10,590
-#Se acabó. Se acabó.
+Se acabó. Se acabó.
 
 375
 00:29:10,680 --> 00:29:12,193
-#Se acabó.
+Se acabó.
 
 376
 00:29:18,400 --> 00:29:21,915
@@ -1724,7 +1724,7 @@ sabremos la verdad.
 
 384
 00:29:43,600 --> 00:29:46,751
-#Si #encontramos a Fiore. Y si sigue vivo.
+<i>Si</i> encontramos a Fiore. Y si sigue vivo.
 
 385
 00:29:48,360 --> 00:29:50,920
@@ -1784,55 +1784,55 @@ dime dónde estás ahora.
 
 397
 00:30:41,960 --> 00:30:45,748
-#Los resultados inconcluyentes
+Los resultados inconcluyentes
 de la regresión de Michelle
 
 398
 00:30:45,920 --> 00:30:50,391
-#no evitan que siga creyendo que la hipnosis
+no evitan que siga creyendo que la hipnosis
 es útil para el tratamiento psicológico.
 
 399
 00:30:50,480 --> 00:30:55,759
-#Otra cuestión es que nos ofrezca o no
+Otra cuestión es que nos ofrezca o no
 pruebas definitivas de vidas pasadas.
 
 400
 00:30:55,920 --> 00:30:58,388
-#No obstante, en este caso en particular,
+No obstante, en este caso en particular,
 
 401
 00:30:58,480 --> 00:31:02,473
-#cualquier otra explicación
+cualquier otra explicación
 parece ser aún menos consistente.
 
 402
 00:31:02,560 --> 00:31:05,279
-#- ¿Cuántos años tienes?
+- ¿Cuántos años tienes?
 - 24.
 
 403
 00:31:05,440 --> 00:31:08,796
-#¡No! ¡No podemos hacer esto!
+¡No! ¡No podemos hacer esto!
 ¡No está bien!
 
 404
 00:31:08,960 --> 00:31:10,996
-#¿Qué es lo que no está bien?
+¿Qué es lo que no está bien?
 ¿Qué es lo que no puedes hacer?
 
 405
 00:31:15,480 --> 00:31:18,631
-#- ¿Y cuántos años tienes?
+- ¿Y cuántos años tienes?
 - 24.
 
 406
 00:31:19,040 --> 00:31:20,109
-#¡No, no po...!
+¡No, no po...!
 
 407
 00:31:24,040 --> 00:31:26,315
-#24.
+24.
 
 408
 00:31:37,320 --> 00:31:40,710
@@ -2250,70 +2250,70 @@ Por favor... no le hagas más daño.
 
 504
 00:43:04,560 --> 00:43:08,189
-#Caso cerrado.
+Caso cerrado.
 Expediente número X40271.
 
 505
 00:43:08,280 --> 00:43:12,193
-#El detective Anthony Fiore se declaró
+El detective Anthony Fiore se declaró
 culpable ante un tribunal federal
 
 506
 00:43:12,360 --> 00:43:18,708
-#de asesinato en primer grado, hurto mayor,
+de asesinato en primer grado, hurto mayor,
 y obstrucción de la justicia.
 
 507
 00:43:18,840 --> 00:43:23,152
-#Las muertes del detective Rudy Barbala
+Las muertes del detective Rudy Barbala
 y del ex-oficial de policía Leon Felder
 
 508
 00:43:23,240 --> 00:43:25,231
-#se consideran accidentales.
+se consideran accidentales.
 
 509
 00:43:25,320 --> 00:43:30,838
-#Pero su complicidad en el asesinato de
+Pero su complicidad en el asesinato de
 Charlie Morris ha quedado demostrada.
 
 510
 00:43:31,680 --> 00:43:34,353
-#No se presentaron cargos
+No se presentaron cargos
 contra Michelle Bishop,
 
 511
 00:43:34,440 --> 00:43:37,159
-#quien hoy disfrutó de
+quien hoy disfrutó de
 su primera clase de natación.
 
 512
 00:43:37,680 --> 00:43:40,114
-#Afirma no recordar nada de
+Afirma no recordar nada de
 los acontecimientos anteriores
 
 513
 00:43:40,200 --> 00:43:45,194
-#y su madre y la Dra. Braun han denegado
+y su madre y la Dra. Braun han denegado
 mi petición de realizar una nueva regresión.
 
 514
 00:43:48,880 --> 00:43:52,873
-#Fin del cuaderno de campo,
+Fin del cuaderno de campo,
 19 de abril de 1994.
 
 515
 00:43:53,320 --> 00:43:56,232
-#Agentes responsables del informe:
+Agentes responsables del informe:
 Fox Mulder y Dana Scully.
 
 516
 00:43:56,400 --> 00:43:59,278
-#Estado: inexplicado.
+Estado: inexplicado.
 
 517
 00:44:33,760 --> 00:44:34,715
-#¡Esto lo hice yo!
+<i>¡Esto lo hice yo!</i>
 
 518
 00:44:34,800 --> 00:44:35,789
