@@ -59,7 +59,7 @@ del desierto" en lugar de "ocre salvia".
 14
 00:01:56,040 --> 00:02:00,352
 - Ese sujeto es un loco.
-- Cariño, ¿que hay en el paquete?
+- Cariño, ¿qué hay en el paquete?
 
 15
 00:02:01,360 --> 00:02:04,352
@@ -119,7 +119,7 @@ Vaya, mira esto.
 
 28
 00:05:25,560 --> 00:05:28,757
-Cariño, ¿que te parece?
+Cariño, ¿qué te parece?
 Es ideal para nosotros, ¿no?
 
 29
@@ -1226,7 +1226,7 @@ Win, ¿quieres jugar?
 
 271
 00:28:20,600 --> 00:28:24,434
-- Y si no, ¿que va pasar?
+- Y si no, ¿qué va pasar?
 - Muy bien, ¿así lo quieres?
 
 272
@@ -1610,7 +1610,7 @@ Eso no sonará convincente en la corte.
 355
 00:40:18,560 --> 00:40:23,554
 Cuando el juez pregunte quién
-mató a los Kline, ¿que le dirá?
+mató a los Kline, ¿qué le dirá?
 
 356
 00:40:26,560 --> 00:40:28,551
