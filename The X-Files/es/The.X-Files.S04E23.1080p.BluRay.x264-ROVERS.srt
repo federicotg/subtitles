@@ -34,7 +34,7 @@ Tengo miedo, Fox. Tengo miedo.
 9
 00:01:46,840 --> 00:01:49,035
 - Scully.
-- Mulder, ¿que hora es?
+- Mulder, ¿qué hora es?
 
 10
 00:01:50,200 --> 00:01:51,349
@@ -151,7 +151,7 @@ Sigue mi dedo.
 
 36
 00:04:56,400 --> 00:04:59,437
-- No, ¿que día es hoy?
+- No, ¿qué día es hoy?
 - Domingo.
 
 37
@@ -368,7 +368,7 @@ Claro.
 
 84
 00:09:24,800 --> 00:09:27,712
-- Mulder, ¿que ocurre?
+- Mulder, ¿qué ocurre?
 - Conozco esta casa.
 
 85

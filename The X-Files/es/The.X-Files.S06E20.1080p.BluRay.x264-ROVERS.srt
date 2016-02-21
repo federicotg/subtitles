@@ -582,7 +582,7 @@ Lo siento.
 
 130
 00:11:32,120 --> 00:11:35,430
-- Mulder, ¿que hora es?
+- Mulder, ¿qué hora es?
 - Las 2.34 a.m.
 
 131
@@ -995,7 +995,7 @@ Susanne,
 
 218
 00:21:00,720 --> 00:21:03,518
-John, ¿que haces aquí?
+John, ¿qué haces aquí?
 
 219
 00:21:03,640 --> 00:21:05,710

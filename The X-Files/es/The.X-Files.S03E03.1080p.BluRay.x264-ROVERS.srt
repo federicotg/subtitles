@@ -1059,7 +1059,7 @@ RUTA DEL CONDADO A-7
 
 234
 00:19:49,920 --> 00:19:52,036
-Chico, ¿que pasa?
+Chico, ¿qué pasa?
 
 235
 00:19:52,120 --> 00:19:54,588
@@ -1456,7 +1456,7 @@ Su sangre mostró hipocalemia aguda.
 
 322
 00:27:22,720 --> 00:27:24,392
-SI, ¿que es eso?
+SI, ¿qué es eso?
 
 323
 00:27:24,480 --> 00:27:28,393

@@ -1181,7 +1181,7 @@ Vamos a realizar una punción con aguja.
 
 264
 00:19:46,920 --> 00:19:49,036
-Unidad móvil, ¿que ocurre?
+Unidad móvil, ¿qué ocurre?
 
 265
 00:19:49,160 --> 00:19:51,276
@@ -1732,7 +1732,7 @@ Demasiada responsabilidad.
 
 388
 00:30:14,560 --> 00:30:18,348
-Es decir, ¿que pasaría si requiriese
+Es decir, ¿qué pasaría si requiriese
 atención médica de urgencia?
 
 389

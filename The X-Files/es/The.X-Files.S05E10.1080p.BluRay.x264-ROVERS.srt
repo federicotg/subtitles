@@ -116,7 +116,7 @@ No hables por teléfono cuando conduces.
 
 26
 00:05:42,200 --> 00:05:46,512
-- Señor, ¿que pasó?
+- Señor, ¿qué pasó?
 - Creo que necesitamos un médico.
 
 27

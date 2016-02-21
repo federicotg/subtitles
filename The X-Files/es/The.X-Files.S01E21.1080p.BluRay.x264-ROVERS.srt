@@ -287,7 +287,7 @@ de Druid Hill.
 65
 00:06:45,840 --> 00:06:50,960
 Pregunta: Si lo soltaran,
-¿que es lo primero que haría?
+¿qué es lo primero que haría?
 
 66
 00:06:51,040 --> 00:06:54,669
@@ -1754,7 +1754,7 @@ El próximo mutante es para ti.
 
 394
 00:42:54,440 --> 00:42:56,908
-Mulder, ¿que pasa?
+Mulder, ¿qué pasa?
 
 395
 00:43:00,480 --> 00:43:02,471

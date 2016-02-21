@@ -1300,7 +1300,7 @@ No puedo...
 290
 00:26:00,800 --> 00:26:03,872
 Mulder,
-¿me quieres explicar que está pasando?
+¿me quieres explicar qué está pasando?
 
 291
 00:26:03,960 --> 00:26:08,192
@@ -1551,7 +1551,7 @@ responsabilidad de proteger sus secretos?
 
 345
 00:30:20,160 --> 00:30:22,230
-Sí, pero... ¿a que precio?
+Sí, pero... ¿a qué precio?
 
 346
 00:30:22,320 --> 00:30:27,474

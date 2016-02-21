@@ -863,7 +863,7 @@ Queequeg, ven aquí. Queequeg.
 188
 00:10:39,040 --> 00:10:42,032
 Sí, pero,
-¿que le ha pasado al autor del truco?
+¿qué le ha pasado al autor del truco?
 
 189
 00:10:45,040 --> 00:10:48,555
@@ -1407,7 +1407,7 @@ Era Gran Azul.
 
 312
 00:18:01,800 --> 00:18:03,631
-Mulder, ¿que hacemos aquí?
+Mulder, ¿qué hacemos aquí?
 
 313
 00:18:03,760 --> 00:18:06,672

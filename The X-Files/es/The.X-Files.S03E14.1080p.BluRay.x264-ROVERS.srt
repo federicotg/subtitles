@@ -1094,7 +1094,7 @@ del agente Mulder, debería hablarlo con él.
 235
 00:26:13,240 --> 00:26:17,074
 - Usted sabe que lo he hecho.
-- Entonces, ¿que espera que yo haga?
+- Entonces, ¿qué espera que yo haga?
 
 236
 00:26:17,160 --> 00:26:19,913
@@ -1205,7 +1205,7 @@ A menos que lo encuentre.
 
 260
 00:29:22,280 --> 00:29:24,510
-Entonces, ¿que hará?
+Entonces, ¿qué hará?
 
 261
 00:29:24,600 --> 00:29:27,558

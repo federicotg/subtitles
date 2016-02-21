@@ -183,7 +183,7 @@ Perdedor.
 
 43
 00:05:22,320 --> 00:05:25,915
-- Antes de eso, ¿que fue lo que dijo?
+- Antes de eso, ¿qué fue lo que dijo?
 - Nada. Usted era el que hablaba.
 
 44
@@ -660,7 +660,7 @@ Acéptalo como un hombre.
 
 150
 00:13:37,680 --> 00:13:40,399
-Eh, ¿que hace? Salga de aquí.
+Eh, ¿qué hace? Salga de aquí.
 
 151
 00:13:42,080 --> 00:13:46,631
@@ -899,7 +899,7 @@ Trabajo principalmente allí.
 
 204
 00:21:17,760 --> 00:21:20,035
-- Mulder, ¿que ocurre?
+- Mulder, ¿qué ocurre?
 - Nada.
 
 205

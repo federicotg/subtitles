@@ -158,7 +158,7 @@ Son 8 dólares 50, por favor.
 
 36
 00:04:19,840 --> 00:04:23,992
-- Jerry, ¿que haces aquí?
+- Jerry, ¿qué haces aquí?
 - Te estaba buscando. Y te invito a comer.
 
 37
@@ -416,7 +416,7 @@ El fue el que encontró el cuerpo.
 92
 00:07:52,560 --> 00:07:55,518
 Si quisieran anular el COS,
-¿que tendrían que...?
+¿qué tendrían que...?
 
 93
 00:07:55,600 --> 00:08:00,720
@@ -599,7 +599,7 @@ asegurarse de que Drake caería en ella.
 
 132
 00:10:43,960 --> 00:10:46,235
-Jerry, ¿que diablos estás haciendo?
+Jerry, ¿qué diablos estás haciendo?
 
 133
 00:10:46,600 --> 00:10:50,070
@@ -1577,7 +1577,7 @@ Alguien está accediendo a mi ordenador.
 351
 00:31:58,000 --> 00:32:00,912
 - ¡Mulder!
-- Scully, ¿que haces aquí?
+- Scully, ¿qué haces aquí?
 
 352
 00:32:01,000 --> 00:32:05,471

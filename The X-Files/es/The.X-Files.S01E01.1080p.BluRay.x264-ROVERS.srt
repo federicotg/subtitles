@@ -731,7 +731,7 @@ que el sujeto no es humano.
 
 159
 00:15:12,160 --> 00:15:14,754
-Si no es humano, ¿que es?
+Si no es humano, ¿qué es?
 
 160
 00:15:14,840 --> 00:15:15,955
@@ -1994,7 +1994,7 @@ El detective está aquí.
 
 442
 00:38:58,080 --> 00:39:00,230
-¿Tú que crees?
+¿Tú qué crees?
 
 443
 00:39:24,600 --> 00:39:26,795
