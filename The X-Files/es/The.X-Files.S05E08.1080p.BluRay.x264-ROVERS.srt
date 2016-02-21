@@ -68,7 +68,7 @@ Una bazofia humana.
 
 16
 00:01:10,840 --> 00:01:13,195
-Entonces, ¿a que le temes?
+Entonces, ¿a qué le temes?
 
 17
 00:01:14,200 --> 00:01:16,475
@@ -1749,7 +1749,7 @@ Lo siento.
 
 384
 00:40:25,760 --> 00:40:30,436
-- Scully, ¿que haces aquí?
+- Scully, ¿qué haces aquí?
 - Tenías razón acerca de él.
 
 385

@@ -1455,7 +1455,7 @@ prepárense a embarcar en el andén cuatro.
 
 311
 00:42:01,120 --> 00:42:04,590
-- El tren expreso a Vancouver, ¿que andén?
+- El tren expreso a Vancouver, ¿qué andén?
 - Ya salió.
 
 312

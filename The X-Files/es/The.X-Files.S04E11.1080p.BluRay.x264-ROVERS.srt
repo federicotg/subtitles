@@ -295,7 +295,7 @@ No se a quién le interesa.
 64
 00:08:24,800 --> 00:08:27,234
 A mí me interesa,
-¿que se supone que debo hacer?
+¿qué se supone que debo hacer?
 
 65
 00:08:27,440 --> 00:08:30,512
@@ -1367,7 +1367,7 @@ Sabes que debes pagar todo eso.
 
 297
 00:32:56,240 --> 00:32:59,755
-Eh, ¿que diablos crees
+Eh, ¿qué diablos crees
 que estás haciendo? ¡Vuelve aquí!
 
 298

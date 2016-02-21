@@ -1177,7 +1177,7 @@ Está en llamas. Sujétenlo.
 
 260
 00:19:49,480 --> 00:19:56,033
-Lisa, ¿que ocurrió? ¿Qué podría haber
+Lisa, ¿qué ocurrió? ¿Qué podría haber
 creado una reacción celular tan violenta?
 
 261
@@ -1345,7 +1345,7 @@ Jason no puede: protege su secreto.
 
 297
 00:24:21,320 --> 00:24:26,440
-Si mintió por usted, ¿que le hace
+Si mintió por usted, ¿qué le hace
 pensar que no le mentiría a usted?
 
 298

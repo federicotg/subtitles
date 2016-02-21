@@ -356,7 +356,7 @@ Estás tras un prototipo.
 
 80
 00:09:24,320 --> 00:09:29,917
-Y este tal prototipo, ¿que es lo que busca?
+Y este tal prototipo, ¿qué es lo que busca?
 
 81
 00:09:30,040 --> 00:09:34,238

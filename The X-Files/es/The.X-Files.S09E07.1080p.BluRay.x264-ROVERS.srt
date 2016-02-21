@@ -114,7 +114,7 @@ Te pondré Un Zapato.
 
 28
 00:05:25,960 --> 00:05:29,953
-Un Zapato, ¿que sabes?
+Un Zapato, ¿qué sabes?
 
 29
 00:05:30,680 --> 00:05:34,229
@@ -335,7 +335,7 @@ DÍA DOCE
 78
 00:15:39,240 --> 00:15:43,028
 Director adjunto Skinner, agente Scully,
-¿que está pasando en Mexico?
+¿qué está pasando en México?
 
 79
 00:15:43,120 --> 00:15:47,272
