@@ -786,7 +786,7 @@ Esto es una locura.
 
 171
 00:14:46,520 --> 00:14:47,396
-¿En que sentido?
+¿En qué sentido?
 
 172
 00:14:47,480 --> 00:14:49,391
@@ -1135,7 +1135,7 @@ No quiero.
 
 251
 00:22:45,680 --> 00:22:47,796
-Entonces, ¿para que viniste aquí?
+Entonces, ¿para qué viniste aquí?
 
 252
 00:22:48,000 --> 00:22:54,109
@@ -1686,7 +1686,7 @@ que usted no efectuó el disparo?
 
 370
 00:34:44,880 --> 00:34:46,757
-¿Para que estoy aquí?
+¿Para qué estoy aquí?
 
 371
 00:34:46,880 --> 00:34:49,269

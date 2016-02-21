@@ -681,7 +681,7 @@ del terminal la nueva hora de llegada.
 
 154
 00:13:23,040 --> 00:13:24,359
-¿En que vuelo está él?
+¿En qué vuelo está él?
 
 155
 00:13:24,440 --> 00:13:27,557

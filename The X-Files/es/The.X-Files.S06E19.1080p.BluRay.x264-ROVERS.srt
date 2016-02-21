@@ -947,7 +947,7 @@ Macon.
 204
 00:21:47,880 --> 00:21:50,235
 Policía de Macon.
-¿En que lo puedo ayudar?
+¿En qué lo puedo ayudar?
 
 205
 00:21:50,400 --> 00:21:53,790

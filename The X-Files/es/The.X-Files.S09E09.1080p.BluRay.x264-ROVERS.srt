@@ -129,7 +129,7 @@ Sólo algunas preguntas de rutina.
 
 30
 00:05:10,240 --> 00:05:12,834
-¿Sabe que es esto?
+¿Sabe qué es esto?
 
 31
 00:05:17,200 --> 00:05:19,191
@@ -138,7 +138,7 @@ Sólo algunas preguntas de rutina.
 32
 00:05:22,960 --> 00:05:28,990
 Es una pregunta sencilla.
-¿Sabe que es esto?
+¿Sabe qué es esto?
 
 33
 00:05:42,120 --> 00:05:44,315
@@ -396,7 +396,7 @@ está perdiendo el tiempo.
 
 88
 00:10:26,200 --> 00:10:30,079
-- Entonces, ¿para que tanta mano de obra?
+- Entonces, ¿para qué tanta mano de obra?
 - ¿Cómo dijo?
 
 89

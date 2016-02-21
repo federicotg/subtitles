@@ -56,7 +56,7 @@ LA VERDAD ESTÁ ALLÁ FUERA
 
 14
 00:07:26,520 --> 00:07:29,239
-¿En que estás pensando?
+¿En qué estás pensando?
 
 15
 00:07:30,200 --> 00:07:34,432
@@ -69,7 +69,7 @@ Está prohibido dormir.
 
 17
 00:07:52,280 --> 00:07:54,157
-¿En que estás pensando?
+¿En qué estás pensando?
 
 18
 00:07:56,640 --> 00:07:59,552
@@ -78,7 +78,7 @@ En mi hijo y en la madre.
 19
 00:07:59,680 --> 00:08:02,399
 Respuesta incorrecta.
-¿En que estás pensando?
+¿En qué estás pensando?
 
 20
 00:08:02,480 --> 00:08:05,392
@@ -103,11 +103,11 @@ Sí.
 
 25
 00:08:45,440 --> 00:08:47,670
-¿En que estás pensando?
+¿En qué estás pensando?
 
 26
 00:08:49,120 --> 00:08:52,032
-- ¿En que quieren que piense?
+- ¿En qué quieren que piense?
 - Eres culpable.
 
 27
@@ -2785,7 +2785,7 @@ de regar las plantas, hablamos.
 612
 01:08:07,880 --> 01:08:11,190
 ¿Por qué arriesgan su felicidad?
-¿Para que arriesgan su vida?
+¿Para qué arriesgan su vida?
 
 613
 01:08:11,280 --> 01:08:15,398
@@ -2822,7 +2822,7 @@ Se ignora la razón.
 
 620
 01:09:37,200 --> 01:09:40,875
-Pero ¿para que vinimos aquí?
+Pero ¿para qué vinimos aquí?
 
 621
 01:10:09,720 --> 01:10:11,551
@@ -3113,7 +3113,7 @@ ROSWELL, NUEVO MÉXICO
 
 686
 01:20:38,240 --> 01:20:41,198
-¿En que estás pensando?
+¿En qué estás pensando?
 
 687
 01:20:50,280 --> 01:20:56,833
@@ -3253,7 +3253,7 @@ Pero ¿creer en qué?
 718
 01:24:04,480 --> 01:24:10,350
 Si ésta es la verdad que buscabas,
-¿en que se puede creer?
+¿en qué se puede creer?
 
 719
 01:24:13,720 --> 01:24:20,558

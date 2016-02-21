@@ -362,7 +362,7 @@ necesito la dirección.
 
 77
 00:10:39,200 --> 00:10:42,875
-- ¿En que puedo ayudarla?
+- ¿En qué puedo ayudarla?
 - Disculpe, me equivoqué.
 
 78

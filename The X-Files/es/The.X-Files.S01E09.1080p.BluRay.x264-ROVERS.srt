@@ -545,7 +545,7 @@ un paseo por el vecindario.
 
 119
 00:08:36,600 --> 00:08:39,637
-¿En que puedo ayudarlos?
+¿En qué puedo ayudarlos?
 
 120
 00:08:41,120 --> 00:08:43,680
@@ -2502,7 +2502,7 @@ OTC, aquí Houston.
 
 551
 00:40:48,280 --> 00:40:51,955
-- ¿En que coordenada han reentrado?
+- ¿En qué coordenada han reentrado?
 - A 500 kilómetros al este de Hawai.
 
 552

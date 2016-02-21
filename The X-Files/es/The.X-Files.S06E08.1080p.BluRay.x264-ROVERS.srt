@@ -46,7 +46,7 @@ Sheila, tenemos un gran problema.
 
 11
 00:01:15,000 --> 00:01:16,956
-¿En que estabas pensando?
+¿En qué estabas pensando?
 
 12
 00:01:17,040 --> 00:01:18,996
@@ -333,7 +333,7 @@ De nada.
 
 74
 00:08:27,240 --> 00:08:29,595
-¿En que puedo ayudar al FBI?
+¿En qué puedo ayudar al FBI?
 
 75
 00:08:29,720 --> 00:08:30,914

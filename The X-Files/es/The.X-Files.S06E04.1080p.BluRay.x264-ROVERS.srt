@@ -1557,7 +1557,7 @@ saber que no has cambiado.
 
 344
 00:40:09,640 --> 00:40:12,757
-- ¿Para que hace todo esto?
+- ¿Para qué hace todo esto?
 - Te lo probaré.
 
 345

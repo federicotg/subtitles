@@ -922,7 +922,7 @@ de que había algo extraño.
 
 205
 00:17:20,640 --> 00:17:22,198
-¿En que momento?
+¿En qué momento?
 
 206
 00:17:22,280 --> 00:17:26,671
@@ -2178,7 +2178,7 @@ Gracias.
 
 481
 00:40:15,080 --> 00:40:17,674
-¿En que puedo ayudarlo, agente Mulder?
+¿En qué puedo ayudarlo, agente Mulder?
 
 482
 00:40:18,760 --> 00:40:20,830

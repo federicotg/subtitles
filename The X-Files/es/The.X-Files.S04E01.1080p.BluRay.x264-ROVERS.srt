@@ -537,7 +537,7 @@ encontrar en sus mapas taxonómicos.
 
 120
 00:19:15,400 --> 00:19:18,233
-- ¿Para que son cultivados?
+- ¿Para qué son cultivados?
 - Polen.
 
 121

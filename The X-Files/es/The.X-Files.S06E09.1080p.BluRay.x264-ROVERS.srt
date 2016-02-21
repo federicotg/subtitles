@@ -543,7 +543,7 @@ del director adjunto Walter Skinner.
 
 122
 00:11:55,440 --> 00:11:59,638
-- ¿Para que vendría a verlo?
+- ¿Para qué vendría a verlo?
 - Quisiera preguntárselo yo mismo.
 
 123
@@ -558,7 +558,7 @@ me diga por que y cómo me puedo curar.
 
 125
 00:12:09,680 --> 00:12:12,831
-- ¿En que hospital estuvo?
+- ¿En qué hospital estuvo?
 - St. Katherine's.
 
 126

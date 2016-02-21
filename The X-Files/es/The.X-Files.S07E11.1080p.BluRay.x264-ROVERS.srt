@@ -205,7 +205,7 @@ Espero serlo.
 
 45
 00:05:10,560 --> 00:05:14,235
-- ¿En que podemos ayudarlo?
+- ¿En qué podemos ayudarlo?
 - Esperaba poder ayudarlos a ustedes.
 
 46
@@ -1098,12 +1098,12 @@ Lo perdí, fuera lo que fuera.
 
 243
 00:22:59,880 --> 00:23:02,633
-¿En que casa, Harold?
+¿En qué casa, Harold?
 
 244
 00:23:03,880 --> 00:23:08,351
 - No lo sé.
-- No tenemos toda la noche. ¿En que casa?
+- No tenemos toda la noche. ¿En qué casa?
 
 245
 00:23:30,320 --> 00:23:32,390
@@ -1261,7 +1261,7 @@ Crees que soy un farsante.
 
 279
 00:26:10,320 --> 00:26:14,598
-¿En que soy distinto a ti?
+¿En qué soy distinto a ti?
 Sólo quiero encontrar a mi hijo.
 
 280
@@ -1275,7 +1275,7 @@ pero debe de haber una razón.
 
 282
 00:26:28,760 --> 00:26:31,433
-Y si no es para ayudar, ¿para que es?
+Y si no es para ayudar, ¿para qué es?
 
 283
 00:26:34,520 --> 00:26:37,398

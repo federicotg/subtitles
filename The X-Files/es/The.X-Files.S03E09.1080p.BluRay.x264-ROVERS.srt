@@ -444,7 +444,7 @@ hasta Newport News, Virginia.
 96
 00:13:54,040 --> 00:13:57,715
 - El astillero naval.
-- ¿Para que iría allí?
+- ¿Para qué iría allí?
 
 97
 00:13:59,040 --> 00:14:02,112
@@ -1349,7 +1349,7 @@ Podría ser cualquiera de ellas.
 
 288
 00:35:16,880 --> 00:35:20,873
-- ¿Para que se usan estos chips?
+- ¿Para qué se usan estos chips?
 - Juegos de vídeo, sistemas de frenos.
 
 289

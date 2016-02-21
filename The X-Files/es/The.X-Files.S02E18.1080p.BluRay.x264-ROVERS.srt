@@ -305,7 +305,7 @@ Agente Mulder. FBI.
 
 67
 00:07:32,920 --> 00:07:37,038
-- ¿En que puedo ayudarlos?
+- ¿En qué puedo ayudarlos?
 - Un empleado federal fue herido.
 
 68

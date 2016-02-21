@@ -468,7 +468,7 @@ está implicado en una persecución en Ardis?
 
 104
 00:07:54,320 --> 00:07:56,311
-- ¿Para que lo utilizaron?
+- ¿Para qué lo utilizaron?
 - Un delito.
 
 105
@@ -1098,7 +1098,7 @@ Creo que necesita atención médica.
 
 246
 00:18:25,760 --> 00:18:27,751
-¿En que calle está?
+¿En qué calle está?
 
 247
 00:18:27,840 --> 00:18:29,956

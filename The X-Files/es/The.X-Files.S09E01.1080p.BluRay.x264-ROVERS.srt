@@ -537,7 +537,7 @@ Parece imposible, ¿no?
 
 121
 00:16:07,800 --> 00:16:10,109
-¿En que situación nos deja eso?
+¿En qué situación nos deja eso?
 
 122
 00:16:10,280 --> 00:16:15,070
@@ -1303,7 +1303,7 @@ intereses personales en este asunto.
 
 289
 00:35:07,440 --> 00:35:09,954
-Hola. ¿En que le puedo servir?
+Hola. ¿En qué le puedo servir?
 
 290
 00:35:10,040 --> 00:35:12,315

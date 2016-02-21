@@ -478,7 +478,7 @@ Por favor.
 
 107
 00:13:08,160 --> 00:13:12,551
-Scully FBI. ¿En que puedo
+Scully FBI. ¿En qué puedo
 servirle a esta hora insólita?
 
 108
@@ -655,7 +655,7 @@ Se supone que estás de vacaciones.
 
 147
 00:18:59,520 --> 00:19:02,318
-¿En que trabajas
+¿En qué trabajas
 que es tan importante?
 
 148
@@ -1210,7 +1210,7 @@ detective Kresge, policía de San Diego.
 
 266
 00:29:39,200 --> 00:29:43,830
-- ¿En que la puedo ayudar?
+- ¿En qué la puedo ayudar?
 - Investigamos la muerte de Roberta Sim.
 
 267

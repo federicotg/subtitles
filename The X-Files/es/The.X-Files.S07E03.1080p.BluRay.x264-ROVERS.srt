@@ -362,7 +362,7 @@ Agente Mulder.
 
 82
 00:09:26,160 --> 00:09:29,072
-- ¿En que puedo ayudarlo?
+- ¿En qué puedo ayudarlo?
 - ¿Vives solo?
 
 83
