@@ -1030,7 +1030,7 @@ Espere.
 222
 00:22:01,240 --> 00:22:07,110
 Hablando en serio,
-¿que opina de Garry Shandling?
+¿qué opina de Garry Shandling?
 
 223
 00:22:07,240 --> 00:22:09,879
@@ -1692,7 +1692,7 @@ Soy yo. ¿Qué haces?
 364
 00:36:40,440 --> 00:36:43,796
 Estaba frente al computador,
-¿que haces tú?
+¿qué haces tú?
 
 365
 00:36:43,920 --> 00:36:49,711

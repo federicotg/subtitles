@@ -720,7 +720,7 @@ hambriento para probar la carne joven.
 159
 00:12:37,600 --> 00:12:40,512
 - ¿Qué aspecto tiene?
-- Sí, ¿que aspecto tiene?
+- Sí, ¿qué aspecto tiene?
 
 160
 00:12:42,680 --> 00:12:45,478
@@ -1101,7 +1101,7 @@ Corre, Kevin. Corre.
 
 245
 00:23:17,520 --> 00:23:19,909
-Kevin, ¿que pasa?
+Kevin, ¿qué pasa?
 
 246
 00:23:20,000 --> 00:23:22,309

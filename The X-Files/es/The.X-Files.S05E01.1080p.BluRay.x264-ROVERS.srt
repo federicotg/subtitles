@@ -710,7 +710,7 @@ me puedas facilitar algo de información.
 
 155
 00:15:33,520 --> 00:15:37,513
-- Claro, ¿que necesitas?
+- Claro, ¿qué necesitas?
 - Unas llamadas al Departamento.
 
 156
