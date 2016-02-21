@@ -1367,7 +1367,7 @@ era el padre.
 
 310
 00:30:25,760 --> 00:30:27,796
-¿Y que pasa si él era el padre?
+¿Y qué pasa si él era el padre?
 
 311
 00:30:27,880 --> 00:30:30,155
@@ -1997,7 +1997,7 @@ Pero puedo oírla.
 
 453
 00:42:53,840 --> 00:42:58,914
-- ¿Y que dice?
+- ¿Y qué dice?
 - Me está llamando
 
 454

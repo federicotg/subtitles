@@ -815,7 +815,7 @@ fuera de servicio.
 
 180
 00:17:38,320 --> 00:17:41,118
-Enviare un equipo esta noche,
+Enviaré un equipo esta noche,
 luego de la hora pico.
 
 181
@@ -1690,7 +1690,7 @@ Sal de ahí, Doggett.
 
 374
 00:33:48,600 --> 00:33:50,352
-Enviare la brigada de
+Enviaré la brigada de
 substancias peligrosas,
 
 375

@@ -440,7 +440,7 @@ Tampoco cree que se trate de eso.
 
 102
 00:12:11,840 --> 00:12:15,799
-Enviare una muestra al laboratorio
+Enviaré una muestra al laboratorio
 para que la comparen.
 
 103

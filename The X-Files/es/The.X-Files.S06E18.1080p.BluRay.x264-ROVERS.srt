@@ -414,7 +414,7 @@ Te dejará examinar a la última víctima.
 89
 00:12:09,080 --> 00:12:15,997
 Gracias por organizar mi día,
-pero creo que llegare tarde a esa cita.
+pero creo que llegaré tarde a esa cita.
 
 90
 00:12:57,520 --> 00:13:00,956

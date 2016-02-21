@@ -286,7 +286,7 @@ Nada.
 
 64
 00:08:08,080 --> 00:08:10,992
-¿Y que vas a decirnos a nosotros?
+¿Y qué vas a decirnos a nosotros?
 
 65
 00:08:13,040 --> 00:08:15,349
@@ -610,7 +610,7 @@ en mantenerlos en secreto?
 
 136
 00:15:10,040 --> 00:15:13,350
-¿Y que quieren hacer con ellos
+¿Y qué quieren hacer con ellos
 exactamente?
 
 137

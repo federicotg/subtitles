@@ -109,7 +109,7 @@ para someterlo a tratamiento médico.
 
 25
 00:03:20,960 --> 00:03:22,837
-¿Y que era exactamente?
+¿Y qué era exactamente?
 
 26
 00:03:22,960 --> 00:03:26,635
@@ -1613,7 +1613,7 @@ El sitio desde el que veían el espectáculo,
 
 359
 00:31:57,920 --> 00:32:00,309
-¿Y que pasa con la Base Amarilla,
+¿Y qué pasa con la Base Amarilla,
 donde los guardan?
 
 360

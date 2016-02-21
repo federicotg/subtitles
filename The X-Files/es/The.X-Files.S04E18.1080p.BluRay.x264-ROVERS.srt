@@ -885,7 +885,7 @@ la causa que usted no ha podido encontrar.
 
 193
 00:17:49,640 --> 00:17:51,358
-¿Y que era ese objeto?
+¿Y qué era ese objeto?
 
 194
 00:17:51,440 --> 00:17:56,434

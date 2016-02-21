@@ -489,7 +489,7 @@ Quédate donde estás.
 
 106
 00:12:19,520 --> 00:12:23,069
-- Enviare a alguien a buscarte.
+- Enviaré a alguien a buscarte.
 - Bueno.
 
 107
@@ -1457,7 +1457,7 @@ No.
 
 321
 00:41:22,680 --> 00:41:24,750
-¿Y que es lo que quiere?
+¿Y qué es lo que quiere?
 
 322
 00:41:27,560 --> 00:41:30,711

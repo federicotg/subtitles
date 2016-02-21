@@ -335,7 +335,7 @@ que olvidé entregar.
 
 74
 00:12:29,560 --> 00:12:33,519
-- ¿Y que hacía con ellas encima?
+- ¿Y qué hacía con ellas encima?
 - ¿Qué hacía con una lista
 
 75

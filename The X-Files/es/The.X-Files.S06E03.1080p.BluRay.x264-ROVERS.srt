@@ -1293,7 +1293,7 @@ vuelva por donde vino.
 
 280
 00:28:37,600 --> 00:28:40,751
-- ¿Y que hay en esa dirección?
+- ¿Y qué hay en esa dirección?
 - El futuro.
 
 281

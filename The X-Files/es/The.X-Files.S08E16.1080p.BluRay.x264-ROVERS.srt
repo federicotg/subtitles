@@ -1402,7 +1402,7 @@ Estos tipos tienen buena puntería.
 
 308
 00:31:20,960 --> 00:31:22,871
-¿Y que es lo que no sé?
+¿Y qué es lo que no sé?
 
 309
 00:31:24,400 --> 00:31:25,992

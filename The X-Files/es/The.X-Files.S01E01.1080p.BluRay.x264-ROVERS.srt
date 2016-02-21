@@ -2210,7 +2210,7 @@ No puedo corroborarlo. No.
 
 493
 00:44:13,560 --> 00:44:16,552
-¿Y que puede corroborar
+¿Y qué puede corroborar
 exactamente, agente Scully?
 
 494
@@ -2266,7 +2266,7 @@ El material no pudo identificarse.
 
 505
 00:45:07,320 --> 00:45:11,233
-¿Y que opina el agente Mulder?
+¿Y qué opina el agente Mulder?
 
 506
 00:45:12,640 --> 00:45:16,315

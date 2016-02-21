@@ -1327,7 +1327,7 @@ Disculpen.
 
 290
 00:28:47,240 --> 00:28:49,913
-Enviare a alguien enseguida.
+Enviaré a alguien enseguida.
 
 291
 00:28:50,040 --> 00:28:51,359

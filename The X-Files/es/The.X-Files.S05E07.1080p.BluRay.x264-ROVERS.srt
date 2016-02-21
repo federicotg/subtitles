@@ -456,7 +456,7 @@ Hogar de niños.
 103
 00:10:27,520 --> 00:10:30,637
 - Está ardiendo.
-- Llamare a Emergencias.
+- Llamaré a Emergencias.
 
 104
 00:10:38,480 --> 00:10:40,198
