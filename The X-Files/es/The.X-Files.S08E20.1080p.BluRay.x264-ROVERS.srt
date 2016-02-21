@@ -51,7 +51,7 @@ Felicitaciones, por cierto.
 
 12
 00:01:00,920 --> 00:01:05,755
-- ¿Con que necesitamos ayuda?
+- ¿Con qué necesitamos ayuda?
 - No lo sé. Sólo...
 
 13
