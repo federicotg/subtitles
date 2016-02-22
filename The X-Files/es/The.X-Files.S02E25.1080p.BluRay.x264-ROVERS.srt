@@ -243,7 +243,7 @@ Todos los puertos están cerrados.
 
 56
 00:07:10,320 --> 00:07:12,993
-- ¿Porqué vienen a mi?
+- ¿Por qué vienen a mi?
 - En su último comunicado
 
 57
@@ -328,7 +328,7 @@ Sabía que me seguirían.
 
 74
 00:08:55,920 --> 00:08:58,275
-¿Porqué cree que saben quién es?
+¿Por qué cree que saben quién es?
 
 75
 00:08:58,400 --> 00:09:04,111
@@ -821,7 +821,7 @@ Necesito saber algo más, Mulder.
 
 183
 00:18:41,120 --> 00:18:43,634
-¿Porqué atacaste a Skinner?
+¿Por qué atacaste a Skinner?
 
 184
 00:18:49,800 --> 00:18:52,030
@@ -1166,7 +1166,7 @@ Lo sabremos enseguida.
 
 262
 00:28:07,840 --> 00:28:11,355
-- ¿Porqué no me preguntaste?
+- ¿Por qué no me preguntaste?
 - Tenías 39 de fiebre.
 
 263
@@ -1266,7 +1266,7 @@ Me obligaste a hacerlo.
 284
 00:32:41,040 --> 00:32:44,271
 - Ibas a matar a Krycek.
-- ¿Porqué me tiraste? Es el asesino.
+- ¿Por qué me tiraste? Es el asesino.
 
 285
 00:32:44,360 --> 00:32:47,670

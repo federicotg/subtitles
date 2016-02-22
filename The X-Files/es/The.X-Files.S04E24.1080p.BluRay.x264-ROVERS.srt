@@ -846,7 +846,7 @@ como los anillos de un árbol.
 
 186
 00:16:49,320 --> 00:16:54,269
-- Dígame, ¿porqué examina este hielo?
+- Dígame, ¿por qué examina este hielo?
 - Otro agente me lo pidió.
 
 187

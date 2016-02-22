@@ -27,7 +27,7 @@ Es un pueblo chico.
 
 7
 00:01:31,520 --> 00:01:35,911
-- ¿Porqué cambiaste de idea?
+- ¿Por qué cambiaste de idea?
 - Eres persistente.
 
 8
@@ -281,7 +281,7 @@ un informe por desaparición.
 
 62
 00:06:46,280 --> 00:06:49,477
-¿Porqué no mencionó el gancho
+¿Por qué no mencionó el gancho
 del brujo en su informe?
 
 63
@@ -900,7 +900,7 @@ en el tejido del cerebro.
 
 199
 00:19:10,120 --> 00:19:15,831
-- ¿Porqué no aparecieron en su ficha?
+- ¿Por qué no aparecieron en su ficha?
 - Se requiere una autopsia.
 
 200

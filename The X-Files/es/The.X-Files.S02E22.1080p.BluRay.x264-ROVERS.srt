@@ -898,7 +898,7 @@ el dormitorio. El otro se fue.
 
 199
 00:23:01,120 --> 00:23:03,588
-Charlie, ¿porqué no te llevas al niño?
+Charlie, ¿por qué no te llevas al niño?
 
 200
 00:23:26,480 --> 00:23:29,074
@@ -1400,7 +1400,7 @@ Tiene que terminar la prueba.
 
 308
 00:32:57,920 --> 00:33:00,195
-¿Porqué confió en mí?
+¿Por qué confió en mí?
 
 309
 00:33:01,800 --> 00:33:05,554
@@ -1773,7 +1773,7 @@ violando las reglas de la FDA
 390
 00:42:28,560 --> 00:42:31,870
 - para llevar su fármaco al mercado.
-- ¿Porqué me lo dice?
+- ¿Por qué me lo dice?
 
 391
 00:42:31,960 --> 00:42:34,997
