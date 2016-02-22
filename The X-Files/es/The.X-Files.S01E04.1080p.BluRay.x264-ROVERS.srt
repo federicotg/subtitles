@@ -189,7 +189,7 @@ hablar con él y hacer una recomendación.
 
 44
 00:05:19,240 --> 00:05:25,236
-No parece serlo suficientemente sólido
+No parece ser lo suficientemente sólido
 como para justificar una investigación.
 
 45
