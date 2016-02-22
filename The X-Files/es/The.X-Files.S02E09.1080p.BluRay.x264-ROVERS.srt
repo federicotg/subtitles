@@ -1875,7 +1875,7 @@ nuestras muestras y notas de campo.
 
 411
 00:43:27,355 --> 00:43:33,100
-Esta'n esperando al Equipo de Recuperación
+Están esperando al Equipo de Recuperación
 de Datos de la Sociedad Geológica.
 
 412
