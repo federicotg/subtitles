@@ -189,7 +189,7 @@ Lo sé.
 45
 00:04:29,360 --> 00:04:31,715
 -¿Sí?
-- Salgan del carro, por favor.
+- Salgan del auto, por favor.
 
 46
 00:04:31,840 --> 00:04:35,037
@@ -197,7 +197,7 @@ Lo siento...señor. Ya nos íbamos.
 
 47
 00:04:35,240 --> 00:04:37,879
-Dije que salieran del carro.
+Dije que salieran del auto.
 
 48
 00:04:48,880 --> 00:04:50,916

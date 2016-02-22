@@ -236,7 +236,7 @@ Un hombre-bestia.
 54
 00:05:28,280 --> 00:05:31,192
 - ¿Está aquí el resultado de la autopsia?
-- Solicitud de carro.
+- Solicitud de auto.
 
 55
 00:05:31,280 --> 00:05:35,193
@@ -931,7 +931,7 @@ Sí, así es.
 209
 00:19:43,160 --> 00:19:46,152
 - ¡Hay un hombre arriba de ese techo!
-- ¡Sube al carro! ¡Ahora!
+- ¡Sube al auto! ¡Ahora!
 
 210
 00:19:53,320 --> 00:19:58,633
@@ -1406,7 +1406,7 @@ ser sustituido.
 311
 00:26:36,560 --> 00:26:40,439
 A veces soñaba que atropellaba
-con el carro a su nuevo padre.
+con el auto a su nuevo padre.
 
 312
 00:26:41,800 --> 00:26:45,918
@@ -1583,7 +1583,7 @@ Si le acierto.
 
 349
 00:30:03,040 --> 00:30:05,270
-- ¿Qué hace ahí el carro del
+- ¿Qué hace ahí el auto del
 guardabosques?
 
 350

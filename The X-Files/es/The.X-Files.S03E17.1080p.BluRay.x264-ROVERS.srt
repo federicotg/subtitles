@@ -1537,7 +1537,7 @@ Tiene un peso excesivo para su altura.
 339
 00:28:55,600 --> 00:28:58,319
 No se ofenda,
-pero es un carro de bomberos.
+pero es un auto de bomberos.
 
 340
 00:28:58,400 --> 00:29:02,518

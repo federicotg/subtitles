@@ -788,7 +788,7 @@ El mío parece una carrera de Fórmula 1.
 
 183
 00:16:30,240 --> 00:16:33,994
-- ¿Revisaron el carro?
+- ¿Revisaron el auto?
 - Sí. Era nuevito, sólo 160 km.
 
 184

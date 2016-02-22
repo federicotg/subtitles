@@ -21,7 +21,7 @@ cuenta atrás desde cinco.
 5
 00:00:21,760 --> 00:00:26,550
 Su marido violó el procedimiento de
-seguridad, robó un carro y va armado.
+seguridad, robó un auto y va armado.
 
 6
 00:00:26,640 --> 00:00:28,198
@@ -1807,11 +1807,11 @@ llega usted con sus cuentos.
 
 404
 00:38:36,880 --> 00:38:38,996
-Quiero el carro en marcha.
+Quiero el auto en marcha.
 
 405
 00:38:39,080 --> 00:38:42,072
-¡Ponga el carro en marcha!
+¡Ponga el auto en marcha!
 
 406
 00:38:44,560 --> 00:38:47,916
@@ -1835,15 +1835,15 @@ Usted siga repitiéndose eso.
 410
 00:39:34,800 --> 00:39:38,349
 Quiero que deje el motor
-en marcha y baje del carro.
+en marcha y baje del auto.
 
 411
 00:39:55,480 --> 00:39:57,152
-Entra en el carro, Mulder.
+Entra en el auto, Mulder.
 
 412
 00:39:59,880 --> 00:40:01,154
-¡Entra en el carro!
+¡Entra en el auto!
 
 413
 00:40:11,920 --> 00:40:17,153

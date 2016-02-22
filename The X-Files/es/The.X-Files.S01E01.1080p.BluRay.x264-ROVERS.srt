@@ -561,7 +561,7 @@ No.
 
 122
 00:12:22,880 --> 00:12:24,996
-¡Quédate en el carro, por favor!
+¡Quédate en el auto, por favor!
 
 123
 00:12:28,960 --> 00:12:31,599
@@ -929,7 +929,7 @@ y un estado vegetativo persistente.
 203
 00:18:03,480 --> 00:18:06,995
 Él y Peggy sufrieron un accidente
-con el carro en la carretera estatal.
+con el auto en la carretera estatal.
 
 204
 00:18:07,560 --> 00:18:09,039
@@ -1111,7 +1111,7 @@ Soy de la oficina del Sheriff del condado.
 
 244
 00:22:25,440 --> 00:22:27,271
-¡Métanse en el carro y váyanse!
+¡Métanse en el auto y váyanse!
 
 245
 00:22:27,400 --> 00:22:30,597
@@ -1135,7 +1135,7 @@ sin un permiso legal.
 249
 00:22:39,280 --> 00:22:44,400
 Lo diré una vez más.
-¡Métanse en el carro y váyanse!
+¡Métanse en el auto y váyanse!
 
 250
 00:23:24,600 --> 00:23:27,319

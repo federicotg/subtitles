@@ -790,7 +790,7 @@ Sabía que estaban en la lista, sí.
 
 172
 00:16:33,000 --> 00:16:35,798
-Sólo se quién está en la lista.
+Sólo sé quién está en la lista.
 
 173
 00:16:35,920 --> 00:16:38,593

@@ -23,11 +23,11 @@ Recibido. Manténgame informada.
 6
 00:00:48,720 --> 00:00:51,632
 ¡Policía! ¡Desvíese hacia un costado
-y detenga el carro!
+y detenga el auto!
 
 7
 00:00:56,880 --> 00:01:00,509
-¡Detenga el carro!
+¡Detenga el auto!
 ¡Las manos sobre el capó y no se mueva!
 
 8
@@ -326,7 +326,7 @@ pública ninguna descripción del sospechoso.
 
 73
 00:05:50,200 --> 00:05:53,192
-¿Podríamos ver el carro, si no le importa?
+¿Podríamos ver el auto, si no le importa?
 
 74
 00:05:53,920 --> 00:05:56,036
@@ -340,7 +340,7 @@ de una agencia de alquiler de Gaithersburg.
 76
 00:06:01,440 --> 00:06:04,512
 No tenían ni idea de que
-el carro había desaparecido.
+el auto había desaparecido.
 
 77
 00:06:04,640 --> 00:06:08,110
@@ -366,7 +366,7 @@ la matrícula en esta foto.
 
 82
 00:06:35,680 --> 00:06:37,750
-Mira el carro de la foto.
+Mira el auto de la foto.
 
 83
 00:06:39,240 --> 00:06:41,231
@@ -374,7 +374,7 @@ Mira el parabrisas.
 
 84
 00:06:45,560 --> 00:06:47,676
-No es el mismo carro.
+No es el mismo auto.
 
 85
 00:06:47,800 --> 00:06:49,870
@@ -429,7 +429,7 @@ Sí, espero.
 
 96
 00:07:21,920 --> 00:07:25,071
-Quizá el verdadero dueño del carro
+Quizá el verdadero dueño del auto
 tenga algo que ocultar.
 
 97
@@ -454,7 +454,7 @@ Somos del FBI.
 
 101
 00:07:44,400 --> 00:07:49,110
-¿Sabía que un carro registrado a su nombre
+¿Sabía que un auto registrado a su nombre
 está implicado en una persecución en Ardis?
 
 102
@@ -478,8 +478,8 @@ está implicado en una persecución en Ardis?
 
 106
 00:07:59,880 --> 00:08:04,317
-Tengo un ama de llaves y usa el carro
-a menudo. Es mi segundo carro...
+Tengo un ama de llaves y usa el auto
+a menudo. Es mi segundo auto...
 
 107
 00:08:04,720 --> 00:08:05,596
