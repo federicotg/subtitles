@@ -59,7 +59,7 @@ Aquí tienes el cheque de tu sueldo.
 
 14
 00:01:15,400 --> 00:01:18,278
-¡Oh, vamosl... Vete a casa.
+¡Oh, vamos!... Vete a casa.
 
 15
 00:01:18,360 --> 00:01:19,998
