@@ -1555,7 +1555,7 @@ Ahí es donde están los niños.
 
 344
 00:30:22,960 --> 00:30:25,076
-¡ amos! ¡Vamos!
+¡Vamos! ¡Vamos!
 
 345
 00:30:27,560 --> 00:30:29,994
@@ -1808,7 +1808,7 @@ de unas viviendas en Londres.
 
 400
 00:34:34,320 --> 00:34:36,390
-Lo se. Es lo que había pensado.
+Lo sé. Es lo que había pensado.
 
 401
 00:34:36,480 --> 00:34:38,596
@@ -1937,7 +1937,7 @@ Es el chófer.
 
 429
 00:37:24,080 --> 00:37:26,150
-Lo se. Desapareció.
+Lo sé. Desapareció.
 
 430
 00:37:27,480 --> 00:37:29,596
@@ -2029,7 +2029,7 @@ Es combustible.
 
 450
 00:38:56,720 --> 00:38:58,790
-¡ amos! ¡Vamos!
+¡Vamos! ¡Vamos!
 
 451
 00:38:58,920 --> 00:39:00,990
@@ -2176,7 +2176,7 @@ No te tienes ni idea.
 
 485
 00:42:59,920 --> 00:43:02,480
-¿No sientes curiosidad por saber que es?
+¿No sientes curiosidad por saber qué es?
 
 486
 00:43:03,520 --> 00:43:06,273

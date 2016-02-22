@@ -308,7 +308,7 @@ que alguien pase con un arma.
 
 70
 00:09:00,280 --> 00:09:02,430
-¿Y esto que es?
+¿Y esto qué es?
 
 71
 00:09:02,600 --> 00:09:05,512

@@ -1072,7 +1072,7 @@ Sin duda que no es equipo estándar.
 
 234
 00:24:49,920 --> 00:24:54,596
-- ¿Eso que es?
+- ¿Eso qué es?
 - Mundo Negro. Un proyecto secreto.
 
 235
@@ -1346,7 +1346,7 @@ La velocidad, el fuselaje, la delta-V.
 293
 00:29:10,360 --> 00:29:13,716
 Todas las lecturas de costumbre.
-¿Pero esto que es?
+¿Pero esto qué es?
 
 294
 00:29:13,840 --> 00:29:17,549
