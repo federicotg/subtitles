@@ -140,7 +140,7 @@ Es un Archivo X. Estoy segura.
 
 33
 00:05:09,240 --> 00:05:13,074
-Note una discrepancia en el kilometraje
+Noté una discrepancia en el kilometraje
 de la flota de vehículos del FBI.
 
 34

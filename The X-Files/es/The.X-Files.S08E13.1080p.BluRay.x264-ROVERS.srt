@@ -905,7 +905,7 @@ CENTRO DE WASHINGTON D.C.,
 
 198
 00:23:57,200 --> 00:24:01,239
-- Un cafe negro, por favor.
+- Un café negro, por favor.
 - Claro.
 
 199

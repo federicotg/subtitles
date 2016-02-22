@@ -198,7 +198,7 @@ tecnología.
 
 46
 00:07:23,960 --> 00:07:28,431
-¿Desean un cafe "Iatte"
+¿Desean un café "latte"
 o un vaso de H20 sintético?
 
 47
@@ -1524,7 +1524,7 @@ Es tu culpa.
 341
 00:35:08,560 --> 00:35:13,714
 - Tú la trajiste.
-- Note metas con las chicas.
+- No te metas con las chicas.
 
 342
 00:36:11,760 --> 00:36:14,149
@@ -1638,7 +1638,7 @@ Nadie lo ha superado.
 366
 00:39:03,960 --> 00:39:05,757
 - ¿Qué haces?
-- ¡Note metas!
+- ¡No te metas!
 
 367
 00:39:05,840 --> 00:39:08,115
@@ -1667,7 +1667,7 @@ Nadie lo ha superado.
 
 372
 00:39:21,120 --> 00:39:23,873
-Note importa quién muera
+No te importa quién muera
 mientras tu juego siga.
 
 373
