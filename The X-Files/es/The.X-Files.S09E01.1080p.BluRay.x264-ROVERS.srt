@@ -311,7 +311,7 @@ Me llamó para investigar un caso.
 
 71
 00:09:36,040 --> 00:09:37,996
-Lo se, creeme.
+Lo sé, créeme.
 
 72
 00:09:38,120 --> 00:09:41,999
@@ -348,7 +348,7 @@ Espero que lo sepa.
 
 79
 00:10:24,200 --> 00:10:28,671
-Lo se, John. Casi siempre
+Lo sé, John. Casi siempre
 vemos las cosas de la misma forma.
 
 80

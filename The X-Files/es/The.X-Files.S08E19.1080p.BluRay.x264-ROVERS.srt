@@ -628,7 +628,7 @@ estamos haciendo todo lo posible.
 
 145
 00:19:38,880 --> 00:19:41,440
-Lo se,
+Lo sé,
 
 146
 00:19:41,520 --> 00:19:44,114
@@ -715,7 +715,7 @@ Ahora hay otras preocupaciones.
 
 164
 00:22:43,560 --> 00:22:48,156
-Lo se, pero esto es un Archivo X,
+Lo sé, pero esto es un Archivo X,
 y tú ya no trabajas para el FBI.
 
 165
