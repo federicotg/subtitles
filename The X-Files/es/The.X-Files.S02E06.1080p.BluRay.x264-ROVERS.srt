@@ -1066,7 +1066,7 @@ QUANTICO, VIRGINIA 6:07 AM
 239
 00:31:09,659 --> 00:31:13,117
 Soy el Agente Mulder.
-Quiero verla autopsia.
+Quiero ver la autopsia.
 
 240
 00:31:13,246 --> 00:31:15,328

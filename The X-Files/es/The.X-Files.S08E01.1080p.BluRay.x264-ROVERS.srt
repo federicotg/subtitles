@@ -50,7 +50,7 @@ Si buscan a Mulder, pierden el tiempo.
 
 12
 00:04:28,360 --> 00:04:31,397
-Debieron tenerla cortesía de avisarme.
+Debieron tener la cortesía de avisarme.
 
 13
 00:04:31,480 --> 00:04:35,439

@@ -236,7 +236,7 @@ en la universidad.
 54
 00:07:58,000 --> 00:08:02,994
 Pero no lo suficientemente preparada
-para saberlo que ocurrió aquí.
+para saber lo que ocurrió aquí.
 
 55
 00:08:04,080 --> 00:08:12,988
@@ -1338,7 +1338,7 @@ Llevo 22 horas en un avión. Debo verlo.
 
 298
 00:36:47,800 --> 00:36:53,477
-Entonces debes saberlo que verás,
+Entonces debes saber lo que verás,
 si logras llegar hasta ahí.
 
 299

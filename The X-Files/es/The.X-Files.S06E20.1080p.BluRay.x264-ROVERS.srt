@@ -668,7 +668,7 @@ Necesitas un trago.
 147
 00:13:48,760 --> 00:13:52,355
 Le falta profundidad.
-Ven a verlo que averiguamos.
+Ven a ver lo que averiguamos.
 
 148
 00:13:52,440 --> 00:13:55,796
@@ -1498,7 +1498,7 @@ Teníamos suficientes pruebas.
 332
 00:32:17,000 --> 00:32:20,390
 El público está más listo
-para creerlo que nunca.
+para creer lo que nunca.
 
 333
 00:32:22,520 --> 00:32:24,511

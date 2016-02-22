@@ -1120,7 +1120,7 @@ Mormo.
 249
 00:22:09,080 --> 00:22:12,356
 En resumen,
-esto no puede serlo que parece.
+esto no puede ser lo que parece.
 
 250
 00:22:12,440 --> 00:22:16,911

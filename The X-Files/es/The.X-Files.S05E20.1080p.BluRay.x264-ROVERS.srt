@@ -307,7 +307,7 @@ A usted le interesa tanto como a nosotros.
 
 69
 00:10:55,720 --> 00:10:58,234
-¿Cree saberlo que me interesa?
+¿Cree saber lo que me interesa?
 
 70
 00:11:00,160 --> 00:11:02,913
@@ -839,7 +839,7 @@ de fritas y tocino canadiense.
 
 187
 00:20:12,920 --> 00:20:16,151
-Nos acaba de decirlo que desayunamos.
+Nos acaba de decir lo que desayunamos.
 
 188
 00:20:16,840 --> 00:20:19,593
@@ -1224,7 +1224,7 @@ y he obtenido resultados inesperados.
 273
 00:28:28,840 --> 00:28:32,310
 Yo misma tengo dificultad
-en aceptarlo que se.
+en aceptar lo que se.
 
 274
 00:28:32,800 --> 00:28:35,678

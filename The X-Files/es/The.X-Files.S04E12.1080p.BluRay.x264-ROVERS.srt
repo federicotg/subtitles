@@ -1113,7 +1113,7 @@ Murió en un accidente de tráfico.
 
 244
 00:22:35,040 --> 00:22:38,953
-¿Sería posible verla copia
+¿Sería posible ver la copia
 del certificado de defunción?
 
 245
@@ -1126,7 +1126,7 @@ Por supuesto.
 
 247
 00:22:47,120 --> 00:22:50,795
-HOSPITAL CATOLICO ALLEGHENY,
+HOSPITAL CATÓLICO ALLEGHENY,
 PITTSBURGH, PENSILVANIA
 
 248

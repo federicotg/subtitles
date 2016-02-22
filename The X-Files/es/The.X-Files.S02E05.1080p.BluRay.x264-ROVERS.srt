@@ -1228,7 +1228,7 @@ pero no hablan.
 
 266
 00:23:19,857 --> 00:23:22,314
-Él puede oírlo que dicen.
+Él puede oír lo que dicen.
 
 267
 00:23:24,820 --> 00:23:27,607
@@ -2086,7 +2086,7 @@ Gracias.
 
 456
 00:41:43,126 --> 00:41:45,663
-Voy a hacerla caja.
+Voy a hacer la caja.
 
 457
 00:42:04,272 --> 00:42:08,811

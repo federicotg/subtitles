@@ -1796,7 +1796,7 @@ Está segura.
 
 401
 00:39:37,560 --> 00:39:40,870
-Mientras, no podré hacerla llamada.
+Mientras, no podré hacer la llamada.
 
 402
 00:39:42,040 --> 00:39:46,192

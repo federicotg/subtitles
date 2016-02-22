@@ -915,7 +915,7 @@ Y eso te incluye a ti y al agente Doggett.
 
 200
 00:20:32,520 --> 00:20:34,636
-- Hay que ponerla plataforma
+- Hay que poner la plataforma
 en cuarentena.
 
 201
@@ -943,7 +943,7 @@ Tú tienes la respuesta, el cadáver.
 206
 00:20:50,120 --> 00:20:53,510
 Si encontraste el virus,
-puedes encontrarlo que lo mata.
+puedes encontrar lo que lo mata.
 
 207
 00:20:54,520 --> 00:20:57,080
@@ -992,7 +992,7 @@ Si tiene información importante, dígamela.
 
 217
 00:21:32,240 --> 00:21:34,629
-Tal vez no le guste saberlo que significa,
+Tal vez no le guste saber lo que significa,
 
 218
 00:21:34,720 --> 00:21:40,033

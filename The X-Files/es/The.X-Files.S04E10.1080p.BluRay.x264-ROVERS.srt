@@ -686,7 +686,7 @@ El mago aparece por la noche.
 154
 00:15:08,000 --> 00:15:11,151
 Mamá y papá dijeron que podía
-verla película.
+ver la película.
 
 155
 00:15:11,240 --> 00:15:15,313
@@ -1100,7 +1100,7 @@ aquél con Bill Bixby.
 
 246
 00:23:23,640 --> 00:23:25,995
-¿Cómo podría saberlo que yo dije?
+¿Cómo podría saber lo que yo dije?
 
 247
 00:23:27,120 --> 00:23:30,795
