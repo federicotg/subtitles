@@ -1707,7 +1707,7 @@ mandas a Sal al hospital,
 
 386
 00:40:18,160 --> 00:40:20,913
-Disculpe, no use las palabras adecuadas.
+Disculpe, no usé las palabras adecuadas.
 
 387
 00:40:21,000 --> 00:40:23,798
