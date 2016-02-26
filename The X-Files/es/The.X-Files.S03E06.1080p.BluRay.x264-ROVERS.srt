@@ -433,7 +433,7 @@ La fecha es agosto 29,
 
 97
 00:09:55,720 --> 00:09:57,836
-la hora las 4.15 de la tarde.
+la hora las 4:15 de la tarde.
 
 98
 00:09:57,920 --> 00:10:00,559

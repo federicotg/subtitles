@@ -171,7 +171,7 @@ Encontramos algo.
 38
 00:06:28,600 --> 00:06:33,833
 Éstas son de la cámara de emergencias,
-tomadas a las 4.13 de esta mañana.
+tomadas a las 4:13 de esta mañana.
 
 39
 00:06:33,920 --> 00:06:36,593

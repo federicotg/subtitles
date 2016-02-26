@@ -1636,7 +1636,7 @@ un excelente vendedor, Roche.
 
 363
 00:34:20,400 --> 00:34:24,996
-El primer vuelo es a las 06.00. Disfrute
+El primer vuelo es a las 06:00. Disfrute
 de lo que le resta de libertad. Vamos.
 
 364
@@ -1747,7 +1747,7 @@ los datos de un pasajero del vuelo 1650
 388
 00:36:42,320 --> 00:36:46,393
 de Washington a Boston,
-a las 20.50 de anoche.
+a las 20:50 de anoche.
 
 389
 00:36:46,480 --> 00:36:50,314

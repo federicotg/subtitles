@@ -175,7 +175,7 @@ que el vuelo número 549
 
 40
 00:06:16,640 --> 00:06:20,553
-perdió contacto a las 19.00,
+perdió contacto a las 19:00,
 hora de la costa atlántica,
 
 41
@@ -965,7 +965,7 @@ a menos que entre en el espacio militar.
 
 210
 00:22:42,240 --> 00:22:47,439
-A las 19.52 el vuelo 549 cayó
+A las 19:52 el vuelo 549 cayó
 de una altura de 9.000 metros.
 
 211
@@ -1388,7 +1388,7 @@ sobre lo ocurrido con el vuelo 549.
 302
 00:30:22,720 --> 00:30:25,757
 El vuelo 549 apareció
-en mi radar a las 19.00 horas.
+en mi radar a las 19:00 horas.
 
 303
 00:30:25,840 --> 00:30:29,674

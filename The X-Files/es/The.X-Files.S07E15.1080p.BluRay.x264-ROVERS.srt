@@ -511,7 +511,7 @@ por el bien del hombre antes de morir.
 
 110
 00:14:11,760 --> 00:14:15,275
-Llamada recibida a las 20.01.
+Llamada recibida a las 20:01.
 
 111
 00:14:15,440 --> 00:14:19,956

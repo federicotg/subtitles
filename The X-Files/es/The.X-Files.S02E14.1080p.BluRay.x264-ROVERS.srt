@@ -14,7 +14,7 @@ A partir del lunes
 4
 00:00:14,680 --> 00:00:20,835
 el campo de deportes quedará cerrado
-a partir de las 8.30 p.m. y no de las 10.
+a partir de las 8:30 p.m. y no de las 10.
 
 5
 00:00:23,600 --> 00:00:26,194

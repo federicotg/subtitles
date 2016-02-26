@@ -1628,7 +1628,7 @@ prueba de sangre?
 
 362
 00:35:18,783 --> 00:35:21,616
-A eso de las 10.30 esta mañana.
+A eso de las 10:30 esta mañana.
 
 363
 00:35:21,703 --> 00:35:23,739

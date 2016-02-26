@@ -1837,7 +1837,7 @@ Todas las entradas cubiertas.
 403
 00:33:21,280 --> 00:33:23,840
 El médico dice que
-Modell tiene cita a las 2.30
+Modell tiene cita a las 2:30
 
 404
 00:33:23,920 --> 00:33:27,196

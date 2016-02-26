@@ -1940,7 +1940,7 @@ Creo que nos salvará a ambos.
 
 442
 00:42:55,000 --> 00:42:57,912
-- Son las 5.30 h. ¿Qué está.__
+- Son las 5:30 h. ¿Qué está...
 - ¿Cómo puedo ayudarlo?
 
 443

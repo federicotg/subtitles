@@ -904,7 +904,7 @@ Cada cuerpo cuenta una historia.
 
 204
 00:20:44,200 --> 00:20:48,193
-Son las 11.14 a.m., lunes 14 de noviembre.
+Son las 11:14 a.m., lunes 14 de noviembre.
 
 205
 00:20:49,200 --> 00:20:52,556

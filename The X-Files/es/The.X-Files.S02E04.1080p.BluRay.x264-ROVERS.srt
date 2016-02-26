@@ -381,7 +381,7 @@ allí para una autopsia?
 85
 00:08:35,306 --> 00:08:38,093
 No puedo hoy.
-Mi última clase termina 4.30.
+Mi última clase termina 4:30.
 
 86
 00:08:38,393 --> 00:08:41,226
@@ -1662,7 +1662,7 @@ Es profesor de neurocirugía en Harvard.
 369
 00:31:41,441 --> 00:31:45,650
 - ¿Cuándo?
-- Hoy. Llega a las 7.30.
+- Hoy. Llega a las 7:30.
 
 370
 00:31:45,987 --> 00:31:49,980
@@ -1746,7 +1746,7 @@ Rebobinemos la cinta.
 388
 00:34:05,627 --> 00:34:09,870
 Empiece con un pequeño margen,
-digamos 19.35 a 19.45.
+digamos 19:35 a 19:45.
 
 389
 00:34:09,965 --> 00:34:14,208

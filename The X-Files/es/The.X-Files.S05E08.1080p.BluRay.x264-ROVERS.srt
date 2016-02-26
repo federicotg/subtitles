@@ -135,11 +135,11 @@ lo que sabemos en este momento.
 31
 00:05:21,840 --> 00:05:25,833
 Lo que sí sabemos es que la última vez
-que pasaron revista fue a las 2.04 a.m.
+que pasaron revista fue a las 2:04 a.m.
 
 32
 00:05:26,400 --> 00:05:29,631
-A las 6.14 a.m.
+A las 6:14 a.m.
 se informó de la fuga del sujeto.
 
 33
@@ -1729,7 +1729,7 @@ Tengo la lidocaína, doctora.
 
 379
 00:39:03,080 --> 00:39:06,789
-Olvídan. Hora de deceso: 7.38.
+Olvídan. Hora de deceso: 7:38.
 
 380
 00:39:07,160 --> 00:39:09,310

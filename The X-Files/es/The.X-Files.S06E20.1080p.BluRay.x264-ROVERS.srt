@@ -583,7 +583,7 @@ Lo siento.
 130
 00:11:32,120 --> 00:11:35,430
 - Mulder, ¿qué hora es?
-- Las 2.34 a.m.
+- Las 2:34 a.m.
 
 131
 00:11:36,600 --> 00:11:41,833
@@ -1670,7 +1670,7 @@ Siéntate en la parte de atrás y espera.
 
 371
 00:35:08,400 --> 00:35:14,032
-A las 10.15 se anunciará un receso.
+A las 10:15 se anunciará un receso.
 Acércate al blanco y dispara dos veces.
 
 372

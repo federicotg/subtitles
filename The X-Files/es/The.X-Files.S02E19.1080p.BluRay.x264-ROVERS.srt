@@ -372,7 +372,7 @@ la obra de 50 años atrás.
 
 81
 00:07:53,720 --> 00:07:57,793
-- Tengo pasaje a Noruega a las 8.30.
+- Tengo pasaje a Noruega a las 8:30.
 - ¿Informaste a Skinner?
 
 82
@@ -1762,7 +1762,7 @@ Debes dormir.
 394
 00:41:16,160 --> 00:41:22,110
 Fox Mulder perdió el conocimiento
-a las 4.30 de la mañana, 12 de marzo.
+a las 4:30 de la mañana, 12 de marzo.
 
 395
 00:41:22,240 --> 00:41:24,834

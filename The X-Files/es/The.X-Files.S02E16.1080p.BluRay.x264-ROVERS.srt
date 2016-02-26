@@ -1451,7 +1451,7 @@ estás exhausta.
 
 319
 00:32:05,360 --> 00:32:07,954
-Todos lo estamos. Son las 5.30.
+Todos lo estamos. Son las 5:30.
 
 320
 00:32:08,360 --> 00:32:11,033

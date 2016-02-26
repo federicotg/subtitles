@@ -1184,7 +1184,7 @@ de una visión en un callejón oscuro.
 264
 00:23:14,680 --> 00:23:17,638
 - Tengo que estar en Washington
-a las 19.30.
+a las 19:30.
 
 265
 00:23:17,720 --> 00:23:20,917

@@ -1039,7 +1039,7 @@ Mulder.
 
 228
 00:26:45,354 --> 00:26:50,394
-Esta señal del martes, 06.30: la banda
+Esta señal del martes, 06:30: la banda
 estrecha y el espectro de la antena
 
 229
@@ -1138,7 +1138,7 @@ CA519.
 250
 00:30:19,735 --> 00:30:25,947
 Al oír la señal,
-la hora será 5.47 y 40 segundos.
+la hora será 5:47 y 40 segundos.
 
 251
 00:30:27,951 --> 00:30:34,288
@@ -1152,13 +1152,13 @@ St. Croix, Caribbean Air, Vuelo 519.
 
 253
 00:30:54,478 --> 00:30:58,972
-Sale a las 7.05. La puerta de salida
+Sale a las 7:05. La puerta de salida
 está en la otra terminal.
 
 254
 00:31:17,834 --> 00:31:20,746
 Quisiera un boleto en el vuelo
-de las 6.30 a San Juan.
+de las 6:30 a San Juan.
 
 255
 00:31:28,470 --> 00:31:30,506
@@ -1166,7 +1166,7 @@ Hoy es...
 
 256
 00:31:32,474 --> 00:31:34,510
-Son las 10.30.
+Son las 10:30.
 
 257
 00:31:35,560 --> 00:31:39,223
