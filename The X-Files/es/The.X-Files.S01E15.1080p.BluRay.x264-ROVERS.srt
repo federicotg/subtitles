@@ -179,7 +179,7 @@ Todavía no tiene pulso.
 
 41
 00:03:09,400 --> 00:03:13,439
-Ponle otra ampolla intracardiaca
+Ponle otra ampolla intracardíaca
 de adrenalina y sube de nuevo a 400.
 
 42
@@ -1012,7 +1012,7 @@ No lo sé. Simplemente...
 222
 00:18:23,800 --> 00:18:26,189
 - No estás bien.
-- ¿¡Quien lo dice?!
+- ¡¿Quién lo dice?!
 
 223
 00:18:26,320 --> 00:18:30,677
@@ -1889,7 +1889,7 @@ Espera...
 
 417
 00:34:27,560 --> 00:34:29,994
-- ¿¡Que diablos...!?
+- ¿¡Qué diablos...!?
 - Deja la aguja.
 
 418
@@ -1899,7 +1899,7 @@ Espera...
 
 419
 00:34:35,680 --> 00:34:37,636
-Ahora... dejala en la mesa,
+Ahora... déjala en la mesa,
 
 420
 00:34:37,800 --> 00:34:40,633
@@ -2397,8 +2397,7 @@ Te la traeré.
 
 531
 00:42:38,840 --> 00:42:40,956
-¡Mir I' '
-a. ¡Mira! ¡Mira!
+¡Mira! ¡Mira! ¡Mira!
 
 532
 00:42:41,040 --> 00:42:43,156

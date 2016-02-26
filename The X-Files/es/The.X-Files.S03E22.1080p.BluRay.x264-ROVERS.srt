@@ -1,12 +1,12 @@
 1
 00:00:10,100 --> 00:00:12,100
 Cuando inicié mi investigación...
-''Lago Heuvelmans - Gruta del Arponero''
+"Lago Heuvelmans - Gruta del Arponero"
 
 2
 00:00:12,100 --> 00:00:14,100
 ...estas ranas abundaban aquí.
-''Montes Blue Ridge, Georgia''
+"Montes Blue Ridge, Georgia"
 
 3
 00:00:14,100 --> 00:00:18,100
@@ -103,25 +103,25 @@ Buscapersonas del demonio.
 
 23
 00:02:53,300 --> 00:02:56,200
-''Actividad Paranormal''
+"Actividad Paranormal"
 
 24
 00:03:01,200 --> 00:03:03,700
-''El Gobierno Niega Conocimiento''
+"El Gobierno Niega Conocimiento"
 
 25
 00:03:20,800 --> 00:03:23,200
-''La Verdad Está Allá Afuera''
+"La Verdad Está Allá Afuera"
 
 26
 00:03:25,500 --> 00:03:29,000
-''¿QUE COSA ES MAS ANTIGUA
-QUE LAS MONTAÑAS?''
+"¿QUE COSA ES MAS ANTIGUA
+QUE LAS MONTAÑAS?"
 
 27
 00:03:31,700 --> 00:03:34,300
-''Carretera de Condado - Número 33
-Rigdon, Georgia''
+"Carretera de Condado - Número 33
+Rigdon, Georgia"
 
 28
 00:03:38,400 --> 00:03:40,800
@@ -207,13 +207,13 @@ un asesino múltiple suelto?
 
 45
 00:04:27,400 --> 00:04:29,800
-''Suelto'' y ''El más grande''
+"Suelto" y "El más grande"
 sería la mejor descripción.
 
 46
 00:04:35,400 --> 00:04:38,700
-''¿QUE COSA ES MAS GRANDE
-QUE EL CIELO?''
+"¿QUÉ COSA ES MÁS GRANDE
+QUE EL CIELO?"
 
 47
 00:04:40,000 --> 00:04:41,700
@@ -245,14 +245,14 @@ Dime que no hablas en serio.
 
 53
 00:04:58,300 --> 00:05:01,800
-''BIG BLUE, LA SERPIENTE SUREÑA
-VEALA EN EL LAGO HEUVELMANS''
+"BIG BLUE, LA SERPIENTE SUREÑA
+VEALA EN EL LAGO HEUVELMANS"
 
 54
 00:05:04,300 --> 00:05:07,800
 Según el informe del comisario,
 Ud. fue la última persona...
-''Laboratorio de Ciencias Ecológicas''
+"Laboratorio de Ciencias Ecológicas"
 
 55
 00:05:07,900 --> 00:05:09,700
@@ -450,7 +450,7 @@ Con permiso.
 
 96
 00:07:16,600 --> 00:07:20,600
-''Carnada y Equipo''
+"Carnada y Equipo"
 Se han observado criaturas de los lagos
 durante siglos, en decenas de países...
 
@@ -518,8 +518,8 @@ comerse a un explorador y a un biólogo?
 
 110
 00:08:20,700 --> 00:08:23,300
-''Escama de Big Blue
-Hallada el 20 de Febrero de 1965''
+"Escama de Big Blue
+Hallada el 20 de Febrero de 1965"
 Observa esto, Scully.
 
 111
@@ -740,7 +740,7 @@ deberán retroceder.
 157
 00:11:33,000 --> 00:11:35,500
 Llama al comisario.
-Tenemos un ''Flotador''.
+Tenemos un "Flotador".
 
 158
 00:12:05,300 --> 00:12:08,300
@@ -819,7 +819,7 @@ Como dije, reconozco su gorra.
 
 174
 00:14:30,500 --> 00:14:32,500
-''Muéstranos Tu Cebo''
+"Muéstranos Tu Cebo"
 ¿Cómo no hacerlo?
 
 175
@@ -1271,7 +1271,7 @@ una situación de emergencia.
 
 273
 00:21:34,000 --> 00:21:37,000
-''Oficina - Hay Lugar''
+"Oficina - Hay Lugar"
 
 274
 00:21:37,100 --> 00:21:39,600
@@ -1426,7 +1426,7 @@ Me distraje un poco.
 
 308
 00:24:55,300 --> 00:24:57,400
-Después de que dijiste ''Lo siento''.
+Después de que dijiste "Lo siento".
 
 309
 00:24:58,700 --> 00:25:00,800
@@ -1457,7 +1457,7 @@ entre expectativa y esperanza.
 
 315
 00:25:24,400 --> 00:25:27,000
-''Buscad y lo encontraréis''.
+"Buscad y lo encontraréis".
 
 316
 00:25:27,100 --> 00:25:29,300
@@ -1471,7 +1471,7 @@ los territorios inexplorados...
 
 318
 00:25:32,700 --> 00:25:34,600
-...escribiendo ''Hay monstruos aquí''.
+...escribiendo "Hay monstruos aquí".
 
 319
 00:25:34,700 --> 00:25:37,000
@@ -1576,7 +1576,7 @@ por nosotros.
 
 341
 00:28:24,600 --> 00:28:28,100
-Ese era el,Scully.
+Ese era él, Scully.
 Ese era Big Blue.
 
 342
@@ -1913,8 +1913,8 @@ sí es trivial.
 
 412
 00:33:01,100 --> 00:33:06,200
-''El infierno es una idea
-que nació al atragantarse con el pan''.
+"El infierno es una idea
+que nació al atragantarse con el pan".
 
 413
 00:33:20,800 --> 00:33:23,200

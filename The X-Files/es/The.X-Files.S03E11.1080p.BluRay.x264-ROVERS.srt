@@ -12,8 +12,8 @@ Una vez guié a una niña.
 
 4
 00:00:11,400 --> 00:00:13,300
-''Iglesia de la Redención
-Waynesburg, Pensilvania''
+"Iglesia de la Redención
+Waynesburg, Pensilvania"
 
 5
 00:00:13,300 --> 00:00:17,100
@@ -161,11 +161,11 @@ En mí, sobre todo.
 
 38
 00:03:20,000 --> 00:03:23,100
-''El Gobierno Niega Conocimiento''
+"El Gobierno Niega Conocimiento"
 
 39
 00:03:37,900 --> 00:03:39,800
-''La Verdad Está Allá Afuera''
+"La Verdad Está Allá Afuera"
 
 40
 00:03:42,900 --> 00:03:47,900
@@ -302,8 +302,8 @@ de que el asesino está aquí...
 
 68
 00:05:29,200 --> 00:05:32,900
-''Escuela Primaria Ridgeway
-Loveland, Ohio''
+"Escuela Primaria Ridgeway
+Loveland, Ohio"
 Siéntense.
 
 69
@@ -545,7 +545,7 @@ detrás de gente como Kevin.
 121
 00:09:06,600 --> 00:09:10,100
 ¿A qué se refiere
-con ''Gente como Kevin''?
+con "Gente como Kevin"?
 
 122
 00:09:10,100 --> 00:09:12,100
@@ -774,7 +774,7 @@ Lo sabrá.
 
 171
 00:12:03,500 --> 00:12:07,000
-''Albergue Para Niños Linley''
+"Albergue Para Niños Linley"
 
 172
 00:12:09,200 --> 00:12:14,200
@@ -1144,7 +1144,7 @@ Si no es Ud., ¿Entonces quién?
 
 254
 00:18:32,900 --> 00:18:36,100
-- ''Al que oye, déjenlo oír''.
+- "Al que oye, déjenlo oír".
 - Y al que tenga lengua...
 
 255
@@ -1363,7 +1363,7 @@ sobre casos como éste.
 
 303
 00:25:38,200 --> 00:25:42,000
-Los llaman ''Incorruptibles''.
+Los llaman "Incorruptibles".
 Sus cuerpos no se descomponen y...
 
 304
@@ -1477,8 +1477,8 @@ San Owen.
 
 327
 00:27:09,200 --> 00:27:12,900
-''Laboratorio Forense Estatal
-Condado de Hamilton, Ohio''
+"Laboratorio Forense Estatal
+Condado de Hamilton, Ohio"
 
 328
 00:27:13,000 --> 00:27:14,900
@@ -1530,7 +1530,7 @@ más ricos en el Sur.
 
 338
 00:27:41,500 --> 00:27:43,300
-''Un hombre poderoso y respetado''.
+"Un hombre poderoso y respetado".
 
 339
 00:27:43,400 --> 00:27:46,900
@@ -2029,7 +2029,7 @@ otro auto en el aeropuerto...
 
 448
 00:37:08,800 --> 00:37:11,800
-''Recicle''
+"Recicle"
 Flechas que forman un círculo.
 
 449
@@ -2075,8 +2075,8 @@ nos vemos en el aeropuerto.
 
 458
 00:37:47,500 --> 00:37:52,100
-''Planta de Reciclaje Siglo XXI
-Jerusalén, Ohio''
+"Planta de Reciclaje Siglo XXI
+Jerusalén, Ohio"
 
 459
 00:37:52,900 --> 00:37:55,900
@@ -2167,7 +2167,7 @@ Sabía que vendría.
 
 480
 00:40:09,700 --> 00:40:13,300
-''Dos Días Después''
+"Dos Días Después"
 
 481
 00:40:18,600 --> 00:40:20,900
