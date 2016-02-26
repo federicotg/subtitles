@@ -420,7 +420,7 @@ subiendo a las estrellas.
 
 97
 00:11:35,028 --> 00:11:37,940
-- ..sub¡endo a las estrellas.
+- ...subiendo a las estrellas.
 - ¿Qué es esto?
 
 98

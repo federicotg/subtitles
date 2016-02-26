@@ -527,7 +527,7 @@ doce, trece,
 
 118
 00:11:56,800 --> 00:11:57,550
-catorce. . .
+catorce...
 
 119
 00:11:57,640 --> 00:11:59,551
@@ -672,7 +672,7 @@ la explicación de la Casa Blanca...
 151
 00:14:58,880 --> 00:15:02,236
 - ¿Tenemos que ver esto?
-- ..al apretar el botón para grabar.
+- ...al apretar el botón para grabar.
 
 152
 00:15:02,320 --> 00:15:05,392

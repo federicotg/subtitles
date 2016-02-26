@@ -1658,7 +1658,7 @@ Sólo tienes que apretar el gatillo.
 
 368
 00:34:58,200 --> 00:35:01,590
-Entrarás al Salón Saguaro a las .10.05 a.m
+Entrarás al Salón Saguaro a las 10:05 a.m
 
 369
 00:35:01,680 --> 00:35:04,831

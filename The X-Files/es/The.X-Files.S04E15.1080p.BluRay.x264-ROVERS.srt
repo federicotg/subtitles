@@ -90,7 +90,7 @@ Es éste aquí arriba a la derecha.
 
 21
 00:05:26,200 --> 00:05:28,236
-¿Le detuvieron?
+¿Lo detuvieron?
 
 22
 00:05:28,320 --> 00:05:30,038
@@ -1295,7 +1295,7 @@ Hay algo que usted no me dijo
 
 292
 00:30:19,320 --> 00:30:22,630
-sobre el contenido del Sefer Yezirah .
+sobre el contenido del Sefer Yezirah.
 
 293
 00:30:23,400 --> 00:30:26,073
@@ -1339,7 +1339,7 @@ podría crear un ser vivo de la propia tierra.
 
 302
 00:30:54,120 --> 00:30:56,350
-Moldarlo de barro o arcilla.
+Moldearlo de barro o arcilla.
 
 303
 00:30:56,440 --> 00:31:00,991
