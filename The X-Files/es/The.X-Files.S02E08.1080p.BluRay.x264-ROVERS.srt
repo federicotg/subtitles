@@ -1190,7 +1190,7 @@ Este será nuestro secreto.
 
 267
 00:30:06,638 --> 00:30:10,597
-N0 queremos rumores.
+No queremos rumores.
 
 268
 00:30:42,132 --> 00:30:44,714
