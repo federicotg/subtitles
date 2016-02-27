@@ -1898,7 +1898,7 @@ y despresuricen la cabina.
 
 418
 00:31:14,400 --> 00:31:17,836
-Después quiero que... ventilen el C02.
+Después quiero que... ventilen el CO2.
 
 419
 00:31:17,960 --> 00:31:21,316

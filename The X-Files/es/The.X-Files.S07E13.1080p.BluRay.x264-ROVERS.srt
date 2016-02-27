@@ -199,7 +199,7 @@ tecnología.
 46
 00:07:23,960 --> 00:07:28,431
 ¿Desean un café "latte"
-o un vaso de H20 sintético?
+o un vaso de H2O sintético?
 
 47
 00:07:30,160 --> 00:07:33,038

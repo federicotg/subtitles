@@ -203,7 +203,7 @@ sobre la barandilla, uno tras otro.
 44
 00:03:44,933 --> 00:03:48,846
 - ¿A ella no le gustó?
-- Al final, me había gastado S40.
+- Al final, me había gastado $40.
 
 45
 00:03:49,521 --> 00:03:51,557
@@ -269,7 +269,7 @@ Y OFICINAS WATERGATE
 
 59
 00:06:00,151 --> 00:06:02,984
-S4 por la primera hora
+$4 por la primera hora
 de estacionamiento es un robo.
 
 60
@@ -1129,11 +1129,11 @@ CA519.
 
 248
 00:29:54,418 --> 00:29:56,500
-7. 05.
+7.05.
 
 249
 00:29:56,586 --> 00:29:58,076
-9. 50.
+9.50.
 
 250
 00:30:19,735 --> 00:30:25,947

@@ -1837,7 +1837,7 @@ a 1.400 dólares la hora.
 400
 00:42:51,240 --> 00:42:56,519
 Alquiler de auto. Kilometraje adicional,
-multa por uso fuera del estado: S346.
+multa por uso fuera del estado: $346.
 
 401
 00:42:56,600 --> 00:42:58,830
