@@ -62,7 +62,7 @@ Jota de corazón.
 
 15
 00:02:30,920 --> 00:02:37,029
-2'598.960 manos posibles
+2.598.960 manos posibles
 con cinco cartas,
 
 16
@@ -71,7 +71,7 @@ con cinco cartas,
 
 17
 00:02:40,880 --> 00:02:45,032
-1'980.240 maneras de hacer dos pares,
+1.980.240 maneras de hacer dos pares,
 
 18
 00:02:45,120 --> 00:02:49,955

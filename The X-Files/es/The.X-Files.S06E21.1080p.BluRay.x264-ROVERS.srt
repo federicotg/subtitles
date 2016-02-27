@@ -575,8 +575,7 @@ La regresaron.
 126
 00:16:00,800 --> 00:16:05,715
 ¿Puede hablar conmigo? ¿Recuerda
-lo ue asó? 'Me lo uede contar?
-c,
+lo que pasó? ¿Me lo puede contar?
 
 127
 00:16:05,840 --> 00:16:08,149

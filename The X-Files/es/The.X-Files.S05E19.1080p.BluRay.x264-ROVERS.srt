@@ -867,8 +867,7 @@ Agente Scully, no tengo muchas opciones.
 
 192
 00:17:02,920 --> 00:17:06,071
-'Hola? 'Ha al uien en línea?
-o o y
+¿Hola? ¿Hay alguien en línea?
 
 193
 00:17:06,720 --> 00:17:11,555

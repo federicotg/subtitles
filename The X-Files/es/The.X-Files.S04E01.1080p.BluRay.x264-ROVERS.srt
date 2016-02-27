@@ -803,8 +803,7 @@ SEP. Programa de Erradicación de Viruela.
 
 179
 00:28:51,520 --> 00:28:53,556
-'Viruela? 'Cómo lo has descubierto?
-c, c,
+¿Viruela? ¿Cómo lo has descubierto?
 
 180
 00:28:53,640 --> 00:28:56,916
