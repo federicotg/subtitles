@@ -481,7 +481,7 @@ Dos pulsaciones.
 
 107
 00:11:10,360 --> 00:11:14,239
-Dupre y Willis sufrieron un paro cardiaco
+Dupre y Willis sufrieron un paro cardíaco
 al mismo tiempo, ¿no es cierto?
 
 108
@@ -2546,7 +2546,7 @@ A las 6:47.
 565
 00:44:53,400 --> 00:44:57,359
 La hora exacta a la que Jack tuvo
-el paro cardiaco en el hospital.
+el paro cardíaco en el hospital.
 
 566
 00:44:57,440 --> 00:44:59,271

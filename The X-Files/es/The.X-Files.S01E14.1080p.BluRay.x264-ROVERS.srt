@@ -140,7 +140,7 @@ Todos adultos jóvenes y sanos.
 
 32
 00:05:54,760 --> 00:05:57,399
-Con síntomas de paro cardiaco fulminante.
+Con síntomas de paro cardíaco fulminante.
 
 33
 00:05:57,480 --> 00:06:01,075
@@ -937,7 +937,7 @@ No estamos seguros.
 210
 00:27:34,640 --> 00:27:37,234
 Todas las víctimas murieron
-de un paro cardiaco.
+de un paro cardíaco.
 
 211
 00:27:37,360 --> 00:27:41,911

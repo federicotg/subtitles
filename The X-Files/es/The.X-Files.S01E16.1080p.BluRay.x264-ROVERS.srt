@@ -460,7 +460,7 @@ una copia de su partida de defunción.
 104
 00:08:00,240 --> 00:08:04,472
 Nombre del fallecido: Barnett, John Irvine.
-Causa de la muerte: paro cardiaco.
+Causa de la muerte: paro cardíaco.
 
 105
 00:08:04,560 --> 00:08:07,677
@@ -539,8 +539,7 @@ Así se hace, Alec.
 
 122
 00:09:11,000 --> 00:09:12,831
-¡Dosl ' '
-. ¡Uno! ¡Ahora!
+¡Dos! ¡Uno! ¡Ahora!
 
 123
 00:10:05,000 --> 00:10:08,675
@@ -908,8 +907,8 @@ a desalojar la sala!
 
 203
 00:15:48,040 --> 00:15:51,715
-Señona,
-esto es un ultraje para mi defendido.
+Señoría, esto es un ultraje 
+para mi defendido.
 
 204
 00:15:51,840 --> 00:15:55,310
@@ -1006,11 +1005,11 @@ y... llegamos a conocernos.
 224
 00:17:17,800 --> 00:17:21,873
 ¿Sabe usted que Barnett murió de
-un paro cardiaco en este edificio en 1989?
+un paro cardíaco en este edificio en 1989?
 
 225
 00:17:21,960 --> 00:17:26,431
-- ¡Paro cardiaco! ¿Dónde dice eso?
+- ¡Paro cardíaco! ¿Dónde dice eso?
 - En su partida de defunción.
 
 226
@@ -2531,7 +2530,7 @@ Las constantes vitales disminuyen.
 
 565
 00:44:26,080 --> 00:44:28,230
-No hay pulso ni ritmo cardiaco.
+No hay pulso ni ritmo cardíaco.
 
 566
 00:44:31,280 --> 00:44:32,918
