@@ -1459,7 +1459,7 @@ de cuarentena. Nuestra posición es...
 
 326
 00:29:04,400 --> 00:29:06,516
-- Lo apague.
+- Lo apagué.
 - Enciéndelo otra vez.
 
 327
