@@ -1306,7 +1306,7 @@ Esto es un delito grave.
 
 288
 00:29:39,120 --> 00:29:41,873
-No se cómo voy a perdonarte.
+No sé cómo voy a perdonarte.
 
 289
 00:29:43,600 --> 00:29:45,875
@@ -1676,7 +1676,7 @@ El hombre de la foto estuvo aquí.
 
 372
 00:37:25,240 --> 00:37:26,468
-No se dónde está.
+No sé dónde está.
 
 373
 00:37:26,560 --> 00:37:30,599

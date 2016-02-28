@@ -728,7 +728,7 @@ Este barco zarpó por primera vez en 1991.
 
 160
 00:14:52,480 --> 00:14:57,838
-No se cómo explicar el grado de corrosión
+No sé cómo explicar el grado de corrosión
 o la descomposición de los cuerpos.
 
 161
@@ -986,7 +986,7 @@ El Capitán ha muerto.
 
 220
 00:20:43,000 --> 00:20:47,039
-No se cómo sucedió.
+No sé cómo sucedió.
 Fue en los últimos 15 minutos.
 
 221

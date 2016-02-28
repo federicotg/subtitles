@@ -525,7 +525,7 @@ en el kilómetro 15 de la Ruta 60.
 118
 00:11:51,160 --> 00:11:54,948
 La puerta no fue forzada.
-No se cómo entró.
+No sé cómo entró.
 
 119
 00:11:57,680 --> 00:12:01,275
@@ -896,7 +896,7 @@ Así fue que llegó.
 
 200
 00:22:16,360 --> 00:22:19,875
-- No se cómo se fue.
+- No sé cómo se fue.
 - Quizá a pie, o se robó otro auto.
 
 201

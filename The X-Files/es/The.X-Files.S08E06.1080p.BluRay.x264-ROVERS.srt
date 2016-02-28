@@ -86,7 +86,7 @@ JUEVES 7 DE DICIEMBRE,
 19
 00:03:54,400 --> 00:03:59,235
 ¿Qué hago aquí? Estoy en esta celda.
-No se dónde estoy ni como llegue...
+No sé dónde estoy ni como llegue...
 
 20
 00:03:59,320 --> 00:04:02,118
@@ -1086,7 +1086,7 @@ Ahora sí.
 
 242
 00:27:54,000 --> 00:27:58,790
-No se cómo se llama
+No sé cómo se llama
 pero está en la cárcel de Baltimore.
 
 243

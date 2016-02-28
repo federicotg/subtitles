@@ -515,7 +515,7 @@ Tan sólo se fue.
 
 116
 00:15:40,680 --> 00:15:43,558
-No se dónde está Mulder.
+No sé dónde está Mulder.
 
 117
 00:15:47,040 --> 00:15:49,952
@@ -745,7 +745,7 @@ Lo siento mucho.
 166
 00:20:58,800 --> 00:21:03,351
 - Dana, necesito tu ayuda.
-- No se cómo encontrarlo.
+- No sé cómo encontrarlo.
 
 167
 00:21:10,160 --> 00:21:13,072
@@ -1222,7 +1222,7 @@ Hay algo.
 
 271
 00:33:16,040 --> 00:33:18,110
-No se cómo ni quien.
+No sé cómo ni quien.
 
 272
 00:33:18,200 --> 00:33:23,035

@@ -397,7 +397,7 @@ así lo bajamos antes de que la encuentre.
 
 89
 00:10:09,320 --> 00:10:14,110
-- Supones que se dónde está Scully.
+- Supones que sé dónde está Scully.
 - ¿Quién lo sabe? ¿Tu jefe?
 
 90

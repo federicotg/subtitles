@@ -1421,7 +1421,7 @@ Dice que es urgente.
 
 313
 00:38:47,320 --> 00:38:50,198
-Ya se dónde estás.
+Ya sé dónde estás.
 ¿Por qué te demoras?
 
 314

@@ -1537,7 +1537,7 @@ Leíste lo que escribió sobre ti.
 
 332
 00:36:50,880 --> 00:36:53,633
-No se cómo se comunican.
+No sé cómo se comunican.
 
 333
 00:36:53,760 --> 00:36:57,150

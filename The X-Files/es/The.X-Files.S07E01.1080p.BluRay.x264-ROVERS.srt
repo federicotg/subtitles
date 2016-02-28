@@ -655,7 +655,7 @@ Soy su jefe. Y el de ella.
 
 146
 00:20:08,480 --> 00:20:11,517
-No se cómo pudo levantarse solo.
+No sé cómo pudo levantarse solo.
 
 147
 00:20:11,640 --> 00:20:15,269
@@ -691,7 +691,7 @@ Ella lo sabe.
 154
 00:20:49,000 --> 00:20:53,232
 - Nada de doctores. Busca a Scully.
-- No se dónde está.
+- No sé dónde está.
 
 155
 00:20:53,880 --> 00:20:59,000

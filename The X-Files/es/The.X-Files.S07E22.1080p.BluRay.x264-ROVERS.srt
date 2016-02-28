@@ -377,7 +377,7 @@ Más sustracciones alienígenas.
 
 84
 00:09:03,840 --> 00:09:08,118
-No se cómo justificaremos los gastos.
+No sé cómo justificaremos los gastos.
 
 85
 00:09:10,320 --> 00:09:13,471
@@ -1483,7 +1483,7 @@ Pero debe guardarlo en secreto.
 
 339
 00:43:29,840 --> 00:43:33,469
-No se cómo explicarlo,
+No sé cómo explicarlo,
 
 340
 00:43:36,360 --> 00:43:39,557
