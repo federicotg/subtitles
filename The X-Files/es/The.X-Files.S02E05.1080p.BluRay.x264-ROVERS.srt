@@ -237,7 +237,7 @@ Están negociando para liberar rehenes.
 54
 00:06:16,209 --> 00:06:18,200
 - ¿Y me quieren a mí?
-- Si.
+- Sí.
 
 55
 00:06:18,295 --> 00:06:21,162
@@ -272,7 +272,7 @@ y cuarto piso.
 61
 00:07:06,217 --> 00:07:07,582
 - ¿Agente Mulder?
-- Si.
+- Sí.
 
 62
 00:07:07,677 --> 00:07:09,759
@@ -657,13 +657,13 @@ debe modificar un poco su enfoque.
 
 143
 00:12:57,652 --> 00:13:00,439
-- Si. ¿Cuál era su nombre?
+- Sí. ¿Cuál era su nombre?
 - Krycek.
 
 144
 00:13:00,530 --> 00:13:03,863
 - Krycek. ¿Tiene para tomar nota?
-- Si.
+- Sí.
 
 145
 00:13:04,367 --> 00:13:08,986
@@ -672,7 +672,7 @@ Grande, capuchino con vainilla.
 
 146
 00:13:13,793 --> 00:13:19,379
-Como ven, SWATha tomado posición
+Como ven, SWAT ha tomado posición
 en todos los edificios circundantes...
 
 147
@@ -696,7 +696,7 @@ tiene rehenes en una agencia de viajes.
 
 151
 00:13:31,394 --> 00:13:35,603
-Lo que no dicen es que es un ex agente
+Lo que no dicen es que es un exagente
 del FBI que dice haber sido sustraído.
 
 152

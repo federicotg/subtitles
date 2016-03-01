@@ -433,7 +433,7 @@ alguna confusión.
 
 97
 00:09:00,290 --> 00:09:04,750
-Si. Creí que esa enfermera dijo
+Sí. Creí que esa enfermera dijo
 que un fantasma la había violado.
 
 98
@@ -666,7 +666,7 @@ pero la vi al día siguiente.
 148
 00:12:35,755 --> 00:12:38,497
 - Entonces vio que estaba herida.
-- Si.
+- Sí.
 
 149
 00:12:38,675 --> 00:12:43,465
@@ -848,7 +848,7 @@ la Depresión era un artista prestigioso.
 188
 00:15:39,188 --> 00:15:42,351
 - ¿Recibe el mismo tratamiento que Hal?
-- Si.
+- Sí.
 
 189
 00:15:42,442 --> 00:15:47,778
@@ -1616,7 +1616,7 @@ Tiene que creerme. Yo no lo maté.
 355
 00:32:45,380 --> 00:32:48,372
 - Pero los hongos son suyos, ¿no?
-- Si.
+- Sí.
 
 356
 00:32:49,009 --> 00:32:53,924

@@ -368,7 +368,7 @@ Dr. Waterston. ¿Se llama Scully?
 
 81
 00:09:09,120 --> 00:09:12,510
-- Si. Dana Scully.
+- Sí. Dana Scully.
 - El doctor la mencionó.
 
 82
