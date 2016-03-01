@@ -355,7 +355,7 @@ Agente Scully.
 82
 00:09:37,600 --> 00:09:40,717
 - ¡Casi todo el día!
-- Mi celular estaba apagado_
+- Mi celular estaba apagado.
 
 83
 00:09:40,800 --> 00:09:45,078

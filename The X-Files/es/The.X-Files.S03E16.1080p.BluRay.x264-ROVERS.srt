@@ -1562,7 +1562,7 @@ No se mueva.
 345
 00:31:46,480 --> 00:31:50,234
 - ¡Dígamelo! ¡Dígamelo!
-- Puedo decirle lo que quiere saber_
+- Puedo decirle lo que quiere saber.
 
 346
 00:31:50,320 --> 00:31:54,757
