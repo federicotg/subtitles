@@ -1862,7 +1862,7 @@ No deje que las pesadillas lo despierten.
 413
 00:39:29,960 --> 00:39:33,635
 - ¡Está allí! ¡En la ventana!
-_ ¿Qué hay aquí?
+- ¿Qué hay aquí?
 
 414
 00:39:33,720 --> 00:39:38,350

@@ -65,7 +65,7 @@ La sujetaré yo.
 
 16
 00:01:54,680 --> 00:01:58,992
-_ ¿Conque le hizo daño a Whaley?
+- ¿Conque le hizo daño a Whaley?
 - Y bastante.
 
 17

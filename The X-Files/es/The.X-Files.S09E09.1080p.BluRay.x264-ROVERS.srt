@@ -142,7 +142,7 @@ Es una pregunta sencilla.
 
 33
 00:05:42,120 --> 00:05:44,315
-_ No estoy segura.
+- No estoy segura.
 - ¿Lo había visto antes?
 
 34

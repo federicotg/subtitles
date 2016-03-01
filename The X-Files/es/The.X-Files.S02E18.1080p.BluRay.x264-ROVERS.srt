@@ -1611,7 +1611,7 @@ Yo también te amo.
 
 348
 00:32:11,840 --> 00:32:15,230
-zoo CERRADO AL PÚBLICO
+ZOO CERRADO AL PÚBLICO
 HASTA NUEVO AVISO
 
 349
@@ -1620,8 +1620,7 @@ HASTA NUEVO AVISO
 
 350
 00:32:50,560 --> 00:32:52,676
-_W. 7_ ,
-¿illa. ¿Estas aquí?
+¿Willa? ¿Estas aquí?
 
 351
 00:33:02,880 --> 00:33:04,996
