@@ -901,7 +901,7 @@ No me digas que viniste por mí.
 
 200
 00:22:05,920 --> 00:22:09,435
-No se lo que tengo.
+No sé lo que tengo.
 
 201
 00:22:16,240 --> 00:22:22,395

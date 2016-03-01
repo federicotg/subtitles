@@ -246,7 +246,7 @@ Conjuros. ¿Te refieres a la hechicería?
 
 57
 00:05:56,680 --> 00:06:00,116
-Eso me parece. Ya se lo que dirás.
+Eso me parece. Ya sé lo que dirás.
 
 58
 00:06:00,280 --> 00:06:04,034

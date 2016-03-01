@@ -685,7 +685,7 @@ cerrar el círculo para encontrar la verdad.
 
 151
 00:12:00,640 --> 00:12:02,995
-No se lo que eso significa.
+No sé lo que eso significa.
 
 152
 00:12:03,560 --> 00:12:05,994

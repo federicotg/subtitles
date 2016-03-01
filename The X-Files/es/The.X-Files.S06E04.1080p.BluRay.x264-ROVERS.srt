@@ -1656,7 +1656,7 @@ al pie de la letra.
 
 365
 00:42:55,120 --> 00:43:00,558
-- No se lo que le dijo Mulder...
+- No sé lo que le dijo Mulder...
 - Seguirá mis instrucciones.
 
 366
