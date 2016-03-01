@@ -213,7 +213,7 @@ Si quiere tomar asiento...
 48
 00:06:11,121 --> 00:06:15,706
 ¿Puede decirle que estoy aquí
-y que necesito hablarle...ahora?
+y que necesito hablarle... ahora?
 
 49
 00:06:16,710 --> 00:06:18,621

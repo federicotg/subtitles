@@ -482,7 +482,7 @@ WARRENTON, VIRGINIA 5:43 PM
 
 110
 00:13:34,522 --> 00:13:38,265
-- Usted no ha dormido...yo sí.
+- Usted no ha dormido... yo sí.
 - Estoy bien.
 
 111
