@@ -548,7 +548,7 @@ Soy amigo de Leyla Harrison.
 
 121
 00:14:26,440 --> 00:14:31,116
-- ¿Sabes que hora es?
+- ¿Sabes qué hora es?
 - Simplemente hago lo que me dicen.
 
 122

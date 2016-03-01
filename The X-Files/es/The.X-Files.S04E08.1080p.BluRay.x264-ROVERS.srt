@@ -74,7 +74,7 @@ No estamos aquí para eso.
 
 17
 00:01:05,720 --> 00:01:08,075
-¿Y para que estamos aquí, señor?
+¿Y para qué estamos aquí, señor?
 
 18
 00:01:08,160 --> 00:01:12,392
@@ -1100,7 +1100,7 @@ No debe demorar mucho.
 247
 00:23:04,480 --> 00:23:06,789
 - No, yo no estaba en casa.
-- ¿Y en que piso vive?
+- ¿Y en qué piso vive?
 
 248
 00:23:06,880 --> 00:23:11,237

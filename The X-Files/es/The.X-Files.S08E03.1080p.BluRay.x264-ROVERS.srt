@@ -699,7 +699,7 @@ a darle la razón, detective.
 
 155
 00:17:30,600 --> 00:17:35,390
-- ¿Saben que es esa cosa?
+- ¿Saben qué es esa cosa?
 - Quiero mostrarle un artículo.
 
 156
@@ -1244,7 +1244,7 @@ una extraña bestia hace más de 40 años.
 
 273
 00:29:54,560 --> 00:29:56,994
-¿Pero que tiene que ocultar?
+¿Pero qué tiene que ocultar?
 
 274
 00:29:57,080 --> 00:30:02,074

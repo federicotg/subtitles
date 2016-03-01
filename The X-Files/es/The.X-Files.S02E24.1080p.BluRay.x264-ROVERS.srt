@@ -1582,7 +1582,7 @@ El Sr. Chaco no puede recibirlo ahora.
 
 350
 00:35:37,680 --> 00:35:39,875
-- ¿Sabe que hay aquí?
+- ¿Sabe qué hay aquí?
 - No.
 
 351

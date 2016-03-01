@@ -963,7 +963,7 @@ de vampiro o ataques al estilo de vampiros.
 
 214
 00:19:33,680 --> 00:19:35,875
-¿Y en que te basas?
+¿Y en qué te basas?
 
 215
 00:19:37,120 --> 00:19:42,274
@@ -1060,7 +1060,7 @@ Soy Lucius Hartwell.
 
 236
 00:21:07,280 --> 00:21:10,352
-¿Y de que manera eso es importante?
+¿Y de qué manera eso es importante?
 
 237
 00:21:10,440 --> 00:21:13,398

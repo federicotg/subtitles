@@ -737,7 +737,7 @@ Gracias. Ahora mismo vuelvo.
 
 167
 00:12:53,400 --> 00:12:55,391
-¿Usted que piensa?
+¿Usted qué piensa?
 
 168
 00:12:57,120 --> 00:13:00,317
@@ -1751,7 +1751,7 @@ que Michelle es Charlie Morris.
 
 390
 00:30:05,080 --> 00:30:09,915
-¿hasta que punto tiene que ser
+¿hasta qué punto tiene que ser
 obvio para que tú lo aceptes?
 
 391

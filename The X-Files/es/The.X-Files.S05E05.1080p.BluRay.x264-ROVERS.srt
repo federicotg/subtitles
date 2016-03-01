@@ -214,7 +214,7 @@ Me dio sueño y dormí tres días".
 
 48
 00:05:09,520 --> 00:05:11,636
-"¿Adivine que pasó cuando desperté?".
+"¿Adivine qué pasó cuando desperté?".
 
 49
 00:05:11,720 --> 00:05:13,790

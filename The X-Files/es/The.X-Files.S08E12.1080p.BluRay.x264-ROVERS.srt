@@ -296,7 +296,7 @@ Ahora pongámonos en marcha.
 
 64
 00:07:05,920 --> 00:07:08,070
-No se a que estamos jugando,
+No sé a qué estamos jugando,
 
 65
 00:07:08,160 --> 00:07:13,632
@@ -1006,7 +1006,7 @@ Sáquenmelo.
 222
 00:20:42,320 --> 00:20:45,949
 - ¿Doggett?
-- No se decirte que es.
+- No sé decirte qué es.
 
 223
 00:20:48,400 --> 00:20:50,914
@@ -1132,7 +1132,7 @@ El CDC ya sabe de las circunstancias.
 
 250
 00:22:46,920 --> 00:22:49,115
-¿Contra que nos van a tratar?
+¿Contra qué nos van a tratar?
 
 251
 00:22:49,200 --> 00:22:53,193

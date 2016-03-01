@@ -36,7 +36,7 @@ Ya es la cuarta vez en un mes.
 
 9
 00:03:04,960 --> 00:03:10,592
-- ¿Quién o que cree que fue responsable?
+- ¿Quién o qué cree que fue responsable?
 - La vaca estaba hecha trizas.
 
 10

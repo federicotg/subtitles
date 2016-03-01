@@ -545,7 +545,7 @@ en los Archivos X, el error es de juicio.
 
 118
 00:12:35,800 --> 00:12:39,395
-No se con que influencias obtuvo
+No sé con qué influencias obtuvo
 el empleo. Yo le he dedicado mi vida.
 
 119
@@ -760,7 +760,7 @@ No tengo miedo.
 165
 00:17:18,520 --> 00:17:22,069
 Piensa que puedo destruirlo
-por lo que se y lo que soy.
+por lo que sé y lo que soy.
 
 166
 00:17:22,200 --> 00:17:24,998
@@ -1149,7 +1149,7 @@ Tal como lo hablamos.
 
 250
 00:25:51,800 --> 00:25:57,477
-No. ¿Pero que tal si él puede
+No. ¿Pero qué tal si él puede
 corroborar todo lo que alegas?
 
 251
@@ -1385,7 +1385,7 @@ Hay rastros del virus en su sistema.
 
 300
 00:32:44,040 --> 00:32:45,109
-¿Eso que significa?
+¿Eso qué significa?
 
 301
 00:32:45,200 --> 00:32:48,237

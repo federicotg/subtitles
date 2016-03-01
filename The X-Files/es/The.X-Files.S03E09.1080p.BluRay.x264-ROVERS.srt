@@ -360,7 +360,7 @@ y lo averiguas por la mañana?
 
 79
 00:12:49,080 --> 00:12:51,913
-- ¿Y tú que harás?
+- ¿Y tú qué harás?
 - Vuelvo a DC, como un chico bueno.
 
 80
@@ -1310,7 +1310,7 @@ WASHINGTON, DC
 279
 00:34:46,040 --> 00:34:48,759
 - Sorprendente.
-- ¿Sabe que es esto?
+- ¿Sabe qué es esto?
 
 280
 00:34:48,840 --> 00:34:51,877

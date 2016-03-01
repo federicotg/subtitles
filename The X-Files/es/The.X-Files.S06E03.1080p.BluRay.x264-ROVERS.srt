@@ -1136,7 +1136,7 @@ Preguntan sobre una palabra en código.
 247
 00:26:10,640 --> 00:26:14,679
 El Martillo de Tor.
-¿Sabe que significa?
+¿Sabe qué significa?
 
 248
 00:26:14,840 --> 00:26:17,877

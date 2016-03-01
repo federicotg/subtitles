@@ -791,7 +791,7 @@ Como una llamarada.
 
 175
 00:17:08,760 --> 00:17:12,435
-- ¿Sabe que pudo haber sido?
+- ¿Sabe qué pudo haber sido?
 - Pérdida de energía eléctrica.
 
 176
@@ -1036,7 +1036,7 @@ Scully.
 
 231
 00:22:06,600 --> 00:22:09,114
-¿Mulder, que te pasó?
+¿Mulder, qué te pasó?
 
 232
 00:22:19,920 --> 00:22:23,151

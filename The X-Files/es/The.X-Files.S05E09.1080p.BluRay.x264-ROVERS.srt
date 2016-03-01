@@ -456,7 +456,7 @@ lo maltrataba con frecuencia.
 
 102
 00:09:48,000 --> 00:09:50,275
-¿Tú que opinas?
+¿Tú qué opinas?
 
 103
 00:09:52,320 --> 00:09:55,153
@@ -1472,7 +1472,7 @@ las preguntas acertadas.
 
 322
 00:34:17,760 --> 00:34:20,638
-- No se a que te refieres.
+- No sé a qué te refieres.
 - Sí que sabes.
 
 323

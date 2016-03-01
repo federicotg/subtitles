@@ -38,7 +38,7 @@ Tres quince.
 10
 00:01:15,000 --> 00:01:18,549
 - ¿Cómo está la contrapresión?
-- ¿Tú que crees? Subiendo.
+- ¿Tú qué crees? Subiendo.
 
 11
 00:01:18,680 --> 00:01:20,875
