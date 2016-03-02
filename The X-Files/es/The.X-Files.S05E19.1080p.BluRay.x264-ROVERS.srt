@@ -40,7 +40,7 @@ De veras que no me interesa.
 
 10
 00:00:44,600 --> 00:00:47,273
-Hecho en los EE UU
+Hecho en los EE.UU.
 con polímeros de la era espacial,
 
 11
@@ -127,7 +127,7 @@ pintura ni mantenimiento.
 
 29
 00:02:10,320 --> 00:02:13,118
-Fabricado en los EE UU con...
+Fabricado en los EE.UU. con...
 
 30
 00:02:14,720 --> 00:02:16,836
@@ -607,7 +607,7 @@ que los afectados no sangrarían.
 134
 00:10:55,000 --> 00:10:57,514
 Se suicidó una semana
-despues en su celda.
+después en su celda.
 
 135
 00:10:57,640 --> 00:11:02,714
