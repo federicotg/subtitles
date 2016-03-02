@@ -46,7 +46,7 @@ Aquí tenemos al tonto.
 
 11
 00:00:56,200 --> 00:00:58,794
-Le diojusto...
+Le dio justo...
 
 12
 00:01:02,320 --> 00:01:06,711
@@ -519,7 +519,7 @@ Tú, bicho raro.
 
 113
 00:11:10,720 --> 00:11:12,233
-¿Tambien quieres un
+¿También quieres un
 video conmemorativo?
 
 114
@@ -1144,7 +1144,7 @@ Qué más da.
 252
 00:25:57,400 --> 00:26:00,278
 - ¿Cómo está?
-- lleso, según parece.
+- Ileso, según parece.
 
 253
 00:26:00,400 --> 00:26:03,278
