@@ -177,7 +177,7 @@ Pero aquí no estarías a salvo todavía.
 41
 00:05:26,000 --> 00:05:29,549
 La madre hace un momento
-estaba acá. ¿Adónde fue?
+estaba acá. ¿Dónde fue?
 
 42
 00:05:29,720 --> 00:05:32,075
@@ -397,7 +397,7 @@ Quizá vuelva.
 
 90
 00:10:35,800 --> 00:10:38,394
-¿Tiene adónde ir?
+¿Tiene dónde ir?
 
 91
 00:10:44,160 --> 00:10:48,551
@@ -451,7 +451,7 @@ O, peor, perjudicaríamos más a Mulder.
 
 102
 00:12:17,160 --> 00:12:19,469
-¿Adónde vas?
+¿Dónde vas?
 
 103
 00:12:19,600 --> 00:12:22,558
@@ -892,7 +892,7 @@ Y a Mulder.
 
 200
 00:24:16,880 --> 00:24:20,668
-- ¿Adónde me dirijo?
+- ¿Dónde me dirijo?
 - Doble a la derecha, ahora.
 
 201

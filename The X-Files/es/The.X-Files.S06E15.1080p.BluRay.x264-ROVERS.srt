@@ -1492,7 +1492,7 @@ de excavación? Hay que ir más profundo.
 
 330
 00:36:59,640 --> 00:37:03,235
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A pedir unos muebles de mimbre.
 
 331

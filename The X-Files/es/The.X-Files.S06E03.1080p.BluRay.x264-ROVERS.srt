@@ -107,7 +107,7 @@ Lo siento. Jamás lo oí nombrar.
 24
 00:03:29,560 --> 00:03:33,633
 - ¿Por qué no te callas, Jerry?
-- ¿Adónde me llevan?
+- ¿Dónde me llevan?
 
 25
 00:03:33,720 --> 00:03:37,952
@@ -487,7 +487,7 @@ No entiendo lo que me pregunta.
 
 108
 00:14:29,120 --> 00:14:31,759
-¿Skinner? ¿Adónde me llevan?
+¿Skinner? ¿Dónde me llevan?
 
 109
 00:14:31,880 --> 00:14:33,916
@@ -510,7 +510,7 @@ WASHINGTON, DC
 
 113
 00:14:45,960 --> 00:14:48,269
-Bien, ¿adónde vamos?
+Bien, ¿dónde vamos?
 
 114
 00:14:48,400 --> 00:14:52,313
@@ -598,7 +598,7 @@ a Mulder para ayudarlo a navegar.
 131
 00:15:48,440 --> 00:15:50,032
 - Estaba apurado.
-- ¿Adónde iba?
+- ¿Dónde iba?
 
 132
 00:15:50,160 --> 00:15:53,709
@@ -1264,7 +1264,7 @@ a Inglaterra. Jamás llegará.
 
 274
 00:28:13,720 --> 00:28:17,713
-- Sólo hay un sitio adonde irá.
+- Sólo hay un sitio donde irá.
 - Jamaica.
 
 275

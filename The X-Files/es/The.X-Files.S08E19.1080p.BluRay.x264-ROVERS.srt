@@ -828,7 +828,7 @@ Cambiamos la estrategia de la búsqueda.
 
 188
 00:26:28,480 --> 00:26:30,948
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A dar un paseo por el bosque.
 
 189

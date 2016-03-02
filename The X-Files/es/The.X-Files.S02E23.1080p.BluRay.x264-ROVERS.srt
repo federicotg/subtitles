@@ -508,7 +508,7 @@ Por favor. Les prevengo.
 112
 00:11:47,320 --> 00:11:52,474
 - Soy un hombre peligroso.
-- Muévase, adonde lo podamos ver.
+- Muévase, donde lo podamos ver.
 
 113
 00:11:57,360 --> 00:12:01,672
@@ -1344,7 +1344,7 @@ haya sido trasladado.
 
 298
 00:27:01,720 --> 00:27:03,711
-¿Trasladado? ¿Adónde?
+¿Trasladado? ¿Dónde?
 
 299
 00:27:04,200 --> 00:27:06,634
@@ -1479,7 +1479,7 @@ Sí.
 
 327
 00:29:40,080 --> 00:29:43,595
-- ¿Adónde lo llevaron?
+- ¿Dónde lo llevaron?
 - Hospital Psiquiátrico Yaloff.
 
 328
@@ -1631,7 +1631,7 @@ Quizás era una cita a la que
 
 360
 00:33:41,600 --> 00:33:46,833
-- Espera. ¿Adónde vamos?
+- Espera. ¿Dónde vamos?
 - Oíste lo que dijo anoche el Dr. Banton.
 
 361
@@ -1664,7 +1664,7 @@ trató de llevárselo anoche.
 
 367
 00:34:08,120 --> 00:34:13,478
-Irá adonde cree que puede
+Irá donde cree que puede
 hacerlo. Debemos llegar antes.
 
 368
@@ -1999,7 +1999,7 @@ el acelerador de partículas?
 
 442
 00:42:38,680 --> 00:42:42,309
-¿Si Banton no ha muerto, adónde está?
+¿Si Banton no ha muerto, dónde está?
 
 443
 00:43:09,240 --> 00:43:12,073

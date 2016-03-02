@@ -286,7 +286,7 @@ la parada anterior a lo que sigue.
 
 68
 00:10:08,240 --> 00:10:12,119
-- ¿Adónde va?
+- ¿Dónde va?
 - A buscar la salida.
 
 69
@@ -482,7 +482,7 @@ de que usted y yo estamos vivos.
 
 112
 00:16:17,120 --> 00:16:20,032
-- No tengo ni la menor idea de adónde fue.
+- No tengo ni la menor idea de dónde fue.
 - Espere.
 
 113
@@ -1333,7 +1333,7 @@ Audrey.
 
 311
 00:42:35,960 --> 00:42:38,474
-¿Adónde va, doctor?
+¿Dónde va, doctor?
 
 312
 00:42:46,560 --> 00:42:50,997

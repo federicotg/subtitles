@@ -635,7 +635,7 @@ y mucha ventaja.
 
 142
 00:17:31,560 --> 00:17:36,475
-- ¿Adónde se dirigieron?
+- ¿Dónde se dirigieron?
 - 23 calles y carreteras posibles.
 
 143

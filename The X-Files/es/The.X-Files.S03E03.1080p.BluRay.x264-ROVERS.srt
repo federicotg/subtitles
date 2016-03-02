@@ -1315,7 +1315,7 @@ Está bien, hombre. Ahí va.
 
 291
 00:24:39,520 --> 00:24:43,877
-¿Adónde vas? ¿Qué haces?
+¿Dónde vas? ¿Qué haces?
 Vámonos de aquí.
 
 292
@@ -2022,11 +2022,11 @@ se podía ver a través?
 
 446
 00:38:45,120 --> 00:38:47,953
-¿Adónde vamos?
+¿Dónde vamos?
 
 447
 00:38:49,280 --> 00:38:53,876
-- ¿Adónde me llevas?
+- ¿Dónde me llevas?
 - No sé. Adonde usted quiera.
 
 448

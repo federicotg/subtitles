@@ -792,7 +792,7 @@ y ahora no quieres salir de la casa.
 
 172
 00:16:07,920 --> 00:16:10,115
-¿Adónde podemos ir?
+¿Dónde podemos ir?
 
 173
 00:16:10,880 --> 00:16:13,678
@@ -1784,7 +1784,7 @@ Vamos.
 390
 00:39:59,280 --> 00:40:02,078
 ¿A qué se refieren?
-¿Adónde se lo llevan?
+¿Dónde se lo llevan?
 
 391
 00:40:02,200 --> 00:40:07,479

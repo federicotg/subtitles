@@ -662,7 +662,7 @@ Lleva mucho tiempo al volante,
 142
 00:18:13,200 --> 00:18:15,953
 Puede hacerlo,
-si me dice adónde vamos.
+si me dice dónde vamos.
 
 143
 00:18:17,800 --> 00:18:22,396
@@ -739,7 +739,7 @@ que soy capaz de algo más.
 158
 00:19:31,520 --> 00:19:33,909
 - Gire a la izquierda aquí.
-- ¿Adónde vamos?
+- ¿Dónde vamos?
 
 159
 00:19:34,480 --> 00:19:37,153

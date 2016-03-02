@@ -379,7 +379,7 @@ parecer extraño que usted...
 
 84
 00:09:45,960 --> 00:09:47,996
-¿Adónde quiere llegar con eso?
+¿Dónde quiere llegar con eso?
 
 85
 00:09:49,760 --> 00:09:52,593
@@ -1350,7 +1350,7 @@ FOTOS BILTON
 
 297
 00:34:32,440 --> 00:34:34,749
-Díganos adónde llevó Wade a Amy.
+Díganos dónde llevó Wade a Amy.
 
 298
 00:34:34,840 --> 00:34:36,637

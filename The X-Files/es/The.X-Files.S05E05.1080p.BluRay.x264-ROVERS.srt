@@ -35,7 +35,7 @@ convención de tiras cómicas.
 
 9
 00:00:45,320 --> 00:00:47,550
-Tengo 18 años. Puedo ir adonde quiera.
+Tengo 18 años. Puedo ir donde quiera.
 
 10
 00:00:47,640 --> 00:00:50,108
@@ -604,7 +604,7 @@ Es el Gran Mutante.
 
 132
 00:11:33,520 --> 00:11:36,956
-- ¿Adónde fue?
+- ¿Dónde fue?
 - No lo sé. Lo perdí.
 
 133
@@ -1080,7 +1080,7 @@ Es él, el Gran Mutante.
 
 237
 00:20:58,200 --> 00:21:00,760
-- ¿Adónde vamos?
+- ¿Dónde vamos?
 - Enviaremos esto al FBI.
 
 238

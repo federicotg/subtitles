@@ -696,7 +696,7 @@ Podría estar.
 
 153
 00:16:30,240 --> 00:16:33,277
-Sucede que no tengo casa adonde ir.
+Sucede que no tengo casa donde ir.
 
 154
 00:16:34,600 --> 00:16:36,670
@@ -758,8 +758,8 @@ perpetrador con ayuda del Sr. Saperstein.
 
 167
 00:18:18,680 --> 00:18:21,672
-- ¿La limitaste adónde?
-- Adonde es necesario.
+- ¿La limitaste dónde?
+- Donde es necesario.
 
 168
 00:18:23,920 --> 00:18:28,630
@@ -1286,7 +1286,7 @@ pero no lo encuentro.
 282
 00:29:49,400 --> 00:29:52,312
 - Se fue.
-- ¿No sabe adónde se fue?
+- ¿No sabe dónde se fue?
 
 283
 00:29:52,400 --> 00:29:53,958

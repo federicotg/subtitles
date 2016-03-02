@@ -313,7 +313,7 @@ Al lugar donde lo llevan los extraterrestres.
 
 70
 00:07:38,291 --> 00:07:42,204
-No puede recordar bien adónde es,
+No puede recordar bien dónde es,
 así que paró en una agencia de viajes.
 
 71
@@ -523,7 +523,7 @@ Sí, claro.
 114
 00:10:52,902 --> 00:10:58,067
 Para que me regresen al manicomio...
-adónde pertenezco.
+dónde pertenezco.
 
 115
 00:10:58,741 --> 00:11:03,735
@@ -1202,7 +1202,7 @@ Siempre es igual. Nadie puede ayudarlo.
 
 260
 00:22:29,306 --> 00:22:31,843
-¿Adónde lo llevan, Duane?
+¿Dónde lo llevan, Duane?
 
 261
 00:22:31,934 --> 00:22:35,927
@@ -1592,7 +1592,7 @@ Donde vinieron a buscarme.
 
 347
 00:30:50,182 --> 00:30:52,264
-¿Adónde es?
+¿Dónde es?
 
 348
 00:30:55,729 --> 00:30:58,266
@@ -1759,7 +1759,7 @@ Se acercan.
 385
 00:33:47,817 --> 00:33:51,275
 - No lo sé.
-- ¿Sabe adónde quiere ir?
+- ¿Sabe dónde quiere ir?
 
 386
 00:33:54,533 --> 00:33:56,319
@@ -1768,7 +1768,7 @@ Ellos me lo dirán.
 387
 00:33:56,451 --> 00:34:00,285
 Duane, no puede salir de aquí
-si no sabe adónde quiere ir.
+si no sabe dónde quiere ir.
 
 388
 00:34:01,373 --> 00:34:02,362

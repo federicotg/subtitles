@@ -758,7 +758,7 @@ Eladio Buente no está entre ellos
 
 166
 00:17:06,360 --> 00:17:08,555
-¿Nadie sabe adónde huyó?
+¿Nadie sabe dónde huyó?
 
 167
 00:17:08,640 --> 00:17:11,029
@@ -872,7 +872,7 @@ Eh, fuera del camión. Tengo que hacer.
 
 191
 00:20:26,640 --> 00:20:29,029
-¡Eh! ¿Adónde van?
+¡Eh! ¿Dónde van?
 
 192
 00:20:33,400 --> 00:20:35,038
@@ -1500,7 +1500,7 @@ mató a María Dorantes, no irá a México.
 
 327
 00:37:54,240 --> 00:37:57,994
-- Entonces, ¿adónde va?
+- Entonces, ¿dónde va?
 - A cualquier lugar como Lozano y Soledad.
 
 328

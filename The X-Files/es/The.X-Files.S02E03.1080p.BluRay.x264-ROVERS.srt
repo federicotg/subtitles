@@ -1644,7 +1644,7 @@ Sé a qué le tiene miedo.
 
 366
 00:35:33,673 --> 00:35:35,880
-Y sé adónde se dirige.
+Y sé dónde se dirige.
 
 367
 00:35:35,967 --> 00:35:38,709
@@ -1727,7 +1727,7 @@ Apenas subió se volvió histérico.
 
 385
 00:37:39,340 --> 00:37:42,628
-- ¿Adónde se bajó?
+- ¿Dónde se bajó?
 - Cerca de la universidad.
 
 386

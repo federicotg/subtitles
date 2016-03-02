@@ -699,7 +699,7 @@ Está bien. Vigila a la AAL.
 
 149
 00:12:56,480 --> 00:12:58,755
-¿Y adónde vas tú?
+¿Y dónde vas tú?
 
 150
 00:12:58,880 --> 00:13:00,950
@@ -1300,7 +1300,7 @@ No si lo hicieron en otro lugar.
 
 280
 00:26:26,920 --> 00:26:30,515
-- ¿Adónde?
+- ¿Dónde?
 - ¿Sustracción extra terrestre?
 
 281
@@ -1581,7 +1581,7 @@ No.
 341
 00:31:29,480 --> 00:31:33,473
 - ¿Quieres ver algo interesante?
-- ¿Adónde lo conseguiste?
+- ¿Dónde lo conseguiste?
 
 342
 00:31:33,840 --> 00:31:38,516
@@ -1831,7 +1831,7 @@ No tenía a quien recurrir.
 
 396
 00:38:09,480 --> 00:38:11,516
-¿Adónde está, Willa?
+¿Dónde está, Willa?
 
 397
 00:38:12,400 --> 00:38:14,868

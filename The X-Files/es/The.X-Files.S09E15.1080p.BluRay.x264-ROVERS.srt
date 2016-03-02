@@ -1628,7 +1628,7 @@ a 50 km al sur de Newark.
 
 356
 00:32:40,280 --> 00:32:42,475
-Creo saber adónde se dirige.
+Creo saber dónde se dirige.
 
 357
 00:33:10,560 --> 00:33:14,951
@@ -1890,7 +1890,7 @@ Lo siento.
 
 412
 00:37:13,640 --> 00:37:14,629
-¿Adónde fue?
+¿Dónde fue?
 
 413
 00:37:14,720 --> 00:37:17,314

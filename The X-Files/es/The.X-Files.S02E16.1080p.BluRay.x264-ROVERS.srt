@@ -1367,7 +1367,7 @@ Verificala.
 
 300
 00:28:22,040 --> 00:28:24,952
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A casa.
 
 301

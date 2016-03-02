@@ -1258,7 +1258,7 @@ Quédate aquí. Esto puede ser interesante.
 
 284
 00:28:55,400 --> 00:28:58,756
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A ver al hombre sobre el libro quemado.
 
 285
@@ -1815,7 +1815,7 @@ Espera, tengo una navaja.
 
 412
 00:40:15,120 --> 00:40:17,953
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A encontrar a Ariel.
 
 413

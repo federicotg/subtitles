@@ -1248,7 +1248,7 @@ No. Se fueron. Para siempre.
 
 272
 00:23:50,480 --> 00:23:52,948
-- ¿Adónde fueron?
+- ¿Dónde fueron?
 - A West Virginia.
 
 273
@@ -1550,7 +1550,7 @@ Lo conozco. Lo puedo ayudar.
 339
 00:30:16,840 --> 00:30:20,674
 - No puede ayudarme.
-- Sé adónde se la llevan.
+- Sé dónde se la llevan.
 
 340
 00:30:24,520 --> 00:30:26,909
@@ -1602,7 +1602,7 @@ Te llevaré con Cassandra.
 350
 00:32:14,160 --> 00:32:18,631
 - Cassandra se fue.
-- Lo sé, y yo sé adónde.
+- Lo sé, y yo sé dónde.
 
 351
 00:32:18,720 --> 00:32:23,032
@@ -1611,7 +1611,7 @@ Te llevaré con Cassandra.
 
 352
 00:32:25,480 --> 00:32:28,517
-- ¿Adónde?
+- ¿Dónde?
 - A la estación de Potomac.
 
 353
@@ -1830,7 +1830,7 @@ Y pasarán.
 
 401
 00:41:22,120 --> 00:41:24,873
-- ¿Adónde va?
+- ¿Dónde va?
 - A recoger mis cosas.
 
 402

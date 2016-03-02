@@ -9,7 +9,7 @@ por la izquierda! ¡Ahora!
 
 3
 00:00:21,880 --> 00:00:25,714
-- ¡Espera! ¿Adónde vas con él?
+- ¡Espera! ¿Dónde vas con él?
 - Está muerto.
 
 4
@@ -1349,7 +1349,7 @@ Disculpe.
 
 301
 00:20:55,000 --> 00:20:57,116
-- ¿Adónde se fue?
+- ¿Dónde se fue?
 - ¿Quién?
 
 302

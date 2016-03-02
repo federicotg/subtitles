@@ -306,7 +306,7 @@ También trabajo en el proyecto.
 69
 00:07:34,360 --> 00:07:38,239
 - ¿Está seguro de que fue un accidente?
-- ¿Adónde quiere llegar?
+- ¿Dónde quiere llegar?
 
 70
 00:07:39,360 --> 00:07:43,478
@@ -1958,7 +1958,7 @@ el trabajo de su hermano.
 
 448
 00:43:08,120 --> 00:43:10,190
-¿Adónde vas?
+¿Dónde vas?
 
 449
 00:43:13,560 --> 00:43:15,630

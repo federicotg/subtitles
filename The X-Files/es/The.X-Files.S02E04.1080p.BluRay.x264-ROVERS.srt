@@ -535,7 +535,7 @@ Llegaré en dos horas.
 
 118
 00:11:03,329 --> 00:11:05,411
-¿Adónde vamos?
+¿Dónde vamos?
 
 119
 00:11:08,418 --> 00:11:11,581
@@ -1343,7 +1343,7 @@ Ya voy, Krycek.
 
 297
 00:25:46,128 --> 00:25:49,370
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A ver a otro miembro del pelotón.
 
 298

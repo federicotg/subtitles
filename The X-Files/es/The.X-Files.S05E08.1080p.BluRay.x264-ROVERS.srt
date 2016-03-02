@@ -351,7 +351,7 @@ Tú eras su blanco principal.
 77
 00:08:00,120 --> 00:08:05,319
 - ¿Deberías dirigir la investigación?
-- Si no, ¿quién? ¿Adónde quieres llegar?
+- Si no, ¿quién? ¿Dónde quieres llegar?
 
 78
 00:08:05,400 --> 00:08:10,394
@@ -1601,7 +1601,7 @@ Se acabó.
 349
 00:35:16,000 --> 00:35:17,911
 - No, no se acabó.
-- ¿Adónde vas?
+- ¿Dónde vas?
 
 350
 00:35:18,000 --> 00:35:21,117

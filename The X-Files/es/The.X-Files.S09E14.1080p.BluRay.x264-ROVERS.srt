@@ -724,7 +724,7 @@ Sea lo que sea, ya no están.
 
 159
 00:18:08,680 --> 00:18:11,638
-No tengo idea de adónde fueron.
+No tengo idea de dónde fueron.
 
 160
 00:18:21,280 --> 00:18:24,033
@@ -1567,7 +1567,7 @@ Espere.
 
 345
 00:37:01,880 --> 00:37:04,997
-¿Adónde va?
+¿Dónde va?
 
 346
 00:37:05,160 --> 00:37:07,196

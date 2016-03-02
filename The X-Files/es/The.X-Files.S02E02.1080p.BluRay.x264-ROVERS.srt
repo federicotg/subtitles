@@ -98,7 +98,7 @@ Tiene que tomar un vuelo en 45 minutos.
 
 23
 00:04:02,159 --> 00:04:05,401
-- ¿Adónde voy?
+- ¿Dónde voy?
 - Asesinato. En Newark, Nueva Jersey.
 
 24

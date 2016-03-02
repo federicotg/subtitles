@@ -152,7 +152,7 @@ Te dije que te amo.
 33
 00:07:08,600 --> 00:07:11,239
 - Ya entendí.
-- ¿Adónde vas?
+- ¿Dónde vas?
 
 34
 00:07:11,360 --> 00:07:13,430
@@ -1240,7 +1240,7 @@ Quizá si fuera ficción.
 
 269
 00:31:09,480 --> 00:31:12,870
-- ¿Adónde vas?
+- ¿Dónde vas?
 - Buscaré al psíquico brasileño.
 
 270

@@ -1318,7 +1318,7 @@ tiene un hermano gemelo idéntico?
 292
 00:24:05,680 --> 00:24:08,717
 - Verifícalo.
-- ¿Adónde vas?
+- ¿Dónde vas?
 
 293
 00:24:08,840 --> 00:24:13,868
@@ -1557,7 +1557,7 @@ Acabo de estar aquí.
 346
 00:28:06,920 --> 00:28:11,118
 Había un tipo. Se veía igual a mí.
-¿Vio adónde fue?
+¿Vio dónde fue?
 
 347
 00:28:11,240 --> 00:28:13,310

@@ -1484,7 +1484,7 @@ que estaban aquí?
 328
 00:29:22,400 --> 00:29:24,630
 - Se han ido.
-- ¿Adónde fueron?
+- ¿Dónde fueron?
 
 329
 00:29:25,120 --> 00:29:28,795
@@ -1498,7 +1498,7 @@ que estaban aquí?
 
 331
 00:29:33,080 --> 00:29:34,513
-¿Adónde?
+¿Dónde?
 
 332
 00:29:34,600 --> 00:29:37,717
@@ -1526,7 +1526,7 @@ Agente Scully, ¿Qué hace aquí?
 337
 00:30:20,680 --> 00:30:24,593
 Quería asegurarme de que llegue a salvo
-al lugar adonde lo llevan.
+al lugar donde lo llevan.
 
 338
 00:30:49,480 --> 00:30:51,550

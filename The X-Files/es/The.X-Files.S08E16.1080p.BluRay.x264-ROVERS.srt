@@ -534,7 +534,7 @@ Bien. Al menos, se deja manejar.
 
 121
 00:12:37,760 --> 00:12:40,320
-- ¿Adónde vas?
+- ¿Dónde vas?
 - Me voy a vestir.
 
 122
@@ -931,7 +931,7 @@ el hombre que murió en la Casa Blanca.
 
 208
 00:21:25,320 --> 00:21:31,634
-- ¿Qué cosa? ¿Adónde iremos?
+- ¿Qué cosa? ¿Dónde iremos?
 - Concéntrese en no meter la pata.
 
 209
@@ -1059,7 +1059,7 @@ CRYSTAL CITY, VIRGINIA, 1:11 A.M.
 235
 00:25:14,520 --> 00:25:18,593
 Espero que entienda
-que no tengo ni idea de adónde voy.
+que no tengo ni idea de dónde voy.
 
 236
 00:25:18,680 --> 00:25:24,198
@@ -1573,11 +1573,11 @@ Yo también me pregunto lo mismo.
 346
 00:34:21,640 --> 00:34:27,158
 Por eso vine. No puedo ubicar a ninguno
-de los dos, y no sé adónde fueron.
+de los dos, y no sé dónde fueron.
 
 347
 00:34:30,160 --> 00:34:32,435
-- ¿Adónde vas?
+- ¿Dónde vas?
 - No puedo decírtelo.
 
 348

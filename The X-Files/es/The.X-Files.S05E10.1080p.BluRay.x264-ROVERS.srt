@@ -609,7 +609,7 @@ Sólo es una idea.
 131
 00:15:04,000 --> 00:15:07,754
 - ¿Por qué no sales del pueblo?
-- No tengo adonde ir.
+- No tengo donde ir.
 
 132
 00:15:07,840 --> 00:15:11,037
@@ -856,7 +856,7 @@ GUARDA FORESTAL DEL LAGO SCHOODIC
 183
 00:20:10,800 --> 00:20:13,997
 - Hola.
-- ¿Adónde va a esta hora de la noche?
+- ¿Dónde va a esta hora de la noche?
 
 184
 00:20:14,080 --> 00:20:18,358

@@ -557,7 +557,7 @@ Usan esta tira magnética para localizarnos.
 122
 00:11:19,560 --> 00:11:25,317
 El detector de metales del aeropuerto les dice
-exactamente cuánto y adónde lo llevas.
+exactamente cuánto y dónde lo llevas.
 
 123
 00:11:25,440 --> 00:11:29,877

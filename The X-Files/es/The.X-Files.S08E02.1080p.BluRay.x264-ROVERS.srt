@@ -367,7 +367,7 @@ No. Sigamos buscando.
 82
 00:09:26,160 --> 00:09:30,392
 Quiero saber cómo Doggett
-se enteró adónde íbamos.
+se enteró dónde íbamos.
 
 83
 00:09:30,480 --> 00:09:35,235
@@ -723,7 +723,7 @@ Está allí.
 
 162
 00:19:05,600 --> 00:19:08,751
-- ¿Adónde fue? ¿La vio?
+- ¿Dónde fue? ¿La vio?
 - No.
 
 163
@@ -765,7 +765,7 @@ Mulder.
 
 172
 00:22:13,480 --> 00:22:15,596
-¿Adónde vas?
+¿Dónde vas?
 
 173
 00:22:25,640 --> 00:22:28,108
@@ -1083,8 +1083,8 @@ al director adjunto Skinner?
 
 241
 00:33:37,080 --> 00:33:40,550
-¿Adónde va?
-Agente Scully, ¿adónde va?
+¿Dónde va?
+Agente Scully, ¿dónde va?
 
 242
 00:33:40,640 --> 00:33:42,517

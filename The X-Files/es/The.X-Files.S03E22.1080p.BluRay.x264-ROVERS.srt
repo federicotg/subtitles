@@ -1367,7 +1367,7 @@ Pensé que tenías ganas.
 
 295
 00:23:15,600 --> 00:23:17,600
-¿Adónde vas?
+¿Dónde vas?
 
 296
 00:23:19,100 --> 00:23:20,700
@@ -2319,7 +2319,7 @@ Está perdiendo sangre.
 
 496
 00:38:30,000 --> 00:38:32,700
-- ¿Adónde fue?
+- ¿Dónde fue?
 - No lo vi.
 
 497

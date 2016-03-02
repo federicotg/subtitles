@@ -651,7 +651,7 @@ Ahí. Debe de ser ése.
 144
 00:14:12,760 --> 00:14:16,469
 - ¿Qué ha pasado?
-- Sí, se ha ido. ¿Adónde?
+- Sí, se ha ido. ¿Dónde?
 
 145
 00:14:23,640 --> 00:14:26,632
@@ -674,7 +674,7 @@ la misma ropa.
 
 149
 00:14:37,280 --> 00:14:39,555
-¿Adónde vas?
+¿Dónde vas?
 
 150
 00:14:39,640 --> 00:14:42,029
@@ -1152,7 +1152,7 @@ No, claro que no. Ya voy.
 
 253
 00:29:22,680 --> 00:29:28,198
-- ¿Me puede decir adónde me llevan?
+- ¿Me puede decir dónde me llevan?
 - Ya tendremos tiempo para hablar de eso.
 
 254

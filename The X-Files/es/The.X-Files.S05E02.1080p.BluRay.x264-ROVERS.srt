@@ -57,7 +57,7 @@ Agente Mulder.
 
 13
 00:00:49,680 --> 00:00:51,318
-- ¿Adónde va?
+- ¿Dónde va?
 - A terapia intensiva.
 
 14

@@ -702,7 +702,7 @@ Los dos chicos corren por el largo corredor.
 155
 00:12:18,000 --> 00:12:21,515
 Pero todas las puertas están cerradas.
-No tienen adónde ir.
+No tienen dónde ir.
 
 156
 00:12:22,360 --> 00:12:25,318

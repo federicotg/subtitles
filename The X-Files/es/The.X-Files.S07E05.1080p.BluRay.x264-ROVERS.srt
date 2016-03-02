@@ -1273,7 +1273,7 @@ Max sufrió un colapso en el estacionamiento.
 288
 00:25:57,120 --> 00:26:01,193
 ¿Te enteraste de lo de Max? ¿Estás bien?
-¿Adónde vas?
+¿Dónde vas?
 
 289
 00:26:01,320 --> 00:26:05,154
@@ -1574,7 +1574,7 @@ Vayámonos de aquí, lejos.
 
 355
 00:34:05,960 --> 00:34:08,679
-- ¿Adónde?
+- ¿Dónde?
 - A buscar ayuda.
 
 356

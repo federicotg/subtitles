@@ -90,7 +90,7 @@ Bobby.
 
 21
 00:02:30,840 --> 00:02:34,071
-¿Adónde vas? Vuelve aquí, Bobby.
+¿Dónde vas? Vuelve aquí, Bobby.
 
 22
 00:02:34,160 --> 00:02:37,550
@@ -1088,7 +1088,7 @@ Vamos.
 
 239
 00:24:05,560 --> 00:24:09,155
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A mi habitación.
 
 240

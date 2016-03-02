@@ -1382,7 +1382,7 @@ y eso me hace creer que es una trampa.
 301
 00:34:57,520 --> 00:35:04,835
 Que Haskell inventó todo para que Scully
-fuera adondequiera que fue.
+fuera dondequiera que fue.
 
 302
 00:35:04,920 --> 00:35:08,469
@@ -1440,7 +1440,7 @@ Podría dar a luz en cualquier momento.
 314
 00:36:30,480 --> 00:36:34,314
 - Todos estos hombres son paramédicos.
-- ¿Adónde nos lleva?
+- ¿Dónde nos lleva?
 
 315
 00:36:34,400 --> 00:36:39,394

@@ -497,7 +497,7 @@ Chirp murió con una valija a su lado.
 
 110
 00:12:29,560 --> 00:12:33,519
-Alguien tiene que saber adónde se dirigía.
+Alguien tiene que saber dónde se dirigía.
 
 111
 00:12:38,280 --> 00:12:41,511
@@ -1380,7 +1380,7 @@ El demonio fue exorcizado.
 311
 00:36:46,440 --> 00:36:50,194
 - Quédate con ella.
-- ¿Adónde vas?
+- ¿Dónde vas?
 
 312
 00:36:50,280 --> 00:36:53,955

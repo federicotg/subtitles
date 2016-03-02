@@ -1554,7 +1554,7 @@ en cargar los programas.
 344
 00:33:43,280 --> 00:33:46,192
 Aún no estoy segura
-de adónde quieres llegar con esto.
+de dónde quieres llegar con esto.
 
 345
 00:33:46,280 --> 00:33:48,396
@@ -1797,7 +1797,7 @@ Deténlos hasta que te avise.
 
 399
 00:40:08,000 --> 00:40:10,719
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A buscar al Dr. Franklin.
 
 400

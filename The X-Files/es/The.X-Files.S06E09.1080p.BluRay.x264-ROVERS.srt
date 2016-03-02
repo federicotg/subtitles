@@ -944,7 +944,7 @@ por paramédicos en un estacionamiento.
 
 209
 00:24:08,040 --> 00:24:10,873
-- ¿Adónde se lo llevan?
+- ¿Dónde se lo llevan?
 - Al Hospital General.
 
 210

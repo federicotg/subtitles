@@ -1387,7 +1387,7 @@ Llegarán antes del anochecer.
 318
 00:33:15,000 --> 00:33:17,833
 - ¿Listos?
-- Aún no sabemos adónde vamos.
+- Aún no sabemos dónde vamos.
 
 319
 00:33:17,960 --> 00:33:20,758

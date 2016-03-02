@@ -288,7 +288,7 @@ tienes que acusarme a mí también.
 
 62
 00:07:11,080 --> 00:07:14,197
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A encontrar a mi hijo.
 
 63
@@ -664,7 +664,7 @@ Lo que significa que no te he dicho nada.
 
 144
 00:18:03,920 --> 00:18:06,354
-- ¿Adónde vas?
+- ¿Dónde vas?
 - Al hospital.
 
 145

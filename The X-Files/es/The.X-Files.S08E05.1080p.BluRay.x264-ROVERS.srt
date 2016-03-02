@@ -983,7 +983,7 @@ Dile que no se meta conmigo.
 218
 00:24:07,720 --> 00:24:11,076
 - Apártate de mí.
-- ¿Adónde vas, bicho raro?
+- ¿Dónde vas, bicho raro?
 
 219
 00:24:15,120 --> 00:24:19,318
@@ -1140,7 +1140,7 @@ Hola, estúpido.
 
 254
 00:28:41,320 --> 00:28:44,471
-¿Adónde vas con tanta prisa?
+¿Dónde vas con tanta prisa?
 
 255
 00:28:49,160 --> 00:28:53,153

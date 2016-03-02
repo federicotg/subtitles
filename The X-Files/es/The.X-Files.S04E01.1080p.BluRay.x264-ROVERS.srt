@@ -121,7 +121,7 @@ Por aquí.
 
 29
 00:10:54,560 --> 00:10:56,949
-¿Adónde están yendo?
+¿Dónde están yendo?
 
 30
 00:10:57,960 --> 00:11:00,110
@@ -271,7 +271,7 @@ plantando una información
 
 62
 00:13:44,280 --> 00:13:47,033
-Y ver adónde nos lleva esa información.
+Y ver dónde nos lleva esa información.
 
 63
 00:13:47,680 --> 00:13:49,193

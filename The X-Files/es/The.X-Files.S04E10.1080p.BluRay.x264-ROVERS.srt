@@ -733,7 +733,7 @@ Ayer dijo que me lo tomaba personalmente.
 
 165
 00:17:05,760 --> 00:17:08,274
-¿Sabe adónde quiero llegar?
+¿Sabe dónde quiero llegar?
 
 166
 00:17:09,880 --> 00:17:12,553
@@ -1392,7 +1392,7 @@ y puedo alcanzarlos.
 
 311
 00:30:35,400 --> 00:30:39,075
-- Yo lo alcanzaré. ¿Adónde fue?
+- Yo lo alcanzaré. ¿Dónde fue?
 - Martha's Vineyard.
 
 312
@@ -1452,7 +1452,7 @@ sus padres salieron e imagine...
 
 324
 00:31:48,240 --> 00:31:50,071
-¿Adónde fueron?
+¿Dónde fueron?
 
 325
 00:31:52,480 --> 00:31:55,711
@@ -1719,7 +1719,7 @@ pudo dirigirse?
 382
 00:36:22,040 --> 00:36:23,553
 - Sí.
-- ¿Adónde?
+- ¿Dónde?
 
 383
 00:36:23,640 --> 00:36:25,198
@@ -1824,7 +1824,7 @@ Estaba jugando conmigo.
 
 405
 00:37:47,400 --> 00:37:50,153
-¿Adónde crees que se llevó a esta niña?
+¿Dónde crees que se llevó a esta niña?
 
 406
 00:37:50,240 --> 00:37:52,470

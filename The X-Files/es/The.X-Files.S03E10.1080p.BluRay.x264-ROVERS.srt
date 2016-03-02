@@ -548,7 +548,7 @@ El personal médico se ha ido.
 
 123
 00:15:00,720 --> 00:15:03,280
-¿Adónde fueron?
+¿Dónde fueron?
 
 124
 00:15:03,360 --> 00:15:05,476

@@ -1372,7 +1372,7 @@ Tammi estaba apurada.
 306
 00:36:49,600 --> 00:36:54,116
 - ¿Crees que planeó su viaje?
-- Sí. ¿Pero adónde?
+- Sí. ¿Pero dónde?
 
 307
 00:36:59,120 --> 00:37:03,796
@@ -1558,7 +1558,7 @@ El FBI de Montana está en alerta.
 349
 00:42:54,080 --> 00:42:59,518
 La vigilaba todos los días
-y adondequiera que fuera.
+y dondequiera que fuera.
 
 350
 00:42:59,600 --> 00:43:04,469

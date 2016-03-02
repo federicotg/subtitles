@@ -1116,7 +1116,7 @@ Le pongo las cadenas.
 242
 00:21:54,240 --> 00:21:57,516
 - Para el otro lado.
-- ¿Adónde vamos?
+- ¿Dónde vamos?
 
 243
 00:21:57,600 --> 00:21:59,716
@@ -1223,7 +1223,7 @@ Tengo que irme ahora.
 
 266
 00:24:11,720 --> 00:24:14,359
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A trabajar.
 
 267

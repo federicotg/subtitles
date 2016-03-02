@@ -729,7 +729,7 @@ WASHINGTON
 
 159
 00:15:50,908 --> 00:15:53,240
-- ¿Adónde?
+- ¿Dónde?
 - En el pasillo de la oficina.
 
 160
@@ -999,7 +999,7 @@ Esto es mejor.
 
 219
 00:25:30,696 --> 00:25:32,982
-¿Adónde obtuvo esto?
+¿Dónde obtuvo esto?
 
 220
 00:25:33,073 --> 00:25:36,986
@@ -1080,7 +1080,7 @@ Es sólo una grabadora, Jorge.
 
 237
 00:27:33,527 --> 00:27:36,269
-¿Adónde vamos a ir?
+¿Dónde vamos a ir?
 Afuera hay una tormenta.
 
 238
@@ -1597,7 +1597,7 @@ Entre las piernas es casi encima tuyo.
 352
 00:43:41,869 --> 00:43:45,407
 Está bien. Está bien.
-Dime el mejor lugar. ¿Adónde es?
+Dime el mejor lugar. ¿Dónde es?
 
 353
 00:43:45,540 --> 00:43:48,907

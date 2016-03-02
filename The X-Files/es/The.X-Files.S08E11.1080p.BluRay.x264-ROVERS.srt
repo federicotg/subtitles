@@ -461,7 +461,7 @@ a alguien o a algo.
 100
 00:12:10,840 --> 00:12:13,957
 - Ya escuché suficiente.
-- ¿Adónde vas?
+- ¿Dónde vas?
 
 101
 00:12:14,080 --> 00:12:19,677
@@ -1080,7 +1080,7 @@ Pero no era a ella que trataba de proteger.
 
 234
 00:32:38,840 --> 00:32:41,559
-- ¿Adónde vas?
+- ¿Dónde vas?
 - Algo sucedió.
 
 235

@@ -1755,7 +1755,7 @@ de las familias de la lista, que empaquen.
 381
 00:38:40,777 --> 00:38:44,941
 - Reúna a todos los hombres que tenga.
-- ¿Adónde los llevamos?
+- ¿Dónde los llevamos?
 
 382
 00:38:46,032 --> 00:38:49,399
@@ -1898,7 +1898,7 @@ no proporcionan suficiente información
 412
 00:44:06,894 --> 00:44:08,759
 para determinar
-adónde estaban destinados.
+dónde estaban destinados.
 
 413
 00:44:08,896 --> 00:44:12,639

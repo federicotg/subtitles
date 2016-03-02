@@ -471,7 +471,7 @@ de colocar las tablas en las ventanas.
 
 103
 00:10:49,000 --> 00:10:52,629
-- ¿Adónde crees que lleva esto?
+- ¿Dónde crees que lleva esto?
 - Al baño.
 
 104
@@ -937,7 +937,7 @@ Al menos conduciendo, nos movemos.
 205
 00:20:45,680 --> 00:20:49,639
 No sabemos dónde estamos
-ni adónde vamos.
+ni dónde vamos.
 
 206
 00:20:50,280 --> 00:20:54,193
@@ -1493,7 +1493,7 @@ del techo sino de las cañerías.
 
 326
 00:31:29,440 --> 00:31:30,475
-¿Adónde fue?
+¿Dónde fue?
 
 327
 00:31:30,640 --> 00:31:34,269
@@ -1647,7 +1647,7 @@ No, el ayudante.
 
 359
 00:34:58,680 --> 00:34:59,999
-¿Adónde se fue?
+¿Dónde se fue?
 
 360
 00:35:00,160 --> 00:35:03,994

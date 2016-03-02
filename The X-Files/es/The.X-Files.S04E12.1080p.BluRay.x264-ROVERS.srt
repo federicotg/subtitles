@@ -1598,7 +1598,7 @@ de un pulgar, un pulmón o una cabeza.
 
 350
 00:35:41,360 --> 00:35:45,512
-No sé adónde quieres llegar.
+No sé dónde quieres llegar.
 ¿Regenerar un cuerpo entero?
 
 351
@@ -1718,7 +1718,7 @@ Betts se fue. Debe haber huido a pie.
 377
 00:38:33,280 --> 00:38:38,115
 Ella se recuperará, Mulder.
-Tal vez logremos saber adónde fue.
+Tal vez logremos saber dónde fue.
 
 378
 00:38:38,240 --> 00:38:43,109

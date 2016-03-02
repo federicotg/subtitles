@@ -250,7 +250,7 @@ y debo irme.
 
 54
 00:03:51,600 --> 00:03:55,957
-- ¿No tienes adónde ir?
+- ¿No tienes dónde ir?
 - Sólo voy a mirar.
 
 55
@@ -1606,7 +1606,7 @@ que está ese hombre?
 
 353
 00:32:36,880 --> 00:32:42,352
-No tiene adónde ir esta Navidad
+No tiene dónde ir esta Navidad
 ni con quién compartirla.
 
 354

@@ -910,7 +910,7 @@ esta ceniza no existe. Vamos.
 
 200
 00:19:08,440 --> 00:19:11,557
-- ¿Adónde vamos?
+- ¿Dónde vamos?
 - A buscar otra opinión.
 
 201

@@ -61,7 +61,7 @@ Dame el beso de la suerte.
 14
 00:01:10,720 --> 00:01:16,750
 Y un día será famoso por atreverse
-a ir adonde otros no se han atrevido.
+a ir donde otros no se han atrevido.
 
 15
 00:01:16,880 --> 00:01:22,113
@@ -787,12 +787,12 @@ Dylan, quiero hablarte.
 
 172
 00:18:46,880 --> 00:18:49,713
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A la escuela.
 
 173
 00:18:49,800 --> 00:18:52,712
-Sé adónde vas.
+Sé dónde vas.
 
 174
 00:18:52,800 --> 00:18:57,920
@@ -1600,7 +1600,7 @@ Por desgracia, él no está.
 
 354
 00:36:57,520 --> 00:37:01,115
-- ¿Adónde vas?
+- ¿Dónde vas?
 - El chico está causando desastres.
 
 355
@@ -1691,7 +1691,7 @@ Nuestra charla va a tener que esperar.
 
 373
 00:39:21,200 --> 00:39:25,716
-- ¿Adónde crees que vas?
+- ¿Dónde crees que vas?
 - Que vamos, Natalie y yo.
 
 374
@@ -1745,7 +1745,7 @@ Monica, aguanta. ¿Me oyes?
 385
 00:40:15,440 --> 00:40:18,079
 - Tiene a la chica.
-- ¿Adónde fueron?
+- ¿Dónde fueron?
 
 386
 00:40:18,200 --> 00:40:22,159

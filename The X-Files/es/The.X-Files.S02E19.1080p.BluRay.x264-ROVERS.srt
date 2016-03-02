@@ -218,7 +218,7 @@ Este permiso no es válido.
 
 49
 00:05:35,760 --> 00:05:38,274
-¿Adónde lo obtuvo?
+¿Dónde lo obtuvo?
 ¿Quién es usted?
 
 50
@@ -315,7 +315,7 @@ Pero ninguno llegó a Los Álamos.
 
 69
 00:07:10,360 --> 00:07:14,035
-- ¿Adónde los enviaron?
+- ¿Dónde los enviaron?
 - Roswell, Nuevo México.
 
 70
@@ -1174,8 +1174,8 @@ Trondheim, vigile a Olafsson.
 
 261
 00:24:35,080 --> 00:24:38,390
-- ¿Adónde va?
-- Mulder, ¿adónde vas?
+- ¿Dónde va?
+- Mulder, ¿dónde vas?
 
 262
 00:24:39,560 --> 00:24:42,791
@@ -1205,7 +1205,7 @@ No me interesa.
 
 268
 00:25:29,280 --> 00:25:31,669
-¿Adónde crees que
+¿Dónde crees que
 fueron los otros dos?
 
 269

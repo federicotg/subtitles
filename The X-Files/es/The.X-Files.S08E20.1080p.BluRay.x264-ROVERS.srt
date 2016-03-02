@@ -1204,7 +1204,7 @@ Vayamos para allá.
 
 263
 00:29:16,280 --> 00:29:21,798
-¿Para ir adónde? Espera.
+¿Para ir dónde? Espera.
 ¿Qué pasa? ¿Se trata de mi bebé?
 
 264
@@ -1441,7 +1441,7 @@ Hay un auto esperando.
 
 314
 00:36:27,960 --> 00:36:32,670
-- ¿Adónde vamos?
+- ¿Dónde vamos?
 - Te lo diré cuando lleguemos.
 
 315

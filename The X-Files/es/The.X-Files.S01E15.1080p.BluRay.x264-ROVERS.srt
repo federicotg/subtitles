@@ -441,7 +441,7 @@ del banco muestran que Dupre es zurdo.
 
 98
 00:10:45,360 --> 00:10:47,396
-No estoy segura de adónde quieres llegar.
+No estoy segura de dónde quieres llegar.
 
 99
 00:10:47,480 --> 00:10:50,233

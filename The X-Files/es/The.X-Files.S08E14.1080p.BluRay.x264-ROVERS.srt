@@ -540,7 +540,7 @@ Espera.
 120
 00:14:53,280 --> 00:14:58,832
 ¿Alguien le preguntó al médico
-por que o adónde?
+por que o dónde?
 
 121
 00:14:59,000 --> 00:15:01,070
@@ -794,7 +794,7 @@ a Teresa estaba en dos lugares a la vez.
 
 175
 00:19:19,120 --> 00:19:21,236
-Sé adónde quieres llegar.
+Sé dónde quieres llegar.
 
 176
 00:19:21,360 --> 00:19:24,318

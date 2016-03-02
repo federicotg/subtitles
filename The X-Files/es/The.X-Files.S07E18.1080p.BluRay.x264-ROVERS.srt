@@ -433,7 +433,7 @@ en la parrilla de su auto.
 
 97
 00:10:07,040 --> 00:10:09,998
-¿Adónde quiere llegar con esto, agente?
+¿Dónde quiere llegar con esto, agente?
 
 98
 00:10:10,080 --> 00:10:14,870
@@ -587,7 +587,7 @@ Tal vez no había nadie allí.
 
 131
 00:13:37,800 --> 00:13:40,633
-- ¿Adónde quieres llegar?
+- ¿Dónde quieres llegar?
 - Esto no es un homicidio.
 
 132
@@ -854,7 +854,7 @@ Bien. Llámala.
 
 191
 00:19:53,600 --> 00:19:58,799
-- ¿Adónde vas?
+- ¿Dónde vas?
 - A ver que bicho me picó.
 
 192

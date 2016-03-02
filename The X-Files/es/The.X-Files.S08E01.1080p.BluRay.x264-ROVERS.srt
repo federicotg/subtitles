@@ -725,7 +725,7 @@ Todos los viajes fueron de 595 km a 603 km.
 
 160
 00:24:08,280 --> 00:24:10,874
-¿Adónde iba?
+¿Dónde iba?
 
 161
 00:24:12,280 --> 00:24:14,748

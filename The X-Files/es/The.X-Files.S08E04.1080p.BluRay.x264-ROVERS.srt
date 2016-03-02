@@ -30,7 +30,7 @@ Tenga más cuidado.
 
 8
 00:02:41,800 --> 00:02:43,995
-¿Adónde van todos?
+¿Dónde van todos?
 
 9
 00:02:57,600 --> 00:02:59,955
@@ -220,7 +220,7 @@ Un autobús pasó hace poco.
 
 49
 00:09:06,240 --> 00:09:09,835
-¿Sabe adónde iba?
+¿Sabe dónde iba?
 
 50
 00:09:09,960 --> 00:09:11,951
@@ -228,7 +228,7 @@ Estaba en el fondo.
 
 51
 00:09:13,360 --> 00:09:18,832
-- ¿Adónde lleva la carretera?
+- ¿Dónde lleva la carretera?
 - A Salt Lake, si no tiene apuro.
 
 52
@@ -476,7 +476,7 @@ de que alguien no quiere que me vaya.
 
 105
 00:15:06,560 --> 00:15:08,551
-- ¿Adónde fue?
+- ¿Dónde fue?
 - ¿Un autobús?
 
 106
@@ -1051,7 +1051,7 @@ alguna forma de transporte.
 
 231
 00:29:50,880 --> 00:29:53,155
-¿Adónde se fue?
+¿Dónde se fue?
 
 232
 00:29:53,240 --> 00:29:55,037

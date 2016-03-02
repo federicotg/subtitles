@@ -1677,7 +1677,7 @@ Se le escapará con facilidad.
 
 369
 00:35:45,840 --> 00:35:49,549
-- ¿Adónde irá?
+- ¿Dónde irá?
 - En busca del hombre al que hirió.
 
 370
