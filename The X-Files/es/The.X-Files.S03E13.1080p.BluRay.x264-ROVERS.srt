@@ -139,7 +139,7 @@ ALGUACIL, CONDADO DE CARYL
 
 33
 00:03:09,440 --> 00:03:12,512
--¡Por aquí!
+- ¡Por aquí!
 - ¡Eh, encontró algo!
 
 34

@@ -1480,7 +1480,7 @@ Traigan el equipo de seguimiento.
 
 327
 00:28:15,440 --> 00:28:18,637
--¿Hola?
+- ¿Hola?
 - ¿Qué me dicen?
 
 328

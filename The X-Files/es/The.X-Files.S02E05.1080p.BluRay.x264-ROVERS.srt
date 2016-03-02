@@ -480,7 +480,7 @@ Habla el Agente Especial Mulder.
 105
 00:10:15,657 --> 00:10:18,524
 - Mire, quiero ayudarlo.
--¿Sí?
+- ¿Sí?
 
 106
 00:10:18,618 --> 00:10:24,079

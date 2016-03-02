@@ -550,7 +550,7 @@ SILVER SPRINGS, MARYLAND
 
 123
 00:14:25,920 --> 00:14:29,708
--¿Hola?
+- ¿Hola?
 - ¿Ya se enteró?
 
 124
@@ -1105,7 +1105,7 @@ para desarrollar una forma de combatirlos,
 245
 00:25:24,280 --> 00:25:26,510
 - de combatir el futuro.
--Alex, ¡basta!
+- Alex, ¡basta!
 
 246
 00:25:35,280 --> 00:25:38,033

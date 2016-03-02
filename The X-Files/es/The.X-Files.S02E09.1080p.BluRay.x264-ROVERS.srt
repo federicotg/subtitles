@@ -647,7 +647,7 @@ Sabía que yo no era Trepkos.
 
 142
 00:14:43,966 --> 00:14:48,460
--Ahora tú suenas paranoico, Mulder.
+- Ahora tú suenas paranoico, Mulder.
 - Pierce conoce a esta gente.
 
 143
@@ -706,7 +706,7 @@ No, está bien, podemos.
 
 155
 00:16:12,388 --> 00:16:14,845
--Aún no podemos irnos, Scully.
+- Aún no podemos irnos, Scully.
 - ¿Por qué?
 
 156

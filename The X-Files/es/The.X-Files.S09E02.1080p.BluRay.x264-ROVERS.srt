@@ -574,7 +574,7 @@ Dios mío.
 
 130
 00:15:00,760 --> 00:15:04,116
--¿Está consciente?
+- ¿Está consciente?
 - No lo sé.
 
 131

@@ -1357,7 +1357,7 @@ Nademos hasta la orilla.
 
 301
 00:17:27,720 --> 00:17:31,554
--¿Nadar?
+- ¿Nadar?
 - Sí. La orilla no puede estar lejos de aquí.
 
 302

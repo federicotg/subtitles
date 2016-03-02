@@ -198,8 +198,8 @@ el terror de Scotland Yard.
 
 44
 00:04:01,320 --> 00:04:03,390
--¡Hola!
--¡Hola!
+- ¡Hola!
+- ¡Hola!
 
 45
 00:04:03,520 --> 00:04:05,636
@@ -561,8 +561,8 @@ irá directamente arriba.
 
 124
 00:09:45,760 --> 00:09:48,320
--¡Hola!
--¡Hola!
+- ¡Hola!
+- ¡Hola!
 
 125
 00:09:48,440 --> 00:09:50,431
@@ -834,8 +834,8 @@ en bizcocho. Esta mujer estaba en el bar.
 
 187
 00:15:41,040 --> 00:15:42,393
--¡Hola!
--¡Hola!
+- ¡Hola!
+- ¡Hola!
 
 188
 00:15:42,520 --> 00:15:44,272
@@ -1104,7 +1104,7 @@ o inadaptación social.
 
 246
 00:20:19,400 --> 00:20:21,960
--¡Enséñanos!
+- ¡Enséñanos!
 - A lo mejor se lo dicen a sus padres.
 
 247
@@ -1749,8 +1749,8 @@ domésticos contratados por las víctimas.
 
 387
 00:33:51,880 --> 00:33:54,269
--¿Y?
--Y...
+- ¿Y?
+- Y...
 
 388
 00:33:54,360 --> 00:33:57,796

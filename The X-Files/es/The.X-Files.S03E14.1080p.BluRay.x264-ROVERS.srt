@@ -1411,8 +1411,8 @@ urgentemente con usted acerca de...
 
 306
 00:36:59,840 --> 00:37:02,149
--¿Hola?
--¿Mulder?
+- ¿Hola?
+- ¿Mulder?
 
 307
 00:37:02,320 --> 00:37:04,959

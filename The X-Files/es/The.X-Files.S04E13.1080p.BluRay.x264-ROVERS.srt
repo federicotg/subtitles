@@ -894,7 +894,7 @@ Trabajo principalmente allí.
 
 203
 00:21:16,200 --> 00:21:17,679
--¿Hola?
+- ¿Hola?
 - ¿Scully?
 
 204
@@ -1020,7 +1020,7 @@ Esa zorra será como todas las otras.
 
 231
 00:23:12,960 --> 00:23:17,317
--¿Hola?
+- ¿Hola?
 - Hola. Ed Jerse, por favor.
 
 232

@@ -511,7 +511,7 @@ Estoy libre, encanto.
 
 114
 00:13:43,400 --> 00:13:45,789
--¿Paul?
+- ¿Paul?
 - Oye. Voy a... 
 
 115
@@ -807,7 +807,7 @@ Dice que fue enviado por Fármacos Pinck.
 
 179
 00:20:39,480 --> 00:20:43,314
--¿Podría revisar eso otra vez?
+- ¿Podría revisar eso otra vez?
 - Seguro.
 
 180

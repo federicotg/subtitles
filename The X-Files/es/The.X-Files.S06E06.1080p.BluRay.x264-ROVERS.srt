@@ -1413,7 +1413,7 @@ con conceptos erróneos.
 311
 00:29:16,400 --> 00:29:18,960
 - Vinimos a buscarla a usted.
--¿Sí?
+- ¿Sí?
 
 312
 00:29:19,040 --> 00:29:22,032

@@ -378,8 +378,8 @@ Y que no sabemos quién es.
 
 85
 00:10:56,000 --> 00:10:57,752
--¿Morris?
--¿Sí?
+- ¿Morris?
+- ¿Sí?
 
 86
 00:10:59,760 --> 00:11:02,069
@@ -387,7 +387,7 @@ Y que no sabemos quién es.
 
 87
 00:11:06,400 --> 00:11:09,631
--¿Hola?
+- ¿Hola?
 - ¿Qué estás haciendo ahí?
 
 88
@@ -1470,7 +1470,7 @@ Podemos superarlo.
 
 325
 00:38:47,480 --> 00:38:49,755
--¿Sí?
+- ¿Sí?
 - Hola, me llamo Dana Scully.
 
 326

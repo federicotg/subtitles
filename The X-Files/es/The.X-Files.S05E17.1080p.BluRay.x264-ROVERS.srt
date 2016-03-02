@@ -590,7 +590,7 @@ con los trámites burocráticos.
 
 132
 00:13:56,760 --> 00:13:59,797
--¿Hola?
+- ¿Hola?
 - Scully, te estoy devolviendo la llamada.
 
 133
@@ -860,7 +860,7 @@ de Jesucristo Superstar.
 
 191
 00:19:13,480 --> 00:19:15,789
--¿Sí?
+- ¿Sí?
 - Soy Dana Scully.
 
 192
@@ -1674,7 +1674,7 @@ COMISARÍA DEL DISTRITO
 
 369
 00:35:39,240 --> 00:35:41,629
--¿Hola?
+- ¿Hola?
 - Hola, Scully, soy yo.
 
 370

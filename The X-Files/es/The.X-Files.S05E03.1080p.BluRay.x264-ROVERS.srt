@@ -1111,7 +1111,7 @@ Tengo tinnitus.
 
 245
 00:21:12,520 --> 00:21:17,958
--¿Esé?
+- ¿Esé?
 - Fox Mulder. Nacido el 13/10/61.
 
 246

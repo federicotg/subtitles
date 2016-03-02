@@ -323,7 +323,7 @@ que el perro aún este en el barco.
 
 74
 00:08:03,600 --> 00:08:05,909
--¿Ha tenido un perro, señor?
+- ¿Ha tenido un perro, señor?
 - Sí.
 
 75

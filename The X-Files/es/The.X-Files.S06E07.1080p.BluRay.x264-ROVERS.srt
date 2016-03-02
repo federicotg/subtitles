@@ -993,7 +993,7 @@ Sé lo que es usted.
 
 221
 00:22:35,920 --> 00:22:38,115
--¿Hola?
+- ¿Hola?
 - Hola, Betsy, soy yo.
 
 222

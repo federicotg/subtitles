@@ -1227,7 +1227,7 @@ Un momento, por favor. ¿Fox?
 
 265
 00:32:11,160 --> 00:32:14,994
--Aquí. Descansando
+- Aquí. Descansando
 - ¿Dónde? ¿Quién atendió el teléfono?
 
 266
@@ -1579,7 +1579,7 @@ donde nunca se había visto.
 342
 00:38:37,160 --> 00:38:39,799
 - No para mí.
--¿Podemos hablar en el pasillo?
+- ¿Podemos hablar en el pasillo?
 
 343
 00:38:41,120 --> 00:38:43,156

@@ -351,7 +351,7 @@ que la gente piense lo mismo.
 
 75
 00:10:16,040 --> 00:10:18,235
--¿Hola?
+- ¿Hola?
 - Hola. Es Buddy.
 
 76
@@ -736,7 +736,7 @@ O te meterás en más problemas.
 158
 00:17:47,960 --> 00:17:51,953
 - Estaba aquí de vacaciones y...
--¿Y?
+- ¿Y?
 
 159
 00:17:52,800 --> 00:17:55,951
@@ -945,7 +945,7 @@ Es para usted.
 
 203
 00:25:09,720 --> 00:25:12,951
--¿Hola?
+- ¿Hola?
 - Buenos días, mi sol.
 
 204

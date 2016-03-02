@@ -681,7 +681,7 @@ Lo lamento, señor. No sé que decirle.
 
 150
 00:11:11,600 --> 00:11:14,592
--¿Sí?
+- ¿Sí?
 - Hubo un malentendido.
 
 151
@@ -2124,7 +2124,7 @@ No puedo.
 471
 00:39:06,400 --> 00:39:09,358
 - Jason, trata de entender.
--¡Jason!
+- ¡Jason!
 
 472
 00:39:09,800 --> 00:39:13,998

@@ -1429,7 +1429,7 @@ Tienes la cara sucia.
 314
 00:26:59,320 --> 00:27:01,914
 - ¡No me toques, cerdo asqueroso!
--¡Nena!
+- ¡Nena!
 
 315
 00:27:02,960 --> 00:27:05,713
@@ -1963,7 +1963,7 @@ Mulder.
 
 434
 00:35:39,840 --> 00:35:42,798
--¡Oh!, está por aquí tirado.
+- ¡Oh!, está por aquí tirado.
 - Deja que hable con Scully.
 
 435
@@ -2343,7 +2343,7 @@ Quienquiera que seas.
 
 519
 00:41:35,920 --> 00:41:37,990
--¡Jack!
+- ¡Jack!
 - ¡Calla!
 
 520

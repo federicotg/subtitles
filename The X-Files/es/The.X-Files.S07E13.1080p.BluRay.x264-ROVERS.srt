@@ -175,7 +175,7 @@ Fírmenlo, por favor.
 
 41
 00:07:06,160 --> 00:07:08,833
--¿FPS?
+- ¿FPS?
 - Ficción Personalizada Secreta.
 
 42
@@ -495,7 +495,7 @@ Retro no estaba en una zona de combate.
 
 111
 00:12:23,280 --> 00:12:26,716
--¡Santo cielo!
+- ¡Santo cielo!
 - Qué arma tan buena.
 
 112
@@ -1702,7 +1702,7 @@ Estamos tan cerca.
 379
 00:40:58,200 --> 00:41:00,998
 - ¿El comando?
--Dbdo
+- Dbdo
 
 380
 00:41:06,880 --> 00:41:09,348

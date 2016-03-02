@@ -851,8 +851,8 @@ para que te recoja.
 
 190
 00:16:36,680 --> 00:16:39,478
--¡Shannon!
--¡Shannon, vuelve!
+- ¡Shannon!
+- ¡Shannon, vuelve!
 
 191
 00:16:40,240 --> 00:16:42,993
@@ -1601,7 +1601,7 @@ y que él se comportaría bien?
 
 363
 00:34:36,280 --> 00:34:39,477
--¿Sí?
+- ¿Sí?
 - Mulder, la escuela. Ven.
 
 364

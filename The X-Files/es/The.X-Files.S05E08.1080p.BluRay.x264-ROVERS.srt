@@ -514,7 +514,7 @@ Necesitamos 30 segundos.
 
 113
 00:11:16,440 --> 00:11:20,479
--¿Sí?
+- ¿Sí?
 - Dos palabras: está vivo.
 
 114
@@ -1497,7 +1497,7 @@ que esa mujer hable por teléfono.
 
 327
 00:32:25,800 --> 00:32:29,315
--¿No?
+- ¿No?
 - Investigamos un suicidio.
 
 328

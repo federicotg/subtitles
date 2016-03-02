@@ -327,7 +327,7 @@ de vinos y quesos.
 73
 00:08:10,640 --> 00:08:12,995
 - ¿Agente Fazekas?
--¿Sí?
+- ¿Sí?
 
 74
 00:08:16,080 --> 00:08:18,389
@@ -680,7 +680,7 @@ la puerta estaba cerrada por dentro.
 
 149
 00:16:29,080 --> 00:16:32,197
--¿Y?
+- ¿Y?
 - Mira esto. Huellas.
 
 150

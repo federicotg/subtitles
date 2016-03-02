@@ -227,7 +227,7 @@ John Doggett, del FBI.
 
 50
 00:06:10,640 --> 00:06:14,349
--¿Conoce a Curtis Delario?
+- ¿Conoce a Curtis Delario?
 - Era amigo de mi esposo.
 
 51
@@ -1336,7 +1336,7 @@ La policía.
 
 292
 00:36:37,880 --> 00:36:41,031
--¿Quieren arrestarla?
+- ¿Quieren arrestarla?
 - Quiero hablar con ella.
 
 293

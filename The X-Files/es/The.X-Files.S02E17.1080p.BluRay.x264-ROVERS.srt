@@ -613,7 +613,7 @@ Acérquese. Bien cerca.
 
 136
 00:13:07,040 --> 00:13:09,156
--¿Sí?
+- ¿Sí?
 - Estoy bien.
 
 137

@@ -544,7 +544,7 @@ Cree que Daryl causó la sequía.
 
 120
 00:11:32,960 --> 00:11:35,758
--¿Usted no lo cree?
+- ¿Usted no lo cree?
 - Claro que no.
 
 121
@@ -1288,7 +1288,7 @@ Amanezco cada día sabiendo...
 
 283
 00:26:02,920 --> 00:26:05,878
--¿Hola?
+- ¿Hola?
 - Soy yo. ¿Trabajas tarde?
 
 284

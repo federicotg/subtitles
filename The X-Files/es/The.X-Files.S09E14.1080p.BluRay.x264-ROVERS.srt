@@ -258,7 +258,7 @@ Es de ensalada de atún y manzana.
 
 58
 00:07:34,040 --> 00:07:37,316
--¿Hola?
+- ¿Hola?
 - Habla Monica Reyes. ¿Tienes un minuto?
 
 59

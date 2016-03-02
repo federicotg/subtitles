@@ -1053,7 +1053,7 @@ Me puse a caminar y me metí en la cocina.
 
 232
 00:29:41,360 --> 00:29:44,158
--Y te vi.
+- Y te vi.
 - ¿A mí?
 
 233

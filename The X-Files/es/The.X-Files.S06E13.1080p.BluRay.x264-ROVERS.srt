@@ -1221,7 +1221,7 @@ pero me grito: "¡Vete!".
 
 267
 00:26:00,440 --> 00:26:03,318
--Nunca escucha a nadie.
+- Nunca escucha a nadie.
 - Me escuchará a mí.
 
 268
@@ -1751,8 +1751,8 @@ Maldita sea.
 
 381
 00:36:33,120 --> 00:36:36,476
--¿Mulder?
--¿Sí?
+- ¿Mulder?
+- ¿Sí?
 
 382
 00:36:36,560 --> 00:36:39,552

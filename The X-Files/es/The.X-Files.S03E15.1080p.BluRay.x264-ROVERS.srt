@@ -789,8 +789,8 @@ Cinco.
 
 178
 00:17:54,840 --> 00:17:56,910
--Lotengo.
--¡Dana!
+- Lotengo.
+- ¡Dana!
 
 179
 00:18:13,160 --> 00:18:15,196
@@ -900,7 +900,7 @@ Enseguida viene.
 
 203
 00:21:11,360 --> 00:21:14,511
--¿Sí?
+- ¿Sí?
 - ¿Capitán Johansen?
 
 204
@@ -1843,7 +1843,7 @@ los 51.75 que se tragó el teléfono.
 
 412
 00:40:52,720 --> 00:40:55,518
--¿Sí?
+- ¿Sí?
 - Tenemos malas noticias.
 
 413

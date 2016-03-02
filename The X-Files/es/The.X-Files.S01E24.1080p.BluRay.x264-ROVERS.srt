@@ -440,7 +440,7 @@ GAITHERSBURG, MARYLAND
 98
 00:07:36,560 --> 00:07:39,279
 - ¿Dr. Berube?
--¿Sí?
+- ¿Sí?
 
 99
 00:07:39,360 --> 00:07:42,193
@@ -1332,7 +1332,7 @@ UNIVERSIDAD DE GEORGETOWN, 23:45
 298
 00:23:39,160 --> 00:23:42,755
 - Agente Scully.
--¡Ah, Dra. Carpenter! Me quedé dormida.
+- ¡Ah, Dra. Carpenter! Me quedé dormida.
 
 299
 00:23:42,840 --> 00:23:44,956
@@ -1615,8 +1615,8 @@ y los entrenan bien.
 
 363
 00:28:48,560 --> 00:28:51,074
--¿Por qué?
--¡¿Por qué?!
+- ¿Por qué?
+- ¡¿Por qué?!
 
 364
 00:28:51,160 --> 00:28:54,914

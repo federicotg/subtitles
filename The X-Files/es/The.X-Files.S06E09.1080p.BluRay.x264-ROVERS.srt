@@ -709,7 +709,7 @@ Es posible que él tampoco.
 158
 00:16:27,360 --> 00:16:32,957
 - ¿No tenía síntomas de envenenamiento?
--¿Seguro que no las procesaron?
+- ¿Seguro que no las procesaron?
 
 159
 00:16:33,080 --> 00:16:36,834
@@ -1307,7 +1307,7 @@ Necesito tomar agua.
 287
 00:34:00,040 --> 00:34:03,953
 - ¿Quién le hizo esto?
--Apúrese. Por favor.
+- Apúrese. Por favor.
 
 288
 00:34:04,040 --> 00:34:06,270

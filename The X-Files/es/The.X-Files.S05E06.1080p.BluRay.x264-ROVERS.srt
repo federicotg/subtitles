@@ -1201,7 +1201,7 @@ FARMACEÚTICA PRANGEN
 264
 00:29:30,280 --> 00:29:32,874
 - ¿Dr. Calderon?
--¿Sí?
+- ¿Sí?
 
 265
 00:29:34,360 --> 00:29:39,070
@@ -1441,7 +1441,7 @@ Una llamada para ti.
 
 316
 00:34:42,040 --> 00:34:44,395
--¿Hola?
+- ¿Hola?
 - Feliz Navidad, agente Scully.
 
 317
