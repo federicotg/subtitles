@@ -752,7 +752,7 @@ Se desconoce su paradero.
 
 164
 00:16:13,848 --> 00:16:17,466
-- Ella no sabe donde está.
+- Ella no sabe dónde está.
 - ¿Cómo puede estar tan seguro?
 
 165

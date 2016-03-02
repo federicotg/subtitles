@@ -1254,7 +1254,7 @@ Hice todo lo que pude.
 
 281
 00:25:25,040 --> 00:25:29,989
-Que alguien me explique que ocurre.
+Que alguien me explique qué ocurre.
 No tiene sentido.
 
 282
@@ -1303,7 +1303,7 @@ No podemos fingirlo.
 
 292
 00:26:15,320 --> 00:26:19,950
-- No estoy seguro delo que vi.
+- No estoy seguro de lo que vi.
 - Descríbemelo.
 
 293
