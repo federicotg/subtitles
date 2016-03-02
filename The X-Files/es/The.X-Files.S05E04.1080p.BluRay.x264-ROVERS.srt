@@ -1062,7 +1062,7 @@ Se llevan primero a los más fuertes.
 
 230
 00:24:16,080 --> 00:24:19,197
-No pudo desaparecer así nomás.
+No pudo desaparecer así no más.
 
 231
 00:24:19,400 --> 00:24:22,039
