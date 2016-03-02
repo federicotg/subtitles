@@ -43,7 +43,7 @@ Hasta mañana.
 
 11
 00:01:22,400 --> 00:01:24,038
-¿Estás perdido?
+¿Estás perdida?
 
 12
 00:01:28,840 --> 00:01:34,073
@@ -73,7 +73,7 @@ Te va a ayudar a encontrar a tus padres.
 
 18
 00:01:51,720 --> 00:01:53,836
-¡Hola, queridai.
+¡Hola, querida!.
 
 19
 00:01:53,960 --> 00:01:56,758
@@ -304,7 +304,7 @@ Que raro.
 
 70
 00:06:09,280 --> 00:06:11,316
-No pulse ninguna tecla.
+No pulsé ninguna tecla.
 
 71
 00:06:13,000 --> 00:06:15,230
@@ -331,7 +331,7 @@ Dougherty estaba encerrada en la bodega.
 
 76
 00:06:38,120 --> 00:06:40,236
-Llame a la policía inmediatamente.
+Llamé a la policía inmediatamente.
 
 77
 00:06:40,320 --> 00:06:43,312
@@ -821,7 +821,7 @@ es la frase principal.
 185
 00:14:09,080 --> 00:14:11,992
 No estaremos seguros hasta que
-Ileguen los resultados del laboratorio...
+lleguen los resultados del laboratorio...
 
 186
 00:14:12,160 --> 00:14:17,393
