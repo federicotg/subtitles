@@ -56,7 +56,7 @@ Las promesas se cumplen.
 
 14
 00:01:33,840 --> 00:01:36,434
-Claro que la cumplire.
+Claro que la cumpliré.
 
 15
 00:01:38,040 --> 00:01:40,190

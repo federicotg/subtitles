@@ -1327,7 +1327,7 @@ Simplemente olvídalo.
 
 302
 00:35:01,000 --> 00:35:04,276
-No regresarás. No lo permitire.
+No regresarás. No lo permitiré.
 
 303
 00:35:04,360 --> 00:35:07,909
