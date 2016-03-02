@@ -288,7 +288,7 @@ Permiso.
 
 65
 00:06:51,280 --> 00:06:52,759
-Aún no sé que buscamos.
+Aún no sé qué buscamos.
 
 66
 00:06:52,840 --> 00:06:56,310
