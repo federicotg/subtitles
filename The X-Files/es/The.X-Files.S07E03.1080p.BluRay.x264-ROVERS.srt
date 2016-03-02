@@ -460,7 +460,7 @@ Aunque eso no es relevante en este caso.
 
 104
 00:10:51,920 --> 00:10:56,198
-Dejame ver si me olvido de algo.
+Déjame ver si me olvido de algo.
 
 105
 00:10:56,560 --> 00:10:58,630

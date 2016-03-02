@@ -1535,7 +1535,7 @@ Es lo que normalmente pide un citatorio.
 
 345
 00:31:58,360 --> 00:32:00,999
-- ¿Un citatorio para que?
+- ¿Un citatorio para qué?
 - Sólo puedo suponerlo.
 
 346

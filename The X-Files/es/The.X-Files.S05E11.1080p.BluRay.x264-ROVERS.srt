@@ -1335,7 +1335,7 @@ Cállese o regresarán.
 
 292
 00:31:58,240 --> 00:32:00,800
-- ¿Regresarán para que?
+- ¿Regresarán para qué?
 - Son malvados, Fox.
 
 293

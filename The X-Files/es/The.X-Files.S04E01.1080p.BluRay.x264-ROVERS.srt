@@ -825,7 +825,7 @@ Es lo que es.
 
 184
 00:29:05,560 --> 00:29:08,711
-- Secuencia proteínica, ¿para que?
+- Secuencia proteínica, ¿para qué?
 - El virus Compox.
 
 185

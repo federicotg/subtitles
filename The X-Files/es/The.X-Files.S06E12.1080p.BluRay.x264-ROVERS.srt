@@ -130,7 +130,7 @@ a un centro de cuarentena.
 
 29
 00:02:45,960 --> 00:02:48,076
-¿Cuarentena para que?
+¿Cuarentena para qué?
 
 30
 00:02:48,760 --> 00:02:51,149
