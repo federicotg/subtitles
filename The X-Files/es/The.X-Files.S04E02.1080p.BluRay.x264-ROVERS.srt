@@ -763,7 +763,7 @@ Buscaré el arma.
 
 169
 00:24:10,800 --> 00:24:12,950
-El Gran Auto de los EE UU.
+El Gran Auto de los EE.UU.
 
 170
 00:24:20,320 --> 00:24:26,190
