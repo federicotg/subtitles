@@ -1009,7 +1009,7 @@ fue en una tienda de artículos domésticos.
 223
 00:19:19,440 --> 00:19:23,353
 Jamás ha sido entrenado por ninjas.
-Jamás ha salido de los EE UU.
+Jamás ha salido de los EE.UU.
 
 224
 00:19:23,440 --> 00:19:27,194
