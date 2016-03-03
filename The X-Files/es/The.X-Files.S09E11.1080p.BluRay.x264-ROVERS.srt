@@ -78,7 +78,7 @@ Hasta el lunes.
 
 19
 00:02:09,600 --> 00:02:12,512
-John,John,John.
+John, John, John.
 
 20
 00:02:39,920 --> 00:02:41,911
@@ -159,7 +159,7 @@ Creo que me chocó un auto camino a casa.
 
 38
 00:05:59,600 --> 00:06:01,716
-Yo ingrese con dolor en el pecho.
+Yo ingresé con dolor en el pecho.
 
 39
 00:06:01,840 --> 00:06:04,832
