@@ -242,7 +242,7 @@ UN ASALTO.
 
 54
 00:08:49,240 --> 00:08:54,712
-..y suponiendo que estas tendencias
+...y suponiendo que estas tendencias
 se mantengan hasta el año que viene.
 
 55
@@ -1228,7 +1228,7 @@ Sólo le pido que no vaya.
 
 271
 00:33:02,640 --> 00:33:06,519
-..y suponiendo que estas tendencias
+...y suponiendo que estas tendencias
 se mantengan hasta el año que viene.
 
 272
@@ -1378,7 +1378,7 @@ Tiene una bomba.
 
 304
 00:37:59,880 --> 00:38:05,591
-..estiman un descenso mayor, del 2% ó 3%,
+...estiman un descenso mayor, del 2% ó 3%,
 en la tasa de homicidios,
 
 305

@@ -641,7 +641,7 @@ Déjeme salir.
 
 145
 00:14:34,440 --> 00:14:39,468
-..el Presidente Nixon y H. R. Haldeman
+...el Presidente Nixon y H. R. Haldeman
 mientras transcribían la cinta requerida.
 
 146
@@ -1950,7 +1950,7 @@ No provoque el peor de los finales.
 
 434
 00:41:12,000 --> 00:41:13,228
-..seis,
+...seis,
 
 435
 00:41:14,320 --> 00:41:15,639

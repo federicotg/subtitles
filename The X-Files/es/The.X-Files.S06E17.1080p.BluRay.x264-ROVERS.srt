@@ -1246,7 +1246,7 @@ Busca a su hijo, Mulder.
 
 277
 00:30:24,080 --> 00:30:27,595
-..y regresará a tiempo para asistir
+...y regresará a tiempo para asistir
 a las reuniones en la ONU.
 
 278

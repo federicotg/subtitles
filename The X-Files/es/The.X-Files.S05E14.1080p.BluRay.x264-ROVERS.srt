@@ -1304,7 +1304,7 @@ Soy yo, a los 11 años.
 
 289
 00:28:41,000 --> 00:28:44,117
-..en el cielo, donde está la luz brillante.
+...en el cielo, donde está la luz brillante.
 
 290
 00:28:44,840 --> 00:28:47,274

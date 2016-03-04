@@ -760,7 +760,7 @@ ESQUINA DÉCIMA CON PATTON
 
 172
 00:15:21,720 --> 00:15:25,713
-..debe ser considerado peligroso,
+...debe ser considerado peligroso,
 acérquense con precaución.
 
 173
@@ -948,7 +948,7 @@ estas revoluciones.
 
 216
 00:18:42,120 --> 00:18:44,793
-..debido al confort y la complacencia,
+...debido al confort y la complacencia,
 
 217
 00:18:44,880 --> 00:18:50,193
@@ -976,7 +976,7 @@ Por Raul Bloodworth
 
 222
 00:19:01,800 --> 00:19:06,555
-..llevado a muchos a creer que sólo
+...llevado a muchos a creer que sólo
 el marxismo tiene espíritu revolucionario.
 
 223
@@ -1385,11 +1385,11 @@ EDITORA MONTGOMERY & GLICK
 
 315
 00:25:32,080 --> 00:25:34,036
-..los personajes... una porquería...
+...los personajes... una porquería...
 
 316
 00:25:34,120 --> 00:25:38,432
-..declarado el estado de emergencia
+...declarado el estado de emergencia
 en varias ciudades.
 
 317
@@ -1629,7 +1629,7 @@ EDITORA ENDEAVOR INTERNATIONAL
 
 370
 00:30:31,400 --> 00:30:33,197
-..solo en su
+...solo en su
 
 371
 00:30:34,080 --> 00:30:35,877
@@ -2118,7 +2118,7 @@ Por favor acepten...
 
 478
 00:39:43,600 --> 00:39:47,309
-..de mi renuncia,...
+...de mi renuncia,...
 
 479
 00:40:22,840 --> 00:40:25,559

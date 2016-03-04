@@ -184,7 +184,7 @@ de nuestro gobierno.
 
 41
 00:06:49,640 --> 00:06:53,110
-..quienes cultivan maíz en el desierto,
+...quienes cultivan maíz en el desierto,
 que contiene polen
 
 42
