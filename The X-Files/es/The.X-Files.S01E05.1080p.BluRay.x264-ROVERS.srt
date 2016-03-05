@@ -1950,7 +1950,7 @@ Sí, un momento. Es para ti.
 431
 00:42:21,120 --> 00:42:23,873
 - ¿Si?
-- ¡Hola, Dana!. Soy Rob.
+- ¡Hola, Dana! Soy Rob.
 
 432
 00:42:24,040 --> 00:42:25,393
