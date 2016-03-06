@@ -74,7 +74,7 @@ Aquí está. ¿Boom?
 
 18
 00:01:36,240 --> 00:01:38,310
-Que lindo lo que dijiste.
+Qué lindo lo que dijiste.
 
 19
 00:01:39,880 --> 00:01:40,915
@@ -672,7 +672,7 @@ No veo nada aquí que indique lo contrario.
 146
 00:12:01,520 --> 00:12:04,830
 - ¿Qué es eso?
-- ¿Qué es que?
+- ¿Qué es qué?
 
 147
 00:12:04,960 --> 00:12:07,713
@@ -824,7 +824,7 @@ se vuelven influencias extremas.
 
 179
 00:14:26,440 --> 00:14:28,510
-¿Sobre que?
+¿Sobre qué?
 
 180
 00:14:29,120 --> 00:14:33,238
@@ -935,7 +935,7 @@ indicio con la detective.
 204
 00:17:07,080 --> 00:17:09,594
 - Ya veo.
-- ¿Ves que?
+- ¿Ves qué?
 
 205
 00:17:09,960 --> 00:17:14,715
@@ -1844,7 +1844,7 @@ porque estoy con Terri.
 
 404
 00:37:39,520 --> 00:37:42,637
-- ¿Estás que?
+- ¿Estás qué?
 - Yo tengo a tu sospechosa y tú a la mía.
 
 405

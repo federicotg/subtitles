@@ -837,7 +837,7 @@ mediante el dispositivo.
 
 182
 00:19:55,360 --> 00:19:58,796
-- ¿Y que? Son diferentes.
+- ¿Y qué? Son diferentes.
 - Sabes cómo funciona la televisión.
 
 183

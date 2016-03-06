@@ -40,7 +40,7 @@ se llevó tu dinero, ¿verdad?
 10
 00:01:04,720 --> 00:01:07,314
 - Quiero ayudarte, Jackson.
-- ¿Ayudarme con que?
+- ¿Ayudarme con qué?
 
 11
 00:01:07,480 --> 00:01:10,711
@@ -704,7 +704,7 @@ y me hizo una oferta mejor.
 
 154
 00:16:00,400 --> 00:16:04,234
-- ¿Una oferta mejor para hacer que?
+- ¿Una oferta mejor para hacer qué?
 - No lo entenderían.
 
 155
@@ -1448,7 +1448,7 @@ Tienes que decírselo.
 
 318
 00:34:27,080 --> 00:34:29,674
-- ¿Decirles que?
+- ¿Decirles qué?
 - Sobre el Kill Switch.
 
 319

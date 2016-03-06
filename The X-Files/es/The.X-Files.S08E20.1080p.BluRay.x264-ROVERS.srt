@@ -128,7 +128,7 @@ Vine para verificar si era verdad.
 
 29
 00:03:26,960 --> 00:03:30,077
-¿Si era verdad que?
+¿Si era verdad qué?
 
 30
 00:03:30,200 --> 00:03:33,431

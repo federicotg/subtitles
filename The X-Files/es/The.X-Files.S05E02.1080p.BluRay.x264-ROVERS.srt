@@ -85,7 +85,7 @@ Perdió mucha sangre.
 
 19
 00:01:21,680 --> 00:01:23,750
-¿A causa de que?
+¿A causa de qué?
 
 20
 00:01:26,040 --> 00:01:27,519
@@ -1421,7 +1421,7 @@ la oportunidad de conocer la verdad.
 
 313
 00:28:34,520 --> 00:28:38,672
-- ¿A cambio de que?
+- ¿A cambio de qué?
 - Que deje el FBI. Trabaje para mí.
 
 314

@@ -586,7 +586,7 @@ debe hablar ahora.
 
 128
 00:11:24,560 --> 00:11:27,279
-- ¿Saber que?
+- ¿Saber qué?
 - Su nombre.
 
 129
@@ -1119,7 +1119,7 @@ Michael Kritschgau,
 
 240
 00:21:46,880 --> 00:21:49,792
-- ¿Acerca de que?
+- ¿Acerca de qué?
 - Defensa quiere interrogarlo.
 
 241

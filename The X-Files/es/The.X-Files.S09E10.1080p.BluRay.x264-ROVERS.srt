@@ -1010,7 +1010,7 @@ Usted lo vio. Estaba vivo.
 220
 00:27:39,040 --> 00:27:43,909
 - Había algo aquí. ¿Dónde está?
-- ¿Dónde está que?
+- ¿Dónde está qué?
 
 221
 00:27:44,000 --> 00:27:45,797

@@ -253,7 +253,7 @@ cerca del lugar intentando comunicarse.
 
 59
 00:06:17,240 --> 00:06:20,118
-- ¿Comunicar que?
+- ¿Comunicar qué?
 - Todavía no lo sé, pero...
 
 60

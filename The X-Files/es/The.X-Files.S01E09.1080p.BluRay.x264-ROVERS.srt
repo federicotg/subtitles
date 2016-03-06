@@ -475,7 +475,7 @@ para negarnos pruebas.
 
 104
 00:07:37,280 --> 00:07:39,032
-¿Pruebas de que?
+¿Pruebas de qué?
 
 105
 00:07:39,640 --> 00:07:41,710
@@ -2409,7 +2409,7 @@ Cambie la trayectoria.
 
 531
 00:39:29,280 --> 00:39:35,276
-- ¿Cambiar la trayectoria a que?
+- ¿Cambiar la trayectoria a qué?
 - Cámbiela a 35 grados.
 
 532

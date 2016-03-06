@@ -359,7 +359,7 @@ haber pasado algo por alto.
 
 80
 00:08:12,240 --> 00:08:14,515
-¿Como que?
+¿Como qué?
 
 81
 00:08:14,600 --> 00:08:19,230
@@ -1152,7 +1152,7 @@ son elementos protectores.
 
 253
 00:25:54,760 --> 00:25:57,228
-- ¿Protección contra que?
+- ¿Protección contra qué?
 - No sé.
 
 254

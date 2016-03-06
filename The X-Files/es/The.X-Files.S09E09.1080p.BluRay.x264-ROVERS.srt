@@ -382,7 +382,7 @@ todo lo posible.
 85
 00:10:08,160 --> 00:10:13,393
 - ¿Llevaba consigo algo interesante?
-- ¿Cómo que?
+- ¿Como qué?
 
 86
 00:10:15,080 --> 00:10:20,359
@@ -580,7 +580,7 @@ puede haber algunas respuestas.
 
 129
 00:14:35,160 --> 00:14:37,993
-¿Respuestas sobre que?
+¿Respuestas sobre qué?
 
 130
 00:14:38,120 --> 00:14:40,953

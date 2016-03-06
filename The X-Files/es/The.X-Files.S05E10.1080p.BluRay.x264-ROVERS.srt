@@ -177,7 +177,7 @@ Estoy en un mercado.
 39
 00:07:20,000 --> 00:07:24,516
 - Intento asesorar a la policía local.
-- ¿Con respecto a que?
+- ¿Con respecto a qué?
 
 40
 00:07:24,640 --> 00:07:28,633
@@ -596,7 +596,7 @@ Quizá tenía miedo de que algo saliera.
 
 128
 00:14:36,320 --> 00:14:38,470
-¿Cómo que?
+¿Como qué?
 
 129
 00:14:39,920 --> 00:14:41,911

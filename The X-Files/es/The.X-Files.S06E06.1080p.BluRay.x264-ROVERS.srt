@@ -602,11 +602,11 @@ Lleva la misma ropa que yo.
 
 132
 00:13:09,720 --> 00:13:11,870
-Que vergüenza.
+Qué vergüenza.
 
 133
 00:13:12,880 --> 00:13:16,031
-¿Sabes que? Él lleva la misma que tú.
+¿Sabes qué? Él lleva la misma que tú.
 
 134
 00:13:26,280 --> 00:13:28,396
@@ -656,7 +656,7 @@ ya que está en mi casa.
 
 145
 00:16:08,800 --> 00:16:12,270
-Que bien. ¿Quiere
+Qué bien. ¿Quiere
 que le enseñe la salida?
 
 146
@@ -1744,7 +1744,7 @@ Y próspero Año Nuevo.
 
 383
 00:36:14,680 --> 00:36:16,557
-¿No creíste que?
+¿No creíste qué?
 
 384
 00:36:16,680 --> 00:36:19,911

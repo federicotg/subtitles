@@ -914,7 +914,7 @@ No he podido contactar al agente Mulder.
 
 202
 00:19:33,240 --> 00:19:36,596
-- ¿Sobre que?
+- ¿Sobre qué?
 - Sobre alguien con quien ha hablado.
 
 203
@@ -1402,7 +1402,7 @@ y me gustaría hacerle algunas preguntas.
 
 308
 00:26:55,880 --> 00:26:58,189
-¿Preguntas sobre que?
+¿Preguntas sobre qué?
 
 309
 00:26:59,200 --> 00:27:01,270

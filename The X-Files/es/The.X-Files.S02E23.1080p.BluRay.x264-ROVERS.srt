@@ -612,7 +612,7 @@ Seguro que algo aparecerá.
 
 135
 00:13:50,760 --> 00:13:54,958
-- ¿Y con eso que?
+- ¿Y con eso qué?
 - Quizás identifiquemos al asesino.
 
 136
@@ -1018,7 +1018,7 @@ Y hay más preguntas que respuestas.
 
 224
 00:20:49,320 --> 00:20:53,233
-- ¿Como que?
+- ¿Como qué?
 - El motivo. El arma.
 
 225

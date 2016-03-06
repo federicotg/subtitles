@@ -1230,7 +1230,7 @@ Win, ¿quieres jugar?
 272
 00:28:34,960 --> 00:28:37,793
 - Se te advirtió.
-- ¿Acerca de que?
+- ¿Acerca de qué?
 
 273
 00:28:47,480 --> 00:28:48,959
@@ -1547,7 +1547,7 @@ Nos lo buscamos.
 342
 00:39:02,680 --> 00:39:05,831
 - Ahora no podemos detenerlo.
-- ¿Detener que?
+- ¿Detener qué?
 
 343
 00:39:11,040 --> 00:39:13,998

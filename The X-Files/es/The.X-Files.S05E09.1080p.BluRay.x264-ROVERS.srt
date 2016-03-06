@@ -563,7 +563,7 @@ Sicópata.
 125
 00:11:49,440 --> 00:11:53,752
 - Apártate de mí.
-- ¿O que? ¿Qué vas a hacer?
+- ¿O qué? ¿Qué vas a hacer?
 
 126
 00:11:53,840 --> 00:11:56,638
@@ -793,7 +793,7 @@ llamó al 911 a las 8:08 p.m.
 174
 00:17:37,560 --> 00:17:40,757
 - Dijo que discutió con su padre.
-- ¿Sobre que?
+- ¿Sobre qué?
 
 175
 00:17:41,400 --> 00:17:43,118
@@ -978,7 +978,7 @@ Necesito que nos acompañe, por favor.
 
 214
 00:21:15,640 --> 00:21:16,834
-¿Acerca de que?
+¿Acerca de qué?
 
 215
 00:21:17,000 --> 00:21:21,437
@@ -1193,7 +1193,7 @@ Es igual a ti. ¿Dónde está?
 262
 00:28:14,600 --> 00:28:17,876
 - Quisiéramos hacerle unas preguntas.
-- ¿Acerca de que?
+- ¿Acerca de qué?
 
 263
 00:28:17,960 --> 00:28:22,511
@@ -1486,7 +1486,7 @@ No eres capaz.
 
 325
 00:34:28,160 --> 00:34:29,479
-Que bueno.
+Qué bueno.
 
 326
 00:34:29,560 --> 00:34:32,518
@@ -1560,7 +1560,7 @@ que Phil muriera, ¿verdad?
 341
 00:35:31,000 --> 00:35:33,195
 - No podía hacerlo.
-- ¿Hacer que?
+- ¿Hacer qué?
 
 342
 00:35:33,360 --> 00:35:36,796
@@ -1593,7 +1593,7 @@ Arruinaste mi vida.
 
 349
 00:36:01,120 --> 00:36:03,429
-¿Karin te obligó a que?
+¿Karin te obligó a qué?
 
 350
 00:36:04,520 --> 00:36:06,909

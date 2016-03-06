@@ -950,7 +950,7 @@ Te hubiese ayudado con el perfil.
 209
 00:17:10,960 --> 00:17:14,077
 - No tienes ni idea de cómo es esto.
-- ¿Cómo es que?
+- ¿Cómo es qué?
 
 210
 00:17:14,160 --> 00:17:15,673
@@ -1408,7 +1408,7 @@ no es a la máquina.
 
 313
 00:27:55,520 --> 00:27:57,750
-¿Entonces que?
+¿Entonces qué?
 
 314
 00:28:01,520 --> 00:28:05,877

@@ -881,7 +881,7 @@ Pasa.
 197
 00:21:16,840 --> 00:21:19,877
 - Necesito ayuda.
-- ¿Con que?
+- ¿Con qué?
 
 198
 00:21:21,680 --> 00:21:24,877
@@ -1453,7 +1453,7 @@ El chico es el eslabón perdido.
 
 322
 00:32:05,040 --> 00:32:07,156
-¿Con que?
+¿Con qué?
 
 323
 00:32:10,840 --> 00:32:14,196
@@ -1461,11 +1461,11 @@ Es la prueba genética, ¿verdad?
 
 324
 00:32:14,360 --> 00:32:17,079
-¿La prueba genética de que?
+¿La prueba genética de qué?
 
 325
 00:32:20,040 --> 00:32:22,349
-¿La prueba genética de que?
+¿La prueba genética de qué?
 
 326
 00:32:24,360 --> 00:32:28,273
@@ -1474,7 +1474,7 @@ es más humanos que los humanos.
 
 327
 00:32:29,320 --> 00:32:31,788
-- ¿Es que?
+- ¿Es qué?
 - Tenemos genes que no usamos.
 
 328

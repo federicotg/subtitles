@@ -403,7 +403,7 @@ Alice.
 
 89
 00:11:04,240 --> 00:11:06,151
-Que lindo.
+Qué lindo.
 
 90
 00:11:06,240 --> 00:11:08,231
@@ -786,7 +786,7 @@ Llévame de vuelta al siglo XX.
 177
 00:20:50,360 --> 00:20:53,477
 - ¿Te creíste todo eso?
-- ¿Que si me creí que?
+- ¿Que si me creí qué?
 
 178
 00:20:53,560 --> 00:20:56,472

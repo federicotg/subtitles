@@ -196,7 +196,7 @@ de estar aquí hablando contigo.
 
 44
 00:07:24,000 --> 00:07:25,069
-¿A causa de que?
+¿A causa de qué?
 
 45
 00:07:25,200 --> 00:07:26,918
@@ -249,7 +249,7 @@ QUÉ LO HA PROVOCADO.
 
 55
 00:08:03,560 --> 00:08:07,599
-- ¿Haciendo que?
+- ¿Haciendo qué?
 - Esperaba que tú me lo dijeras.
 
 56
@@ -686,7 +686,7 @@ mutilación autoinfligida como protección.
 
 152
 00:17:02,600 --> 00:17:04,750
-¿Protección contra que?
+¿Protección contra qué?
 
 153
 00:17:06,600 --> 00:17:09,239
@@ -1625,7 +1625,7 @@ Pensando.
 
 360
 00:35:03,840 --> 00:35:07,230
-- ¿Pensando en que?
+- ¿Pensando en qué?
 - En lo habitual.
 
 361

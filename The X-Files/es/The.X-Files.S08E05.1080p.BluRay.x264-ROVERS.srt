@@ -1203,7 +1203,7 @@ Parece que va a estar bien.
 
 268
 00:30:45,480 --> 00:30:47,675
-¿Si creyeras que?
+¿Si creyeras qué?
 
 269
 00:30:47,760 --> 00:30:49,637
@@ -1427,7 +1427,7 @@ Porque no le creía.
 
 319
 00:37:25,840 --> 00:37:30,675
-¿No creías que?
+¿No creías qué?
 ¿Qué te cuesta tanto creer?
 
 320

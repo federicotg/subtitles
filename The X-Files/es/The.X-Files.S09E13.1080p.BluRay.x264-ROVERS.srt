@@ -911,7 +911,7 @@ sus vidas en 13 categorías.
 
 198
 00:20:21,880 --> 00:20:25,873
-- ¿Un cálculo basado en que?
+- ¿Un cálculo basado en qué?
 - Nombres y fechas de nacimiento.
 
 199
@@ -1714,7 +1714,7 @@ Lo mismo que usted.
 
 372
 00:38:09,920 --> 00:38:14,118
-- ¿Y ahora que?
+- ¿Y ahora qué?
 - Ve a la izquierda, yo iré a la derecha.
 
 373
