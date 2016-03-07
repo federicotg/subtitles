@@ -761,7 +761,7 @@ Ahora vuelvo.
 166
 00:18:32,480 --> 00:18:35,552
 Tal vez sea un trabajo
-para el agente Pendrall.
+para el agente Pendrell.
 
 167
 00:18:35,640 --> 00:18:38,029
@@ -921,12 +921,12 @@ Sí.
 
 200
 00:21:11,040 --> 00:21:15,113
-Acabo de hablar con el agente Pendrall.
+Acabo de hablar con el agente Pendrell.
 Me ha dicho que no te ha visto.
 
 201
 00:21:15,200 --> 00:21:19,034
-- No se lo llevé a Pendrall.
+- No se lo llevé a Pendrell.
 - Entonces, ¿dónde has estado?
 
 202

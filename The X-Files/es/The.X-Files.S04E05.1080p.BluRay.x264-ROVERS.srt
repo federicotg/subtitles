@@ -1292,7 +1292,7 @@ en su presencia.
 
 294
 00:24:17,600 --> 00:24:20,956
-¡Bien hecho! ¡Genial, una buenajugada!
+¡Bien hecho! ¡Genial, una buena jugada!
 
 295
 00:24:21,480 --> 00:24:24,233
@@ -2045,7 +2045,7 @@ Debe ser removido inmediatamente.
 
 470
 00:39:58,440 --> 00:40:01,477
-"¡Entrando por las puertas en la ciudadl".
+"¡Entrando por las puertas en la ciudad!".
 
 471
 00:40:01,800 --> 00:40:04,633
