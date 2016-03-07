@@ -1293,7 +1293,7 @@ a sí mismo del campo visual.
 282
 00:23:43,680 --> 00:23:47,593
 Si es invisible, ¿por qué aparece
-claro como la luz del día en el vídeo?
+claro como la luz del día en el video?
 
 283
 00:23:47,680 --> 00:23:53,915

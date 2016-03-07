@@ -419,7 +419,7 @@ Si la sueltas, te morderá.
 92
 00:09:38,320 --> 00:09:43,314
 - Aún no es considerado sospechoso.
-- Pasaremos el vídeo otra vez.
+- Pasaremos el video otra vez.
 
 93
 00:09:44,880 --> 00:09:48,953

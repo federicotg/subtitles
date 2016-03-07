@@ -1596,7 +1596,7 @@ en la base de datos del ejército.
 
 353
 00:29:01,840 --> 00:29:05,674
-- ¿Viste al que filmó el vídeo?
+- ¿Viste al que filmó el video?
 - No, pero identifique al alienígena.
 
 354

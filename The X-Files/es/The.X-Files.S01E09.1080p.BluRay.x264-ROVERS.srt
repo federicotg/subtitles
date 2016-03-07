@@ -1424,7 +1424,7 @@ MODO DE ESPERA - ENLACE EN REPOSO
 
 312
 00:22:12,560 --> 00:22:14,152
-Las señales de vídeo fallan.
+Las señales de video fallan.
 
 313
 00:22:14,920 --> 00:22:16,911

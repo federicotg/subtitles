@@ -495,7 +495,7 @@ Acabo de hablar con el agente Purdue.
 
 112
 00:08:29,680 --> 00:08:31,557
-¿Te enseñó la cinta de vídeo?
+¿Te enseñó la cinta de video?
 
 113
 00:08:35,080 --> 00:08:38,390
