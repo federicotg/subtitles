@@ -1190,7 +1190,7 @@ Usted es la agente Reyes, ¿no?
 
 267
 00:30:20,160 --> 00:30:23,948
-Sabe a que me refiero, ¿verdad?
+Sabe a qué me refiero, ¿verdad?
 
 268
 00:30:25,040 --> 00:30:31,957

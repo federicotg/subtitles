@@ -526,7 +526,7 @@ Me matará si no le das lo que quiere.
 
 117
 00:10:02,160 --> 00:10:05,038
-Dice que sabes a que se refiere.
+Dice que sabes a qué se refiere.
 
 118
 00:10:06,800 --> 00:10:10,315

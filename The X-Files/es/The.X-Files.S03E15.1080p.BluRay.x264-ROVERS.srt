@@ -387,7 +387,7 @@ Los franceses también lo están buscando.
 91
 00:08:30,360 --> 00:08:34,512
 - Y entonces, ¿qué?
-- ¿En base a que están operando?
+- ¿En base a qué están operando?
 
 92
 00:08:34,640 --> 00:08:35,675
@@ -1235,7 +1235,7 @@ El siguiente, por favor.
 
 278
 00:28:17,960 --> 00:28:22,272
-Creo saber a que se expusieron.
+Creo saber a qué se expusieron.
 Lo que el Piper Maru estaba buscando.
 
 279
