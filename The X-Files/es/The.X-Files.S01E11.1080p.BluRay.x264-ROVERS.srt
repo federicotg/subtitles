@@ -953,7 +953,7 @@ hacer desaparecer los resultados?
 
 216
 00:16:54,640 --> 00:17:00,272
-...pero con nuestros avances científicos,
+... pero con nuestros avances científicos,
 un poco de suerte y mucha esperanza,
 
 217
@@ -1793,7 +1793,7 @@ no como las otras Evas.
 
 412
 00:32:39,400 --> 00:32:41,470
-¿Qué...Qué habéis hecho?
+¿Qué... Qué habéis hecho?
 
 413
 00:32:41,600 --> 00:32:43,113

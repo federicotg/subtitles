@@ -420,7 +420,7 @@ subiendo a las estrellas.
 
 97
 00:11:35,028 --> 00:11:37,940
-- ...subiendo a las estrellas.
+- ... subiendo a las estrellas.
 - ¿Qué es esto?
 
 98
@@ -723,7 +723,7 @@ Hasta que usted diga.
 
 163
 00:21:13,814 --> 00:21:17,932
-...con lluvias y tormentas intermitentes.
+... con lluvias y tormentas intermitentes.
 
 164
 00:21:18,027 --> 00:21:23,488

@@ -1,6 +1,6 @@
 1
 00:00:02,400 --> 00:00:08,475
-...el tribunal superior de Pensylvania
+... el tribunal superior de Pensylvania
 da por concluida la causa BD-237.
 
 2
@@ -10,7 +10,7 @@ el sumario con una petición conjunta...
 
 3
 00:00:15,240 --> 00:00:17,595
-...matrimonio de:
+... matrimonio de:
 Cindy Savalas - Edward Jerse
 
 4

@@ -982,7 +982,7 @@ Pero no puede haber sombra a menos...
 
 223
 00:20:02,280 --> 00:20:03,918
-...que sea sólido.
+... que sea sólido.
 
 224
 00:20:04,000 --> 00:20:07,231

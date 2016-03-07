@@ -1623,7 +1623,7 @@ A la izquierda la mayor parte...
 349
 00:35:41,880 --> 00:35:45,077
 - ¿La mayor parte?
-- ...de las veces.
+- ... de las veces.
 
 350
 00:35:46,080 --> 00:35:49,789
@@ -1994,7 +1994,7 @@ Somos relativamente jóvenes.
 
 430
 00:42:06,120 --> 00:42:11,956
-...que nos dio, por esta noche,
+... que nos dio, por esta noche,
 una tarjeta de crédito corporativa.
 
 431

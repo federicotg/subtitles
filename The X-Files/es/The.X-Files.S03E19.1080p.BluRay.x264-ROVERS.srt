@@ -1193,7 +1193,7 @@ Nadie habla del juego...
 
 262
 00:29:57,520 --> 00:30:02,036
-...nadie abandona el juego.
+... nadie abandona el juego.
 
 263
 00:30:02,360 --> 00:30:04,555
@@ -1545,7 +1545,7 @@ Entonces, el juego...
 
 340
 00:38:56,400 --> 00:38:58,470
-...se terminó.
+... se terminó.
 
 341
 00:39:06,800 --> 00:39:09,075

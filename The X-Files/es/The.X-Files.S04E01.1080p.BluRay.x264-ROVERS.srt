@@ -227,7 +227,7 @@ para que pueda ver el trabajo...
 52
 00:12:49,800 --> 00:12:53,679
 - ¡No! No queda tiempo.
-- ...y donde podrá ver a su hermana.
+- ... y donde podrá ver a su hermana.
 
 53
 00:13:10,480 --> 00:13:12,835

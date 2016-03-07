@@ -1252,7 +1252,7 @@ En esta zona, no.
 
 276
 00:25:26,440 --> 00:25:29,591
-...fuerzas que no pueden ser
+... fuerzas que no pueden ser
 
 277
 00:25:29,720 --> 00:25:35,272

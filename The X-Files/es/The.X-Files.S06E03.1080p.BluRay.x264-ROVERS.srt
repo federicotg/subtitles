@@ -339,7 +339,7 @@ Barco en problemas. SOS.
 
 74
 00:06:55,640 --> 00:06:59,918
-...embajador inglés en Berlín le entregó
+... embajador inglés en Berlín le entregó
 al gobierno alemán una nota final
 
 75
@@ -367,7 +367,7 @@ este país está en guerra con Alemania.
 
 80
 00:07:33,720 --> 00:07:36,632
-...cerrando todos los lugares
+... cerrando todos los lugares
 de entretenimiento.
 
 81
@@ -1024,7 +1024,7 @@ Señor, lo que ha hecho...
 
 224
 00:24:01,120 --> 00:24:04,669
-- ...podría salvar a Mulder. Lo sé.
+- ... podría salvar a Mulder. Lo sé.
 - Gracias.
 
 225

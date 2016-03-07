@@ -133,7 +133,7 @@ Mulder.
 
 32
 00:03:26,840 --> 00:03:29,354
-...por todo el mundo.
+... por todo el mundo.
 ¿A qué conclusión llegas?
 
 33
@@ -143,7 +143,7 @@ No es una adivinanza...
 
 34
 00:03:33,640 --> 00:03:37,792
-...astilleros, donde concluyó
+... astilleros, donde concluyó
 una persecución de 90 km a gran velocidad.
 
 35
@@ -1838,7 +1838,7 @@ Tuvo un accidente terrible. Toda su familia.
 
 412
 00:31:37,720 --> 00:31:41,030
-Y la Dra. Carpenter ...murió.
+Y la Dra. Carpenter ... murió.
 
 413
 00:31:43,560 --> 00:31:47,269

@@ -1042,7 +1042,7 @@ Tiene que responderme.
 
 229
 00:28:57,200 --> 00:29:00,272
-- ...debe morir.
+- ... debe morir.
 - ¿Por qué?
 
 230
