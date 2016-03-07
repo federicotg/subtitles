@@ -605,7 +605,7 @@ Bob Harvey. ¿Le dice algo ese nombre?
 133
 00:17:09,880 --> 00:17:13,190
 Bob Harvey era sospechoso
-dela muerte de mi hijo.
+de la muerte de mi hijo.
 
 134
 00:17:13,280 --> 00:17:16,829

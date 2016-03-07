@@ -27,7 +27,7 @@ Cada una de ellas lleva un mensaje.
 7
 00:00:31,990 --> 00:00:35,858
 Los saludamos en nombre
-dela gente de nuestro planeta.
+de la gente de nuestro planeta.
 
 8
 00:00:36,787 --> 00:00:39,199
@@ -135,7 +135,7 @@ RECIBIENDO
 30
 00:02:18,263 --> 00:02:22,097
 Los saludo en nombre
-dela gente de nuestro planeta.
+de la gente de nuestro planeta.
 
 31
 00:02:23,060 --> 00:02:26,644
@@ -284,7 +284,7 @@ Tú sabes, Mulder, desde...
 62
 00:06:13,081 --> 00:06:16,073
 - desde allí atrás parecías ser él.
-- ¿El?
+- ¿Él?
 
 63
 00:06:17,502 --> 00:06:20,289
@@ -512,7 +512,7 @@ Vigía.
 111
 00:10:06,898 --> 00:10:11,141
 HR Haldeman reiteró la explicación
-dela Casa Blanca de que Woods...
+de la Casa Blanca de que Woods...
 
 112
 00:10:11,236 --> 00:10:15,946

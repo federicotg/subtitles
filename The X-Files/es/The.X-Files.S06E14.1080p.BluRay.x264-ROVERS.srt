@@ -865,7 +865,7 @@ Agente Scully.
 192
 00:26:20,760 --> 00:26:24,196
 Cradock Marine, sucursal
-dela calle 8, a una cuadra de aquí.
+de la calle 8, a una cuadra de aquí.
 
 193
 00:26:25,280 --> 00:26:28,033
