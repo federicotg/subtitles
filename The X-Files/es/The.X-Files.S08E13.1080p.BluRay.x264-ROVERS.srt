@@ -680,7 +680,7 @@ Disculpa, ¿pero me estás investigando?
 149
 00:17:27,480 --> 00:17:32,190
 Estaba investigando a los Haskell,
-pero deje el caso, tal como me pediste.
+pero dejé el caso, tal como me pediste.
 
 150
 00:17:32,320 --> 00:17:35,790
