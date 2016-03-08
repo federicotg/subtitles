@@ -33,7 +33,7 @@ Consíganme a un abogado.
 
 8
 00:01:11,321 --> 00:01:13,437
-AIAula Magna.
+Al Aula Magna.
 
 9
 00:01:49,359 --> 00:01:51,896
