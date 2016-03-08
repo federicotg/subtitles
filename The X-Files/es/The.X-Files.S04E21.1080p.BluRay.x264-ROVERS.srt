@@ -1410,7 +1410,7 @@ Es un tipo de experimento.
 313
 00:37:30,360 --> 00:37:33,909
 - No, no estoy involucrado.
-- ¿Entonces que está haciendo aquí?
+- ¿Entonces qué está haciendo aquí?
 
 314
 00:37:34,000 --> 00:37:36,468
