@@ -197,7 +197,8 @@ TENER CONOCIMIENTO
 
 44
 00:04:38,680 --> 00:04:41,194
-LA VERDAD ESTÁ ALLÁ AFUERA
+<i>ALL LIES LEAD TO THE TRUTH</i>
+TODAS LAS MENTIRAS CONDUCEN A LA VERDAD
 
 45
 00:04:58,000 --> 00:05:00,514
@@ -301,7 +302,7 @@ sino el mismo FBI.
 
 67
 00:06:28,560 --> 00:06:32,348
-Este tal Osterhoff estaba
+Este tal Ostelhoff estaba
 en el apartamento de arriba del mío.
 
 68
