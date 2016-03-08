@@ -307,7 +307,7 @@ Quiero ayudarte.
 
 70
 00:10:43,400 --> 00:10:47,075
-No sé que hacer.
+No sé qué hacer.
 No tengo mucho tiempo.
 
 71

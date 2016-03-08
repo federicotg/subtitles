@@ -210,7 +210,7 @@ Iré por cigarrillos.
 48
 00:06:17,120 --> 00:06:22,240
 Llamaré a la sede central,
-para que nos digan que hacer.
+para que nos digan qué hacer.
 
 49
 00:06:28,120 --> 00:06:30,953
@@ -1782,7 +1782,7 @@ No sabe de lo que habla.
 
 404
 00:41:40,080 --> 00:41:43,356
-- Sí que se, Rob.
+- Sí que sé, Rob.
 - ¡No sabe!
 
 405

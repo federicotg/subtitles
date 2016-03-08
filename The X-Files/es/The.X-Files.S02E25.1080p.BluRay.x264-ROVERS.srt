@@ -1,7 +1,7 @@
 1
 00:00:06,640 --> 00:00:10,792
 RESERVA NAVAJO TWO GREY
-HILLS, NUEVO MÉJICO, 9 DE ABRIL
+HILLS, NUEVO MÉXICO, 9 DE ABRIL
 
 2
 00:00:36,440 --> 00:00:39,671
@@ -1358,7 +1358,7 @@ Me acerqué demasiado a la verdad.
 
 304
 00:34:09,720 --> 00:34:12,393
-- ¿Nuevo Méjico?
+- ¿Nuevo México?
 - Estuvimos dos días viajando.
 
 305

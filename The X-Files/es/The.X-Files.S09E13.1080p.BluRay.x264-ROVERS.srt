@@ -41,7 +41,7 @@ Sino saber jugar la mano que te toca.
 10
 00:02:06,200 --> 00:02:11,035
 A muchos les toca una mano mala.
-La cuestión es que hacer con ella.
+La cuestión es qué hacer con ella.
 
 11
 00:02:11,160 --> 00:02:14,197

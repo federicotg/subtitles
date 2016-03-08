@@ -693,7 +693,7 @@ Está bien. Explican tú.
 
 154
 00:16:39,640 --> 00:16:43,030
-- No puedo. Me quedaré con lo que se.
+- No puedo. Me quedaré con lo que sé.
 - ¿Qué?
 
 155

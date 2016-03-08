@@ -395,7 +395,7 @@ hacer un trato conmigo.
 
 86
 00:10:41,680 --> 00:10:44,638
-Me temo que no hay por que hacer un trato.
+Me temo que no hay por qué hacer un trato.
 
 87
 00:10:44,720 --> 00:10:50,113
@@ -441,7 +441,7 @@ la resistencia a los colonos alienígenas.
 
 96
 00:11:16,400 --> 00:11:19,119
-- Usted necesita lo que se.
+- Usted necesita lo que sé.
 - ¿Tienes la vacuna?
 
 97
@@ -1244,7 +1244,7 @@ Dijo que usted estuvo en su consultorio.
 
 276
 00:27:49,280 --> 00:27:51,350
-Supongo que por lo que se,
+Supongo que por lo que sé,
 
 277
 00:27:51,480 --> 00:27:55,712
