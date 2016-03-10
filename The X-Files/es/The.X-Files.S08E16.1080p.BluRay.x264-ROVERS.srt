@@ -1893,7 +1893,7 @@ donde no te conviene.
 
 417
 00:41:50,240 --> 00:41:54,597
-Entiendo,John.
+Entiendo, John.
 Tú me pediste información.
 
 418

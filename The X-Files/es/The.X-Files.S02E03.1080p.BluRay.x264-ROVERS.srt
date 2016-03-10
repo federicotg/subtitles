@@ -5,7 +5,7 @@ FRANKLIN, PENSILVANIA
 
 2
 00:00:50,801 --> 00:00:52,416
-¿Eh,Ed?
+¿Eh, Ed?
 
 3
 00:00:53,720 --> 00:00:56,587
@@ -1056,7 +1056,7 @@ para controlar su propagación.
 237
 00:23:22,818 --> 00:23:26,151
 O los agentes de empresas agrícolas
-que estan en competencia,
+que están en competencia,
 
 238
 00:23:26,238 --> 00:23:28,900
@@ -1096,7 +1096,8 @@ Me llegó el mismo
 
 246
 00:23:49,929 --> 00:23:52,887
-día que mi subscripción a revista Hola.
+día que mi subscripción a revista 
+<i>Celebrity Skin</i>.
 
 247
 00:23:53,015 --> 00:23:55,097
