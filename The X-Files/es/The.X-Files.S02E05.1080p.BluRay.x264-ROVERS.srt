@@ -1375,7 +1375,7 @@ quiero morirme, ¿sabe?
 300
 00:27:11,171 --> 00:27:17,087
 Es como vivir con un arma en la cabeza...
-y saber cuándo se va a disparar.
+y no saber cuándo se va a disparar.
 
 301
 00:27:17,636 --> 00:27:20,093
@@ -1556,7 +1556,7 @@ Están en eso juntos.
 
 339
 00:30:19,359 --> 00:30:22,101
-El gobierno sabe porqué están aquí,
+El gobierno sabe por qué están aquí,
 
 340
 00:30:22,237 --> 00:30:25,855
@@ -2073,7 +2073,7 @@ diez micrones. Es extraño.
 
 453
 00:41:17,475 --> 00:41:19,557
-11,14.
+$11,14.
 
 454
 00:41:30,321 --> 00:41:32,403
