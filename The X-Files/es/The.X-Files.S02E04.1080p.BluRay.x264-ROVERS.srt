@@ -21,7 +21,7 @@ tasa de interés.
 5
 00:00:35,160 --> 00:00:39,870
 El índice Dow Jones cayó
-14% puntos a 3837,
+14 puntos y medio a 3837,
 
 6
 00:00:39,957 --> 00:00:45,623
@@ -110,7 +110,7 @@ PIONERO DE LA CURA DEL INSOMNIO
 
 26
 00:04:22,179 --> 00:04:26,092
-- Operadora del 91 1. Emergencias.
+- Operadora del 911. Emergencias.
 - Soy el Dr. Saul Grissom.
 
 27
