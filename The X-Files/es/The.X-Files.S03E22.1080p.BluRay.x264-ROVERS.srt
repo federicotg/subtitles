@@ -103,19 +103,20 @@ Buscapersonas del demonio.
 
 23
 00:02:53,300 --> 00:02:56,200
-"Actividad Paranormal"
+ACTIVIDAD PARANORMAL
 
 24
 00:03:01,200 --> 00:03:03,700
-"El Gobierno Niega Conocimiento"
+EL GOBIERNO NIEGA
+TENER CONOCIMIENTO
 
 25
 00:03:20,800 --> 00:03:23,200
-"La Verdad Está Allá Afuera"
+LA VERDAD ESTÁ ALLÁ AFUERA
 
 26
 00:03:25,500 --> 00:03:29,000
-"¿QUE COSA ES MAS ANTIGUA
+"¿QUÉ COSA ES MÁS ANTIGUA
 QUE LAS MONTAÑAS?"
 
 27
