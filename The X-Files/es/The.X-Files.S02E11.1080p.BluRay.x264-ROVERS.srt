@@ -651,7 +651,7 @@ La solicitud fue denegada. Hay más.
 145
 00:12:25,328 --> 00:12:27,910
 - Me gustaría estudiarlo.
-- Cmm.
+- Claro.
 
 146
 00:12:27,997 --> 00:12:32,161
