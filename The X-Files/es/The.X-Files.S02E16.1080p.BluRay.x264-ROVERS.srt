@@ -64,7 +64,7 @@ Prepararse, por favor.
 
 15
 00:01:26,120 --> 00:01:30,671
-- Temperatura: 86°.
+- Temperatura: 30°.
 - Ojos dilatados.
 
 16
@@ -200,7 +200,7 @@ Lo seguiremos.
 
 45
 00:04:05,280 --> 00:04:08,556
-CLINICA FAMILIAR
+CLÍNICA FAMILIAR
 SCRANTON, PENNSYLVANIA
 
 46
@@ -240,7 +240,7 @@ y no se lo ha vuelto a ver.
 
 53
 00:04:44,240 --> 00:04:46,470
-lnformando desde nuestra oficina...
+Informando desde nuestra oficina...
 
 54
 00:04:56,440 --> 00:05:00,035
