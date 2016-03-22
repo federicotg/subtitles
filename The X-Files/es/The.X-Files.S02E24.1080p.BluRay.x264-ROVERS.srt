@@ -37,7 +37,7 @@ Es un pueblo chico.
 
 9
 00:01:38,680 --> 00:01:42,229
-¿Y porqué no aquí?
+¿Y por qué no aquí?
 Pongo la manta...
 
 10
@@ -629,7 +629,7 @@ Podemos hablar.
 
 138
 00:14:11,720 --> 00:14:14,188
-¿Sabe porqué lo atacó?
+¿Sabe por qué lo atacó?
 
 139
 00:14:14,280 --> 00:14:17,750

@@ -1795,7 +1795,7 @@ Nada parece tener sentido para usted.
 
 396
 00:30:45,080 --> 00:30:48,356
-No sabe porqué hace lo que hace.
+No sabe por qué hace lo que hace.
 
 397
 00:30:48,440 --> 00:30:53,514
