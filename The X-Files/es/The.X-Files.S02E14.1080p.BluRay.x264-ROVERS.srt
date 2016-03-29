@@ -313,7 +313,7 @@ Lleva el sello de la biblioteca pública.
 
 71
 00:06:08,040 --> 00:06:12,431
-El título termina en en América.
+El título termina en <i>en América</i>.
 Me sorprende que no lo vieran.
 
 72
