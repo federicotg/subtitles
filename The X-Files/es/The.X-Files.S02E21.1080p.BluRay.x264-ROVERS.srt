@@ -256,7 +256,7 @@ para percibir sin ayuda.
 
 58
 00:06:14,280 --> 00:06:20,879
-Pero con este programa que diseñe
+Pero con este programa que diseñé
 se detecta información oculta.
 
 59
