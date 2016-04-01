@@ -301,7 +301,7 @@ memory.
 
 00:04:42.090 --> 00:04:45.259
 So if we have a pointer to this
-one-dimensional array that is storting
+one-dimensional array that is storing
 
 00:04:45.259 --> 00:04:46.830
 2, 3 and 6
@@ -636,7 +636,7 @@ C[i][j] as *(C[i]+j),
 
 00:10:20.310 --> 00:10:23.399
 and the overall expression will look
-something like thi.
+something like this
 
 00:10:23.399 --> 00:10:26.500
 and we can go ahead and write C[i]
@@ -664,7 +664,7 @@ I want a quick answer for this one. What
 will be
 
 00:10:48.720 --> 00:10:51.740
-the output for this print statement.
+the output for this print statement?
 
 00:10:51.740 --> 00:10:55.350
 Well C[0][1] means we're going to this
@@ -691,7 +691,7 @@ pointer so they will go to nine
 
 00:11:16.690 --> 00:11:21.200
 and dereferencing will give us
-interger 9.
+integer 9.
 
 00:11:21.200 --> 00:11:25.980
 In fact this expression is same as
@@ -914,7 +914,7 @@ So for the function to take this array
 
 00:15:02.180 --> 00:15:06.970
 B as argument. Definition should be
-something like this. The arguement should be
+something like this. The argument should be
 
 00:15:06.970 --> 00:15:08.709
 something like this.
