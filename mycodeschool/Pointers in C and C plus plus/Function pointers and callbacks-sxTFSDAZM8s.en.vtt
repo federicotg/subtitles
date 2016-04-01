@@ -504,7 +504,7 @@ have to typecast the void pointer to int pointer
 
 00:12:57.040 --> 00:13:02.769
 and then I'll have to use the asterisk operator
-to de-reference and get the value. We will
+to dereference and get the value. We will
 
 00:13:02.769 --> 00:13:09.750
 do the same to get the value of second element.

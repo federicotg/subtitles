@@ -187,7 +187,7 @@ be 201. Now, how do we fill in data here.
 If you see malloc returns a void pointer and
 
 00:04:48.020 --> 00:04:52.720
-void pointer as such cannot be de-referenced.
+void pointer as such cannot be dereferenced.
 You cannot write a statement something like
 
 00:04:52.720 --> 00:04:59.720
@@ -196,7 +196,7 @@ a void pointer. A void pointer in fact is
 
 00:05:00.440 --> 00:05:05.590
 only used as a generic pointer type which
-is normally typecasted into a pointer type
+is normally type casted into a pointer type
 
 00:05:05.590 --> 00:05:10.800
 of a particular data data type. And then it
@@ -480,7 +480,7 @@ till the lifetime of the program, till the
 
 00:12:14.860 --> 00:12:21.860
 time the program is executing unless you explicitly
-de-allocate it and to de-allocate memory allocated
+deallocate it and to deallocate memory allocated
 
 00:12:22.290 --> 00:12:27.959
 using malloc and calloc and realloc, we have
@@ -616,7 +616,7 @@ and the previous block, the content from the
 
 00:15:22.089 --> 00:15:26.709
 previous block is copied and the previous
-block is de-allocated. This will become further
+block is deallocated. This will become further
 
 00:15:26.709 --> 00:15:32.320
 clear if I will write this print statement.
@@ -655,7 +655,7 @@ as you can see, the first two elements are
 copied - 1 and 2, they are not copied in fact,
 
 00:16:16.600 --> 00:16:22.459
-they are there already. The rest 3 are de-allocated.
+they are there already. The rest 3 are deallocated.
 When we divide by 2, we take only the integral
 
 00:16:22.459 --> 00:16:27.410

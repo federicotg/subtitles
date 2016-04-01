@@ -975,7 +975,7 @@ stored in this particular variable would be
 Now, in this statement here, when we say asterisk 'p'
 
 00:12:52.830 --> 00:12:57.090
-we de-reference this address, so we are saying here that 
+we dereference this address, so we are saying here that 
 
 00:12:57.090 --> 00:13:00.050
 *p is value stored in address p 
@@ -1019,7 +1019,7 @@ address of the variable, so that we have
 a reference to the variable
 
 00:13:35.330 --> 00:13:40.990
-and we can de-reference it and perform some operations is called call by reference
+and we can dereference it and perform some operations is called call by reference
 
 00:13:40.990 --> 00:13:44.260
 so if we use pointers as function

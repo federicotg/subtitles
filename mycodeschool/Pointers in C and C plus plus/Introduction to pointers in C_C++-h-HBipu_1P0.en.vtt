@@ -586,7 +586,7 @@ will happen if we try to print *p (asterisk of p). Well, it
 will give us 5.
 
 00:08:30.339 --> 00:08:34.020
-This concept is called as de-referencing, because
+This concept is called as dereferencing, because
 
 00:08:34.020 --> 00:08:36.160
 we have a reference or

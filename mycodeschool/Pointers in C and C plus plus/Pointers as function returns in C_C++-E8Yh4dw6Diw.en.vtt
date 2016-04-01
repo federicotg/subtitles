@@ -139,7 +139,7 @@ now we can access the values at these addresses
 by using this asterisk operator which is used
 
 00:03:39.760 --> 00:03:46.430
-to de-reference an address. Now such a call
+to dereference an address. Now such a call
 is called call by reference. a and b are integers
 
 00:03:46.430 --> 00:03:52.439
@@ -376,7 +376,7 @@ So this ptr will be 144 and now the memory
 
 00:10:06.769 --> 00:10:13.319
 that is allocated to Add function will be
-de-allocated. Now this memory above address
+deallocated. Now this memory above address
 
 00:10:13.319 --> 00:10:22.309
 130 can be used for other function calls.
@@ -388,7 +388,7 @@ block (it kind of points to this particular
 
 00:10:27.699 --> 00:10:33.029
 block), the date here is not guaranteed because
-this memory has been de-allocated. Now we
+this memory has been deallocated. Now we
 
 00:10:33.029 --> 00:10:39.749
 come here to this PrintHelloWorld and now
@@ -467,7 +467,7 @@ from Add to main, when that function finishes
 and the control returns back to the calling
 
 00:12:21.850 --> 00:12:27.730
-function that memory has already been de-allocated.
+function that memory has already been deallocated.
 So it is ok to pass something from bottom
 
 00:12:27.730 --> 00:12:33.170
@@ -499,10 +499,10 @@ section, then we can safely return the address
 
 00:13:01.269 --> 00:13:07.279
 of these blocks because anything in the heap
-has to be explicitly de-allocated. We control
+has to be explicitly deallocated. We control
 
 00:13:07.279 --> 00:13:14.029
-its de-allocation unlike stack. And anything
+its deallocation unlike stack. And anything
 which is in the global section, a global variable,
 
 00:13:14.029 --> 00:13:21.069
@@ -554,11 +554,11 @@ address returned by the Add function which
 
 00:14:26.949 --> 00:14:34.459
 is address 500 is still valid. We still have
-the data there and it will not be de-allocated.
+the data there and it will not be deallocated.
 
 00:14:34.459 --> 00:14:39.740
 Anything on the heap has to be explicitly
-de-allocated. So while returning pointers
+deallocated. So while returning pointers
 
 00:14:39.740 --> 00:14:45.149
 from functions, we need to be careful about
