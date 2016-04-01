@@ -447,16 +447,16 @@ forthcoming lessons
 
 00:05:58.210 --> 00:06:01.299
 of these four segments of the allocated
-memory
+memory:
 
 00:06:01.299 --> 00:06:03.490
-uh... the text segment
+the text segment,
 
 00:06:03.490 --> 00:06:06.099
-the global variable segment and the stack segment
+the global variable segment and the stack segment.
 
 00:06:06.099 --> 00:06:08.669
-these three are fixed and
+These three are fixed and
 
 00:06:08.669 --> 00:06:10.900
 they are decided when the program starts
@@ -465,27 +465,27 @@ they are decided when the program starts
 executing
 
 00:06:12.099 --> 00:06:15.970
-the application however can keep asking for
-more memory for its
+the application. However we can keep asking for
+more memory for 
 
 00:06:15.970 --> 00:06:17.729
 it's heap segment
 
 00:06:17.729 --> 00:06:20.999
-during its execution only
+during its execution.
 
 00:06:20.999 --> 00:06:24.319
-we will cover all of these things in
-detail in our forthcoming lessons, please
+We will cover all of these things in
+detail in our forthcoming lessons. Please
 
 00:06:24.319 --> 00:06:25.250
 do not get
 
 00:06:25.250 --> 00:06:27.180
-scared by these terms
+scared by these terms.
 
 00:06:27.180 --> 00:06:29.149
-let us now see what happens when
+Let us now see what happens when
 
 00:06:29.149 --> 00:06:30.370
 a program
@@ -506,7 +506,7 @@ and as we know each
 byte in the memory is addressable. so, let's say
 
 00:06:41.119 --> 00:06:44.779
-uh... the memory allocated for our
+the memory allocated for our
 program is from address two zero zero
 
 00:06:44.779 --> 00:06:45.909
@@ -610,7 +610,7 @@ increment function
 what happens when main method calls
 
 00:08:01.610 --> 00:08:04.039
-increment is that uh... machine says that hey
+increment is that the machine says "hey
 
 00:08:04.039 --> 00:08:06.359
 I will stop your execution for some time
@@ -626,10 +626,10 @@ method increment
 
 00:08:13.309 --> 00:08:16.509
 and then I'll come back to the main
-method once I am done with increment
+method once I am done with increment".
 
 00:08:16.509 --> 00:08:20.069
-now another stack frame is allocated for
+Now another stack frame is allocated for
 the increment method
 
 00:08:20.069 --> 00:08:22.509
@@ -664,7 +664,7 @@ then what happens that
 this 'a' which is local to the increment function, in this particular
 
 00:08:42.590 --> 00:08:43.900
-stack-frame
+stack frame
 
 00:08:43.900 --> 00:08:46.110
 this 'a' is incremented
@@ -673,7 +673,7 @@ this 'a' is incremented
 they cannot access a variable outside
 
 00:08:48.830 --> 00:08:50.240
-its stack-frame
+its stack frame
 
 00:08:50.240 --> 00:08:52.240
 and now increment finishes
@@ -688,7 +688,7 @@ returns to the main method
 and what the machine does is
 
 00:08:57.790 --> 00:09:01.470
-it clears the stack-frame that was allocated for increment
+it clears the stack frame that was allocated for increment
 
 00:09:01.470 --> 00:09:05.550
 and main method resumes again. So, main method was paused at this particular instruction
@@ -759,7 +759,7 @@ what happens when one function calls
 another function
 
 00:09:58.280 --> 00:10:01.510
-this 'a' is in the stack-frame of the
+this 'a' is in the stack frame of the
 main method
 
 00:10:01.510 --> 00:10:03.610
@@ -910,13 +910,13 @@ the address of 'a'
 so when the program will start executing, the main method will be invoked
 
 00:11:58.810 --> 00:12:03.120
-first. Let's say this is the stack-frame of the main method
+first. Let's say this is the stack frame of the main method
 
 00:12:03.120 --> 00:12:05.220
 let's say 300 to
 
 00:12:05.220 --> 00:12:09.270
-350, this address is the stack-frame of the main method and
+350, this address is the stack frame of the main method and
 of main method
 
 00:12:09.270 --> 00:12:10.620

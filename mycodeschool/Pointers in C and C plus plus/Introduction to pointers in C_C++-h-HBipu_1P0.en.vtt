@@ -42,7 +42,7 @@ how various data types or various variables
 are stored in computers memory.
 
 00:00:37.280 --> 00:00:38.959
-Ok... so let's say,
+Ok. So let's say,
 
 00:00:38.959 --> 00:00:41.320
 this figure in the right here, is
@@ -84,7 +84,7 @@ an address. So,
 let's say
 
 00:01:17.119 --> 00:01:19.630
-uh... the first byte in this
+the first byte in this
 
 00:01:19.630 --> 00:01:21.600
 memory which we can assume to be,
@@ -216,7 +216,7 @@ it knows that it is a character variable, so it needs 1 byte of memory.
 So it looks for some free space, let's say in this case
 
 00:03:16.619 --> 00:03:18.029
-uh... it allocates
+it allocates
 
 00:03:18.029 --> 00:03:22.689
 the address 209, the byte 209 for 'c',
@@ -592,10 +592,10 @@ This concept is called as dereferencing, because
 we have a reference or
 
 00:08:36.160 --> 00:08:37.360
-we have stored the...
+we have stored
 
 00:08:37.360 --> 00:08:40.180
-an address in 'p'. And,
+an address in 'p'. And
 
 00:08:40.180 --> 00:08:44.150
 we kind of get the value at this particular address using this operator.
@@ -646,10 +646,7 @@ that is stored in 'p'.
 Okay, to just to reiterate
 
 00:09:20.540 --> 00:09:22.970
-uh... we define a pointer variable
-
-00:09:22.970 --> 00:09:24.420
-using...
+we define a pointer variable
 
 00:09:24.420 --> 00:09:27.780
 by putting an asterisk (*) sign in front of the variable name and
@@ -685,7 +682,7 @@ So this was some of the basics of pointers.
 In the coming lessons we'll some
 
 00:09:52.260 --> 00:09:57.630
-see some code snippets uh... where we'll see some of the common errors that we make
+see some code snippets where we'll see some of the common errors that we make
 
 00:09:57.630 --> 00:09:59.010
 while using pointers

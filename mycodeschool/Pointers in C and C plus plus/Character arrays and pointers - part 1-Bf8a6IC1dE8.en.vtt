@@ -122,7 +122,7 @@ So let's say if our string is a
 name of four characters,
 
 00:01:32.310 --> 00:01:33.830
-uh... like john
+like john
 
 00:01:33.830 --> 00:01:35.540
 then the size of the array
@@ -169,7 +169,7 @@ let's try to understand it this way
 Let's say we have a character array of size 8,
 
 00:02:06.740 --> 00:02:10.009
-uh... let's say this is a logical view of our array, C,
+let's say this is a logical view of our array, C,
 
 00:02:10.009 --> 00:02:13.599
 and we want to store the string john in
@@ -195,11 +195,11 @@ So, we have stored all the characters
 of the string 'JOHN' in this array
 
 00:02:29.700 --> 00:02:32.930
-uh... but if you see we have not stored
+but if you see we have not stored
 one information
 
 00:02:32.930 --> 00:02:36.389
-uh... we have not stored the information
+we have not stored the information
 that this particular character 'N' is
 
 00:02:36.389 --> 00:02:38.200
@@ -335,7 +335,7 @@ I want to print a string and then
 I am passing this array C,
 
 00:04:18.819 --> 00:04:21.810
-uh... let us run this program and see
+let us run this program and see
 what happens,
 
 00:04:21.810 --> 00:04:22.800
@@ -412,7 +412,7 @@ contract
 that we have to follow
 
 00:05:18.560 --> 00:05:23.639
-uh... let's say we want to use the
+let's say we want to use the
 function strlen, string length
 
 00:05:23.639 --> 00:05:24.770
@@ -431,7 +431,7 @@ and see.
 As you can see the output is Length=4,
 
 00:05:33.120 --> 00:05:34.709
-even though uh... the
+even though the
 
 00:05:34.709 --> 00:05:36.610
 array is of size 20.
@@ -461,13 +461,13 @@ within double quotation marks, so we could
 have written something like this
 
 00:05:57.699 --> 00:06:00.539
-and this would have initialized uh... C
+and this would have initialized C
 
 00:06:00.539 --> 00:06:04.090
 as this string and the null termination for
 
 00:06:04.090 --> 00:06:06.830
-uh... string literal is implicit.
+string literal is implicit.
 
 00:06:06.830 --> 00:06:10.750
 It is always stored with a null termination in memory,
@@ -506,7 +506,7 @@ string 'JOHN'.
 So, if we try to print the size in bytes of Che using this sizeof function,
 
 00:06:46.629 --> 00:06:50.999
-uh... then, size in bytes is five, one character
+then, size in bytes is five, one character
 is stored in one byte, so space
 
 00:06:50.999 --> 00:06:53.169
@@ -523,7 +523,7 @@ count in the length,
 if we write something like C[4]=
 
 00:07:01.879 --> 00:07:04.529
-uh... this particular string literal, with four characters,
+this particular string literal, with four characters,
 
 00:07:04.529 --> 00:07:07.749
 this will give us compilation error,
@@ -888,7 +888,7 @@ and this function
 should print the string part in the character array
 
 00:12:17.830 --> 00:12:19.690
-uh... the argument to the function
+the argument to the function
 
 00:12:19.690 --> 00:12:23.390
 we have talked about this earlier, can be
