@@ -1,0 +1,1051 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.210 --> 00:00:04.420
+in this lesson we will be talking about 
+one more scenario in which
+
+00:00:04.420 --> 00:00:05.300
+the concept of
+
+00:00:05.300 --> 00:00:06.379
+arrays and
+
+00:00:06.379 --> 00:00:08.719
+pointers go together
+
+00:00:08.719 --> 00:00:10.180
+and this scenario is when
+
+00:00:10.180 --> 00:00:10.960
+you pass
+
+00:00:10.960 --> 00:00:14.169
+an array as function argument
+
+00:00:14.169 --> 00:00:17.390
+let us see a code example where we pass
+
+00:00:17.390 --> 00:00:20.949
+array as function argument and try to
+analyze it
+
+00:00:20.949 --> 00:00:24.130
+I will write a simple C program in 
+which I will write
+
+00:00:24.130 --> 00:00:25.539
+a function
+
+00:00:25.539 --> 00:00:26.960
+that will give me
+
+00:00:26.960 --> 00:00:29.179
+the sum of all the elements
+
+00:00:29.179 --> 00:00:31.060
+in an integer array
+
+00:00:31.060 --> 00:00:34.650
+this function will take an integer array as argument
+
+00:00:34.650 --> 00:00:37.340
+this is one of the ways to pass an integer array
+
+00:00:37.340 --> 00:00:39.610
+an array in general as argument
+
+00:00:39.610 --> 00:00:42.340
+this would be data type and this 
+would be
+
+00:00:42.340 --> 00:00:44.240
+the name of the array
+
+00:00:44.240 --> 00:00:46.160
+and in the main method we have
+
+00:00:46.160 --> 00:00:50.130
+declared an initialized an array named A
+
+00:00:50.130 --> 00:00:53.190
+Now in the main method we will call this function 
+sumOfElements
+
+00:00:53.190 --> 00:00:54.270
+and pass this
+
+00:00:54.270 --> 00:00:56.620
+array A as argument
+
+00:00:56.620 --> 00:00:58.289
+and of course we need to write the
+
+00:00:58.289 --> 00:01:01.190
+body of this function sumOfElements
+
+00:01:01.190 --> 00:01:03.910
+I will declare two variables i
+
+00:01:03.910 --> 00:01:07.340
+and another variable sum and 
+initialize it to zero.
+
+00:01:07.340 --> 00:01:08.930
+'i' will be used to run a loop
+
+00:01:08.930 --> 00:01:12.840
+so we will iterate through all the elements 
+in the array A
+
+00:01:12.840 --> 00:01:15.210
+that is passed as argument
+
+00:01:15.210 --> 00:01:18.810
+but wait a minute we do not know the 
+size of the array A
+
+00:01:18.810 --> 00:01:21.510
+is there some way to know the size of 
+the array
+
+00:01:21.510 --> 00:01:22.590
+one of the
+
+00:01:22.590 --> 00:01:24.130
+ways to find out
+
+00:01:24.130 --> 00:01:27.730
+the size of the array and by the size of 
+the array we mean the number of elements in
+
+00:01:27.730 --> 00:01:28.990
+the array here
+
+00:01:28.990 --> 00:01:32.370
+is to use the function sizeof
+
+00:01:32.370 --> 00:01:33.780
+so if we write something like
+
+00:01:33.780 --> 00:01:34.609
+sizeof
+
+00:01:34.609 --> 00:01:36.650
+A here in the main method
+
+00:01:36.650 --> 00:01:40.500
+then this will give us the size of array A
+ in bytes
+
+00:01:40.500 --> 00:01:43.680
+array A has five integers and in a 
+typical compiler
+
+00:01:43.680 --> 00:01:47.369
+and I know for sure that in this 
+compiler an integer is stored in four
+
+00:01:47.369 --> 00:01:49.540
+bytes so size of A
+
+00:01:49.540 --> 00:01:51.320
+will return
+
+00:01:51.320 --> 00:01:54.830
+twenty if we want to know the number of elements in the array
+
+00:01:54.830 --> 00:01:56.460
+then we can do something like
+
+00:01:56.460 --> 00:01:58.680
+divide the size of
+
+00:01:58.680 --> 00:02:00.180
+the size in bytes
+
+00:02:00.180 --> 00:02:03.200
+of the whole array by size of one integer
+
+00:02:03.200 --> 00:02:06.670
+so we will say size of A upon size of
+
+00:02:06.670 --> 00:02:09.689
+each integer in byte the size of A[0] 
+would give us the
+
+00:02:09.689 --> 00:02:12.549
+number of elements in the array and
+
+00:02:12.549 --> 00:02:14.310
+I will write this particular line
+
+00:02:14.310 --> 00:02:16.849
+below this line
+
+00:02:16.849 --> 00:02:19.809
+the line where we are calling the function 
+sumOfElements
+
+00:02:19.809 --> 00:02:21.459
+now what we can do is
+
+00:02:21.459 --> 00:02:24.060
+we could either pass the size of the
+array
+
+00:02:24.060 --> 00:02:27.179
+as another argument
+
+00:02:27.179 --> 00:02:28.769
+so that would be cool
+
+00:02:28.769 --> 00:02:30.239
+and then we can run the loop
+
+00:02:30.239 --> 00:02:32.169
+starting zero till
+
+00:02:32.169 --> 00:02:32.970
+index
+
+00:02:32.970 --> 00:02:33.840
+size
+
+00:02:33.840 --> 00:02:35.439
+minus one
+
+00:02:35.439 --> 00:02:38.040
+and we keep on adding each element
+
+00:02:38.040 --> 00:02:40.869
+to this variable sum
+
+00:02:40.869 --> 00:02:41.849
+and finally
+
+00:02:41.849 --> 00:02:44.929
+we return sum
+
+00:02:44.929 --> 00:02:47.259
+and finally we will write a
+
+00:02:47.259 --> 00:02:48.949
+print statement
+
+00:02:48.949 --> 00:02:50.889
+something like this
+
+00:02:50.889 --> 00:02:53.799
+to print the sum of all the elements in the array
+
+00:02:53.799 --> 00:02:55.519
+let us now run this program and
+
+00:02:55.519 --> 00:02:56.819
+see what happens
+
+00:02:56.819 --> 00:02:58.510
+the output on console is that
+
+00:02:58.510 --> 00:03:00.529
+the sum of elements
+
+00:03:00.529 --> 00:03:02.059
+is equal to fifteen
+
+00:03:02.059 --> 00:03:06.539
+fight plus four plus three plus two plus one
+is fifteen so this is all right
+
+00:03:06.539 --> 00:03:10.599
+now what I want to do is I want to
+modify this code a little
+
+00:03:10.599 --> 00:03:12.520
+I do not want to pass this size
+
+00:03:12.520 --> 00:03:14.149
+as argument here
+
+00:03:14.149 --> 00:03:18.229
+I want to calculate the size of the
+array inside this function
+
+00:03:18.229 --> 00:03:19.669
+so
+
+00:03:19.669 --> 00:03:23.230
+we will not be passing the sizes
+argument here so there will be
+
+00:03:23.230 --> 00:03:24.500
+just one argument
+
+00:03:24.500 --> 00:03:25.930
+the array
+
+00:03:25.930 --> 00:03:28.479
+so we have this array as argument
+
+00:03:28.479 --> 00:03:31.039
+the array A
+
+00:03:31.039 --> 00:03:33.499
+and we calculate the size here as total size of the array in bytes
+
+00:03:33.499 --> 00:03:35.299
+upon the size of
+
+00:03:35.299 --> 00:03:37.249
+one integer in bytes
+
+00:03:37.249 --> 00:03:40.989
+let us now run this program and see
+what happens
+
+00:03:40.989 --> 00:03:44.290
+oops there seems to be some problem because
+the sum of elements
+
+00:03:44.290 --> 00:03:47.059
+that we have as output on
+console here is
+
+00:03:47.059 --> 00:03:49.439
+equal to one it should be fifteen
+
+00:03:49.439 --> 00:03:51.489
+and why is it so
+
+00:03:51.489 --> 00:03:53.689
+to explain this behavior I will write
+
+00:03:53.689 --> 00:03:55.579
+to mort print statements
+
+00:03:55.579 --> 00:03:58.099
+one in the function sumOfElements
+
+00:03:58.099 --> 00:04:00.450
+where I will print the size of A
+
+00:04:00.450 --> 00:04:03.639
+and the size of A[0]
+
+00:04:03.639 --> 00:04:06.329
+I will be calling these two function
+sizeOf
+
+00:04:06.329 --> 00:04:07.019
+upon A
+
+00:04:07.019 --> 00:04:11.180
+and upon A[0] respectively and we will write one more print statements
+
+00:04:11.180 --> 00:04:12.549
+in the main method
+
+00:04:12.549 --> 00:04:16.009
+it will again be the same thing printing
+the size of A in bytes and the size
+
+00:04:16.009 --> 00:04:18.269
+of A[0] in bytes
+
+00:04:18.269 --> 00:04:19.999
+let us now see the output
+
+00:04:19.999 --> 00:04:24.430
+in the method sumOfElements size
+of A is equal to four bytes
+
+00:04:24.430 --> 00:04:26.819
+size of A[0] is equal to four bytes
+
+00:04:26.819 --> 00:04:30.459
+in the method main size of A
+is equal to twenty bytes and the size of
+
+00:04:30.459 --> 00:04:31.760
+A[0] again is
+
+00:04:31.760 --> 00:04:33.110
+four bytes
+
+00:04:33.110 --> 00:04:35.210
+to understand this concept
+
+00:04:35.210 --> 00:04:36.740
+why the size of
+
+00:04:36.740 --> 00:04:37.750
+A is
+
+00:04:37.750 --> 00:04:41.419
+four bytes in the method sumOfElements
+and it is equal to
+
+00:04:41.419 --> 00:04:43.460
+twenty bytes in the main method
+
+00:04:43.460 --> 00:04:45.620
+we need to dive deep into
+
+00:04:45.620 --> 00:04:47.689
+how compiler interprets
+
+00:04:47.689 --> 00:04:50.740
+an array as function argument
+
+00:04:50.740 --> 00:04:52.459
+once again I will draw this
+
+00:04:52.459 --> 00:04:54.469
+familiar memory diagram
+
+00:04:54.469 --> 00:04:57.510
+the memory assigned to an application or
+a program
+
+00:04:57.510 --> 00:05:00.300
+is typically divided into these four
+parts
+
+00:05:00.300 --> 00:05:03.089
+we have talked about this in our
+previous lessons
+
+00:05:03.089 --> 00:05:06.040
+for the execution of function calls we use
+
+00:05:06.040 --> 00:05:08.639
+stacked section of the
+
+00:05:08.639 --> 00:05:11.880
+memory this green rectangle here is our
+stack
+
+00:05:11.880 --> 00:05:16.439
+now when the program starts executing
+first main method is invoked
+
+00:05:16.439 --> 00:05:18.599
+so some amount of memory
+
+00:05:18.599 --> 00:05:20.750
+from the stack is allocated
+
+00:05:20.750 --> 00:05:25.330
+corresponding to the call of the main
+method
+
+00:05:25.330 --> 00:05:27.639
+this particular section or this
+particular part
+
+00:05:27.639 --> 00:05:30.870
+is also called the stack frame of a
+method
+
+00:05:30.870 --> 00:05:34.199
+all the local variables reside within this
+stack frame
+
+00:05:34.199 --> 00:05:34.949
+now here
+
+00:05:34.949 --> 00:05:37.289
+in main method we have
+
+00:05:37.289 --> 00:05:40.889
+two local variables one is the array
+A
+
+00:05:40.889 --> 00:05:44.050
+and another local variable is integer total
+
+00:05:44.050 --> 00:05:44.949
+so
+
+00:05:44.949 --> 00:05:47.479
+around twenty bytes if integer is
+
+00:05:47.479 --> 00:05:48.620
+four bytes
+
+00:05:48.620 --> 00:05:51.599
+exactly twenty bytes infact would
+be allocated
+
+00:05:51.599 --> 00:05:54.330
+from this stack frame for the local variable
+A
+
+00:05:54.330 --> 00:05:56.709
+the array A and
+
+00:05:56.709 --> 00:05:57.919
+four bytes
+
+00:05:57.919 --> 00:06:00.779
+for total the variable total
+
+00:06:00.779 --> 00:06:03.529
+and there would be some more information
+in the stack frame
+
+00:06:03.529 --> 00:06:07.069
+now when the program execution reaches
+this particular line
+
+00:06:07.069 --> 00:06:09.789
+where we make a call to sumOfElements
+then
+
+00:06:09.789 --> 00:06:11.999
+the execution of main is
+
+00:06:11.999 --> 00:06:13.619
+paused and
+
+00:06:13.619 --> 00:06:15.300
+another stack frame
+
+00:06:15.300 --> 00:06:17.900
+is allocated to execute the function
+
+00:06:17.900 --> 00:06:19.469
+sumOfElements
+
+00:06:19.469 --> 00:06:21.160
+we have talked about this
+
+00:06:21.160 --> 00:06:22.839
+call stack growth
+
+00:06:22.839 --> 00:06:24.389
+and function execution
+
+00:06:24.389 --> 00:06:26.560
+a number of times in our previous lessons
+
+00:06:26.560 --> 00:06:27.490
+ok now this
+
+00:06:27.490 --> 00:06:31.059
+is a local variable this parameter
+is a local variable to
+
+00:06:31.059 --> 00:06:33.259
+the function sumOfElements it is not
+
+00:06:33.259 --> 00:06:34.469
+this A in the
+
+00:06:34.469 --> 00:06:35.870
+main method
+
+00:06:35.870 --> 00:06:38.249
+what happens when we make a function call
+is that
+
+00:06:38.249 --> 00:06:41.669
+the value of this particular local
+variable in the main method
+
+00:06:41.669 --> 00:06:43.529
+or we should rather say the
+
+00:06:43.529 --> 00:06:47.610
+value from the variable in the calling
+function is copied to the variable in
+
+00:06:47.610 --> 00:06:49.360
+the called function
+
+00:06:49.360 --> 00:06:51.279
+so ideally we should have
+
+00:06:51.279 --> 00:06:53.349
+one more
+
+00:06:53.349 --> 00:06:54.830
+A local to
+
+00:06:54.830 --> 00:06:57.740
+the function called sumOfElements
+
+00:06:57.740 --> 00:07:00.839
+and the value of A should be
+copied into
+
+00:07:00.839 --> 00:07:03.929
+this parameter A
+
+00:07:03.929 --> 00:07:05.430
+so we would have another
+
+00:07:05.430 --> 00:07:06.819
+array named A
+
+00:07:06.819 --> 00:07:10.759
+taking twenty bytes in the stack frame of sumOfElements
+
+00:07:10.759 --> 00:07:12.349
+and it would have the same value
+
+00:07:12.349 --> 00:07:14.389
+same elements as
+
+00:07:14.389 --> 00:07:17.919
+the array A in the calling function
+
+00:07:17.919 --> 00:07:21.669
+but actually this doesn't happen
+
+00:07:21.669 --> 00:07:23.129
+when compiler sees
+
+00:07:23.129 --> 00:07:26.249
+and array as function argument
+
+00:07:26.249 --> 00:07:28.349
+it does not copy the whole array
+
+00:07:28.349 --> 00:07:30.979
+what it actually does
+
+00:07:30.979 --> 00:07:33.519
+it just creates
+
+00:07:33.519 --> 00:07:38.469
+a pointer variable by the same name
+instead of creating the whole array
+
+00:07:38.469 --> 00:07:39.559
+it just creates a
+
+00:07:39.559 --> 00:07:40.629
+pointer
+
+00:07:40.629 --> 00:07:44.649
+to the data type of the array so in this case
+it will be pointer to integer
+
+00:07:44.649 --> 00:07:47.280
+and the compiler just copies the
+
+00:07:47.280 --> 00:07:51.289
+address of the first element in the
+array
+
+00:07:51.289 --> 00:07:52.739
+of the calling function so
+
+00:07:52.739 --> 00:07:53.880
+let's say
+
+00:07:53.880 --> 00:07:57.599
+the starting address the address of the first
+element
+
+00:07:57.599 --> 00:08:01.399
+in this array A that belongs to the main
+method is two hundred so
+
+00:08:01.399 --> 00:08:03.039
+in sumOfElements
+
+00:08:03.039 --> 00:08:06.979
+all that happens is a pointer to integer
+is created and the value
+
+00:08:06.979 --> 00:08:09.550
+in this pointer to integer is 200
+
+00:08:09.550 --> 00:08:14.819
+the compiler implicitly converts
+this
+
+00:08:14.819 --> 00:08:16.119
+int A to something like
+
+00:08:16.119 --> 00:08:17.529
+int *A
+
+00:08:17.529 --> 00:08:19.120
+that is this A
+
+00:08:19.120 --> 00:08:22.349
+here in this particular format is not
+interpreted as
+
+00:08:22.349 --> 00:08:24.360
+array but it is interpreted
+
+00:08:24.360 --> 00:08:26.249
+as pointer to integer
+
+00:08:26.249 --> 00:08:28.179
+so whether you write int
+
+00:08:28.179 --> 00:08:33.170
+space variable name following these
+brackets or you write something like
+
+00:08:33.170 --> 00:08:35.090
+int* space A
+
+00:08:35.090 --> 00:08:37.870
+they are both the same
+
+00:08:37.870 --> 00:08:39.330
+we have a term for this
+
+00:08:39.330 --> 00:08:42.960
+instead of copying the value of the
+variable we are just
+
+00:08:42.960 --> 00:08:45.770
+copying and storing the address of the variable
+
+00:08:45.770 --> 00:08:46.700
+so
+
+00:08:46.700 --> 00:08:48.710
+we make a call by reference here
+
+00:08:48.710 --> 00:08:50.170
+arrays
+
+00:08:50.170 --> 00:08:51.230
+always are passed
+
+00:08:51.230 --> 00:08:53.390
+as reference parameters
+
+00:08:53.390 --> 00:08:55.620
+and this makes a lot of sense because
+
+00:08:55.620 --> 00:09:00.640
+arrays can be really large in size so it
+does not make much sense to create a new
+
+00:09:00.640 --> 00:09:05.850
+copy of array each time it is
+unnecessarily using a lot of memory
+
+00:09:05.850 --> 00:09:09.430
+so for arrays there is no call by value there
+is always a call by
+
+00:09:09.430 --> 00:09:10.600
+reference
+
+00:09:10.600 --> 00:09:12.320
+and that's why this size of
+
+00:09:12.320 --> 00:09:13.400
+A here
+
+00:09:13.400 --> 00:09:14.360
+would give us
+
+00:09:14.360 --> 00:09:15.820
+four as output
+
+00:09:15.820 --> 00:09:18.520
+because A is a pointer to integer here
+
+00:09:18.520 --> 00:09:21.520
+while here in the main method A is an array
+
+00:09:21.520 --> 00:09:23.450
+so this format of
+
+00:09:23.450 --> 00:09:24.440
+passing
+
+00:09:24.440 --> 00:09:26.760
+array as function argument where we put
+these
+
+00:09:26.760 --> 00:09:29.430
+braces to tell that this is an array
+
+00:09:29.430 --> 00:09:30.970
+is actually interpreted
+
+00:09:30.970 --> 00:09:33.290
+something like this
+
+00:09:33.290 --> 00:09:34.520
+by the compiler
+
+00:09:34.520 --> 00:09:37.880
+you can put an asterick sign here or
+you can put an asterick sign here its the
+
+00:09:37.880 --> 00:09:39.330
+same thing
+
+00:09:39.330 --> 00:09:41.690
+it makes more sense to write it like this
+
+00:09:41.690 --> 00:09:43.930
+so A is actually interpreted as
+
+00:09:43.930 --> 00:09:45.610
+pointer to integer
+
+00:09:45.610 --> 00:09:47.530
+that's why when we pass
+
+00:09:47.530 --> 00:09:50.660
+array as function argument there is no way
+to know the
+
+00:09:50.660 --> 00:09:52.810
+number of elements in the array
+
+00:09:52.810 --> 00:09:54.639
+by using a trick like this
+
+00:09:54.639 --> 00:09:56.140
+we actually need to pass
+
+00:09:56.140 --> 00:09:59.220
+the size of the array
+
+00:09:59.220 --> 00:10:03.390
+so I would rather move this size
+calculation in the main method and
+
+00:10:03.390 --> 00:10:05.060
+pass the size
+
+00:10:05.060 --> 00:10:06.600
+and
+
+00:10:06.600 --> 00:10:11.770
+when we run this program now we get the
+output as expected sum of elements is
+
+00:10:11.770 --> 00:10:13.490
+fifteen
+
+00:10:13.490 --> 00:10:15.420
+we should always keep in mind that
+
+00:10:15.420 --> 00:10:17.650
+a variable name which is
+
+00:10:17.650 --> 00:10:18.980
+used as an array
+
+00:10:18.980 --> 00:10:20.510
+is different from
+
+00:10:20.510 --> 00:10:22.640
+a variable which is pointer to integer
+
+00:10:22.640 --> 00:10:26.490
+even though the compiler gives us some
+privileges like we can use
+
+00:10:26.490 --> 00:10:28.090
+the name of the array
+
+00:10:28.090 --> 00:10:29.320
+to get the
+
+00:10:29.320 --> 00:10:30.990
+pointer to the first element
+
+00:10:30.990 --> 00:10:33.090
+like in this function sumOfElements
+
+00:10:33.090 --> 00:10:34.560
+you could say something like
+
+00:10:34.560 --> 00:10:36.299
+to pass the first element
+
+00:10:36.299 --> 00:10:37.090
+we could have said
+
+00:10:37.090 --> 00:10:40.840
+ampersand A[0] address of the
+first element
+
+00:10:40.840 --> 00:10:43.100
+but if we just use A
+
+00:10:43.100 --> 00:10:44.330
+instead of using
+
+00:10:44.330 --> 00:10:46.380
+ampersand A[0]
+
+00:10:46.380 --> 00:10:48.920
+then that has allowed if A is an 
+array
+
+00:10:48.920 --> 00:10:51.860
+but if A is an array we cannot do
+something like
+
+00:10:51.860 --> 00:10:54.170
+incrementing or decrementing
+
+00:10:54.170 --> 00:10:56.300
+it like pointer variables
+
+00:10:56.300 --> 00:10:59.920
+with pointer variables we can do couple
+of other stuff
+
+00:10:59.920 --> 00:11:03.130
+and if we have a pointer to the starting
+address of the array
+
+00:11:03.130 --> 00:11:04.970
+we can pretty much use it like
+
+00:11:04.970 --> 00:11:06.199
+a variable name for
+
+00:11:06.199 --> 00:11:07.460
+array because
+
+00:11:07.460 --> 00:11:09.610
+A[i] is interpreted as
+
+00:11:09.610 --> 00:11:12.070
+value at address (A+i)
+
+00:11:12.070 --> 00:11:15.580
+so we need to keep this differences and
+similarities in mind it's a little
+
+00:11:15.580 --> 00:11:17.120
+tricky
+
+00:11:17.120 --> 00:11:19.010
+there is one more thing
+
+00:11:19.010 --> 00:11:23.170
+because the array is passed by 
+reference
+
+00:11:23.170 --> 00:11:26.070
+we can modify the elements of the array
+in the
+
+00:11:26.070 --> 00:11:27.380
+called function
+
+00:11:27.380 --> 00:11:31.690
+and it would reflect in the
+calling function
+
+00:11:31.690 --> 00:11:33.750
+so let's say instead of
+
+00:11:33.750 --> 00:11:38.270
+calculating the sum total we want to
+double all the elements each individual
+
+00:11:38.270 --> 00:11:39.920
+element in the array
+
+00:11:39.920 --> 00:11:44.520
+so our code will go something like this i
+want to say that A[i] is now
+
+00:11:44.520 --> 00:11:46.730
+twice A[i] and
+
+00:11:46.730 --> 00:11:50.510
+we will not return an integer let's say
+the return type is void
+
+00:11:50.510 --> 00:11:55.420
+and in the main method I will clear all the
+stuff and what I will do is I will simply run
+
+00:11:55.420 --> 00:11:56.430
+a loop
+
+00:11:56.430 --> 00:11:59.540
+to print all the elements in the array
+
+00:11:59.540 --> 00:12:03.600
+okay let us now run this and see what
+happens
+
+00:12:03.600 --> 00:12:06.420
+oops I forgot to call the function double
+
+00:12:06.420 --> 00:12:09.270
+and I must make a call before I print
+the elements
+
+00:12:09.270 --> 00:12:11.030
+okay let us now run this
+
+00:12:11.030 --> 00:12:12.030
+if you see
+
+00:12:12.030 --> 00:12:13.870
+the elements in the array
+
+00:12:13.870 --> 00:12:16.820
+A are modified each element is twice
+
+00:12:16.820 --> 00:12:18.480
+its previous value
+
+00:12:18.480 --> 00:12:21.240
+because this is called by reference the
+same
+
+00:12:21.240 --> 00:12:22.490
+copy
+
+00:12:22.490 --> 00:12:24.400
+of the array A
+
+00:12:24.400 --> 00:12:29.120
+is modified using dereferencing
+
+00:12:29.120 --> 00:12:30.710
+so this was
+
+00:12:30.710 --> 00:12:33.000
+array as function arguments
+
+00:12:33.000 --> 00:12:37.360
+an important use case of array
+as function argument
+
+00:12:37.360 --> 00:12:40.840
+is when we work with strings in c
+
+00:12:40.840 --> 00:12:44.570
+so strings in C are nothing
+but character arrays
+
+00:12:44.570 --> 00:12:48.070
+this concept really becomes important in
+the context of
+
+00:12:48.070 --> 00:12:51.930
+character arrays we will be talking about
+it in the coming lessons
+
+00:12:51.930 --> 00:12:52.490
+so thanks for watching
+

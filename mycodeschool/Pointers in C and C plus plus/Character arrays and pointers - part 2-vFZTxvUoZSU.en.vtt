@@ -1,0 +1,607 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.399 --> 00:00:03.760
+In part one of our lesson on character
+arrays and pointers
+
+00:00:03.760 --> 00:00:07.009
+we saw how we can store strings in
+character arrays
+
+00:00:07.009 --> 00:00:12.000
+and we also saw how we can work with
+character arrays using pointers in some of
+
+00:00:12.000 --> 00:00:13.259
+the basic scenarios
+
+00:00:13.259 --> 00:00:17.359
+whenever we are working with pointers
+it's really important that we
+
+00:00:17.359 --> 00:00:21.570
+visualize how things are happening in
+the memory so the first thing that we
+
+00:00:21.570 --> 00:00:22.900
+will do in this lesson is
+
+00:00:22.900 --> 00:00:26.640
+we will simulate the program that we
+had written in the previous lesson to
+
+00:00:26.640 --> 00:00:31.140
+print the characters of a string and
+see what
+
+00:00:31.140 --> 00:00:34.280
+goes where in the memory and we will also look
+
+00:00:34.280 --> 00:00:37.440
+into the concept of string constants and
+
+00:00:37.440 --> 00:00:42.120
+constant pointers so this is where we had
+left in our previous lesson
+
+00:00:42.120 --> 00:00:46.960
+we have written a function print to
+print the characters in a string
+
+00:00:46.960 --> 00:00:50.190
+in the main method we have a character
+array of size twenty
+
+00:00:50.190 --> 00:00:53.579
+but we have stored a string of length
+five in it
+
+00:00:53.579 --> 00:00:56.920
+we have used a string lateral
+
+00:00:56.920 --> 00:01:00.550
+so null termination is implicit we have
+talked about this earlier
+
+00:01:00.550 --> 00:01:04.659
+so let us step through this code and see
+how it is working
+
+00:01:04.659 --> 00:01:08.680
+now once again I have drawn this familiar
+diagram the memory
+
+00:01:08.680 --> 00:01:13.530
+that is allocated for execution of a
+program is typically divided into these
+
+00:01:13.530 --> 00:01:17.759
+four parts these four sections one
+part of the memory stores the
+
+00:01:17.759 --> 00:01:22.470
+instructions in the program we call that
+the code segment or the text segment
+
+00:01:22.470 --> 00:01:26.259
+one section stores the global
+variables
+
+00:01:26.259 --> 00:01:30.960
+and stack is where all the information
+regarding function call execution
+
+00:01:30.960 --> 00:01:32.540
+and all the local variables
+
+00:01:32.540 --> 00:01:36.229
+go whenever we are writing a program
+than ever we are executing a program
+
+00:01:36.229 --> 00:01:38.040
+we should always visualize
+
+00:01:38.040 --> 00:01:43.180
+what variable goes where or what data
+goes where
+
+00:01:43.180 --> 00:01:47.200
+and what is the scope of that variable
+our data okay so
+
+00:01:47.200 --> 00:01:50.619
+let us run through this code and see
+what is happening in the memory
+
+00:01:50.619 --> 00:01:54.180
+when this program will start executing
+first
+
+00:01:54.180 --> 00:01:57.259
+the main method main function will be invoked
+
+00:01:57.259 --> 00:02:02.500
+whenever a function is called some
+amount of memory from the stack
+
+00:02:02.500 --> 00:02:05.549
+is allocated for the execution of that
+function
+
+00:02:05.549 --> 00:02:09.020
+it's called the stack frame of that
+function
+
+00:02:09.020 --> 00:02:12.250
+so let us say this stack frame from
+address
+
+00:02:12.250 --> 00:02:15.270
+100 to 150 is allocated for
+
+00:02:15.270 --> 00:02:18.590
+the main function stack is one
+contiguous
+
+00:02:18.590 --> 00:02:21.920
+block of memory so let us say in this stack
+the memory
+
+00:02:21.920 --> 00:02:26.360
+increases from bottom to top all the
+local variables of a function
+
+00:02:26.360 --> 00:02:30.020
+go into the stack frame of the function
+so when we
+
+00:02:30.020 --> 00:02:34.230
+declare a character array 20 bytes
+from the stack frame will be allocated
+
+00:02:34.230 --> 00:02:36.349
+for this particular character array
+
+00:02:36.349 --> 00:02:40.560
+let's say they are allocated from address
+100 to 120
+
+00:02:40.560 --> 00:02:43.769
+each character is stored in one bite so
+
+00:02:43.769 --> 00:02:46.970
+we need 20 bytes for character array of
+size 20
+
+00:02:46.970 --> 00:02:51.670
+apart from local variables there maybe some
+more information in stack frame so
+
+00:02:51.670 --> 00:02:53.450
+that's why we have some more space
+
+00:02:53.450 --> 00:02:57.590
+and now the control of the program goes
+to this statement print 'c'
+
+00:02:57.590 --> 00:03:01.690
+as soon as we make a call to another
+function from a function the execution
+
+00:03:01.690 --> 00:03:03.129
+of that particular function
+
+00:03:03.129 --> 00:03:08.060
+is paused at that particular line and
+the machine goes on to execute
+
+00:03:08.060 --> 00:03:12.230
+the called function the called function
+is allocated stack frame
+
+00:03:12.230 --> 00:03:17.360
+on top of the calling functions of print
+will be allocated as stack frame on top of
+
+00:03:17.360 --> 00:03:21.110
+main function whatever function is at
+the top of the stack in
+
+00:03:21.110 --> 00:03:25.150
+at any point is executing I mean we'll
+wait for this function to finish
+
+00:03:25.150 --> 00:03:29.640
+let's say this particular stack frame is
+from 150 to 170
+
+00:03:29.640 --> 00:03:32.769
+main is paused and
+
+00:03:32.769 --> 00:03:37.370
+print is executing right now, now
+print will also have a local variable C
+
+00:03:37.370 --> 00:03:41.480
+but this will be a pointer variable 
+a pointer variable takes
+
+00:03:41.480 --> 00:03:45.830
+four byte of memory in a typical
+architecture so this will be
+
+00:03:45.830 --> 00:03:48.959
+taking four bytes so let's say starting
+address:
+
+00:03:48.959 --> 00:03:53.620
+154 in this stack frame we have
+four bytes for this particular character
+
+00:03:53.620 --> 00:03:54.170
+pointer
+
+00:03:54.170 --> 00:03:57.200
+so this C in main is actually not the
+same C
+
+00:03:57.200 --> 00:04:01.700
+in print, the C in main and C print
+are different
+
+00:04:01.700 --> 00:04:06.390
+they have different scopes we could have
+named this particular variable
+
+00:04:06.390 --> 00:04:11.439
+a or PTR or whatever but all that
+happens when we make this particular
+
+00:04:11.439 --> 00:04:15.110
+call to print and pass this C here
+
+00:04:15.110 --> 00:04:19.340
+is that the address 100 which is the
+base address of the array
+
+00:04:19.340 --> 00:04:22.800
+is passed to the print function and the
+print function keeps it
+
+00:04:22.800 --> 00:04:27.759
+stores it in the pointer variable
+sometimes it may confuse us when we are
+
+00:04:27.759 --> 00:04:30.600
+using the same local variable name in the
+
+00:04:30.600 --> 00:04:34.780
+calling function and the same argument
+name in the called function
+
+00:04:34.780 --> 00:04:38.220
+but we must always understand that
+they're different okay to run through
+
+00:04:38.220 --> 00:04:39.729
+this code further
+
+00:04:39.729 --> 00:04:42.820
+I clear some space here now
+
+00:04:42.820 --> 00:04:47.300
+I'll draw this array C outside the stack here
+
+00:04:47.300 --> 00:04:51.190
+we have an array of size 20 but
+we are only showing
+
+00:04:51.190 --> 00:04:55.449
+the first six positions in the array
+from address 100 to 105
+
+00:04:55.449 --> 00:04:58.919
+and that's why it is extending towards the right
+
+00:04:58.919 --> 00:05:02.960
+the sixth charecter is a null
+character and the first five characters
+
+00:05:02.960 --> 00:05:08.130
+are the characters of word hello and now
+we have this another guy which is c
+
+00:05:08.130 --> 00:05:11.740
+of print which is a character pointer at
+address
+
+00:05:11.740 --> 00:05:16.130
+154 that stores address 100 so it points to
+
+00:05:16.130 --> 00:05:21.490
+the first element of the array now let's
+come back to our program execution
+
+00:05:21.490 --> 00:05:25.289
+let's say we are here initially I'll
+mark the statement that
+
+00:05:25.289 --> 00:05:30.259
+is executing by this green arrow, let's
+name these two guys this guy is C but ths guy is
+
+00:05:30.259 --> 00:05:30.660
+an array
+
+00:05:30.660 --> 00:05:36.120
+local to main and this is also
+C but it is a character pointer local
+
+00:05:36.120 --> 00:05:37.389
+to print
+
+00:05:37.389 --> 00:05:42.240
+ok so now here what we're saying is while
+*C is not equal to the null
+
+00:05:42.240 --> 00:05:43.070
+character
+
+00:05:43.070 --> 00:05:47.150
+when we put this asterisk operator in
+front of a pointer variable
+
+00:05:47.150 --> 00:05:50.650
+we are looking at the value at that
+particular address
+
+00:05:50.650 --> 00:05:54.400
+so at this stage when C is pointing to
+the
+
+00:05:54.400 --> 00:05:58.810
+base address *C is H so this
+condition is not true
+
+00:05:58.810 --> 00:06:02.509
+we will go to this line print F
+that will simply
+
+00:06:02.509 --> 00:06:06.819
+print *C which is H let's write down
+the output here
+
+00:06:06.819 --> 00:06:12.910
+so we have printed H so far and then we say c++;
+
+00:06:12.910 --> 00:06:16.380
+if we understand pointer arithmetic from
+our previous lessons
+
+00:06:16.380 --> 00:06:21.450
+incrementing a pointer by one unit
+increments the address by size of the
+
+00:06:21.450 --> 00:06:22.100
+data type
+
+00:06:22.100 --> 00:06:26.890
+that the pointer points to C here is a
+pointer to character data type and
+
+00:06:26.890 --> 00:06:28.120
+character data type is
+
+00:06:28.120 --> 00:06:34.120
+one byte so C+1, C++ is 
+saying C= C+1
+
+00:06:34.120 --> 00:06:38.240
+so C now becomes 101 so now C points
+
+00:06:38.240 --> 00:06:42.220
+to the second character in the array and
+once again we come
+
+00:06:42.220 --> 00:06:46.270
+to where we find this condition in the while
+loop *C is E
+
+00:06:46.270 --> 00:06:50.760
+here it's not null once again
+we will go inside the loop and print E
+
+00:06:50.760 --> 00:06:55.650
+and we will keep on going like this
+
+00:06:55.650 --> 00:06:59.580
+till the address in this pointer variable
+reaches 105
+
+00:06:59.580 --> 00:07:02.870
+now here the value at this particular
+addresses is
+
+00:07:02.870 --> 00:07:05.890
+null character so the loop will not
+execute
+
+00:07:05.890 --> 00:07:09.920
+we will come to this statement to
+print an end-of-line
+
+00:07:09.920 --> 00:07:14.370
+and the execution of print function will
+finish
+
+00:07:14.370 --> 00:07:17.470
+so this particular stack frame for print
+will be
+
+00:07:17.470 --> 00:07:20.530
+cleared from the stack will be 
+deallocated
+
+00:07:20.530 --> 00:07:24.130
+and now main will resume and finish so
+
+00:07:24.130 --> 00:07:27.350
+with pointers we should always know
+what's going where in the memory
+
+00:07:27.350 --> 00:07:31.040
+okay so let us now modify
+
+00:07:31.040 --> 00:07:35.300
+in this particular code to learn some
+more concepts now what I'm going to do
+
+00:07:35.300 --> 00:07:36.330
+in my code is
+
+00:07:36.330 --> 00:07:40.560
+instead of creating a character
+array of size 20
+
+00:07:40.560 --> 00:07:44.050
+I'll create a character pointer named
+C
+
+00:07:44.050 --> 00:07:47.800
+and equate it against
+
+00:07:47.800 --> 00:07:52.570
+a string lateral in a statement like
+this and if you run this program
+
+00:07:52.570 --> 00:07:56.350
+and the output will be the same what
+really happens is
+
+00:07:56.350 --> 00:08:01.310
+if you use the string lateral in
+ initialization statement of an array
+
+00:08:01.310 --> 00:08:02.390
+something like this
+
+00:08:02.390 --> 00:08:05.980
+and then the string gets stored in this
+space that is allocated to the array
+
+00:08:05.980 --> 00:08:10.650
+so in this case it will go into the
+stack in this character array of size 20
+
+00:08:10.650 --> 00:08:15.410
+but if you use the string lateral
+elsewhere in a statement like this
+
+00:08:15.410 --> 00:08:19.230
+are maybe when we do something like
+
+00:08:19.230 --> 00:08:22.270
+passing a string lateral to a function
+
+00:08:22.270 --> 00:08:25.360
+then in these cases
+
+00:08:25.360 --> 00:08:28.570
+the string get stored as a constant
+
+00:08:28.570 --> 00:08:32.600
+during the compile-time and most
+probably it will be stored in the text
+
+00:08:32.600 --> 00:08:34.420
+segment of the application memory
+
+00:08:34.420 --> 00:08:38.820
+and it cannot be modified so if you write
+a statement like this let's say you want
+
+00:08:38.820 --> 00:08:39.250
+to
+
+00:08:39.250 --> 00:08:43.540
+change the first character of on this
+constant string to
+
+00:08:43.540 --> 00:08:46.840
+A running this program will give
+you an error
+
+00:08:46.840 --> 00:08:50.390
+will cause a crash okay coming back to
+
+00:08:50.390 --> 00:08:55.430
+having a character array, now if we have
+a character array and we are passing
+
+00:08:55.430 --> 00:08:58.500
+the address of the array to a function
+
+00:08:58.500 --> 00:09:01.510
+that function receive's it in a character
+pointer
+
+00:09:01.510 --> 00:09:07.590
+now using this pointer we can modify the
+data in this particular array
+
+00:09:07.590 --> 00:09:12.280
+so if I say something like this: we
+first to change the first character to
+
+00:09:12.280 --> 00:09:15.700
+A and then we are printing the
+characters and then as you can see
+
+00:09:15.700 --> 00:09:19.950
+it is possible to do so now sometimes we
+may want a function
+
+00:09:19.950 --> 00:09:23.110
+just to read a string and not write
+anything
+
+00:09:23.110 --> 00:09:26.980
+to force this kind of behavior we can
+change our argument
+
+00:09:26.980 --> 00:09:32.490
+to const character pointer and now if run this code
+this code will give us compilation error
+
+00:09:32.490 --> 00:09:35.670
+we can read whatever
+is there in the array
+
+00:09:35.670 --> 00:09:39.910
+that is past but we cannot write to any
+of the positions
+
+00:09:39.910 --> 00:09:44.050
+this code will work fine, pointers
+
+00:09:44.050 --> 00:09:47.580
+are really tricky and even the most
+experienced programmers
+
+00:09:47.580 --> 00:09:51.110
+write buggy code when they are using
+pointers I
+
+00:09:51.110 --> 00:09:54.810
+recommend that you get your hands dirty
+by writing some code yourself
+
+00:09:54.810 --> 00:09:58.010
+that's the best way to learn so this is
+it for this lesson
+
+00:09:58.010 --> 00:09:59.360
+thanks for watching
+

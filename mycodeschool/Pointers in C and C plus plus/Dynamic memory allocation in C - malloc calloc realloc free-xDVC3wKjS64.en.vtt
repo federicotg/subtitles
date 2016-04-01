@@ -1,0 +1,707 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.500 --> 00:00:06.370
+In our previous lesson, we learned the concept
+of dynamic memory allocation, we learned about
+
+00:00:06.370 --> 00:00:11.900
+stack and heap in the context of application's
+memory. In this lesson we will be looking
+
+00:00:11.900 --> 00:00:18.140
+at various library functions available in
+C for dynamic memory allocation. We will
+
+00:00:18.140 --> 00:00:24.750
+look through these functions in some code examples.
+We will be talking about three functions that
+
+00:00:24.750 --> 00:00:31.750
+allocate block of memory on the heap and these
+functions are malloc, calloc and realloc.
+
+00:00:33.649 --> 00:00:39.690
+And, we will also be talking about one functions
+that deallocates a block of memory on the
+
+00:00:39.690 --> 00:00:46.690
+heap and this function is free. Let us
+first talk about malloc. This is the most
+
+00:00:46.770 --> 00:00:53.239
+frequently used library function for dynamic memory
+allocation and the signature or the definition
+
+00:00:53.239 --> 00:01:00.239
+of this function is something like this. This
+function as argument asks you for theTsize
+
+00:01:00.500 --> 00:01:07.500
+of the memory block in bytes. This data type
+size_t, if you are not aware of it stores only
+
+00:01:09.500 --> 00:01:16.500
+positive integer values. So, you can think of 
+this particular data type as unsigned integer data type.
+
+00:01:17.770 --> 00:01:23.650
+The size cannot be a negative value. It can
+either be a zero or a positive value. And,
+
+00:01:23.650 --> 00:01:28.680
+to force this kind of behavior we use this
+particular type. And this function malloc
+
+00:01:28.680 --> 00:01:34.710
+returns a void pointer. We have talked about
+void pointers in our previous lessons. Malloc
+
+00:01:34.710 --> 00:01:41.560
+returns a void pointer that gives us the address
+of the first byte in this block, the block
+
+00:01:41.560 --> 00:01:46.720
+of memory that it allocates. So, using malloc
+you kind of say that hey, give me a block
+
+00:01:46.720 --> 00:01:52.360
+of memory with these many bytes. Let us say
+what we have here in the right is the heap section
+
+00:01:52.360 --> 00:01:58.969
+of memory available to us. Each of these partitions
+are 1 byte. As we know each byte in the memory
+
+00:01:58.969 --> 00:02:05.790
+has an address. Let us say this bottom most
+byte has the address 200 and the next byte
+
+00:02:05.790 --> 00:02:12.790
+is 201 and we go on increasing till the top.
+I will mark the address of some of these bytes.
+
+00:02:13.290 --> 00:02:17.950
+Let's say in our code we make a call to malloc
+something like this, that hey give me a block
+
+00:02:17.950 --> 00:02:24.950
+of memory that is 4 bytes, let's say we store
+the address returned by malloc in a void pointer
+
+00:02:25.900 --> 00:02:32.069
+variable. Now let's assume that this particular
+rectangular block we are showing here in red,
+
+00:02:32.069 --> 00:02:37.260
+is what get's allocated against this call
+to malloc. These are 4 bytes and the starting
+
+00:02:37.260 --> 00:02:43.090
+address is 208. So, what will be the address
+in p . If we want to print the address in
+
+00:02:43.090 --> 00:02:50.090
+p, then what will be the output. The output
+will be 208. This is cool. Using malloc we
+
+00:02:50.170 --> 00:02:54.459
+are able to allocate some amount of memory,
+reserve some amount of memory. But, why do
+
+00:02:54.459 --> 00:02:59.060
+we reserve memory? We reserve or allocate
+memory because we want to store some data
+
+00:02:59.060 --> 00:03:04.810
+there. So we do not want to just randomly
+allocate some bytes. So, although it is correct
+
+00:03:04.810 --> 00:03:09.340
+to write a statement like this. In practice,
+we would not do so. In practice, we would
+
+00:03:09.340 --> 00:03:14.480
+first calculate how much amount of memory
+we need to store our data. So, let's say we
+
+00:03:14.480 --> 00:03:21.480
+want to store an integer. Just one integer.
+So, I need memory block equal to the size
+
+00:03:22.120 --> 00:03:28.849
+of one integer. We typically use the function
+sizeof which returns us the size of the variable
+
+00:03:28.849 --> 00:03:35.209
+in bytes. To figure out the size of the data
+type, and then we typically multiply this
+
+00:03:35.209 --> 00:03:41.209
+particular value returned by sizeof by the
+number of units that we need. So, if we need
+
+00:03:41.209 --> 00:03:47.209
+just one integer, if we need memory for just
+one integer, this is good. If we need memory
+
+00:03:47.209 --> 00:03:54.189
+for 10 integers, we would write something
+like this: give me 10 X sizeof integer. Integer
+
+00:03:54.189 --> 00:03:58.040
+is a primitive data type. Sometimes, you may
+know that, I know that size of integer is
+
+00:03:58.040 --> 00:04:03.900
+4 bytes. So, I can write something like 10*4
+here, but its not a good practice to do so.
+
+00:04:03.900 --> 00:04:08.739
+Size of a variable depends upon the compiler
+and we would also be using malloc to allocate
+
+00:04:08.739 --> 00:04:15.629
+memory for complex data types. So, we must
+use malloc like this. Total number of bytes
+
+00:04:15.629 --> 00:04:22.629
+should be written as number of elements* size
+of one unit. One unit of the data. Lets say
+
+00:04:23.030 --> 00:04:29.400
+we want to have space for 3 integers. I have
+picked up 3 so I that have enough space to
+
+00:04:29.400 --> 00:04:35.040
+allocate memory in the figure that I am showing
+here. let's say this block of 12 bytes is
+
+00:04:35.040 --> 00:04:40.060
+allocated because size of integer is 4 bytes
+typically. So, the starting address would
+
+00:04:40.060 --> 00:04:47.060
+be 201. Now, how do we fill in data here.
+If you see malloc returns a void pointer and
+
+00:04:48.020 --> 00:04:52.720
+void pointer as such cannot be de-referenced.
+You cannot write a statement something like
+
+00:04:52.720 --> 00:04:59.720
+*p = 2, this is incorrect, you cannot dereference
+a void pointer. A void pointer in fact is
+
+00:05:00.440 --> 00:05:05.590
+only used as a generic pointer type which
+is normally typecasted into a pointer type
+
+00:05:05.590 --> 00:05:10.800
+of a particular data data type. And then it
+is used. Because malloc itself is a generic
+
+00:05:10.800 --> 00:05:17.000
+function to allocate some number of bytes
+in memory, in heap, it does not care whether
+
+00:05:17.000 --> 00:05:22.100
+you are allocating this memory to store character
+or to store integer or to store any other
+
+00:05:22.100 --> 00:05:26.930
+data type. it simply returns a void pointer
+to the starting address. To be able to use
+
+00:05:26.930 --> 00:05:32.990
+this block of memory, we first need to typecast
+this void pointer into a pointer of some data
+
+00:05:32.990 --> 00:05:39.990
+type. So here, we will write something like
+int *p instead of picking up a void pointer,
+
+00:05:40.009 --> 00:05:45.710
+we pick up a pointer to integer because we
+want to operate with integers. So, to dereference
+
+00:05:45.710 --> 00:05:52.400
+we need an integer pointer type. So, we do
+the type casting here of the void pointer and
+
+00:05:52.400 --> 00:05:58.560
+now this statement is valid. If we want to
+assign some value to the second element, second
+
+00:05:58.560 --> 00:06:03.750
+integer in this list, then we will do something
+like we will dereference that address p+1,
+
+00:06:03.750 --> 00:06:10.750
+lets say, we write the value 4 here and if
+we want to access the third integer, then
+
+00:06:10.819 --> 00:06:16.620
+we will write something like this. let's say
+the value 6 here. By asking the memory block
+
+00:06:16.620 --> 00:06:23.030
+for 3 integers, we are basically creating
+an array of integers with 3 elements. We could
+
+00:06:23.030 --> 00:06:30.030
+also write this asterisk p as P[0] and we
+could also write *(p+1) as P[1] and similarly
+
+00:06:30.270 --> 00:06:37.270
+*(p+2) as P[2]. They mean the same. All the
+manipulation on dynamically allocated memory
+
+00:06:38.830 --> 00:06:43.880
+happens through pointers. You have a pointer
+to the starting address and then if you want
+
+00:06:43.880 --> 00:06:49.759
+to go to the next element in the array, you
+increment the pointer and this is how things
+
+00:06:49.759 --> 00:06:56.370
+happen. We have two more functions that allocate
+block of memory. Let us now talk about calloc.
+
+00:06:56.370 --> 00:07:03.009
+The signature of definition of calloc is something
+like this. calloc also does the same stuff
+
+00:07:03.009 --> 00:07:09.740
+as malloc, it is only slightly different.
+callod also returns a void pointer but calloc
+
+00:07:09.740 --> 00:07:14.849
+takes 2 arguments instead of 1 argument, it
+takes 2 arguments. The first argument is the
+
+00:07:14.849 --> 00:07:20.099
+number of elements of a particular data type
+and the second argument is the size of the
+
+00:07:20.099 --> 00:07:25.780
+data type. So, with malloc, if we have to
+declare an array of size 3, an integer array
+
+00:07:25.780 --> 00:07:31.949
+of size 3, we would say 3*sizeof(int). With
+calloc, we would say something like this.
+
+00:07:31.949 --> 00:07:37.860
+The first argument is how many units of the
+data type you want or the number of elements
+
+00:07:37.860 --> 00:07:42.830
+and the second argument is the size of data
+type in bytes. There is one more difference
+
+00:07:42.830 --> 00:07:48.020
+between malloc and calloc. When malloc allocates
+some amount of memory, it does not initialize
+
+00:07:48.020 --> 00:07:54.629
+the bytes with any value, so if you do not
+fill in any value into these addresses allocated
+
+00:07:54.629 --> 00:07:59.919
+by malloc, you would have some garbage there.
+But if you allocate memory through calloc,
+
+00:07:59.919 --> 00:08:06.919
+calloc sets all byte positions with value
+zero. So, it also initializes the memory that
+
+00:08:07.430 --> 00:08:14.430
+it allocates to zero. The third function that
+we want to talk about is realloc. If you have
+
+00:08:16.470 --> 00:08:21.669
+a block of memory, dynamically allocated block
+of memory and if you want to change the size
+
+00:08:21.669 --> 00:08:27.410
+of this block of memory, then you can use
+realloc. The definition or the signature of
+
+00:08:27.410 --> 00:08:32.760
+this particular function is, this function
+takes two arguments. The first argument is
+
+00:08:32.760 --> 00:08:39.760
+pointer to the starting address of the existing
+block and the second argument is the size
+
+00:08:39.930 --> 00:08:46.040
+of the new block. There can be a couple of
+cases in realloc, the size of the new block
+
+00:08:46.040 --> 00:08:52.130
+that we want may be larger than the size of
+the previous block. In that case, machine
+
+00:08:52.130 --> 00:08:57.680
+may crate an entirely new block and copy the
+previous data whatever bytes that was written
+
+00:08:57.680 --> 00:09:03.130
+in previous block into the new block. If contiguous
+or consecutive memory is already available
+
+00:09:03.130 --> 00:09:08.600
+with the existing block, the existing block
+may also be extended. Let us now look at some
+
+00:09:08.600 --> 00:09:14.260
+code examples and see what we can do with
+these 3 functions and we will discuss the
+
+00:09:14.260 --> 00:09:21.100
+function free in our code itself. I'll write
+some C code and look at some of the use cases
+
+00:09:21.100 --> 00:09:27.330
+in which we can use dynamic memory allocation.
+The first use case is let us say, we want
+
+00:09:27.330 --> 00:09:33.510
+to declare an array and we want to first ask
+the user, the size of the array and then we
+
+00:09:33.510 --> 00:09:38.440
+want to declare an array exactly of this particular
+size entered by the user. So, lets say I have
+
+00:09:38.440 --> 00:09:44.670
+a variable n and I write a print statement
+like enter size of array and then I input
+
+00:09:44.670 --> 00:09:51.350
+this number n from the console. Now, I want
+to declare an array of size n only. So, can
+
+00:09:51.350 --> 00:09:58.350
+I do something like this? Well, No! This
+particular value in the braces cannot be a
+
+00:09:58.510 --> 00:10:03.100
+variable, this will give you compilation error.
+We need to know the size of the array. We
+
+00:10:03.100 --> 00:10:08.730
+cannot know the size of the array during run
+time. In such a scenario, we can allocate
+
+00:10:08.730 --> 00:10:13.790
+the memory dynamically. So, we will write
+something like int *A is equal to and we will
+
+00:10:13.790 --> 00:10:20.790
+make a call to malloc to allocate a memory
+block equal to the size of n integers and
+
+00:10:23.440 --> 00:10:29.760
+this will again give a compilation error unless
+we typecast this particular return of malloc
+
+00:10:29.760 --> 00:10:35.829
+to integer pointer and now we have an array
+of size n. And we can fill in some data into
+
+00:10:35.829 --> 00:10:40.800
+these dynamically, into the elements of this
+dynamically allocated array. Lets say we want
+
+00:10:40.800 --> 00:10:46.240
+to put data something like first element is
+1 and the second element is 2 and so on. So,
+
+00:10:46.240 --> 00:10:52.870
+we will write something like A[i] = i+1. We
+can print the elements in the array. lets
+
+00:10:52.870 --> 00:10:59.769
+say we want to pick up size of array as 10.
+Ok, so the output is as expected. We have
+
+00:10:59.769 --> 00:11:06.769
+10 elements from 1 to 10. If I give size of
+array as let's say 25, then this is what we
+
+00:11:08.940 --> 00:11:15.850
+get. We get all the elements till 25. if we
+wanted to use calloc instead of malloc here,
+
+00:11:15.850 --> 00:11:19.930
+the only change in this code would be that
+we would use calloc here and we would have
+
+00:11:19.930 --> 00:11:25.149
+2 arguments - n would separate out as first
+argument and second argument will be size
+
+00:11:25.149 --> 00:11:31.529
+of int and this program will run seamlessly.
+There is one more difference between malloc
+
+00:11:31.529 --> 00:11:38.529
+and calloc, if we do not use this initialization,
+then with calloc, as you can see, all the
+
+00:11:38.660 --> 00:11:45.120
+elements are being printed as zero. They are
+all initialized to zero. But if we were using
+
+00:11:45.120 --> 00:11:52.019
+malloc here, then these elements are not initialized,
+there is some garbage value at these of these
+
+00:11:52.019 --> 00:11:57.389
+indices in the array. So, this is one difference
+between malloc and calloc. calloc initializes,
+
+00:11:57.389 --> 00:12:03.889
+fills the value zero into each byte while
+malloc doesn't do this initialization. I'll
+
+00:12:03.889 --> 00:12:09.399
+rewrite this initialization loop again and
+now, we will talk about free. Any memory that
+
+00:12:09.399 --> 00:12:14.860
+is dynamically allocated remains allocated
+till the lifetime of the program, till the
+
+00:12:14.860 --> 00:12:21.860
+time the program is executing unless you explicitly
+de-allocate it and to de-allocate memory allocated
+
+00:12:22.290 --> 00:12:27.959
+using malloc and calloc and realloc, we have
+the function free and to the function free,
+
+00:12:27.959 --> 00:12:34.160
+you pass starting address of the memory block
+as argument. Now, what will happen if I will
+
+00:12:34.160 --> 00:12:39.800
+free A. if we free A, then the data from that
+memory is erased. it may not or may not be
+
+00:12:39.800 --> 00:12:45.010
+erased, it actually depends upon your compiler
+or machine, but that memory will be available
+
+00:12:45.010 --> 00:12:50.389
+for allocation against another call to malloc.
+Lets see what happens in this case when we
+
+00:12:50.389 --> 00:12:55.149
+are printing after freeing that particular
+memory block. I give array size as 5 and as
+
+00:12:55.149 --> 00:12:59.850
+you can see, the elements being printed here,
+there is some garbage value being printed.
+
+00:12:59.850 --> 00:13:06.389
+if this free was not there, we would have
+printed elements 1,2,3,4,5 as initialized.
+
+00:13:06.389 --> 00:13:11.130
+Not the obvious question would be even though
+we are freeing the memory here, we are able
+
+00:13:11.130 --> 00:13:15.740
+to access that, the value at that particular
+memory location using this statement, when
+
+00:13:15.740 --> 00:13:21.149
+we are using A[i], the element at index i.
+Well, that is one dangerous thing about pointers.
+
+00:13:21.149 --> 00:13:25.339
+if you know the address, you can look at the
+value at that address, but you should read
+
+00:13:25.339 --> 00:13:30.230
+and write to that address only if that address
+is allocated to you. What if that address
+
+00:13:30.230 --> 00:13:34.519
+is not allocated to you like in this case.
+Well, you do not know what you are reading
+
+00:13:34.519 --> 00:13:39.470
+or what you are writing or what behavior it
+will have. It actually depends upon the compiler
+
+00:13:39.470 --> 00:13:45.070
+and the machine. In my case, lets say after
+freeing, we try to access the third element
+
+00:13:45.070 --> 00:13:50.190
+A[2] and try to push some value there, lets
+see what happens if you run this program.
+
+00:13:50.190 --> 00:13:54.490
+Lets give size of array as 5 again. If you
+see, even after free, we are able to modify
+
+00:13:54.490 --> 00:14:00.820
+the value at this particular address - A[2],
+but on some machines, such a program may cause
+
+00:14:00.820 --> 00:14:06.380
+our program to crash. We should always be
+sure to use the memory that is allocated,
+
+00:14:06.380 --> 00:14:11.930
+otherwise its like shooting in the dark, we
+do not know what will happen. We will now
+
+00:14:11.930 --> 00:14:17.800
+talk about realloc. If we want to modify the
+size of a memory block, lets say we have a
+
+00:14:17.800 --> 00:14:23.720
+memory block to store n elements in an array
+and we want to extend it to, may be we want
+
+00:14:23.720 --> 00:14:29.449
+to double the size of array or may be we want
+to reduce the size of the array to half. For
+
+00:14:29.449 --> 00:14:34.370
+such scenario, we use realloc and call to
+realloc will be something like this. Lets
+
+00:14:34.370 --> 00:14:41.339
+say, we take another pointer variable B, then
+to realloc, we pass the previous pointer A
+
+00:14:41.339 --> 00:14:47.779
+and size of the new block so the new block
+is 2*n*sizeof(int) and we will of course do
+
+00:14:47.779 --> 00:14:53.130
+the typecasting here. Ok, so now what this
+call will do is it will create a new memory
+
+00:14:53.130 --> 00:14:59.579
+block of size 2n and copy the values in the
+previous block, in the previous memory block
+
+00:14:59.579 --> 00:15:06.310
+A into this new memory block. How realloc
+works is that if the size of the new block
+
+00:15:06.310 --> 00:15:11.089
+is greater than the size of the previous block,
+the if it is possible to extend the previous
+
+00:15:11.089 --> 00:15:16.480
+block, find some consecutive memory with the
+same block, then the previous block itself
+
+00:15:16.480 --> 00:15:22.089
+is extended. Else, a new block is allocated
+and the previous block, the content from the
+
+00:15:22.089 --> 00:15:26.709
+previous block is copied and the previous
+block is de-allocated. This will become further
+
+00:15:26.709 --> 00:15:32.320
+clear if I will write this print statement.
+I'll print the previous block address stored
+
+00:15:32.320 --> 00:15:38.990
+in A and new address stored in B and I'll
+also print all the 2n elements in B now. And
+
+00:15:38.990 --> 00:15:44.279
+I'll print each element in the array B in
+one single line. Let's say size of the array
+
+00:15:44.279 --> 00:15:50.860
+is 5 again. Ok, so the previous block address
+is 9 9 2 0 1 2 8, and if you can see the previous
+
+00:15:50.860 --> 00:15:56.610
+address was also the same, so it was possible
+to extend the previous block only and in B,
+
+00:15:56.610 --> 00:16:01.269
+the first five elements are from A and rest
+5 elements are garbage value. If we wanted
+
+00:16:01.269 --> 00:16:07.220
+to reduce the array size to lets say half,
+then the same block, the previous block itself
+
+00:16:07.220 --> 00:16:12.320
+will be reduced. So, lets say I want to print
+the previous block now, the n elements. Now
+
+00:16:12.320 --> 00:16:16.600
+as you can see, the first two elements are
+copied - 1 and 2, they are not copied in fact,
+
+00:16:16.600 --> 00:16:22.459
+they are there already. The rest 3 are de-allocated.
+When we divide by 2, we take only the integral
+
+00:16:22.459 --> 00:16:27.410
+part, so we kind of deallocate this space
+for 3 elements here. In fact if we give the
+
+00:16:27.410 --> 00:16:34.149
+size to be zero here, all that will happen
+is that the complete block for A will be deallocated.
+
+00:16:34.149 --> 00:16:41.149
+So, this statement will be equivalent to using
+free upon A. In most cases, we will put the
+
+00:16:41.920 --> 00:16:46.610
+return address by realloc into the same integer
+pointer. So, you can write, instead of writing
+
+00:16:46.610 --> 00:16:53.610
+B here, we can write A also. We can also pass
+the first argument to realloc as NULL. if
+
+00:16:55.380 --> 00:16:59.949
+the first argument is NULL and the second
+argument is size, and lets say we want to
+
+00:16:59.949 --> 00:17:06.319
+create something like a new block with address,
+starting address stored in B, then if the
+
+00:17:06.319 --> 00:17:13.319
+first argument is NULL, then this is equivalent
+to calling a malloc. This only crates a new
+
+00:17:13.880 --> 00:17:19.780
+block, does not copy anything from the previous
+block. So, realloc can be used with the right
+
+00:17:19.780 --> 00:17:26.510
+arguments as substitute for free as well as
+substitute for malloc. This was all about
+
+00:17:26.510 --> 00:17:31.870
+malloc, calloc and free. We will see more
+code on dynamic memory allocation in the coming
+
+00:17:31.870 --> 00:17:33.470
+lessons. So, Thanks for watching!
+

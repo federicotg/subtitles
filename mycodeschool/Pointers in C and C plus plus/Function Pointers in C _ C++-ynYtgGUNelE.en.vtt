@@ -1,0 +1,727 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:03.679
+in this lesson we're going to talk about
+function pointers
+
+00:00:03.679 --> 00:00:06.740
+Function pointers, as the name suggests
+
+00:00:06.740 --> 00:00:10.120
+are used to store address of functions.
+
+00:00:10.120 --> 00:00:14.740
+So far, we have used pointers mostly as
+variables that would store
+
+00:00:14.740 --> 00:00:19.220
+address of other variables. Basically
+pointers are data types that can be used
+
+00:00:19.220 --> 00:00:19.780
+to
+
+00:00:19.780 --> 00:00:24.640
+store the address of some data stored in
+computer's memory or in other words
+
+00:00:24.640 --> 00:00:29.850
+to point to or refer to some data and it
+doesn't always have to be a variable
+
+00:00:29.850 --> 00:00:34.010
+data could be stored as constant
+also and we use pointers not just
+
+00:00:34.010 --> 00:00:35.490
+to store the address
+
+00:00:35.490 --> 00:00:40.160
+we can dereference and get the value at
+whatever address the pointer is
+
+00:00:40.160 --> 00:00:40.560
+pointing to
+
+00:00:40.560 --> 00:00:43.690
+now we are saying that we can have
+pointers
+
+00:00:43.690 --> 00:00:47.930
+that can store address of functions
+or in other words can point to
+
+00:00:47.930 --> 00:00:48.640
+functions
+
+00:00:48.640 --> 00:00:52.520
+and we can use a pointer to
+function to dereference
+
+00:00:52.520 --> 00:00:56.500
+and execute the function and this is
+really interesting
+
+00:00:56.500 --> 00:01:00.250
+some basic questions would pop-up. What
+really would be
+
+00:01:00.250 --> 00:01:05.030
+the address of a function and even if
+we can have pointers to functions
+
+00:01:05.030 --> 00:01:08.570
+what are the use cases in which we may
+want to have them
+
+00:01:08.570 --> 00:01:12.670
+there are really interesting use cases of
+function pointers we will talk about
+
+00:01:12.670 --> 00:01:13.450
+them later
+
+00:01:13.450 --> 00:01:18.240
+let's first try to understand the core
+logic here. Once again, I have drawn this
+
+00:01:18.240 --> 00:01:19.530
+familiar diagram
+
+00:01:19.530 --> 00:01:24.250
+the memory that is allocated to an
+application or a program can typically
+
+00:01:24.250 --> 00:01:26.880
+be divided into these four segments:
+
+00:01:26.880 --> 00:01:30.340
+we have talked about this quite a bit in
+our previous session's
+
+00:01:30.340 --> 00:01:33.810
+okay, now a program is basically
+
+00:01:33.810 --> 00:01:38.080
+a set or sequence of instructions that
+you would give to the computer to
+
+00:01:38.080 --> 00:01:38.830
+perform
+
+00:01:38.830 --> 00:01:43.320
+a task. We can write our program in a
+high-level language like C
+
+00:01:43.320 --> 00:01:46.720
+or C plus plus but at lowest level in
+its
+
+00:01:46.720 --> 00:01:50.400
+architecture computer understands and
+executes
+
+00:01:50.400 --> 00:01:55.810
+only binary. Any instruction that has
+to be executed by the computer has to be
+
+00:01:55.810 --> 00:01:59.369
+encoded in binary. Of course there will
+be some rules
+
+00:01:59.369 --> 00:02:03.729
+for encoding so what we do is we write our
+program
+
+00:02:03.729 --> 00:02:08.329
+or set of instructions in a high-level
+language like C or C plus plus
+
+00:02:08.329 --> 00:02:11.620
+and we pass it to a program called
+
+00:02:11.620 --> 00:02:14.849
+compilers as input and corresponding to
+
+00:02:14.849 --> 00:02:18.980
+the source code compiler generates what
+we called machine code
+
+00:02:18.980 --> 00:02:22.540
+or executable code which is
+instructions
+
+00:02:22.540 --> 00:02:27.099
+encoded in binary something like what
+I'm trying to show here
+
+00:02:27.099 --> 00:02:31.540
+compiler basically takes one or more
+source files
+
+00:02:31.540 --> 00:02:34.569
+let's say the program that have written
+here is in a
+
+00:02:34.569 --> 00:02:38.859
+file named program dot c. Now, a
+compiler for C language will
+
+00:02:38.859 --> 00:02:41.969
+take this file as input and create an
+
+00:02:41.969 --> 00:02:45.059
+executable file that will have the
+machine code
+
+00:02:45.059 --> 00:02:48.569
+On a Windows machine executable
+files has extension
+
+00:02:48.569 --> 00:02:52.569
+exe. An executable file will be stored
+in
+
+00:02:52.569 --> 00:02:56.459
+disk drive or some secondary storage
+device
+
+00:02:56.459 --> 00:03:00.689
+whenever we say memory, just memory in
+context of programming
+
+00:03:00.689 --> 00:03:05.579
+we mean that random access memory or
+RAM that we also called the main memory
+
+00:03:05.579 --> 00:03:10.010
+are primary storage. So whatever
+application's memory we're talking about
+
+00:03:10.010 --> 00:03:10.829
+here will be
+
+00:03:10.829 --> 00:03:14.299
+a chunk of main memory. A program
+
+00:03:14.299 --> 00:03:18.829
+or application gets a chunk of memory
+only when it starts execution
+
+00:03:18.829 --> 00:03:23.090
+when the application finishes execution,
+this memory is claimed back
+
+00:03:23.090 --> 00:03:27.379
+What really happens is that when
+we run a program when
+
+00:03:27.379 --> 00:03:31.870
+a program started execution, some amount
+of a memory is allocated to it
+
+00:03:31.870 --> 00:03:35.629
+and that is what we're calling
+applications memory here. The code or
+
+00:03:35.629 --> 00:03:38.829
+text segment of application's memory is
+basically
+
+00:03:38.829 --> 00:03:43.419
+the machine code or instructions copied
+from the executable file
+
+00:03:43.419 --> 00:03:47.540
+instructions are not executed directly
+from secondary storage
+
+00:03:47.540 --> 00:03:51.939
+they are first copied to main
+memory and then only they can be
+
+00:03:51.939 --> 00:03:52.650
+executed
+
+00:03:52.650 --> 00:03:57.089
+during program execution we need memory
+not just to store
+
+00:03:57.089 --> 00:04:00.489
+instructions to be executed but also to
+store
+
+00:04:00.489 --> 00:04:04.519
+a lot of data that we would work upon in
+a program
+
+00:04:04.519 --> 00:04:09.370
+these other segments are mostly about
+storing and managing data
+
+00:04:09.370 --> 00:04:14.129
+what I'm going to do now is I'm going to
+zoom in to the code or text segment
+
+00:04:14.129 --> 00:04:17.190
+Let's assume that each instruction in
+machine language takes
+
+00:04:17.190 --> 00:04:22.780
+four bytes. I'm trying to show the section
+of memory storing the instructions here
+
+00:04:22.780 --> 00:04:26.970
+each partition here is a block of four
+bytes and actress is increasing from top
+
+00:04:26.970 --> 00:04:28.140
+to bottom
+
+00:04:28.140 --> 00:04:31.820
+so we have instruction 01 at address
+200 and the next instruction is
+
+00:04:31.820 --> 00:04:33.580
+at address 204
+
+00:04:33.580 --> 00:04:37.450
+and the next is at 208 and so on
+
+00:04:37.450 --> 00:04:40.860
+Instructions in a program are executed
+sequentially
+
+00:04:40.860 --> 00:04:45.100
+Only exception will be when instruction
+itself will say that hey,
+
+00:04:45.100 --> 00:04:48.740
+go to or jump to this other
+instruction
+
+00:04:48.740 --> 00:04:53.290
+at this particular address which will
+happen in case of function calls
+
+00:04:53.290 --> 00:04:58.550
+for example if instruction 01 at address 200 is currently executing
+
+00:04:58.550 --> 00:05:01.610
+by default the next instruction to be
+executed
+
+00:05:01.610 --> 00:05:04.790
+is instruction-02 at address 204
+
+00:05:04.790 --> 00:05:08.570
+Unless instruction 01 is itself
+something like
+
+00:05:08.570 --> 00:05:12.810
+go to instruction- 05 at address 216
+
+00:05:12.810 --> 00:05:16.130
+which will happen in case of function
+calls. A function
+
+00:05:16.130 --> 00:05:21.690
+is nothing but a set of instructions
+stored in one contiguous block of memory
+
+00:05:21.690 --> 00:05:24.920
+let's say this block containing
+instructions 5 till
+
+00:05:24.920 --> 00:05:28.800
+8 is a function. I'll name this function
+
+00:05:28.800 --> 00:05:33.650
+func1. Basically a function is a set
+of instructions to perform
+
+00:05:33.650 --> 00:05:38.140
+a sub-task. In memory a function will be
+one contiguous block
+
+00:05:38.140 --> 00:05:42.770
+with some instructions. The address of a
+function what we also call
+
+00:05:42.770 --> 00:05:47.310
+entry point of a function will be the
+address of the first
+
+00:05:47.310 --> 00:05:51.520
+instruction in the function. In this
+example here
+
+00:05:51.520 --> 00:05:56.150
+address of func1 is 216
+
+00:05:56.150 --> 00:05:59.740
+a function call in machine language will
+basically be an instruction
+
+00:05:59.740 --> 00:06:02.790
+to jump to entry point of some function
+
+00:06:02.790 --> 00:06:06.250
+to jump to first instruction in a
+function
+
+00:06:06.250 --> 00:06:09.440
+We will not go any deeper into
+architecture now, this is good enough to
+
+00:06:09.440 --> 00:06:11.230
+understand function pointers
+
+00:06:11.230 --> 00:06:15.150
+when we say function pointers store
+address of functions
+
+00:06:15.150 --> 00:06:18.440
+we basically mean that function pointers
+store
+
+00:06:18.440 --> 00:06:21.500
+the starting address or entry point
+
+00:06:21.500 --> 00:06:25.430
+of the block of memory containing all
+the instructions in a function
+
+00:06:25.430 --> 00:06:30.310
+let's now see how the can create and use
+function pointers in a C or C plus plus
+
+00:06:30.310 --> 00:06:31.320
+program
+
+00:06:31.320 --> 00:06:34.490
+I'm going to write a simple C program
+here
+
+00:06:34.490 --> 00:06:38.420
+the first thing that I'm going to do
+is I'm going to write a function named
+
+00:06:38.420 --> 00:06:41.770
+Add that will take two integers as argument
+
+00:06:41.770 --> 00:06:45.090
+and return the sum of these two
+integers
+
+00:06:45.090 --> 00:06:48.390
+and now I'm going to create a function
+pointer that should point
+
+00:06:48.390 --> 00:06:54.020
+to this function Add. The syntax to create
+function pointer is
+
+00:06:54.020 --> 00:06:57.080
+first type in the return type of the
+function
+
+00:06:57.080 --> 00:07:00.900
+to which this pointer will point. Add
+will return
+
+00:07:00.900 --> 00:07:05.790
+int. So, I typed in int then after space
+within parentheses
+
+00:07:05.790 --> 00:07:09.930
+type in asterisk and then name of the
+variable
+
+00:07:09.930 --> 00:07:15.450
+so I'm creating a pointer named 'p' and
+now once again within parentheses
+
+00:07:15.450 --> 00:07:19.340
+type in all the argument types of the
+function to which this pointer will
+
+00:07:19.340 --> 00:07:20.650
+point
+
+00:07:20.650 --> 00:07:24.040
+argument types in function declaration
+should be
+
+00:07:24.040 --> 00:07:28.220
+exactly same as in the function to which
+this pointer will point
+
+00:07:28.220 --> 00:07:31.360
+because both the arguments in Add function
+are Int
+
+00:07:31.360 --> 00:07:34.550
+we have two ints in the declaration of
+
+00:07:34.550 --> 00:07:37.670
+function pointer also. To initialize
+function pointer
+
+00:07:37.670 --> 00:07:42.270
+and fill in the address of a function,
+we can use a statement like this.
+
+00:07:42.270 --> 00:07:45.930
+as we know ampersand operator gives us the address of something
+
+00:07:45.930 --> 00:07:49.820
+this statement p = &amp;Add will give us the
+
+00:07:49.820 --> 00:07:52.900
+address of Add in 'p'
+
+00:07:52.900 --> 00:07:56.560
+so 'p' now points to Add and using
+
+00:07:56.560 --> 00:08:00.930
+'p', we can execute this function Add. What
+I'm going to do here is that I'm going to
+
+00:08:00.930 --> 00:08:01.700
+declare
+
+00:08:01.700 --> 00:08:05.050
+an integer variable named 'c' and now
+
+00:08:05.050 --> 00:08:08.710
+I'm going to write a statement like this.
+What I've done here is
+
+00:08:08.710 --> 00:08:14.010
+first I have used the asterisk operator
+to dereference and get the function
+
+00:08:14.010 --> 00:08:17.060
+and then I have passed arguments
+
+00:08:17.060 --> 00:08:22.070
+just like I would do with a function
+name. So, I've passed two integers - two and three
+
+00:08:22.070 --> 00:08:26.510
+and if everything is alright the output
+of this printf statement here
+
+00:08:26.510 --> 00:08:31.820
+should be integer value 5. When I run
+the program, this is what I get.
+
+00:08:31.820 --> 00:08:37.120
+So this is really cool. We just used a
+function pointer to refer to a function
+
+00:08:37.120 --> 00:08:41.439
+and then execute the function. One thing
+about the syntax of function pointer
+
+00:08:41.439 --> 00:08:42.550
+declaration
+
+00:08:42.550 --> 00:08:47.730
+We are putting the identifier or name of the
+pointer within this parentheses
+
+00:08:47.730 --> 00:08:50.809
+if we would not use the parentheses, then
+
+00:08:50.809 --> 00:08:53.980
+it will mean that we r declaring
+
+00:08:53.980 --> 00:08:57.819
+a function that will return pointer to
+integer
+
+00:08:57.819 --> 00:09:02.569
+in this case. If I would write something
+like this, I would write a declaration
+
+00:09:02.569 --> 00:09:07.759
+something like this, then this is
+declaring a function that would return
+
+00:09:07.759 --> 00:09:12.389
+pointer to integer. We can have an asterisk
+just before the function name or
+
+00:09:12.389 --> 00:09:15.800
+we can have an asterisk just after int.
+
+00:09:15.800 --> 00:09:20.279
+These 2 syntax are same, but if I would
+put this
+
+00:09:20.279 --> 00:09:23.980
+within parentheses, then this is declaring
+
+00:09:23.980 --> 00:09:27.870
+a function pointer. Okay, few more things
+
+00:09:27.870 --> 00:09:31.680
+In this initialization here, we are using this
+ampersand operator
+
+00:09:31.680 --> 00:09:35.379
+even if we do not use this ampersand
+operator
+
+00:09:35.379 --> 00:09:40.050
+it will mean the same. Just using the
+function name will also return us
+
+00:09:40.050 --> 00:09:44.339
+address of the function or in other
+words, an appropriate pointer.
+
+00:09:44.339 --> 00:09:48.589
+To dereference, instead of using this
+parentheses and
+
+00:09:48.589 --> 00:09:53.009
+asterisk operator with function pointer
+name, we can simply use the function
+
+00:09:53.009 --> 00:09:53.980
+pointer name
+
+00:09:53.980 --> 00:09:58.509
+and this is good enough. So, we can use
+function pointer name or identifier
+
+00:09:58.509 --> 00:10:00.430
+just like function name
+
+00:10:00.430 --> 00:10:03.689
+as you can see the output here is as
+expected
+
+00:10:03.689 --> 00:10:08.220
+so we have two possible syntax
+ for both referencing and dereferencing
+
+00:10:08.220 --> 00:10:11.860
+you can use whichever you like. The
+second one is more famous
+
+00:10:11.860 --> 00:10:15.279
+One final thing, to be able to point to a
+function
+
+00:10:15.279 --> 00:10:19.699
+type of the function pointer must be
+appropriate, so in this declaration of 'p'
+
+00:10:19.699 --> 00:10:20.160
+here
+
+00:10:20.160 --> 00:10:23.189
+if I would change it something like
+this
+
+00:10:23.189 --> 00:10:27.079
+then this function pointer is meant to
+point to a function
+
+00:10:27.079 --> 00:10:32.189
+that should take two integers as
+argument and should return void.
+
+00:10:32.189 --> 00:10:36.809
+Add function is returning int so 'p'
+cannot point to Add. This will give
+
+00:10:36.809 --> 00:10:41.089
+me compilation error. Once again, if I will
+change the declaration something like
+
+00:10:41.089 --> 00:10:41.519
+this
+
+00:10:41.519 --> 00:10:46.149
+if I will have only one argument in the
+declaration of a function pointer,
+
+00:10:46.149 --> 00:10:51.189
+then P cannot point to Add. Okay, now
+let's use some more functions with
+
+00:10:51.189 --> 00:10:52.569
+different signatures
+
+00:10:52.569 --> 00:10:56.869
+and try to execute them through function
+pointers. I'm writing this function
+
+00:10:56.869 --> 00:10:57.809
+PrintHello
+
+00:10:57.809 --> 00:11:02.129
+it will simply print "Hello" on-screen. We
+will have to declare
+
+00:11:02.129 --> 00:11:05.410
+a function pointer like this.
+
+00:11:05.410 --> 00:11:11.389
+and then we can initialize the pointer
+and fill in the address of this function
+
+00:11:11.389 --> 00:11:14.899
+and now we can execute the function through this pointer
+
+00:11:14.899 --> 00:11:18.999
+Let's see what the output is. 
+this looks alright.
+
+00:11:18.999 --> 00:11:23.720
+now let's say we want to say "Hello" to
+someone and I'll change the signature of
+
+00:11:23.720 --> 00:11:24.879
+PrintHello
+
+00:11:24.879 --> 00:11:28.930
+To take a string as argument, the
+declaration of
+
+00:11:28.930 --> 00:11:31.999
+function pointer will also change.
+
+00:11:31.999 --> 00:11:35.569
+and while calling we will have to
+pass a string
+
+00:11:35.569 --> 00:11:40.170
+upon running this program, this is what
+I get and this is also looking fine
+
+00:11:40.170 --> 00:11:43.939
+So this is pretty much how we can
+create and use function pointers
+
+00:11:43.939 --> 00:11:48.119
+in C or C plus plus. Function pointers are
+used in a program in interesting
+
+00:11:48.119 --> 00:11:50.730
+scenarios, they have interesting use cases.
+
+00:11:50.730 --> 00:11:55.240
+we'll talk about the use cases in next
+lesson. This is it for this lesson
+
+00:11:55.240 --> 00:11:55.939
+Thanks for watching!
+

@@ -1,0 +1,599 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.620 --> 00:00:06.330
+In our previous lesson, we saw what function
+pointers are and then we wrote a simple program
+
+00:00:06.330 --> 00:00:13.429
+to understand how we can create function pointers
+in a C or C++ program. But, we did not discuss
+
+00:00:13.429 --> 00:00:18.990
+the real use cases of function pointers, real
+scenarios where function pointers can be useful.
+
+00:00:18.990 --> 00:00:24.350
+So, in this lesson, we are going to talk about
+the use cases of function pointers. All the
+
+00:00:24.350 --> 00:00:30.310
+use cases of function pointer are around this
+concept that function pointers can be passed
+
+00:00:30.310 --> 00:00:37.550
+as arguments to functions. And then a function
+that would receive a function pointer as argument
+
+00:00:37.550 --> 00:00:43.760
+can call back the function that this pointer
+will point to. To explain this better, I will
+
+00:00:43.760 --> 00:00:50.039
+have to write some code. First of all, I am
+going to write a simple function named A.
+
+00:00:50.039 --> 00:00:57.249
+This function takes no argument, returns void
+and simply print Hello on screen. Now, I will
+
+00:00:57.249 --> 00:01:04.430
+write another function named B. This function
+takes a function pointer as argument. ptr
+
+00:01:04.430 --> 00:01:10.290
+should point to a function that should take
+no argument and should return void, a function
+
+00:01:10.290 --> 00:01:18.180
+like A. Now, in B I will simply use this function
+pointer ptr to call whatever function its
+
+00:01:18.180 --> 00:01:24.670
+pointing to. Or in other words, I can say
+that I will call back the function passed
+
+00:01:24.670 --> 00:01:30.810
+to me or given to me through ptr. In the main
+function, I will declare a function pointer
+
+00:01:30.810 --> 00:01:35.780
+and this function pointer should also point
+to a function that should take no argument
+
+00:01:35.780 --> 00:01:44.060
+and should return void. I will initialize
+this function pointer p with address of A.
+
+00:01:44.060 --> 00:01:49.530
+And now, I will call this function B passing
+it this function pointer p. Let's run this
+
+00:01:49.530 --> 00:01:54.610
+program and see what happens. "Hello" is getting
+printed on screen. So, basically function
+
+00:01:54.610 --> 00:02:01.110
+A is getting executed. A is executed through
+this callback/. In the main function, instead
+
+00:02:01.110 --> 00:02:06.960
+of writing these two statements, I can simply
+write a statement like this and this should
+
+00:02:06.960 --> 00:02:12.499
+be good enough because name of a function,
+we had discussed this earlier also, returns
+
+00:02:12.499 --> 00:02:18.109
+a pointer. So, this one statement is same
+as previous two statements. When reference
+
+00:02:18.109 --> 00:02:23.200
+to a function is passed to another function,
+then that particular function is called a
+
+00:02:23.200 --> 00:02:29.730
+callback function. So, A is a callback function
+here. It can be called back by B through the
+
+00:02:29.730 --> 00:02:34.560
+reference, through the function pointer. This
+statement where we are calling the function
+
+00:02:34.560 --> 00:02:40.379
+through function pointer is a callback. We
+are still not doing something very meaningful
+
+00:02:40.379 --> 00:02:46.730
+here. Whats the point in calling A indirectly
+through B in this code. This is not making
+
+00:02:46.730 --> 00:02:52.790
+much sense. So, lets now look at a scenario
+where using a function pointer and callback
+
+00:02:52.790 --> 00:02:58.629
+can make our life easier. I have a simple
+scenario. I have a list of integers in an
+
+00:02:58.629 --> 00:03:05.739
+array and I want to sort this list in increasing
+order of the value of integers. To do so,
+
+00:03:05.739 --> 00:03:12.049
+I will write my own sort function. I am writing
+a function named sort that will take an array
+
+00:03:12.049 --> 00:03:19.609
+and number of elements in the array. The function
+will take an integer array. Here, I can write
+
+00:03:19.609 --> 00:03:26.980
+A and then brackets or I can write *A, these
+two are alternate syntax. I will use simple
+
+00:03:26.980 --> 00:03:33.459
+Bubble sort algorithm. I have renamed this
+function as Bubble sort. In Bubble sort, we
+
+00:03:33.459 --> 00:03:40.299
+make multiple passes on an array and in each
+pass, as we go from left to right, as we go
+
+00:03:40.299 --> 00:03:46.879
+from lower indices to higher indices, we compare
+adjacent elements and if the element at lower
+
+00:03:46.879 --> 00:03:52.919
+index is greater than the element at higher
+index while comparing adjacent elements, then
+
+00:03:52.919 --> 00:04:00.349
+we swap the elements. This inner loop is a
+pass on array. And this outer loop is basically
+
+00:04:00.349 --> 00:04:06.439
+saying that we will make n passes. After first
+pass, the largest element in the array will
+
+00:04:06.439 --> 00:04:12.769
+bubble up to the highest index and in the
+next pass the second largest will bubble up
+
+00:04:12.769 --> 00:04:18.739
+to its appropriate position. This will go
+on and finally in n passes, the complete list
+
+00:04:18.739 --> 00:04:23.990
+will be sorted. If you want to refresh Bubble
+sort, there is a link to MycodeSchool's lesson
+
+00:04:23.990 --> 00:04:28.289
+on Bubble sort in the description of this
+video. In the main function I have called
+
+00:04:28.289 --> 00:04:34.720
+Bubble sort function passing it array A. And
+then, I am printing all the elements in A
+
+00:04:34.720 --> 00:04:39.270
+and hopefully elements should be printed in
+increasing order. The output is as expected.
+
+00:04:39.270 --> 00:04:45.199
+We have a sorted list here. OK, now let's
+say I want to sort my list in decreasing order
+
+00:04:45.199 --> 00:04:50.759
+of the value of integers. So, what change
+should go in my code here. Think about it.
+
+00:04:50.759 --> 00:04:56.349
+The only change will be in this comparison
+logic. In this if statement. While comparing
+
+00:04:56.349 --> 00:05:02.120
+the adjacent elements, now I will say that,
+if the element in left is smaller, if the
+
+00:05:02.120 --> 00:05:07.780
+element at lower index is smaller, then swap
+or basically, then push it towards higher
+
+00:05:07.780 --> 00:05:14.770
+index. Comparing adjacent elements and swapping,
+is basically pushing smallest or highest element
+
+00:05:14.770 --> 00:05:20.830
+towards higher indices. With this condition,
+with this comparison, we are pushing the smaller
+
+00:05:20.830 --> 00:05:25.430
+number towards higher index. Let's see the
+output now. As you can see, I am getting the
+
+00:05:25.430 --> 00:05:30.169
+numbers in decreasing order. Now, my list
+is sorted in decreasing order of the value
+
+00:05:30.169 --> 00:05:36.889
+of integers. Now, lets say I have a requirement
+like this. Sometimes in my program, I want
+
+00:05:36.889 --> 00:05:43.669
+to sort a list of integers in increasing order
+and sometimes I want to sort a list in decreasing
+
+00:05:43.669 --> 00:05:49.409
+order of the value of integers. So, what all
+can I do. Think about it. One thing that I
+
+00:05:49.409 --> 00:05:55.860
+can do is, I can write two sort functions,
+first sort function to sort in increasing
+
+00:05:55.860 --> 00:06:01.449
+order and another sort function to sort in
+decreasing order. but if we will do so, there
+
+00:06:01.449 --> 00:06:08.129
+will be a lot of duplicate code. The two functions
+will be same except just one character, just
+
+00:06:08.129 --> 00:06:13.979
+this less than sign or greater than sign.
+Writing duplicate code has a lot of disadvantages.
+
+00:06:13.979 --> 00:06:19.819
+So, can we do something better. Another thing
+that we can do is, we can pass one more parameter
+
+00:06:19.819 --> 00:06:24.909
+to the sort function to say whether we want
+the list sorted in increasing order or decreasing
+
+00:06:24.909 --> 00:06:30.530
+order. We can have a flag. let's say when
+flag is one, we will sort in increasing order
+
+00:06:30.530 --> 00:06:36.229
+and when flag is 0, we will sort in decreasing
+order. Using this approach, we can avoid writing
+
+00:06:36.229 --> 00:06:42.759
+a lot of duplicate code. What I am going to
+do is, I am going to use a function pointer.
+
+00:06:42.759 --> 00:06:47.509
+Sorting of a list is always done on basis
+of some ranking mechanism. So, based on some
+
+00:06:47.509 --> 00:06:52.409
+property, we should be able to compare elements
+and say that this should come first and this
+
+00:06:52.409 --> 00:06:58.319
+should come later. The core logic will always
+be the same. only the ranking mechanism or
+
+00:06:58.319 --> 00:07:03.259
+comparison logic will change. What I am going
+to do here is, I am going to decide which
+
+00:07:03.259 --> 00:07:09.620
+element is greater in rank, and which element
+is lesser through a function. Basically, I
+
+00:07:09.620 --> 00:07:15.400
+will perform this comparison through a function.
+My function will take a function pointer as
+
+00:07:15.400 --> 00:07:20.689
+argument. My sort function will take function
+pointer as argument. the callback function
+
+00:07:20.689 --> 00:07:27.020
+or the function that this pointer should point
+to must take two integers as argument. It
+
+00:07:27.020 --> 00:07:34.689
+should compare the two integers and it should
+return back an integer. It should return 1
+
+00:07:34.689 --> 00:07:41.610
+if first element has higher rank, 0 if the
+elements are equal and -1 if second element
+
+00:07:41.610 --> 00:07:47.999
+or second argument has higher rank. And let's
+say, the element that has higher rank will
+
+00:07:47.999 --> 00:07:54.389
+go towards the end in sorted array. towards
+higher indices. these are my assumptions while
+
+00:07:54.389 --> 00:08:01.409
+designing this sort function. Now, I am going
+to use my callback function for comparison,
+
+00:08:01.409 --> 00:08:09.139
+If A[j] and A[j+1] are now passed as arguments
+to this callback function and we get 1, so
+
+00:08:09.139 --> 00:08:14.930
+this condition will be true, we will swap
+in this condition because A[j] will have to
+
+00:08:14.930 --> 00:08:22.400
+be higher in rank for this comparison function
+to return 1. So, we will try to push A[j]
+
+00:08:22.400 --> 00:08:28.199
+towards higher indices. Let's now try to use
+this particular implementation of Bubble sort.
+
+00:08:28.199 --> 00:08:33.779
+I will have to write a callback function first.
+I have written a function like this. Now,
+
+00:08:33.779 --> 00:08:39.930
+in main, I can just use the name of this function
+that will return me a function pointer and
+
+00:08:39.930 --> 00:08:46.579
+pass it in this call to Bubble sort. In this
+comparison function, I have not written a
+
+00:08:46.579 --> 00:08:51.480
+statement to return 0 if elements are equal.
+Equality doesn't matter in the logic, so for
+
+00:08:51.480 --> 00:08:58.740
+equality also I will return -1. Let's run
+this program and see the output. This is what
+
+00:08:58.740 --> 00:09:04.769
+I am getting. The numbers are sorted in increasing
+order. Now, I will change the comparison logic
+
+00:09:04.769 --> 00:09:13.260
+a bit. I will return -1 if A is greater than
+B. So, basically I have changed ranking mechanism.
+
+00:09:13.260 --> 00:09:18.510
+The element with lower value is now ranked
+higher and will go towards the end of the
+
+00:09:18.510 --> 00:09:23.800
+array. This is what I am getting upon running
+the program. The array is now sorted in decreasing
+
+00:09:23.800 --> 00:09:30.170
+order of the value of integers. This is a
+really good design because now, our sort function
+
+00:09:30.170 --> 00:09:36.589
+can sort a list of integers based on any ranking
+mechanism. We can have one callback function
+
+00:09:36.589 --> 00:09:41.800
+for each ranking mechanism. I will take one
+more example. Let's say, we have a list of
+
+00:09:41.800 --> 00:09:48.190
+integers, with both positive and negative
+values in it, I have modified A here. A now
+
+00:09:48.190 --> 00:09:55.339
+has both positive and negative values, This
+time I want to sort this array A in increasing
+
+00:09:55.339 --> 00:10:01.290
+order of the absolute value of integers. So,
+the negative sign will not matter. We will
+
+00:10:01.290 --> 00:10:09.019
+just take a MOD and then compare. This array
+A upon sorting should rearrange like this.
+
+00:10:09.019 --> 00:10:14.470
+To be able to sort, I will have to write a
+comparison function. Last time, we had modified
+
+00:10:14.470 --> 00:10:19.240
+the same compare function, but actually we
+should be writing one comparison function
+
+00:10:19.240 --> 00:10:25.370
+for each sorting scenario. So, I will write
+a new function this time. I will write a function
+
+00:10:25.370 --> 00:10:32.370
+named absolute_compare. I have included a
+reference to Math.h library and I will use
+
+00:10:32.370 --> 00:10:38.610
+abs function from this library that will give
+me absolute value of an integer. If absolute
+
+00:10:38.610 --> 00:10:45.290
+value of A is greater than the absolute value
+of B, then its ranked higher, I should return
+
+00:10:45.290 --> 00:10:52.540
+1, else I should return -1. Let's now use
+this function to sort this array. I have a
+
+00:10:52.540 --> 00:10:57.269
+minor spell error here. Ok, instead of passing
+this compare function as argument, I will
+
+00:10:57.269 --> 00:11:04.300
+not pass absolute_compare in this call to
+bubble sort, this basically is passing a pointer
+
+00:11:04.300 --> 00:11:09.220
+to absolute_compare function. Lets now run
+this program and see what happens. This is
+
+00:11:09.220 --> 00:11:14.550
+what I am getting. The elements are sorted
+in increasing order of their absolute values.
+
+00:11:14.550 --> 00:11:20.660
+The bubble sort function here can take only
+an array of integers, but we have a library
+
+00:11:20.660 --> 00:11:26.630
+function that can take any array. So, its
+further generic. This library function is
+
+00:11:26.630 --> 00:11:36.480
+in stdlib.h library and its named qsort. qsort
+for Quick sort and to this function, you should
+
+00:11:36.480 --> 00:11:42.130
+pass an array and it can be any array, it
+can be an array of integers or it can be an
+
+00:11:42.130 --> 00:11:49.149
+array of characters or even a complex data-type,
+a structure. First argument will be an array,
+
+00:11:49.149 --> 00:11:53.779
+second argument will be number of elements
+in array. Third argument will be size of the
+
+00:11:53.779 --> 00:12:01.199
+data type. So, if this is an array of integers,
+I need to pass sizeof(int). size of data type
+
+00:12:01.199 --> 00:12:07.560
+in bytes. sizeof function gives size of any
+data type in bytes. Last argument should be
+
+00:12:07.560 --> 00:12:14.019
+a function pointer, a pointer to comparison
+function. Signature of the comparison function
+
+00:12:14.019 --> 00:12:22.100
+should be like this. It should take two constant
+void pointers as argument and return an integer.
+
+00:12:22.100 --> 00:12:28.959
+Why void pointers? void pointers are generic
+pointers. We can typecast them to a pointer
+
+00:12:28.959 --> 00:12:34.500
+of any data type. This is the specification
+of qsort function. It should be passed a pointer
+
+00:12:34.500 --> 00:12:40.769
+to such a function. So, it will be able to
+call it back. Let's write the comparison function.
+
+00:12:40.769 --> 00:12:48.310
+You can think of this as reference of first
+element passed as a void pointer. To get the
+
+00:12:48.310 --> 00:12:57.040
+element, if its a list of integers, I'll first
+have to typecast the void pointer to int pointer
+
+00:12:57.040 --> 00:13:02.769
+and then I'll have to use the asterisk operator
+to de-reference and get the value. We will
+
+00:13:02.769 --> 00:13:09.750
+do the same to get the value of second element.
+This function must return any positive integer
+
+00:13:09.750 --> 00:13:17.110
+if A is ranked higher, a negative integer
+if A is ranked lower and 0 if both are ranked
+
+00:13:17.110 --> 00:13:24.480
+same. We can simply return A-B and it will
+mean the same. if A is higher in value, A-B
+
+00:13:24.480 --> 00:13:29.670
+will be positive and I am trying to create
+a simple comparison function here that would
+
+00:13:29.670 --> 00:13:33.720
+rank an integer with higher value as high.
+So, basically this comparison function can
+
+00:13:33.720 --> 00:13:39.579
+be used to sort the array in increasing order
+of value of integers. So, like I said, returning
+
+00:13:39.579 --> 00:13:45.690
+positive value means A is ranked higher, returning
+negative value means, B is ranked higher.
+
+00:13:45.690 --> 00:13:51.500
+With this comparison function, if I would
+simply pass this to qsort and after the call
+
+00:13:51.500 --> 00:13:57.430
+to qsort, print the value in this array, this
+is what I will get. As you can see, the list
+
+00:13:57.430 --> 00:14:02.319
+is sorted in increasing order of the value
+of integers. If I will change this comparison
+
+00:14:02.319 --> 00:14:10.300
+function to return B-A, so element with lesser
+value, integer with lesser value will be ranked
+
+00:14:10.300 --> 00:14:15.819
+higher, the list will be sorted in decreasing
+order of the value of integers and if I will
+
+00:14:15.819 --> 00:14:23.480
+use absolute value of A minus absolute value
+of B, this is what I will get. Remember, in
+
+00:14:23.480 --> 00:14:30.649
+this comparison function, the two elements
+to be compared are being passed through reference,
+
+00:14:30.649 --> 00:14:36.889
+their addresses are being passed through a
+pointer. The const keyword here means, you
+
+00:14:36.889 --> 00:14:41.639
+cannot modify the address in this pointer
+variable. We are having to use void pointer
+
+00:14:41.639 --> 00:14:47.839
+because of generic design of qsort function.
+Remember, qsort can sort any array, not just
+
+00:14:47.839 --> 00:14:53.350
+an integer array. its just that, you will
+have to give the comparison logic. Ok, so
+
+00:14:53.350 --> 00:15:00.100
+we just discussed one of the use cases of
+function pointers. This whole idea of callback
+
+00:15:00.100 --> 00:15:05.730
+is used in a lot of interesting design scenarios.
+One more thing where his concept of callback
+
+00:15:05.730 --> 00:15:11.360
+makes our life easier is something called
+event handling. If you are curious, you can
+
+00:15:11.360 --> 00:15:16.670
+check the description of this video for some
+resources on event handling. This is it for
+
+00:15:16.670 --> 00:15:18.550
+this lesson. Thanks for watching!
+

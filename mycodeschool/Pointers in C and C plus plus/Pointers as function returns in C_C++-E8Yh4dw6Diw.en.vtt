@@ -1,0 +1,589 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.480 --> 00:00:07.899
+In this lesson we will talk about pointers
+as return type for functions. Pointer is just
+
+00:00:07.899 --> 00:00:13.779
+another data type. It's just that a pointer
+stores the address of another data type. So
+
+00:00:13.779 --> 00:00:19.230
+it is quite possible for a function to return
+pointer. But we must understand the use cases
+
+00:00:19.230 --> 00:00:24.609
+in which we may want to return a pointer from
+a function. So let us try to understand this.
+
+00:00:24.609 --> 00:00:28.429
+I'll get started by writing some code.
+
+00:00:28.429 --> 00:00:34.079
+Now I want to write a very simple C program
+initially. I want to write a function Add
+
+00:00:34.079 --> 00:00:40.300
+that will take two integers as argument and
+sum these two numbers and return the sum.
+
+00:00:40.300 --> 00:00:46.129
+So let's say we declare another variable c
+and c equals a + b and the function returns
+
+00:00:46.129 --> 00:00:52.440
+c. Now in the main method I'll initialize
+two variables. Let's name these variables
+
+00:00:52.440 --> 00:00:58.899
+x and y. Let's say x is equal to 2 and y is
+equal to 4 and we will have another variable
+
+00:00:58.899 --> 00:01:06.070
+z which will be the return of this function
+Add and we will pass x and y as arguments
+
+00:01:06.070 --> 00:01:14.660
+to this function. Finally, I'll print something
+like sum is equal to z. No prizes for guessing
+
+00:01:14.660 --> 00:01:20.970
+the output here. Now I'll modify this code
+slightly, but before that I want to talk about
+
+00:01:20.970 --> 00:01:30.080
+this concept once again that x, y and z are
+local variables to main function and a, b,
+
+00:01:30.080 --> 00:01:36.360
+and c are local to Add function. What really
+happens when we call the Add function is that
+
+00:01:36.360 --> 00:01:44.860
+value in this variable x of main is copied
+to variable a of Add. And value in y of main
+
+00:01:44.860 --> 00:01:51.780
+is copied to b of add. And what if we name
+these variables in main a, b and c instead
+
+00:01:51.780 --> 00:01:58.710
+of x, y and z. If we run this code, output
+will be the same. This time what we will say
+
+00:01:58.710 --> 00:02:05.480
+is that the value of a in main is copied to
+a of Add and the value of b in main is copied
+
+00:02:05.480 --> 00:02:07.100
+to b of Add.
+
+00:02:07.100 --> 00:02:13.500
+This a in main and this a in Add - they're
+not the same. You can verify this by printing
+
+00:02:13.500 --> 00:02:20.209
+something like this. I'm printing the addresses
+of these two 'a's in my code and as you can
+
+00:02:20.209 --> 00:02:28.750
+see address of a in main is something like
+2883032 and in Add it is 2882792. So they're
+
+00:02:28.750 --> 00:02:33.480
+not the same. That means these variables are
+not the same. They're at different memory
+
+00:02:33.480 --> 00:02:35.109
+addresses.
+
+00:02:35.109 --> 00:02:40.749
+The names of variables are local or specific
+to a particular function. In our example here,
+
+00:02:40.749 --> 00:02:46.840
+the method or the function main can be called
+"calling" function and the function Add can
+
+00:02:46.840 --> 00:02:52.930
+be called "called" function in this particular
+call, when we're saying that c is equal to
+
+00:02:52.930 --> 00:02:59.030
+Add and passing a and b. And this call where
+a and b in main are getting copied to a and
+
+00:02:59.030 --> 00:03:06.579
+b in add, this is called a call by value.
+
+00:03:06.579 --> 00:03:12.359
+Now what I want do is, instead of passing
+by value I want to pass the addresses of these
+
+00:03:12.359 --> 00:03:18.260
+two variables. So I want to say that I want
+to pass the address of a and address of b
+
+00:03:18.260 --> 00:03:24.689
+to the Add function. So the signature of Add
+function should be such that it should receive
+
+00:03:24.689 --> 00:03:31.060
+the addresses. So I'll say that, okay, it
+takes 2 pointers to integers a and b. And
+
+00:03:31.060 --> 00:03:39.760
+now we can access the values at these addresses
+by using this asterisk operator which is used
+
+00:03:39.760 --> 00:03:46.430
+to de-reference an address. Now such a call
+is called call by reference. a and b are integers
+
+00:03:46.430 --> 00:03:52.439
+local to main function and in the function
+Add, a and b are not integer variables. a
+
+00:03:52.439 --> 00:04:01.650
+and b are pointer variables, pointer to integers.
+So their type is different. They're not int,
+
+00:04:01.650 --> 00:04:07.159
+they're int* But at the end of the day, they're
+also variables which are local to the function
+
+00:04:07.159 --> 00:04:12.749
+add. It's just that they're not integers.
+And now I'm using these two variables which
+
+00:04:12.749 --> 00:04:19.570
+are pointer to integers to access these two
+variables a and b which are in the main method.
+
+00:04:19.570 --> 00:04:23.450
+And to do so we use the asterisk operator
+and now, this code should also work.
+
+00:04:23.450 --> 00:04:30.550
+I'll write a few more print statements inside
+this function Add. I have tried to print a
+
+00:04:30.550 --> 00:04:37.800
+and I have tried to print *a and initially
+I was printing &amp;a. So now &amp;a should give us
+
+00:04:37.800 --> 00:04:43.120
+the address of the pointer variable. a should
+gives us the address of a in main because
+
+00:04:43.120 --> 00:04:50.440
+that is what this variable stores and *a should
+give us the value of a in main. Let us see
+
+00:04:50.440 --> 00:04:59.020
+in the output. Now as you can see here, the
+address of a in main is 3537612 and address
+
+00:04:59.020 --> 00:05:05.110
+of a in Add is something else, but the value
+of a in Add which is the address of a of main
+
+00:05:05.110 --> 00:05:11.310
+is equal to 3537612. So the first and the
+third lines are same And using the address,
+
+00:05:11.310 --> 00:05:17.540
+we're printing the value which is equal to
+2.
+
+00:05:17.540 --> 00:05:23.130
+Now I'll clean up some of these print statements.
+Coming back to our function add, we're returning
+
+00:05:23.130 --> 00:05:29.580
+this value c. And once again in the main method,
+we're collecting this value c in another variable
+
+00:05:29.580 --> 00:05:37.140
+which is c of main. Now why not do something
+like pass the address of this c in Add function.
+
+00:05:37.140 --> 00:05:41.130
+So what we will do now is we will say that
+we want to return pointer to integer from
+
+00:05:41.130 --> 00:05:47.240
+this function and here we will return &amp;c.
+Now &amp; when it is put in front of a variable
+
+00:05:47.240 --> 00:05:53.320
+it gives us the address. Now of course, here
+we will have to collect this particular address,
+
+00:05:53.320 --> 00:05:59.330
+so we will have to define a pointer variable.
+Now this would be ok. Now when we're printing,
+
+00:05:59.330 --> 00:06:07.470
+we will have to print the value at address
+being pointed to by this variable. Now what
+
+00:06:07.470 --> 00:06:13.910
+we just did is we modified this Add function
+to return a pointer to integer. There are
+
+00:06:13.910 --> 00:06:21.020
+two syntaxes We can say int and then put
+this asterisk sign or we can say int and put the
+
+00:06:21.020 --> 00:06:28.470
+* sign in front of the function name Add and
+both these syntaxes are valid. Now this function
+
+00:06:28.470 --> 00:06:34.540
+is returning pointer to integer. Let us run
+this program and see what happens.
+
+00:06:34.540 --> 00:06:42.940
+Let me also strike off this print statement
+here. Okay, so the output seems to be alright.
+
+00:06:42.940 --> 00:06:48.820
+Now have you caught some logical error with
+this code already? If you haven't stay with
+
+00:06:48.820 --> 00:06:54.430
+me for sometime. Now what I want to do is
+I want to write another function, a simple
+
+00:06:54.430 --> 00:06:59.270
+function that will print "hello world". So
+I'll name this function PrintHelloWorld and
+
+00:06:59.270 --> 00:07:05.050
+in this function I'll write a simple print
+statement. Now before I print this sum, what
+
+00:07:05.050 --> 00:07:12.580
+I'll do is I'll call this function PrintHelloWorld()
+And let's see what happens now. Oops - this
+
+00:07:12.580 --> 00:07:18.740
+looks weird! Sum is not correct now. I just
+saw that it was coming fine in my last run
+
+00:07:18.740 --> 00:07:24.230
+when I did not call this PrintHelloWorld.
+What happened? So let's try to understand
+
+00:07:24.230 --> 00:07:29.920
+what really happened here? I'll come back
+to this familiar diagram of various sections
+
+00:07:29.920 --> 00:07:34.800
+of application's memory. The memory that is
+allocated to a program is typically divided
+
+00:07:34.800 --> 00:07:41.640
+into these sections. All the local variables
+and the information about function call executions
+
+00:07:41.640 --> 00:07:47.240
+goes into the stack. So let us run through
+this code, let us simulate this code and see
+
+00:07:47.240 --> 00:07:52.090
+what's really happening in the memory. For
+each function call, some part of memory from
+
+00:07:52.090 --> 00:07:57.720
+the stack is allocated for its execution.
+Now we call this the stack frame of that method
+
+00:07:57.720 --> 00:08:03.670
+or that function. When the program starts
+executing, first the main method is invoked.
+
+00:08:03.670 --> 00:08:09.390
+So in the stack frame the memory will be allocated
+for the main function and all the local variables
+
+00:08:09.390 --> 00:08:14.200
+of the main function will live inside this
+stack frame. Let's say the starting address
+
+00:08:14.200 --> 00:08:20.930
+of this stack frame is 100 and the end address
+of this stack frame is 130. And we will have
+
+00:08:20.930 --> 00:08:29.310
+3 local variables created here - a, b and
+ptr. a and b are integers and ptr is an integer
+
+00:08:29.310 --> 00:08:36.399
+pointer. Let's say a is at address 100 and
+b is at address 112 and ptr is at address
+
+00:08:36.399 --> 00:08:42.969
+120. I am just making these assumptions. Now
+when the main method will come at this line
+
+00:08:42.969 --> 00:08:49.680
+where it is calling Add function, its execution
+will pause and now memory will be allocated
+
+00:08:49.680 --> 00:08:56.490
+for the execution of Add. At any time whatever
+function is at the top of the stack is executing.
+
+00:08:56.490 --> 00:09:03.610
+main method will wait for Add function to
+complete and return. Here I should say a is
+
+00:09:03.610 --> 00:09:09.430
+equal to 2, b is equal to 4 and now Add comes
+here in the stack. Let's say Add gets memory
+
+00:09:09.430 --> 00:09:18.040
+from 130 to 160 and Add also has 3 local variables
+- a, b and c. a and b are pointers to integers.
+
+00:09:18.040 --> 00:09:26.639
+The value of a will be 100 and the value of
+b will be 112. Let's say their addresses are
+
+00:09:26.639 --> 00:09:37.699
+130, 140 and 144. Once again these are just
+random assumptions. Now c is calculated as
+
+00:09:37.699 --> 00:09:45.699
+*a + *b. a is pointing to this location and
+b is pointing to this location. *a is value
+
+00:09:45.699 --> 00:09:53.350
+at address stored in a and *b is value at
+address stored in b. So this c will be 6 here.
+
+00:09:53.350 --> 00:09:59.360
+These two values will be added. Now this add
+function will return the address of its local
+
+00:09:59.360 --> 00:10:06.769
+variable c which is 144 and finish its execution.
+So this ptr will be 144 and now the memory
+
+00:10:06.769 --> 00:10:13.319
+that is allocated to Add function will be
+de-allocated. Now this memory above address
+
+00:10:13.319 --> 00:10:22.309
+130 can be used for other function calls.
+And even though this variable ptr stores the
+
+00:10:22.309 --> 00:10:27.699
+address 144, the address of this particular
+block (it kind of points to this particular
+
+00:10:27.699 --> 00:10:33.029
+block), the date here is not guaranteed because
+this memory has been de-allocated. Now we
+
+00:10:33.029 --> 00:10:39.749
+come here to this PrintHelloWorld and now
+memory from stack will be allocated to PrintHelloWorld
+
+00:10:39.749 --> 00:10:45.019
+above this stack frame of main method. This
+is main. So let's say that PrintHelloWorld
+
+00:10:45.019 --> 00:10:51.300
+gets this memory block from address 130 to
+address 150. Now there is no local variable
+
+00:10:51.300 --> 00:10:56.930
+in this PrintHelloWorld function. But still,
+function call execution involves storage of
+
+00:10:56.930 --> 00:11:03.309
+some information. Now this section, from 130
+to 150 is for PrintHelloWorld. I'll write
+
+00:11:03.309 --> 00:11:09.649
+PHW - shortcut for PrintHelloWorld. And it
+has been over-written. So this block at 144
+
+00:11:09.649 --> 00:11:16.199
+no more stores value 6. So when we come here
+at this print statement, to print the value
+
+00:11:16.199 --> 00:11:21.860
+at this particular address, we get some garbage
+value. Now the obvious question would be,
+
+00:11:21.860 --> 00:11:26.420
+why did we get the right value when we were
+not making the call to PrintHelloWorld. I
+
+00:11:26.420 --> 00:11:32.490
+would say that I just got lucky. Maybe because
+I did not call any other function after making
+
+00:11:32.490 --> 00:11:37.779
+a call to Add, my machine did not overwrite
+or erase the data at that particular memory
+
+00:11:37.779 --> 00:11:45.360
+location. But when I made a call to PrintHelloWorld
+that memory got used. If you see, we have
+
+00:11:45.360 --> 00:11:51.119
+passed the addresses of these two variables
+a and b of main to Add function. But that
+
+00:11:51.119 --> 00:11:56.670
+is alright because called function always
+comes above the calling function in the stack.
+
+00:11:56.670 --> 00:12:01.399
+So any time this called function is executing,
+calling function will be in the memory. So
+
+00:12:01.399 --> 00:12:06.680
+if Add is executing, main is guaranteed to
+be in the memory. So addresses of variables
+
+00:12:06.680 --> 00:12:11.540
+in main will be accessible to Add. But if
+we try to return a local variable from the
+
+00:12:11.540 --> 00:12:16.119
+called functionback to the calling function
+- like if we want to return a local variable
+
+00:12:16.119 --> 00:12:21.850
+from Add to main, when that function finishes
+and the control returns back to the calling
+
+00:12:21.850 --> 00:12:27.730
+function that memory has already been de-allocated.
+So it is ok to pass something from bottom
+
+00:12:27.730 --> 00:12:33.170
+to top in this call stack, or I should rather
+say that it is ok to pass a local variable
+
+00:12:33.170 --> 00:12:40.089
+or address of a local variable from bottom
+to top in the stack but it is not ok to return
+
+00:12:40.089 --> 00:12:45.139
+the address of a local variable from top to
+bottom in the call-stack. I hope this makes
+
+00:12:45.139 --> 00:12:45.720
+sense.
+
+00:12:45.720 --> 00:12:50.089
+So now the obvious question would be - what
+are the uses cases in which we may want to
+
+00:12:50.089 --> 00:12:56.449
+return pointers from functions. Well, if we
+have address of some memory block in the heap
+
+00:12:56.449 --> 00:13:01.269
+section or some memory block in the global
+section, then we can safely return the address
+
+00:13:01.269 --> 00:13:07.279
+of these blocks because anything in the heap
+has to be explicitly de-allocated. We control
+
+00:13:07.279 --> 00:13:14.029
+its de-allocation unlike stack. And anything
+which is in the global section, a global variable,
+
+00:13:14.029 --> 00:13:21.069
+lives for the entire lifetime of the program.
+I can use malloc or new operator in C++ to
+
+00:13:21.069 --> 00:13:22.790
+get some memory on heap.
+
+00:13:22.790 --> 00:13:29.519
+So if I modify my code something like this,
+I will declare this c as a pointer to integer
+
+00:13:29.519 --> 00:13:37.910
+and get some space allocated on the heap using
+a call to malloc. malloc is a library function
+
+00:13:37.910 --> 00:13:45.179
+that returns pointer, but it returns pointer
+to an address which is on the heap. So we
+
+00:13:45.179 --> 00:13:51.129
+get a memory block and using this pointer
+variable now, we can write this value - *a
+
+00:13:51.129 --> 00:13:57.759
++ *b - at that particular memory block. And
+then we can return this address c, which is
+
+00:13:57.759 --> 00:14:03.259
+the same address that malloc returned us but
+we are safe now because we are returning address
+
+00:14:03.259 --> 00:14:10.559
+of a block which is on the heap and not on
+the stack. And this will work now.
+
+00:14:10.559 --> 00:14:15.790
+Now in this code, let's say this call to malloc
+gives us this block at address 500 in the
+
+00:14:15.790 --> 00:14:21.490
+heap. c now is only pointing to this block
+and using c we have written this data here,
+
+00:14:21.490 --> 00:14:26.949
+this value 6. And now when add finishes, the
+address returned by the Add function which
+
+00:14:26.949 --> 00:14:34.459
+is address 500 is still valid. We still have
+the data there and it will not be de-allocated.
+
+00:14:34.459 --> 00:14:39.740
+Anything on the heap has to be explicitly
+de-allocated. So while returning pointers
+
+00:14:39.740 --> 00:14:45.149
+from functions, we need to be careful about
+the scope. We must be sure that the address
+
+00:14:45.149 --> 00:14:50.689
+is not re-used to store something else or
+that the data is not cleared from that address.
+
+00:14:50.689 --> 00:14:56.970
+In most cases we will be returning pointers
+to memory that is allocated on the heap, or
+
+00:14:56.970 --> 00:15:01.759
+memory that is in the global section, the
+global variables section. In our coming lessons,
+
+00:15:01.759 --> 00:15:07.100
+one place where we will be using pointers
+as function returns in our code is implementation
+
+00:15:07.100 --> 00:15:09.050
+of linked list data structure.
+
+00:15:09.050 --> 00:15:12.540
+So this was pointers as function returns.
+Thanks for watching.
+

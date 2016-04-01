@@ -1,0 +1,1069 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.560 --> 00:00:03.260
+In our lessons so far, we have seen
+
+00:00:03.260 --> 00:00:07.300
+how the concepts of arrays and pointers
+go together.
+
+00:00:07.300 --> 00:00:10.849
+Now, in this lesson, we are going to talk about character arrays,
+
+00:00:10.849 --> 00:00:14.189
+how we can work with character arrays using pointers
+
+00:00:14.189 --> 00:00:16.939
+Now, when we talk about character arrays in
+c
+
+00:00:16.939 --> 00:00:18.849
+we basically want to talk about
+
+00:00:18.849 --> 00:00:20.230
+strings
+
+00:00:20.230 --> 00:00:24.039
+strings are group or set of
+characters
+
+00:00:24.039 --> 00:00:25.480
+and real world data like
+
+00:00:25.480 --> 00:00:26.710
+names
+
+00:00:26.710 --> 00:00:29.909
+phrases and sentences, all of these
+are
+
+00:00:29.909 --> 00:00:31.300
+strings to us.
+
+00:00:31.300 --> 00:00:33.930
+So, these are some of the examples of
+strings
+
+00:00:33.930 --> 00:00:37.800
+character arrays become all the more
+important because we use them to
+
+00:00:37.800 --> 00:00:39.460
+store strings
+
+00:00:39.460 --> 00:00:43.200
+and then perform a lot of operations on
+strings like
+
+00:00:43.200 --> 00:00:46.380
+modifying a string, copying a string
+
+00:00:46.380 --> 00:00:48.790
+concatenating two strings or
+
+00:00:48.790 --> 00:00:50.819
+finding out properties of strings like
+
+00:00:50.819 --> 00:00:53.140
+finding out the length of a string.
+
+00:00:53.140 --> 00:00:56.780
+To be able to work with strings efficiently in C,
+
+00:00:56.780 --> 00:00:59.440
+there are a couple of things that we need to
+understand
+
+00:00:59.440 --> 00:01:00.859
+the first thing that we
+
+00:01:00.859 --> 00:01:04.600
+need to understand is how we store
+strings in character arrays.
+
+00:01:04.600 --> 00:01:06.620
+To be able to store
+
+00:01:06.620 --> 00:01:10.140
+a string in a character array, the first
+requirement is that
+
+00:01:10.140 --> 00:01:12.560
+the character array should be large
+enough
+
+00:01:12.560 --> 00:01:14.420
+to accommodate the string
+
+00:01:14.420 --> 00:01:16.960
+and what is a large enough character array?
+
+00:01:16.960 --> 00:01:19.970
+a large enough character array is a character array
+
+00:01:19.970 --> 00:01:21.219
+of size
+
+00:01:21.219 --> 00:01:23.060
+greater than or equal to
+
+00:01:23.060 --> 00:01:26.180
+number of characters in the string
+
+00:01:26.180 --> 00:01:27.820
+plus one.
+
+00:01:27.820 --> 00:01:30.130
+So let's say if our string is a
+
+00:01:30.130 --> 00:01:32.310
+name of four characters,
+
+00:01:32.310 --> 00:01:33.830
+uh... like john
+
+00:01:33.830 --> 00:01:35.540
+then the size of the array
+
+00:01:35.540 --> 00:01:38.450
+should be greater than or equal to five,
+
+00:01:38.450 --> 00:01:42.310
+and now the obvious question would be
+why do we need space for one
+
+00:01:42.310 --> 00:01:43.350
+extra character?
+
+00:01:43.350 --> 00:01:44.170
+Isn't it that
+
+00:01:44.170 --> 00:01:45.540
+if we declare
+
+00:01:45.540 --> 00:01:47.730
+a character array of size four, we can
+
+00:01:47.730 --> 00:01:52.429
+store all the characters in
+john. J will go to zero' th index
+
+00:01:52.429 --> 00:01:54.610
+'O' will go at the 1th index,
+
+00:01:54.610 --> 00:01:56.540
+'H' and 'N' will go at
+
+00:01:56.540 --> 00:01:58.729
+second and third index respectively
+
+00:01:58.729 --> 00:02:01.280
+So, I am storing all the data, isn't it?
+
+00:02:01.280 --> 00:02:03.570
+let's try to understand it this way
+
+00:02:03.570 --> 00:02:06.740
+Let's say we have a character array of size 8,
+
+00:02:06.740 --> 00:02:10.009
+uh... let's say this is a logical view of our array, C,
+
+00:02:10.009 --> 00:02:13.599
+and we want to store the string john in
+this particular array,
+
+00:02:13.599 --> 00:02:15.730
+we have indices from zero to seven
+
+00:02:15.730 --> 00:02:17.449
+this is an array of size eight
+
+00:02:17.449 --> 00:02:20.180
+so we can store 'J' at the 0th index,
+
+00:02:20.180 --> 00:02:24.470
+'O' at the 1th index, 'H' at the 2th index, and 'N' at
+
+00:02:24.470 --> 00:02:25.469
+the 3th index,
+
+00:02:25.469 --> 00:02:29.700
+So, we have stored all the characters
+of the string 'JOHN' in this array
+
+00:02:29.700 --> 00:02:32.930
+uh... but if you see we have not stored
+one information
+
+00:02:32.930 --> 00:02:36.389
+uh... we have not stored the information
+that this particular character 'N' is
+
+00:02:36.389 --> 00:02:38.200
+the last character in the string
+
+00:02:38.200 --> 00:02:39.860
+so the string ends
+
+00:02:39.860 --> 00:02:41.419
+at index three
+
+00:02:41.419 --> 00:02:45.300
+so let's see if we pass this string to
+a function that has to
+
+00:02:45.300 --> 00:02:46.599
+print this string
+
+00:02:46.599 --> 00:02:50.530
+john or find out the length of the string that we have stored in the array,
+
+00:02:50.530 --> 00:02:54.699
+then how would the function know that the string is only till index 3, even
+
+00:02:54.699 --> 00:02:57.069
+though we have not filled anything in these
+
+00:02:57.069 --> 00:02:58.349
+indices at
+
+00:02:58.349 --> 00:03:00.120
+four five six and seven,
+
+00:03:00.120 --> 00:03:02.219
+there would be some garbage value there,
+
+00:03:02.219 --> 00:03:04.620
+so either we pass this extra information
+
+00:03:04.620 --> 00:03:06.729
+or we do something else.
+
+00:03:06.729 --> 00:03:10.399
+To store this information that this is
+the end of the string in the character
+
+00:03:10.399 --> 00:03:10.979
+array,
+
+00:03:10.979 --> 00:03:13.319
+this is the used part of the string,
+
+00:03:13.319 --> 00:03:15.339
+and this is the unused part.
+
+00:03:15.339 --> 00:03:17.239
+We use the simple design,
+
+00:03:17.239 --> 00:03:22.159
+and at the end of the string in the next
+position we put a null character,
+
+00:03:22.159 --> 00:03:25.199
+A NULL character has ASCII value zero,
+
+00:03:25.199 --> 00:03:26.529
+and we can
+
+00:03:26.529 --> 00:03:27.830
+put a NULL character
+
+00:03:27.830 --> 00:03:30.789
+at position four in this example
+something like this,
+
+00:03:30.789 --> 00:03:34.509
+Within single quotes we put, a forward slash
+
+00:03:34.509 --> 00:03:35.789
+and number zero,
+
+00:03:35.789 --> 00:03:37.479
+this is NULL character.
+
+00:03:37.479 --> 00:03:40.360
+All the functions for string
+manipulation in C
+
+00:03:40.360 --> 00:03:43.339
+expect that strings will be null
+terminated,
+
+00:03:43.339 --> 00:03:44.779
+so this is a rule:
+
+00:03:44.779 --> 00:03:49.040
+A string in C has to be terminated by a NULL character,
+
+00:03:49.040 --> 00:03:52.309
+and that's why we need one extra space
+
+00:03:52.309 --> 00:03:54.499
+to store this null character.
+
+00:03:54.499 --> 00:03:57.599
+let us try to see some running code
+that will help us understand this
+
+00:03:57.599 --> 00:03:59.209
+concept better.
+
+00:03:59.209 --> 00:04:00.810
+what I have done here is I have
+
+00:04:00.810 --> 00:04:03.229
+taken a character array of size four,
+
+00:04:03.229 --> 00:04:07.409
+and I have filled in the characters but I have not used any space,
+
+00:04:07.409 --> 00:04:09.159
+to null terminate it,
+
+00:04:09.159 --> 00:04:13.239
+and then I am using the printf
+function, this %s tells
+
+00:04:13.239 --> 00:04:14.119
+that
+
+00:04:14.119 --> 00:04:18.819
+I want to print a string and then
+I am passing this array C,
+
+00:04:18.819 --> 00:04:21.810
+uh... let us run this program and see
+what happens,
+
+00:04:21.810 --> 00:04:22.800
+as we can see
+
+00:04:22.800 --> 00:04:25.210
+there are these bunch of characters
+
+00:04:25.210 --> 00:04:27.870
+that are getting printed after JOHN,
+
+00:04:27.870 --> 00:04:31.569
+and this is happening because we have
+broken the assumption that
+
+00:04:31.569 --> 00:04:34.180
+for the printf function that my
+
+00:04:34.180 --> 00:04:36.719
+string, that our string will be NULL terminated,
+
+00:04:36.719 --> 00:04:39.509
+so that's why this undefined behavior
+is coming
+
+00:04:39.509 --> 00:04:43.470
+if we change the size of the character array
+to five and put
+
+00:04:43.470 --> 00:04:46.319
+a NULL termination something like this
+
+00:04:46.319 --> 00:04:47.790
+at fourth index,
+
+00:04:47.790 --> 00:04:49.790
+and then things will be fine
+
+00:04:49.790 --> 00:04:52.939
+now even if we change the size of the
+array to twenty,
+
+00:04:52.939 --> 00:04:54.929
+printf function will print
+
+00:04:54.929 --> 00:04:56.320
+till it finds
+
+00:04:56.320 --> 00:04:57.459
+a null character.
+
+00:04:57.459 --> 00:05:00.810
+so it only prints the first four
+characters in the array,
+
+00:05:00.810 --> 00:05:04.229
+and it's not just the print function
+there are a bunch of
+
+00:05:04.229 --> 00:05:07.770
+functions we have this library string.h
+
+00:05:07.770 --> 00:05:11.040
+that gives us a bunch of functions
+for string manipulation,
+
+00:05:11.040 --> 00:05:15.390
+So, all these functions assume that the function will be null terminated, So, this is one
+
+00:05:15.390 --> 00:05:16.379
+contract
+
+00:05:16.379 --> 00:05:18.560
+that we have to follow
+
+00:05:18.560 --> 00:05:23.639
+uh... let's say we want to use the
+function strlen, string length
+
+00:05:23.639 --> 00:05:24.770
+to find out the
+
+00:05:24.770 --> 00:05:26.300
+length of the string.
+
+00:05:26.300 --> 00:05:28.919
+I will print something like this, lets run this
+
+00:05:28.919 --> 00:05:30.239
+and see.
+
+00:05:30.239 --> 00:05:33.120
+As you can see the output is Length=4,
+
+00:05:33.120 --> 00:05:34.709
+even though uh... the
+
+00:05:34.709 --> 00:05:36.610
+array is of size 20.
+
+00:05:36.610 --> 00:05:41.620
+So, string length function also counts till
+it sees a null character.
+
+00:05:41.620 --> 00:05:46.899
+In our program instead of writing these
+characters individually at these positions
+
+00:05:46.899 --> 00:05:48.219
+we could have used
+
+00:05:48.219 --> 00:05:49.999
+string literals.
+
+00:05:49.999 --> 00:05:51.590
+string literals are
+
+00:05:51.590 --> 00:05:53.729
+a group of characters
+
+00:05:53.729 --> 00:05:57.699
+within double quotation marks, so we could
+have written something like this
+
+00:05:57.699 --> 00:06:00.539
+and this would have initialized uh... C
+
+00:06:00.539 --> 00:06:04.090
+as this string and the null termination for
+
+00:06:04.090 --> 00:06:06.830
+uh... string literal is implicit.
+
+00:06:06.830 --> 00:06:10.750
+It is always stored with a null termination in memory,
+
+00:06:10.750 --> 00:06:15.550
+Remember that when we declare and initialize a character array like this,
+
+00:06:15.550 --> 00:06:19.120
+this has to happen in one line. We cannot
+do something like this that we declare
+
+00:06:19.120 --> 00:06:22.499
+in one line and then we go on and modify this in the next line. This will
+
+00:06:22.499 --> 00:06:24.279
+be invalid
+
+00:06:24.279 --> 00:06:27.419
+We could also avoid writing this here,
+
+00:06:27.419 --> 00:06:29.550
+and this would have been fine
+
+00:06:29.550 --> 00:06:33.029
+In this case the size of C will be
+five units
+
+00:06:33.029 --> 00:06:36.830
+five bytes where one byte stores one character.
+
+00:06:36.830 --> 00:06:40.849
+So, it would be just enough to store the
+string 'JOHN'.
+
+00:06:40.849 --> 00:06:46.629
+So, if we try to print the size in bytes of Che using this sizeof function,
+
+00:06:46.629 --> 00:06:50.999
+uh... then, size in bytes is five, one character
+is stored in one byte, so space
+
+00:06:50.999 --> 00:06:53.169
+has been allocated for five characters,
+
+00:06:53.169 --> 00:06:55.019
+but the length is four,
+
+00:06:55.019 --> 00:06:58.319
+because the null connector does not
+count in the length,
+
+00:06:58.319 --> 00:07:01.879
+if we write something like C[4]=
+
+00:07:01.879 --> 00:07:04.529
+uh... this particular string literal, with four characters,
+
+00:07:04.529 --> 00:07:07.749
+this will give us compilation error,
+because the compiler
+
+00:07:07.749 --> 00:07:09.229
+will force
+
+00:07:09.229 --> 00:07:10.640
+uh... this particular array,
+
+00:07:10.640 --> 00:07:13.009
+to be of minimum size five
+
+00:07:13.009 --> 00:07:16.170
+There is one more syntax of
+initialization, we can
+
+00:07:16.170 --> 00:07:18.319
+put all these characters
+
+00:07:18.319 --> 00:07:21.080
+as a comma separated list
+
+00:07:21.080 --> 00:07:22.879
+within these braces,
+
+00:07:22.879 --> 00:07:26.509
+but in this case the null termination
+will not be
+
+00:07:26.509 --> 00:07:29.210
+implicit. We will have to do it
+explicitly
+
+00:07:29.210 --> 00:07:32.659
+and the size of the array has to be
+greater than or equal to the number of
+
+00:07:32.659 --> 00:07:35.639
+characters here so it should be greater than or equal to five.
+
+00:07:35.639 --> 00:07:38.889
+Okay so these are some of the
+ways to initialise character arrays,
+
+00:07:38.889 --> 00:07:42.279
+the next thing that we need to
+understand is
+
+00:07:42.279 --> 00:07:46.859
+arrays and pointers are different types, that are used in similar manner.
+
+00:07:46.859 --> 00:07:48.600
+Now, what does it really mean?
+
+00:07:48.600 --> 00:07:52.409
+Let's say we declare a character array C1 of size 6,
+
+00:07:52.409 --> 00:07:54.970
+and initialize it with this string literal,
+
+00:07:54.970 --> 00:07:57.960
+and let us say this is how it gets stored
+in the memory.
+
+00:07:57.960 --> 00:08:01.330
+Array is stored in one contiguous block
+of memory, so let's say the first
+
+00:08:01.330 --> 00:08:03.840
+character is stored at address 200,
+
+00:08:03.840 --> 00:08:07.210
+one character is of size one byte, so the next character will be at address
+
+00:08:07.210 --> 00:08:08.259
+201
+
+00:08:08.259 --> 00:08:11.009
+and the next will be at 202 and so on.
+
+00:08:11.009 --> 00:08:14.849
+Now, C1 is the variable name for this
+whole array,
+
+00:08:14.849 --> 00:08:16.719
+now what I will do is, I will declare
+
+00:08:16.719 --> 00:08:20.840
+a variable which is a pointer to character, let's name this
+
+00:08:20.840 --> 00:08:25.110
+C[2]. So, let's say we get this variable C2 somewhere in the memory.
+
+00:08:25.110 --> 00:08:28.999
+A pointer variable in a typical
+architecture is stored in four bytes
+
+00:08:28.999 --> 00:08:32.139
+So this variable will also have some
+address, say this variable is at
+
+00:08:32.139 --> 00:08:36.459
+address four hundred. I am just picking up
+these numbers for example sake. Now, what
+
+00:08:36.459 --> 00:08:40.680
+we can do is we can write a statement
+like this C2 is equal to C1
+
+00:08:40.680 --> 00:08:42.880
+not even though C1 is
+
+00:08:42.880 --> 00:08:45.959
+a character array, is a variable name of a character array
+
+00:08:45.959 --> 00:08:49.170
+and C2 is variable which is pointer to character. This particular
+
+00:08:49.170 --> 00:08:50.910
+expression is valid.
+
+00:08:50.910 --> 00:08:53.060
+Just using the name of the array,
+
+00:08:53.060 --> 00:08:56.250
+actually returns the address of the
+
+00:08:56.250 --> 00:08:59.250
+first element in the array. So, what this
+expression
+
+00:08:59.250 --> 00:09:03.570
+what this statement will do is, it will fill
+in the address two hundred in C2.
+
+00:09:03.570 --> 00:09:05.610
+So, C2 now points
+
+00:09:05.610 --> 00:09:09.170
+to the first element in the array. Now,
+
+00:09:09.170 --> 00:09:12.690
+we can use this variable C2, which is
+a character pointer
+
+00:09:12.690 --> 00:09:14.430
+just like C1, to
+
+00:09:14.430 --> 00:09:15.889
+read and write
+
+00:09:15.889 --> 00:09:19.300
+into the array. So, if I write something like
+
+00:09:19.300 --> 00:09:21.020
+print C2[i]
+
+00:09:21.020 --> 00:09:24.400
+let's say we want to print C2[1]
+
+00:09:24.400 --> 00:09:26.170
+then the output will be 'e'
+
+00:09:26.170 --> 00:09:28.710
+and we can even modify the array.
+
+00:09:28.710 --> 00:09:33.960
+Let's say we want to modify the
+character at 0th index to 'A'.
+
+00:09:33.960 --> 00:09:36.360
+So, the string will be modified
+
+00:09:36.360 --> 00:09:40.050
+and will become this. When we write C2[i]
+
+00:09:40.050 --> 00:09:43.020
+for any position i, it is nothing but
+
+00:09:43.020 --> 00:09:44.680
+*(C2+i)
+
+00:09:44.680 --> 00:09:46.910
+So, C2 is the base address
+
+00:09:46.910 --> 00:09:51.300
+(C2 + i) will take you to the address of the ith element. So, in this
+
+00:09:51.300 --> 00:09:53.959
+case let's say C2+2 will be 202
+
+00:09:53.959 --> 00:09:57.299
+and if we put this asterisk operator, we are basically
+
+00:09:57.299 --> 00:10:01.649
+dereferencing and finding out the value. So,
+these two syntax s are alternate
+
+00:10:01.649 --> 00:10:02.840
+syntax s. And,
+
+00:10:02.840 --> 00:10:04.870
+even if it is
+
+00:10:04.870 --> 00:10:06.120
+an array name,
+
+00:10:06.120 --> 00:10:09.690
+we can write these two as substitutes
+for each other.
+
+00:10:09.690 --> 00:10:12.290
+So, this was all the similarity in how
+we
+
+00:10:12.290 --> 00:10:14.370
+actually use them
+
+00:10:14.370 --> 00:10:15.700
+use
+
+00:10:15.700 --> 00:10:17.440
+arrays and pointers
+
+00:10:17.440 --> 00:10:22.680
+to read and write. Let us now look at the
+differences. We cannot modify
+
+00:10:22.680 --> 00:10:25.100
+anarraywith a statement like this
+
+00:10:25.100 --> 00:10:28.030
+C2=C1 is valid but
+
+00:10:28.030 --> 00:10:30.760
+C1 = C2 is not valid.
+
+00:10:30.760 --> 00:10:33.380
+It does not make sense, this will
+give you compilation error.
+
+00:10:33.380 --> 00:10:35.429
+we cannot even say C1 is equal to
+
+00:10:35.429 --> 00:10:36.850
+C1 plus one.
+
+00:10:36.850 --> 00:10:39.200
+We cannot increment or decrement this variable
+
+00:10:39.200 --> 00:10:40.700
+C1.
+
+00:10:40.700 --> 00:10:44.040
+We can do it for C2 which is a pointer variable. We can say C2++.
+
+00:10:44.040 --> 00:10:48.340
+So, C2 now points toward the
+next element. With this statement
+
+00:10:48.340 --> 00:10:50.460
+here all that will happen is
+
+00:10:50.460 --> 00:10:54.720
+C2 will become 201. So,
+instead of pointing here
+
+00:10:54.720 --> 00:10:58.560
+it's now pointing to this particular
+element 'e'. To traverse an array
+
+00:10:58.560 --> 00:11:00.390
+we run a loop and we use
+
+00:11:00.390 --> 00:11:03.980
+a local variable, lets say I and
+increment it in the loop. If we have a
+
+00:11:03.980 --> 00:11:07.540
+pointer variable we can just keep on incrementing the pointer
+
+00:11:07.540 --> 00:11:09.240
+and we can traverse the list.
+
+00:11:09.240 --> 00:11:13.000
+We can traverse the array, we will keep doing this C2++.
+
+00:11:13.000 --> 00:11:16.630
+So, we must understand where we have an
+array and where we have a pointer.
+
+00:11:16.630 --> 00:11:17.750
+What we can do with
+
+00:11:17.750 --> 00:11:20.040
+which one!
+
+00:11:20.040 --> 00:11:23.760
+And now, the next thing that we need to
+understand is
+
+00:11:23.760 --> 00:11:25.460
+that arrays are always
+
+00:11:25.460 --> 00:11:28.100
+passed to functions by reference.
+
+00:11:28.100 --> 00:11:32.090
+Now when we pass arrays to functions we only pass the base address
+
+00:11:32.090 --> 00:11:36.790
+of the array in a pointer variable, and we
+do not pass a whole copy of
+
+00:11:36.790 --> 00:11:37.630
+the array.
+
+00:11:37.630 --> 00:11:40.029
+The compiler does not let you do that.
+
+00:11:40.029 --> 00:11:43.320
+We have talked about this in detail in our previous lesson
+
+00:11:43.320 --> 00:11:45.450
+Arrays as function arguments
+
+00:11:45.450 --> 00:11:49.580
+Let us try to look through some code and try to understand this better
+
+00:11:49.580 --> 00:11:53.560
+In my code I have declared a character array of size 20,
+
+00:11:53.560 --> 00:11:58.170
+and I have stored a string of length
+five in this character array
+
+00:11:58.170 --> 00:12:02.119
+The null termination I implicit if we are using string literal.
+
+00:12:02.119 --> 00:12:02.990
+Now I want to
+
+00:12:02.990 --> 00:12:04.580
+print this string
+
+00:12:04.580 --> 00:12:07.700
+but I do not want to use the library function printf.
+
+00:12:07.700 --> 00:12:08.759
+I want to write
+
+00:12:08.759 --> 00:12:13.330
+my own function print that I want to pass
+this array to the function
+
+00:12:13.330 --> 00:12:14.910
+and this function
+
+00:12:14.910 --> 00:12:17.830
+should print the string part in the character array
+
+00:12:17.830 --> 00:12:19.690
+uh... the argument to the function
+
+00:12:19.690 --> 00:12:23.390
+we have talked about this earlier, can be
+something like this to say that
+
+00:12:23.390 --> 00:12:25.500
+we are receiving an array here,
+
+00:12:25.500 --> 00:12:26.850
+but the compiler
+
+00:12:26.850 --> 00:12:30.500
+actually interprets this as this.
+
+00:12:30.500 --> 00:12:34.610
+So, the compiler forces that only the address of the character array
+
+00:12:34.610 --> 00:12:36.610
+or the address of any array
+
+00:12:36.610 --> 00:12:37.950
+be received
+
+00:12:37.950 --> 00:12:39.750
+as argument to the function,
+
+00:12:39.750 --> 00:12:44.090
+because arrays are large in size so
+it is inefficient to create a
+
+00:12:44.090 --> 00:12:45.030
+copy
+
+00:12:45.030 --> 00:12:47.460
+of the same array for each function
+
+00:12:47.460 --> 00:12:49.770
+Okay, so let's writet the logic now.
+
+00:12:49.770 --> 00:12:53.650
+Now, this print function does not have
+any idea that this particular array is
+
+00:12:53.650 --> 00:12:55.260
+of size 20.
+
+00:12:55.260 --> 00:12:57.030
+It only knows the base address.
+
+00:12:57.030 --> 00:12:59.050
+So, what we can do is we can have
+
+00:12:59.050 --> 00:13:02.430
+a variable i, initialize it to zero and we can see something
+
+00:13:02.430 --> 00:13:03.340
+like this
+
+00:13:03.340 --> 00:13:06.760
+while C[i] is not equal to null
+
+00:13:06.760 --> 00:13:09.070
+character, we can print
+
+00:13:09.070 --> 00:13:11.900
+the character C[i].
+
+00:13:11.900 --> 00:13:14.490
+And then we will increment i,
+
+00:13:14.490 --> 00:13:16.100
+and when we find
+
+00:13:16.100 --> 00:13:18.990
+a null character, we can come out of
+this loop.
+
+00:13:18.990 --> 00:13:20.710
+and print an end of line.
+
+00:13:20.710 --> 00:13:21.680
+Once again
+
+00:13:21.680 --> 00:13:25.360
+this print function does not know that this character array is of size 20. It
+
+00:13:25.360 --> 00:13:26.890
+only knows the base address.
+
+00:13:26.890 --> 00:13:28.140
+and that's why
+
+00:13:28.140 --> 00:13:29.940
+in the printf function
+
+00:13:29.940 --> 00:13:32.950
+when we were not null terminating an array, we
+
+00:13:32.950 --> 00:13:35.009
+were printing all the garbage value
+
+00:13:35.009 --> 00:13:36.890
+even after the array was finished.
+
+00:13:36.890 --> 00:13:39.930
+Because, until we get a null character, we do not know
+
+00:13:39.930 --> 00:13:43.040
+when to stop and we keep on going
+into
+
+00:13:43.040 --> 00:13:44.680
+unwanted memory locations
+
+00:13:44.680 --> 00:13:48.820
+Now, this code should work! Yes, this is fine!
+
+00:13:48.820 --> 00:13:53.050
+In my code here, I am using %c here, to say that we want to print
+
+00:13:53.050 --> 00:13:54.150
+character
+
+00:13:54.150 --> 00:13:56.570
+and C[i], we can also write
+
+00:13:56.570 --> 00:14:01.880
+8(C+i) as substitute for
+C[i] and that will also mean the same!
+
+00:14:01.880 --> 00:14:03.570
+Sometimes you will see
+
+00:14:03.570 --> 00:14:06.740
+this kind of syntax as we talked earlier, both of
+
+00:14:06.740 --> 00:14:09.750
+these syntax, *(C+i) and C[i] are valid,
+
+00:14:09.750 --> 00:14:13.770
+they are the same! There is one
+more thing in our code that we may do!
+
+00:14:13.770 --> 00:14:14.590
+We may not
+
+00:14:14.590 --> 00:14:16.279
+chose to have this particular
+
+00:14:16.279 --> 00:14:17.560
+variable i
+
+00:14:17.560 --> 00:14:21.520
+We could simply say that while *C
+
+00:14:21.520 --> 00:14:24.060
+is not equal to null, print
+
+00:14:24.060 --> 00:14:27.780
+*C and then increment C itself.
+
+00:14:27.780 --> 00:14:29.760
+And, this code will also work
+
+00:14:29.760 --> 00:14:33.670
+why this code will work, I leave it as an
+exercise for you to think.
+
+00:14:33.670 --> 00:14:36.000
+In the coming lessons, we will implement more
+functions
+
+00:14:36.000 --> 00:14:37.650
+for string manipulation.
+
+00:14:37.650 --> 00:14:39.020
+This is it for now! Thanks for watching!
+

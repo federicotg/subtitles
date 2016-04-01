@@ -1,0 +1,1020 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.440 --> 00:00:04.620
+In our previous lesson, we saw how we can
+work with two dimensional arrays using
+
+00:00:04.620 --> 00:00:05.440
+pointers.
+
+00:00:05.440 --> 00:00:08.740
+Now in this lesson, we will see how we
+can work with
+
+00:00:08.740 --> 00:00:12.469
+arrays of further higher dimensions
+like three dimensional arrays
+
+00:00:12.469 --> 00:00:17.640
+using pointers. We will also see how we
+can pass multidimensional arrays
+
+00:00:17.640 --> 00:00:20.760
+as arguments to functions because that's
+
+00:00:20.760 --> 00:00:24.060
+one scenario where pointers once again
+will come into picture.
+
+00:00:24.060 --> 00:00:28.039
+I will start with a quick recap of what
+we have discussed in our previous lesson.
+
+00:00:28.039 --> 00:00:32.349
+Whenever we create a multi-dimensional
+array and let's pick up the example of
+
+00:00:32.349 --> 00:00:35.570
+two-dimensional array that he had
+created in our previous lesson.
+
+00:00:35.570 --> 00:00:38.739
+We must think of the multi-dimensional
+array as
+
+00:00:38.739 --> 00:00:41.910
+array of arrays. Array basically
+
+00:00:41.910 --> 00:00:45.370
+is a collection of similar things of
+similar objects,
+
+00:00:45.370 --> 00:00:48.760
+so a multi-dimensional array is
+basically
+
+00:00:48.760 --> 00:00:52.190
+a collection of arrays. This array B
+
+00:00:52.190 --> 00:00:57.390
+here is a collection of one-dimensional
+arrays of 3 elements each.
+
+00:00:57.390 --> 00:01:00.840
+We have 2 1-dimensional arrays of
+3 elements
+
+00:01:00.840 --> 00:01:04.100
+each. What I have tried to show in this
+figure is how
+
+00:01:04.100 --> 00:01:08.020
+array B will be organized in memory. I
+have assumed
+
+00:01:08.020 --> 00:01:13.260
+that the starting address of the array is
+400. Each cell storing an integer
+
+00:01:13.260 --> 00:01:18.290
+here is a block of four bytes. As we know
+each byte in computers memory has an
+
+00:01:18.290 --> 00:01:18.970
+address.
+
+00:01:18.970 --> 00:01:22.659
+I'm not drawing all the bytes, partition
+for all the bytes I'm drawing
+
+00:01:22.659 --> 00:01:27.580
+blocks of 4 bytes each and that's why I
+am writing only the starting address of
+
+00:01:27.580 --> 00:01:28.430
+each block.
+
+00:01:28.430 --> 00:01:32.390
+You can imagine a block of 4 bytes
+something like this.
+
+00:01:32.390 --> 00:01:35.759
+The starting address is 400. Let's say
+each partition here
+
+00:01:35.759 --> 00:01:40.329
+is 1 byte so the next byte has
+address
+
+00:01:40.329 --> 00:01:44.170
+401 and the next 1 has address 403
+and the next one has a
+
+00:01:44.170 --> 00:01:45.420
+address of 403.
+
+00:01:45.420 --> 00:01:49.149
+Overall this first block of 12 bytes
+
+00:01:49.149 --> 00:01:54.509
+that contains these
+three integers 2, 3 and 6 that showing
+
+00:01:54.509 --> 00:01:55.340
+in yellow here
+
+00:01:55.340 --> 00:01:59.079
+is my first one dimensional array that I
+can call B[0]
+
+00:01:59.079 --> 00:02:02.329
+and this next block of 12 bytes
+
+00:02:02.329 --> 00:02:05.640
+is my second one dimensional array of
+three integers that I can call
+
+00:02:05.640 --> 00:02:10.869
+B[1]. So we have two one-dimensional arrays
+in our collection.
+
+00:02:10.869 --> 00:02:13.970
+We have two collections of three
+integers each
+
+00:02:13.970 --> 00:02:18.450
+in our collection and everything is
+organized in one contiguous block of
+
+00:02:18.450 --> 00:02:19.000
+memory.
+
+00:02:19.000 --> 00:02:22.160
+Now let's look at this, B[0] is
+from
+
+00:02:22.160 --> 00:02:26.080
+byte address 400 till 411.
+
+00:02:26.080 --> 00:02:29.730
+We have three integers and we have four
+bytes for each integer.
+
+00:02:29.730 --> 00:02:35.209
+The first integer that we can access as element
+at zeroth index of
+
+00:02:35.209 --> 00:02:39.239
+B[0] is taking four bytes starting
+address 400.
+
+00:02:39.239 --> 00:02:42.870
+The next integer that can be accessed as
+
+00:02:42.870 --> 00:02:46.110
+B[0][1], second element of B[0]
+
+00:02:46.110 --> 00:02:49.140
+will take next four bytes starting 404
+
+00:02:49.140 --> 00:02:52.430
+and the next one will be B[0][2]
+
+00:02:52.430 --> 00:02:55.500
+element at index 2 of B[0]
+
+00:02:55.500 --> 00:02:58.920
+and similarly we will have 4 bytes for
+
+00:02:58.920 --> 00:03:02.239
+zeroth element of B[1], 4 bytes for
+
+00:03:02.239 --> 00:03:06.920
+second element and 4 bytes for
+element at index 2 of B[1].
+
+00:03:06.920 --> 00:03:11.019
+As we had seen in our previous lesson, when
+we just used to
+
+00:03:11.019 --> 00:03:14.909
+the array name then it returns as a pointer
+to the first
+
+00:03:14.909 --> 00:03:18.360
+element of the array. Here B is
+
+00:03:18.360 --> 00:03:24.000
+a two-dimensional array. It is an array
+of one-dimensional arrays of size 3.
+
+00:03:24.000 --> 00:03:27.659
+So B will basically return us a
+pointer to
+
+00:03:27.659 --> 00:03:31.930
+one-dimensional array of three elements,
+pointer to one dimensional array of
+
+00:03:31.930 --> 00:03:33.260
+three integers.
+
+00:03:33.260 --> 00:03:37.580
+In this statement, I have declared a
+variable which is pointer to 1
+
+00:03:37.580 --> 00:03:38.409
+dimensional
+
+00:03:38.409 --> 00:03:41.760
+array of 3 integer and the name of
+the variable is P.
+
+00:03:41.760 --> 00:03:46.260
+A statement like this is all right. A
+statement like this will not be alright
+
+00:03:46.260 --> 00:03:47.080
+because B
+
+00:03:47.080 --> 00:03:51.090
+will not return a pointer to integer.
+B will return a pointer to
+
+00:03:51.090 --> 00:03:51.980
+one-dimensional
+
+00:03:51.980 --> 00:03:57.049
+array of three integers. Now I'm will write 3 print
+statements that I had also written in
+
+00:03:57.049 --> 00:03:58.090
+our previous lesson.
+
+00:03:58.090 --> 00:04:02.439
+I'm not writing the complete syntax for
+printf. Okay so once again you need to
+
+00:04:02.439 --> 00:04:04.010
+tell me what will be the
+
+00:04:04.010 --> 00:04:07.580
+output if we would print these three
+expressions.
+
+00:04:07.580 --> 00:04:10.810
+We have B, *B and B[0].
+
+00:04:10.810 --> 00:04:14.920
+Well for all these three, output will be
+four hundred.
+
+00:04:14.920 --> 00:04:19.220
+Here when we say B, just using the 
+array name B
+
+00:04:19.220 --> 00:04:23.229
+will return as a pointer to the first
+one-dimensional
+
+00:04:23.229 --> 00:04:27.419
+array in B. The type of a pointer variable is
+relevant only
+
+00:04:27.419 --> 00:04:31.449
+when we are trying to dereference or
+perform pointer arithmetic.
+
+00:04:31.449 --> 00:04:34.710
+But if would just try to print the
+address
+
+00:04:34.710 --> 00:04:38.150
+stored in the pointer variable it will
+be the starting address,
+
+00:04:38.150 --> 00:04:42.090
+address of the first byte of a block of
+memory.
+
+00:04:42.090 --> 00:04:45.259
+So if we have a pointer to this
+one-dimensional array that is storting
+
+00:04:45.259 --> 00:04:46.830
+2, 3 and 6
+
+00:04:46.830 --> 00:04:51.600
+then its address is 400. Now when we did
+an *B
+
+00:04:51.600 --> 00:04:55.820
+which is same as B[0], we 
+dereferenced and now we have got the
+
+00:04:55.820 --> 00:04:59.280
+complete one-dimensional at array B[0].
+
+00:04:59.280 --> 00:05:03.650
+Now if I use B[0] because B[0] is a
+one-dimensional array,
+
+00:05:03.650 --> 00:05:07.740
+we will get to pointer to the first
+integer in B[0].
+
+00:05:07.740 --> 00:05:10.889
+So we will get a pointer to
+B[0][0].
+
+00:05:10.889 --> 00:05:14.460
+This block of 4 bytes starting
+address 400.
+
+00:05:14.460 --> 00:05:18.100
+Once again if we would just print
+the address, then the
+
+00:05:18.100 --> 00:05:21.229
+starting address of this block is 400
+
+00:05:21.229 --> 00:05:24.530
+that's why the output is 400. Even if I
+would print
+
+00:05:24.530 --> 00:05:27.710
+&amp;B[0][0] output will be
+
+00:05:27.710 --> 00:05:33.400
+400. B and *B are both returning
+us pointers. The difference is that
+
+00:05:33.400 --> 00:05:37.690
+B is returning pointer to a
+one-dimensional array of three integers,
+
+00:05:37.690 --> 00:05:41.090
+while *B is returning pointer to
+
+00:05:41.090 --> 00:05:44.560
+an integer. When we are just printing
+the address,
+
+00:05:44.560 --> 00:05:48.560
+both these objects the complete
+one-dimensional array B[0]
+
+00:05:48.560 --> 00:05:52.479
+and the first element in B[0] have the
+same starting address so the same
+
+00:05:52.479 --> 00:05:54.110
+starting address will be printed.
+
+00:05:54.110 --> 00:05:57.919
+The type of pointer play role when
+you try to dereference or when you try
+
+00:05:57.919 --> 00:05:58.949
+to perform
+
+00:05:58.949 --> 00:06:03.330
+pointer arithmetic. We had also seen at
+previous lesson that
+
+00:06:03.330 --> 00:06:06.979
+B[i][j] can be return as
+
+00:06:06.979 --> 00:06:11.270
+*(B[i]+j). If B[i] for some value
+of
+
+00:06:11.270 --> 00:06:16.169
+I is one dimensional array then B[i]
+will give us an integer pointer, will
+
+00:06:16.169 --> 00:06:20.699
+return us an integer pointer to the
+first integer in B[i]
+
+00:06:20.699 --> 00:06:24.210
+then adding j is basically performing
+pointer arithmetic
+
+00:06:24.210 --> 00:06:27.729
+and getting a pointer to integer at
+index
+
+00:06:27.729 --> 00:06:31.000
+j in one dimension B[i] and then
+
+00:06:31.000 --> 00:06:35.500
+finally this dereferencing is
+getting the value of that integer.
+
+00:06:35.500 --> 00:06:38.630
+Once again B[i] can be written as
+
+00:06:38.630 --> 00:06:41.949
+*(B+i).
+
+00:06:41.949 --> 00:06:46.380
+B is pointer one-dimensional array of
+3 integers. So (B+i) will also
+
+00:06:46.380 --> 00:06:47.020
+return us
+
+00:06:47.020 --> 00:06:50.650
+pointer to 1 dimensional array of
+3 integers and dereferencing this
+
+00:06:50.650 --> 00:06:52.449
+particular dereferencing
+
+00:06:52.449 --> 00:06:57.039
+will give us the 1 dimensional array
+and the name of one-dimensional array
+
+00:06:57.039 --> 00:06:58.199
+returns us
+
+00:06:58.199 --> 00:07:01.650
+pointer to the first element in the array.
+So this once again will be
+
+00:07:01.650 --> 00:07:07.509
+pointer to integer. By now if you clearly
+understand how all the pointer arithmetic
+
+00:07:07.509 --> 00:07:11.169
+and dereferencing is happening in
+these expressions
+
+00:07:11.169 --> 00:07:14.740
+then it's not very difficult to understand
+how things will be
+
+00:07:14.740 --> 00:07:18.080
+for say, three-dimensional array.
+
+00:07:18.080 --> 00:07:21.349
+Now let's say we have created a three
+dimensional
+
+00:07:21.349 --> 00:07:26.090
+named C. We have an array of
+3 x 2 x 2.
+
+00:07:26.090 --> 00:07:31.020
+A three dimensional array is basically
+an array or collection of two
+
+00:07:31.020 --> 00:07:32.300
+dimensional arrays.
+
+00:07:32.300 --> 00:07:37.690
+So if I have to show C in memory.
+I will show it something like this.
+
+00:07:37.690 --> 00:07:41.280
+I have assumed that the starting address
+of C is byte address
+
+00:07:41.280 --> 00:07:45.110
+800. The first 16 bytes starting address
+
+00:07:45.110 --> 00:07:49.069
+800, is my first two-dimensional
+array.
+
+00:07:49.069 --> 00:07:52.360
+I am assuming that each integer will
+take four bytes
+
+00:07:52.360 --> 00:07:55.960
+so all the cells in yellow are part
+of the
+
+00:07:55.960 --> 00:07:59.560
+two-dimensional array. The next block of 16
+bytes
+
+00:07:59.560 --> 00:08:03.419
+starting address 816 is C[1]
+
+00:08:03.419 --> 00:08:07.620
+and the next block of 16 bytes starting
+832 is
+
+00:08:07.620 --> 00:08:11.610
+C[2]. We can further break down the
+two-dimensional arrays
+
+00:08:11.610 --> 00:08:16.250
+into one-dimensional arrays. The first
+two integers in C[0]
+
+00:08:16.250 --> 00:08:20.360
+are part of the first one dimensional
+array C[0][0],
+
+00:08:20.360 --> 00:08:23.970
+and 7 and 9 a part of C[0][1].
+
+00:08:23.970 --> 00:08:27.509
+The first integer in
+C[0][0] can be accessed
+
+00:08:27.509 --> 00:08:30.789
+as C[0][0][0]
+
+00:08:30.789 --> 00:08:34.430
+and we can go on like this. Okay once
+again
+
+00:08:34.430 --> 00:08:38.039
+we will play the same game. I will print
+statements
+
+00:08:38.039 --> 00:08:42.029
+and you need to guess the output. This time
+
+00:08:42.029 --> 00:08:45.100
+just using the array name C will give us
+
+00:08:45.100 --> 00:08:48.190
+a pointer to two-dimensional
+
+00:08:48.190 --> 00:08:51.769
+array of intergers of size 2 x 2.
+
+00:08:51.769 --> 00:08:55.089
+So we can write a statement like this.
+I have declared
+
+00:08:55.089 --> 00:08:58.470
+a pointer to two-dimensional array of
+integers
+
+00:08:58.470 --> 00:09:02.459
+of size 2 x 2 here. The name of
+the pointer is P.
+
+00:09:02.459 --> 00:09:05.910
+If I would just print P or C here
+
+00:09:05.910 --> 00:09:09.089
+and I'm not reading the complete printf
+statement, once again
+
+00:09:09.089 --> 00:09:12.260
+my output will be 800. Now if
+
+00:09:12.260 --> 00:09:15.339
+I will perform are dereferencing and
+try to
+
+00:09:15.339 --> 00:09:18.830
+print *C then this will be same
+
+00:09:18.830 --> 00:09:23.110
+as C[0] and C[0] is a two dimensional array.
+
+00:09:23.110 --> 00:09:26.930
+So we will get a pointer to the first
+element in C[0].
+
+00:09:26.930 --> 00:09:30.790
+All these expressions are returning us
+
+00:09:30.790 --> 00:09:34.769
+pointer to move one dimensional array of
+integers
+
+00:09:34.769 --> 00:09:38.100
+of size 2 and the address printed
+
+00:09:38.100 --> 00:09:42.399
+will be 800. Remember C is of type
+
+00:09:42.399 --> 00:09:45.830
+pointer to 2d array of 2 x 2 and
+
+00:09:45.830 --> 00:09:50.550
+dereferencing once is giving us
+pointer to one-dimensional array
+
+00:09:50.550 --> 00:09:55.750
+of two integers. C is returning us
+pointer to two dimensional array of
+
+00:09:55.750 --> 00:09:56.730
+integers.
+
+00:09:56.730 --> 00:10:01.800
+C itself is an array. There is difference
+between the two types.
+
+00:10:01.800 --> 00:10:05.100
+Okay for C, C[i][j][k]
+
+00:10:05.100 --> 00:10:09.570
+where i, j, k are some indices
+can be written as
+
+00:10:09.570 --> 00:10:12.720
+*(C[i][j]+k)
+
+00:10:12.720 --> 00:10:16.380
+and now once again, we can write
+
+00:10:16.380 --> 00:10:20.310
+C[i][j] as *(C[i]+j),
+
+00:10:20.310 --> 00:10:23.399
+and the overall expression will look
+something like thi.
+
+00:10:23.399 --> 00:10:26.500
+and we can go ahead and write C[i]
+
+00:10:26.500 --> 00:10:30.610
+as *(C+i).
+
+00:10:30.610 --> 00:10:34.459
+If you are able to understand how I had
+to drive these expressions, if you are
+
+00:10:34.459 --> 00:10:35.899
+able to understand all the
+
+00:10:35.899 --> 00:10:40.350
+pointer arithmetic and dereferencing
+in these expressions
+
+00:10:40.350 --> 00:10:44.750
+and then you are good working with
+dimensional arrays using pointers.
+
+00:10:44.750 --> 00:10:48.720
+I want a quick answer for this one. What
+will be
+
+00:10:48.720 --> 00:10:51.740
+the output for this print statement.
+
+00:10:51.740 --> 00:10:55.350
+Well C[0][1] means we're going to this
+
+00:10:55.350 --> 00:10:59.360
+one-dimensional arrays that has these 2
+elements 7 and 9
+
+00:10:59.360 --> 00:11:04.130
+and when we are using array name C[0][1]
+we are getting a pointer
+
+00:11:04.130 --> 00:11:08.370
+to first integer in this
+one-dimensional array.
+
+00:11:08.370 --> 00:11:12.000
+Pointer to this integer 7, adding
+1 that we are doing
+
+00:11:12.000 --> 00:11:16.690
+pointer arithmetic to an integer
+pointer so they will go to nine
+
+00:11:16.690 --> 00:11:21.200
+and dereferencing will give us
+interger 9.
+
+00:11:21.200 --> 00:11:25.980
+In fact this expression is same as
+C[0][1][1].
+
+00:11:25.980 --> 00:11:30.910
+Now what will be the output for this
+print statement *(C[1]+1).
+
+00:11:30.910 --> 00:11:35.029
+C[1] will return us a pointer to
+one-dimensional array.
+
+00:11:35.029 --> 00:11:38.450
+The first one dimensional array in C[1],
+
+00:11:38.450 --> 00:11:43.399
+this block containing integers 3 and 4.
+Adding 1 is performing pointer
+
+00:11:43.399 --> 00:11:47.120
+arithmetic and going to the next one
+dimensional array.
+
+00:11:47.120 --> 00:11:50.500
+It's going to this one-dimensional array
+containing
+
+00:11:50.500 --> 00:11:54.730
+6 and 1, and now dereferencing is
+basically
+
+00:11:54.730 --> 00:11:58.149
+getting the one-dimensional array from
+the pointer
+
+00:11:58.149 --> 00:12:01.709
+and if you just used a name of the
+one-dimensional array,
+
+00:12:01.709 --> 00:12:06.070
+you get a pointer to the first element
+in one-dimensional array.
+
+00:12:06.070 --> 00:12:09.510
+So we will get a pointer this 
+integer 6.
+
+00:12:09.510 --> 00:12:12.800
+Output will be 824.
+
+00:12:12.800 --> 00:12:16.100
+This block of 4 bytes storing
+address
+
+00:12:16.100 --> 00:12:19.290
+storing integer 3 is 816. Next would be
+
+00:12:19.290 --> 00:12:22.920
+next will be at 20 and next will be a
+24.
+
+00:12:22.920 --> 00:12:26.860
+We can try out these expressions in the
+real program.
+
+00:12:26.860 --> 00:12:30.240
+I am writing this simple C program. I have
+created this
+
+00:12:30.240 --> 00:12:33.470
+three-dimensional array C. The data filled in
+
+00:12:33.470 --> 00:12:38.220
+is same as we were showing in the example.
+In the first printf statement, I am
+
+00:12:38.220 --> 00:12:38.829
+writing,
+
+00:12:38.829 --> 00:12:42.130
+I'm trying to print C, *C
+
+00:12:42.130 --> 00:12:46.709
+C[0] and &amp;C[0][0]. All of these
+are pointers
+
+00:12:46.709 --> 00:12:50.200
+and if I would just use %d
+
+00:12:50.200 --> 00:12:54.279
+address would be printed. When I'm
+running this code, as you can see the
+
+00:12:54.279 --> 00:12:58.839
+output far all these for expressions it
+same.
+
+00:12:58.839 --> 00:13:02.579
+Any guesses for what will be the output
+for this print if statement.
+
+00:13:02.579 --> 00:13:06.649
+This expression is nothing but 
+C[0][0][1].
+
+00:13:06.649 --> 00:13:09.850
+The output for first printf is different
+because this is a
+
+00:13:09.850 --> 00:13:12.950
+different run of the program and in
+
+00:13:12.950 --> 00:13:16.639
+each run, the signed address would change
+
+00:13:16.639 --> 00:13:21.240
+but whatever the address is it will be
+seen for these for expressions.
+
+00:13:21.240 --> 00:13:24.410
+I would recommend trying out all the
+different expressions that
+
+00:13:24.410 --> 00:13:28.940
+were decoding earlier in a real
+program like this.
+
+00:13:28.940 --> 00:13:33.160
+Okay the next thing that I want to talk
+about is passing multi-dimensional
+
+00:13:33.160 --> 00:13:36.800
+array as function arguments.
+
+00:13:36.800 --> 00:13:41.040
+I'm going to declare a function and
+let's name this function
+
+00:13:41.040 --> 00:13:44.610
+Func and
+
+00:13:44.610 --> 00:13:49.579
+I want this function to accept a
+three-dimensional array as argument.
+
+00:13:49.579 --> 00:13:54.300
+So what do I do. If I wanted a
+one-dimensional array as argument,
+
+00:13:54.300 --> 00:13:57.310
+I could have given something like this.
+But
+
+00:13:57.310 --> 00:14:01.370
+as we had discussed in one of our
+previous lessons, this syntax
+
+00:14:01.370 --> 00:14:05.290
+is only a syntactical sugar it is
+interpreted
+
+00:14:05.290 --> 00:14:08.649
+like this by the compiler. A fresh copy
+of
+
+00:14:08.649 --> 00:14:11.959
+array is not created for function call. Only
+
+00:14:11.959 --> 00:14:15.100
+a reference to it in the form of a
+pointer
+
+00:14:15.100 --> 00:14:18.620
+is created. So now if in the main
+function, I have
+
+00:14:18.620 --> 00:14:22.040
+an array a one dimensional array
+like this
+
+00:14:22.040 --> 00:14:26.000
+and let's say the return type of this function
+is void.
+
+00:14:26.000 --> 00:14:29.329
+I can make a function call passing B
+like this
+
+00:14:29.329 --> 00:14:32.690
+and this will be fine. Now let's say we
+declare
+
+00:14:32.690 --> 00:14:35.790
+2 dimensional array of 2 x 3
+
+00:14:35.790 --> 00:14:39.060
+and now the want this function to receive
+to take
+
+00:14:39.060 --> 00:14:42.839
+a two-dimensional array as argument.
+
+00:14:42.839 --> 00:14:45.990
+Now as we discussed, A will
+
+00:14:45.990 --> 00:14:49.560
+return us pointer to integer but B
+
+00:14:49.560 --> 00:14:53.800
+will us a pointer to array of three
+integers,
+
+00:14:53.800 --> 00:14:59.060
+one-dimensional array of three integers
+for this particular definition of B.
+
+00:14:59.060 --> 00:15:02.180
+So for the function to take this array
+
+00:15:02.180 --> 00:15:06.970
+B as argument. Definition should be
+something like this. The arguement should be
+
+00:15:06.970 --> 00:15:08.709
+something like this.
+
+00:15:08.709 --> 00:15:11.889
+Either we can write or we can write
+
+00:15:11.889 --> 00:15:16.050
+something like this. Only the first
+dimension can be left empty. The other
+
+00:15:16.050 --> 00:15:18.240
+dimension has to be specified,
+
+00:15:18.240 --> 00:15:21.550
+and now I can pass B. There is something
+
+00:15:21.550 --> 00:15:25.470
+interesting here. If I would declare a
+two-dimensional array something like
+
+00:15:25.470 --> 00:15:26.540
+this. Let's say I declare
+
+00:15:26.540 --> 00:15:29.720
+two-dimensional array X of
+
+00:15:29.720 --> 00:15:32.769
+2 x 4. Now I cannot pass
+
+00:15:32.769 --> 00:15:37.870
+X to the function because X will return
+pointer to one-dimensional array of
+
+00:15:37.870 --> 00:15:39.269
+4 teachers
+
+00:15:39.269 --> 00:15:43.470
+while this function is suppose to
+receive one-dimensional array of 3
+
+00:15:43.470 --> 00:15:44.570
+integers.
+
+00:15:44.570 --> 00:15:48.430
+If X is defined something like this
+of dimension 5 x 3
+
+00:15:48.430 --> 00:15:51.459
+then passing X is fine.
+
+00:15:51.459 --> 00:15:55.040
+Now if we want to pass this
+three-dimensional array,
+
+00:15:55.040 --> 00:15:59.620
+then once again we need to see what
+pointer types C will return.
+
+00:15:59.620 --> 00:16:05.190
+So will basically return a pointer
+to two-dimensional array of 2 x 2
+
+00:16:05.190 --> 00:16:07.079
+so we can either
+
+00:16:07.079 --> 00:16:10.410
+use a syntax like this or something
+like this,
+
+00:16:10.410 --> 00:16:14.070
+and then we can pass C.
+
+00:16:14.070 --> 00:16:17.079
+So this is how things will be for any
+multi-dimensional
+
+00:16:17.079 --> 00:16:20.170
+array except the first dimension,
+
+00:16:20.170 --> 00:16:23.480
+all other dimensions will be enforced.
+
+00:16:23.480 --> 00:16:27.740
+One common mistake that people do is, for
+a two-dimensional array
+
+00:16:27.740 --> 00:16:30.880
+they try to use pointer to pointer
+something like this
+
+00:16:30.880 --> 00:16:35.180
+and for a three dimensional array they try to
+use something like this
+
+00:16:35.180 --> 00:16:39.670
+which just wont work. So this is
+pretty much what we wanted to talk about
+
+00:16:39.670 --> 00:16:43.240
+pointers and multi-dimensional arrays.
+Thanks for watching.
+

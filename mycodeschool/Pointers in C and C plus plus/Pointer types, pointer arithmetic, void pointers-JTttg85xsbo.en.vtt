@@ -1,0 +1,675 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.390 --> 00:00:05.200
+So far in our previous lessons we have
+seen how to work with pointer variables.
+
+00:00:05.200 --> 00:00:10.190
+So we pretty much understand the basics,
+in this lesson we will write some more
+
+00:00:10.190 --> 00:00:11.580
+code using pointers
+
+00:00:11.580 --> 00:00:14.630
+and we will look through some of these
+concepts.
+
+00:00:14.630 --> 00:00:19.480
+In more detail using some examples, the
+first thing that I want to point out is
+
+00:00:19.480 --> 00:00:22.160
+that pointer variables are strongly
+typed.
+
+00:00:22.160 --> 00:00:27.039
+What it means is that you need a pointer
+variable of a particular type
+
+00:00:27.039 --> 00:00:30.800
+to store the address of the
+particular type of the variable.
+
+00:00:30.800 --> 00:00:35.020
+So int* or a pointer to integer will
+be needed to store the address of an
+
+00:00:35.020 --> 00:00:38.770
+integer, character pointer will be
+needed to store the address of a character
+
+00:00:38.770 --> 00:00:42.070
+and similarly if we have a user defined
+structure
+
+00:00:42.070 --> 00:00:45.530
+or class then we need a pointer of that
+particular
+
+00:00:45.530 --> 00:00:48.829
+type only but why do we need these strong
+types.
+
+00:00:48.829 --> 00:00:53.199
+Isn't it that the pointer variables 
+just store the address of the variable.
+
+00:00:53.199 --> 00:00:55.250
+So why couldn't we have just one type
+
+00:00:55.250 --> 00:00:58.969
+that will be some generic type to
+store the address
+
+00:00:58.969 --> 00:01:04.180
+of all kind of variables and the answer is that
+we do not use the pointer variables
+
+00:01:04.180 --> 00:01:07.630
+only to store memory addresses but
+we also use them
+
+00:01:07.630 --> 00:01:11.560
+to dereference these addresses so that
+we can
+
+00:01:11.560 --> 00:01:15.390
+access and modify the values in these
+addresses.
+
+00:01:15.390 --> 00:01:19.229
+Now as you know datatypes have different
+sizes
+
+00:01:19.229 --> 00:01:22.470
+like in a typical modern day compiler an
+integer
+
+00:01:22.470 --> 00:01:26.360
+is stored in four bytes, a character
+variable
+
+00:01:26.360 --> 00:01:30.079
+is stored in one byte, a float
+
+00:01:30.079 --> 00:01:34.850
+variable is stored in four bytes and these
+variables differ not only
+
+00:01:34.850 --> 00:01:38.400
+in their sizes they also differ in how
+we store
+
+00:01:38.400 --> 00:01:42.920
+information in whatever bytes are
+available for these variables or data
+
+00:01:42.920 --> 00:01:43.380
+types.
+
+00:01:43.380 --> 00:01:46.570
+Let's say we have an integer A
+
+00:01:46.570 --> 00:01:49.630
+and its value is 1025 and this
+
+00:01:49.630 --> 00:01:54.490
+is how it is led out in the memory. Each
+bracket here is one bite.
+
+00:01:54.490 --> 00:01:58.740
+Let's say this particular byte which
+is the least significant byte
+
+00:01:58.740 --> 00:02:01.759
+is byte 0 and then we go on like byte
+
+00:02:01.759 --> 00:02:05.219
+one byte two and byte
+
+00:02:05.219 --> 00:02:08.629
+three. Now we also know that each byte in
+the memory
+
+00:02:08.629 --> 00:02:12.209
+is addressable. Let's say the address of
+byte zero
+
+00:02:12.209 --> 00:02:16.989
+is 200 now these four bytes need to be
+contiguous. Let's say the address of
+
+00:02:16.989 --> 00:02:20.950
+byte 1 is 201 and then we go on
+like 202
+
+00:02:20.950 --> 00:02:24.040
+and 203. When an
+
+00:02:24.040 --> 00:02:27.550
+integer is represented in the memory,
+is stored in the memory the
+
+00:02:27.550 --> 00:02:31.140
+left most bit stores the
+
+00:02:31.140 --> 00:02:34.910
+information that whether this integer
+is positive or negative so this is also
+
+00:02:34.910 --> 00:02:35.330
+called
+
+00:02:35.330 --> 00:02:38.840
+sign bit and
+
+00:02:38.840 --> 00:02:43.900
+rest 31 bits are used to store the value.
+So if you see we have
+
+00:02:43.900 --> 00:02:46.920
+a one at right most bit with
+
+00:02:46.920 --> 00:02:50.900
+place value 2 to the power zero and
+at this particular bit
+
+00:02:50.900 --> 00:02:54.170
+with place value 2 to the power 10.
+
+00:02:54.170 --> 00:02:57.379
+So the overall value that we have in
+binary here
+
+00:02:57.379 --> 00:03:01.830
+is 1025 in decimal. Now
+
+00:03:01.830 --> 00:03:05.650
+what if I declare a pointer to integer
+P
+
+00:03:05.650 --> 00:03:09.830
+and store the address of A in P by using
+the ampersand operator.
+
+00:03:09.830 --> 00:03:12.849
+What will happen if I print the value of
+P,
+
+00:03:12.849 --> 00:03:16.310
+the value of P or the address stored in P
+will be
+
+00:03:16.310 --> 00:03:21.400
+200 the address of byte 0.
+So we are kind of saying that we have
+
+00:03:21.400 --> 00:03:25.560
+the address of an integer variable starting
+at address 200.
+
+00:03:25.560 --> 00:03:28.620
+If we dereference this address and
+try to print
+
+00:03:28.620 --> 00:03:32.459
+*P we want to know the value at
+this particular address.
+
+00:03:32.459 --> 00:03:35.650
+Then the machine sees that ok P is a pointer
+to
+
+00:03:35.650 --> 00:03:39.409
+integer so we need to look at four
+bytes
+
+00:03:39.409 --> 00:03:43.209
+starting address 200 and then the
+machine knows that
+
+00:03:43.209 --> 00:03:46.950
+how to extract the value of an
+integer datatype. 
+
+00:03:46.950 --> 00:03:49.959
+So 
+
+00:03:49.959 --> 00:03:53.360
+it retrieves the value 1025 out of these
+
+00:03:53.360 --> 00:03:56.860
+four bytes. Now if P was a character
+pointer
+
+00:03:56.860 --> 00:04:00.209
+then while dereferencing the machine
+would have looked at only one byte
+
+00:04:00.209 --> 00:04:01.780
+because a character variable
+
+00:04:01.780 --> 00:04:05.019
+is only one byte. If P was
+
+00:04:05.019 --> 00:04:09.489
+a pointer to float then although float
+is also stored in four bytes
+
+00:04:09.489 --> 00:04:13.200
+but the way information is written for
+float in these
+
+00:04:13.200 --> 00:04:16.540
+four bytes is different from the way
+information is written
+
+00:04:16.540 --> 00:04:20.540
+for an integer datatype. So the value printed
+would have been something else.
+
+00:04:20.540 --> 00:04:24.350
+Let's go write some of this in a real
+program and see what happens.
+
+00:04:24.350 --> 00:04:27.759
+In my C program I'll first
+
+00:04:27.759 --> 00:04:32.600
+declare an integer 'a' equal to 1025
+
+00:04:32.600 --> 00:04:35.930
+and now I will declare a pointer to integer 'p'
+
+00:04:35.930 --> 00:04:39.009
+and then I will store the address of 'a' in 'p'
+
+00:04:39.009 --> 00:04:42.900
+by using the ampersand operator. Now I'll
+write a print statement
+
+00:04:42.900 --> 00:04:45.979
+like this size of integer
+
+00:04:45.979 --> 00:04:49.810
+is and we have a function sizeof in C
+
+00:04:49.810 --> 00:04:53.440
+which gives us the size of a particular
+datatype in bytes
+
+00:04:53.440 --> 00:04:57.660
+and now I will write a print statement like
+this, address is equal to
+
+00:04:57.660 --> 00:05:00.910
+'p' and value is equal to
+
+00:05:00.910 --> 00:05:04.300
+'*p'. We dereference 'p' to print the
+
+00:05:04.300 --> 00:05:07.900
+value. Now let us see what is the
+output of this program
+
+00:05:07.900 --> 00:05:11.720
+no points for guessing this is pretty
+straight forward the size of integer
+
+00:05:11.720 --> 00:05:15.590
+is 4 bytes the address that we're showing
+here is some address
+
+00:05:15.590 --> 00:05:18.930
+and the value is 1025.
+
+00:05:18.930 --> 00:05:24.090
+OK now I will do some trick here I will declare a
+character pointer let's say the name of
+
+00:05:24.090 --> 00:05:26.509
+the variable is 'p0'.
+
+00:05:26.509 --> 00:05:29.910
+Now I will try to put the same address
+
+00:05:29.910 --> 00:05:34.210
+as we have in 'p' into 'p0' by writing a
+statement like this
+
+00:05:34.210 --> 00:05:38.070
+but this will give us a compilation error
+because 'p0' is a pointer to
+
+00:05:38.070 --> 00:05:40.919
+character and 'p' is a pointer to integer.
+
+00:05:40.919 --> 00:05:44.600
+So what we will do here is typecast
+
+00:05:44.600 --> 00:05:47.669
+'p' to character pointer
+
+00:05:47.669 --> 00:05:52.169
+and then assign the value and now I will write
+two more print statements.
+
+00:05:52.169 --> 00:05:56.940
+First is "size of character is these many
+bytes" and we use a method sizeof again
+
+00:05:56.940 --> 00:06:00.350
+and the second is the address is 'p0'
+
+00:06:00.350 --> 00:06:04.919
+and the value at address is '*p0'
+so we dereference we try to 
+
+00:06:04.919 --> 00:06:06.910
+dereference 'p0' now
+
+00:06:06.910 --> 00:06:11.580
+and let us see what's the output now the
+first line of output is size of integer
+
+00:06:11.580 --> 00:06:12.910
+is 4 bytes
+
+00:06:12.910 --> 00:06:16.289
+address, because we are running the program
+fresh
+
+00:06:16.289 --> 00:06:19.650
+this address will not be the previous
+address, the address from the previous run.
+
+00:06:19.650 --> 00:06:23.490
+This will be a different address by
+dereferencing the integer pointer 
+
+00:06:23.490 --> 00:06:25.240
+we're getting the value 1025.
+
+00:06:25.240 --> 00:06:28.830
+Now the next line of output is size
+of character is one bytes
+
+00:06:28.830 --> 00:06:32.990
+address is 5373032 which is
+the same address
+
+00:06:32.990 --> 00:06:35.990
+as we have in the second line but the
+value this time
+
+00:06:35.990 --> 00:06:40.069
+is 1. Now why is this value 1,
+
+00:06:40.069 --> 00:06:44.770
+once again if we write 1025 in binary using
+32 bits
+
+00:06:44.770 --> 00:06:48.400
+then this will be the representation when
+we do this
+
+00:06:48.400 --> 00:06:51.970
+type casting here trying to store the
+address of 'p'
+
+00:06:51.970 --> 00:06:55.199
+in 'p0' then the address of this
+particular byte
+
+00:06:55.199 --> 00:06:58.310
+the rightmost byte is stored in 'p0'.
+
+00:06:58.310 --> 00:07:02.810
+But when we dereference 'p0' because 'p0'
+is a pointer to character the machines
+
+00:07:02.810 --> 00:07:05.280
+say that hey this is a pointer to a character
+
+00:07:05.280 --> 00:07:10.460
+and character is only one byte so I will
+look at only one byte to see the value
+
+00:07:10.460 --> 00:07:14.009
+and if you see this particular byte in 
+binary
+
+00:07:14.009 --> 00:07:17.030
+is 1 and that's why this
+
+00:07:17.030 --> 00:07:21.930
+output here is one. OK, I'll write two more
+print statements now
+
+00:07:21.930 --> 00:07:27.139
+one to print the address p plus one and
+the value at address P plus one.
+
+00:07:27.139 --> 00:07:30.389
+Now as we know we can add or subtract
+
+00:07:30.389 --> 00:07:34.270
+an integer constant from a pointer 
+variable.
+
+00:07:34.270 --> 00:07:38.300
+This is allowed in fact the only pointer
+arithmetic that is allowed is adding or
+
+00:07:38.300 --> 00:07:41.449
+subtracting some constant integer
+value to
+
+00:07:41.449 --> 00:07:46.330
+the pointer. p+1 will take us to the
+address of the next integer,
+
+00:07:46.330 --> 00:07:50.379
+so it will skip four bytes and take us
+four bytes ahead.
+
+00:07:50.379 --> 00:07:53.889
+Let's say we also want to print p0
+plus one and the value at p0 plus 
+
+00:07:53.889 --> 00:07:55.190
+one.
+
+00:07:55.190 --> 00:07:58.310
+Okay now let's see the output of this
+particular program
+
+00:07:58.310 --> 00:08:01.990
+the address of 'a' this time is 4456036
+
+00:08:01.990 --> 00:08:06.000
+that's what is allocated for 'a' in
+this particular run.
+
+00:08:06.000 --> 00:08:12.470
+The value is 1025 p plus one is 445
+6040, if you see this is 4 bytes more
+
+00:08:12.470 --> 00:08:13.479
+than
+
+00:08:13.479 --> 00:08:18.690
+the address of 'a' because size of integer is
+4 bytes and 'p' is a pointer to integer.
+
+00:08:18.690 --> 00:08:22.090
+So incrementing 'p' takes us
+
+00:08:22.090 --> 00:08:26.319
+four bytes forward and this value is some
+garbage value because we have not filled
+
+00:08:26.319 --> 00:08:29.889
+anything in this particular address so
+there is some garbage in the memory
+
+00:08:29.889 --> 00:08:30.590
+which
+
+00:08:30.590 --> 00:08:36.399
+we are picking up. Now address in 'p0' is
+also 4456036 which is the address
+
+00:08:36.399 --> 00:08:40.019
+of the first byte the least significant
+byte of
+
+00:08:40.019 --> 00:08:43.190
+'a' the value is 1.
+
+00:08:43.190 --> 00:08:47.620
+Now p0 plus one is 4456037 here we
+have
+
+00:08:47.620 --> 00:08:51.140
+a value which is one byte more and this
+is because character
+
+00:08:51.140 --> 00:08:54.410
+is stored in one bytes. Now the value
+here is four,
+
+00:08:54.410 --> 00:08:57.690
+if you see p0 plus one will
+take us to this particular byte
+
+00:08:57.690 --> 00:09:02.580
+the address of this particular byte and this
+particular byte in binary
+
+00:09:02.580 --> 00:09:04.970
+is 4.
+
+00:09:04.970 --> 00:09:07.820
+This was to show you how things happen in
+memory when we
+
+00:09:07.820 --> 00:09:11.090
+dereference a pointer variable by
+using the asterisk operator
+
+00:09:11.090 --> 00:09:14.240
+and also what happens when we perform
+pointer
+
+00:09:14.240 --> 00:09:17.380
+arithmetic with a particular pointer type.
+
+00:09:17.380 --> 00:09:20.780
+This type casting of pointer variable
+from one to another
+
+00:09:20.780 --> 00:09:24.810
+also has some use cases. We will discuss
+them later.
+
+00:09:24.810 --> 00:09:29.400
+Now we will discuss one pointer type
+which is generic pointer type.
+
+00:09:29.400 --> 00:09:33.950
+It does not correspond to a particular
+datatype and this pointer type is called void
+
+00:09:33.950 --> 00:09:34.560
+pointer
+
+00:09:34.560 --> 00:09:37.840
+and we declare this particular pointer type
+
+00:09:37.840 --> 00:09:41.910
+by using the keyword void and using an
+asterisk sign in front of
+
+00:09:41.910 --> 00:09:45.940
+the variable name. Again now we can write
+
+00:09:45.940 --> 00:09:51.090
+something like 'p0' is equal to 'p' we do
+not need an explicit
+
+00:09:51.090 --> 00:09:55.760
+type casting here like this. The statement
+'p0' is equal to 'p'
+
+00:09:55.760 --> 00:09:59.930
+is valid and this will not give you
+compilation error and because this
+
+00:09:59.930 --> 00:10:00.710
+particular
+
+00:10:00.710 --> 00:10:03.790
+pointer type is not mapped to a
+particular datatype
+
+00:10:03.790 --> 00:10:08.130
+we cannot dereference this particular
+pointer variable. So if you try to print
+
+00:10:08.130 --> 00:10:08.770
+star
+
+00:10:08.770 --> 00:10:11.870
+'p0' or asterisk 'p0' this will give you
+
+00:10:11.870 --> 00:10:16.020
+an error. We're getting a compilation error.
+
+00:10:16.020 --> 00:10:21.470
+we can only print the address and as
+we can see here the address is same as
+
+00:10:21.470 --> 00:10:22.230
+the address of
+
+00:10:22.230 --> 00:10:26.590
+'a' and if we perform arithmetic if we
+try to
+
+00:10:26.590 --> 00:10:30.500
+do something like p0 plus one access
+something like p0 plus one
+
+00:10:30.500 --> 00:10:33.560
+this is also not possible this will also
+give you compilation error.
+
+00:10:33.560 --> 00:10:37.810
+We will come back to the use cases of 
+void pointers
+
+00:10:37.810 --> 00:10:42.080
+in forthcoming lessons. Lets for now
+know that there is something
+
+00:10:42.080 --> 00:10:46.740
+called void pointers. So this was diving
+deep into
+
+00:10:46.740 --> 00:10:49.760
+pointer types, type casting and
+
+00:10:49.760 --> 00:10:53.640
+pointer arithmetic. We will have a lot
+of fun with pointers in the coming
+
+00:10:53.640 --> 00:10:54.230
+lessons.
+
+00:10:54.230 --> 00:10:55.710
+So thanks for watching.
+

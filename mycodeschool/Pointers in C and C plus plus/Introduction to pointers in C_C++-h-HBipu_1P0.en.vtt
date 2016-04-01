@@ -1,0 +1,704 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.739 --> 00:00:05.790
+Pointer is a very fundamental and important concept in programming,
+
+00:00:05.790 --> 00:00:08.050
+but a lot of beginner programmers
+
+00:00:08.050 --> 00:00:10.269
+find it difficult to understand pointers.
+
+00:00:10.269 --> 00:00:14.389
+So, in this lesson we'll try to demystify pointers.
+
+00:00:14.389 --> 00:00:17.909
+And all you need to know to understand this lesson, is
+
+00:00:17.909 --> 00:00:21.680
+how to write a basic C program, how to declare a variable
+
+00:00:21.680 --> 00:00:23.019
+and how to do simple
+
+00:00:23.019 --> 00:00:25.650
+arithmetic upon those variables.
+
+00:00:25.650 --> 00:00:26.980
+Okay, so let's get started.
+
+00:00:26.980 --> 00:00:29.989
+To understand pointers, we first
+
+00:00:29.989 --> 00:00:31.070
+should understand
+
+00:00:31.070 --> 00:00:34.540
+how various data types or various variables
+
+00:00:34.540 --> 00:00:37.280
+are stored in computers memory.
+
+00:00:37.280 --> 00:00:38.959
+Ok... so let's say,
+
+00:00:38.959 --> 00:00:41.320
+this figure in the right here, is
+
+00:00:41.320 --> 00:00:42.780
+computer's memory
+
+00:00:42.780 --> 00:00:46.350
+and when we talk about computer's memory in context of
+
+00:00:46.350 --> 00:00:51.530
+program execution, we mostly talk about the random access memory or the RAM.
+
+00:00:51.530 --> 00:00:54.960
+We often say that my machine has got 2 GB or 2 Giga bytes of RAM
+
+00:00:54.960 --> 00:00:58.990
+or 4 Giga bytes of RAM. Now, Let's say these segments
+
+00:00:58.990 --> 00:01:01.799
+or partitions that we are showing here in the memory
+
+00:01:01.799 --> 00:01:04.340
+is each one byte of memory.
+
+00:01:04.340 --> 00:01:06.280
+Now in a typical
+
+00:01:06.280 --> 00:01:10.820
+memory architecture, in a typical computer architecture of the memory
+
+00:01:10.820 --> 00:01:13.940
+each byte of the memory has
+
+00:01:13.940 --> 00:01:16.310
+an address. So,
+
+00:01:16.310 --> 00:01:17.119
+let's say
+
+00:01:17.119 --> 00:01:19.630
+uh... the first byte in this
+
+00:01:19.630 --> 00:01:21.600
+memory which we can assume to be,
+
+00:01:21.600 --> 00:01:24.080
+the lowest byte deep down here
+
+00:01:24.080 --> 00:01:28.440
+has an address 0 and address keeps on increasing as we go towards the top.
+
+00:01:28.440 --> 00:01:31.570
+So we go on like 0, 1, 2, and
+
+00:01:31.570 --> 00:01:33.170
+let's assume
+
+00:01:33.170 --> 00:01:36.490
+this particular address is
+
+00:01:36.490 --> 00:01:39.670
+201, so the next byte would have an address of
+
+00:01:39.670 --> 00:01:41.310
+202.
+
+00:01:41.310 --> 00:01:46.100
+And we'll go on like 203, 204 and so on.
+
+00:01:46.100 --> 00:01:48.079
+Now, when we declare a varriable
+
+00:01:48.079 --> 00:01:53.310
+in our program, let's say for example if we declare a variable 'a' of type integer
+
+00:01:53.310 --> 00:01:55.520
+then when this program executes, 
+
+00:01:55.520 --> 00:02:00.130
+the computer allocates some amount of memory corresponding to this particular
+
+00:02:00.130 --> 00:02:01.100
+varriable.
+
+00:02:01.100 --> 00:02:03.259
+How much memory it allocates,
+
+00:02:03.259 --> 00:02:05.800
+depends upon the datatype
+
+00:02:05.800 --> 00:02:07.610
+and also upon,
+
+00:02:07.610 --> 00:02:12.190
+the compiler, so in a typical modern-day compiler an integer is allocated
+
+00:02:12.190 --> 00:02:14.149
+4 bytes of memory.
+
+00:02:14.149 --> 00:02:15.890
+Character varriable is
+
+00:02:15.890 --> 00:02:18.239
+allocated 1 byte of memory.
+
+00:02:18.239 --> 00:02:20.389
+Float is allocated
+
+00:02:20.389 --> 00:02:23.669
+4 bytes of memory and we can have other variables as well.
+
+00:02:23.669 --> 00:02:26.829
+Okay, so as soon as the computer sees a declaration,
+
+00:02:26.829 --> 00:02:30.089
+like this, during the program's execution,
+
+00:02:30.089 --> 00:02:33.689
+it knows that this is an integer variable, so I need to allocate
+
+00:02:33.689 --> 00:02:35.059
+4 bytes of memory.
+
+00:02:35.059 --> 00:02:36.529
+Let's say in our example,
+
+00:02:36.529 --> 00:02:37.869
+it allocates
+
+00:02:37.869 --> 00:02:40.230
+memory starting address 204
+
+00:02:40.230 --> 00:02:42.159
+to address 207
+
+00:02:42.159 --> 00:02:43.709
+for 'a'.
+
+00:02:43.709 --> 00:02:46.339
+And the computer has an internal structure,
+
+00:02:46.339 --> 00:02:47.640
+a lookup table
+
+00:02:47.640 --> 00:02:50.900
+where its stores this information that there is a variable 'a',
+
+00:02:50.900 --> 00:02:53.859
+it is of the type integer, and it
+
+00:02:53.859 --> 00:02:55.969
+is located at address 204,
+
+00:02:55.969 --> 00:02:59.109
+which is the starting address of the variable. Now,
+
+00:02:59.109 --> 00:03:03.049
+if we declare another variable, say for example if we declare a variable, 
+
+00:03:03.049 --> 00:03:05.989
+name 'c' which is of type character, now
+
+00:03:05.989 --> 00:03:09.029
+once again when the machines sees this declaration
+
+00:03:09.029 --> 00:03:13.029
+it knows that it is a character variable, so it needs 1 byte of memory.
+
+00:03:13.029 --> 00:03:16.619
+So it looks for some free space, let's say in this case
+
+00:03:16.619 --> 00:03:18.029
+uh... it allocates
+
+00:03:18.029 --> 00:03:22.689
+the address 209, the byte 209 for 'c',
+
+00:03:22.689 --> 00:03:25.669
+and once again it keeps an entry for it,
+
+00:03:25.669 --> 00:03:27.289
+in an internal structure,
+
+00:03:27.289 --> 00:03:29.109
+called lookup table,
+
+00:03:29.109 --> 00:03:30.839
+that hey 'c' is a character,
+
+00:03:30.839 --> 00:03:32.069
+and its
+
+00:03:32.069 --> 00:03:33.590
+address is 209.
+
+00:03:33.590 --> 00:03:37.760
+Now, when you perform some operation with these variables, like let's say if we initialize
+
+00:03:37.760 --> 00:03:39.399
+a = 5,
+
+00:03:39.399 --> 00:03:42.279
+and our machine or computer sees such a statement,
+
+00:03:42.279 --> 00:03:44.379
+it looks into the lookup table for this
+
+00:03:44.379 --> 00:03:45.500
+variable 'a',
+
+00:03:45.500 --> 00:03:49.810
+so it finds this variable 'a', that it is an integer and it is at address 204
+
+00:03:49.810 --> 00:03:51.689
+204,
+
+00:03:51.689 --> 00:03:55.450
+so it goes at address 204, and in these 4 bytes, starting 
+
+00:03:55.450 --> 00:03:56.749
+204,
+
+00:03:56.749 --> 00:04:00.189
+it writes this value 5.
+
+00:04:00.189 --> 00:04:02.429
+Now in reality, the value
+
+00:04:02.429 --> 00:04:04.000
+is written in binary, but
+
+00:04:04.000 --> 00:04:06.669
+for the sake of understanding, we are writing here
+
+00:04:06.669 --> 00:04:08.139
+in decimal form.
+
+00:04:08.139 --> 00:04:11.149
+Now once again let's say we have some
+statements, and then again after these
+
+00:04:11.149 --> 00:04:12.499
+statements we
+
+00:04:12.499 --> 00:04:15.499
+have another statement which increments 'a'.
+
+00:04:15.499 --> 00:04:17.829
+Now again, when computer sees that,
+
+00:04:17.829 --> 00:04:20.600
+'a' has to be incremented, it again looks for this
+
+00:04:20.600 --> 00:04:23.529
+address for 'a', goes to the address,
+
+00:04:23.529 --> 00:04:25.869
+and modifies this value
+
+00:04:25.869 --> 00:04:27.350
+at this particular address.
+
+00:04:27.350 --> 00:04:32.639
+So this block of memory allocated for 'a', stores the value 6 now. Now,
+
+00:04:32.639 --> 00:04:34.270
+all of this is really cool but
+
+00:04:34.270 --> 00:04:36.539
+can we know the address of
+
+00:04:36.539 --> 00:04:37.930
+a variable
+
+00:04:37.930 --> 00:04:38.860
+in our program?
+
+00:04:38.860 --> 00:04:43.060
+Or can we operate upon these memory addresses in our program. Well,
+
+00:04:43.060 --> 00:04:46.520
+yes, you can do so in a C or C++ program,
+
+00:04:46.520 --> 00:04:47.760
+using the concept of
+
+00:04:47.760 --> 00:04:48.880
+pointers.
+
+00:04:48.880 --> 00:04:53.089
+Pointers are variables that store the address of another variable.
+
+00:04:53.089 --> 00:04:54.509
+And to make you understand,
+
+00:04:54.509 --> 00:04:58.129
+about this a little better, I'll redraw couple of these things.
+
+00:04:58.129 --> 00:05:01.170
+Let's say, we have a block of 4 bytes,
+
+00:05:01.170 --> 00:05:06.069
+at address 204 that stores an integer variable 'a'.
+
+00:05:06.069 --> 00:05:07.349
+Now, we can have
+
+00:05:07.349 --> 00:05:10.740
+another variable, the type of which is
+
+00:05:10.740 --> 00:05:12.349
+pointer to integer
+
+00:05:12.349 --> 00:05:15.779
+and let's say the name of this variable is 'p'.
+
+00:05:15.779 --> 00:05:20.770
+Now, this variable 'p' can store the address of 'a',
+
+00:05:20.770 --> 00:05:23.849
+and using the properties of 'p', or
+
+00:05:23.849 --> 00:05:25.880
+using some operators upon 'p'
+
+00:05:25.880 --> 00:05:27.449
+we can reach 'a'.
+
+00:05:27.449 --> 00:05:29.080
+Now 'p' also takes
+
+00:05:29.080 --> 00:05:29.860
+some memory
+
+00:05:29.860 --> 00:05:32.779
+so let's say, it is stored at
+
+00:05:32.779 --> 00:05:33.979
+location
+
+00:05:33.979 --> 00:05:37.979
+address 64 and it also takes 4 bytes of memory.
+
+00:05:37.979 --> 00:05:39.300
+We can also modify
+
+00:05:39.300 --> 00:05:41.129
+'p' to point to
+
+00:05:41.129 --> 00:05:43.919
+another integer, so let's say if we have
+
+00:05:43.919 --> 00:05:46.889
+another integer at address 208
+
+00:05:46.889 --> 00:05:47.830
+named 'b'
+
+00:05:47.830 --> 00:05:49.830
+and having value 10,
+
+00:05:49.830 --> 00:05:54.249
+and if we change the address in 'p' from 204 to 208
+
+00:05:54.249 --> 00:05:57.169
+then 'p' now points to 'b'.
+
+00:05:57.169 --> 00:06:00.330
+Let us now see the syntax of pointer variables in C,
+
+00:06:00.330 --> 00:06:02.919
+A normal variable is declared
+
+00:06:02.919 --> 00:06:05.039
+by writing the data type
+
+00:06:05.039 --> 00:06:10.830
+and the variable name so int 'a' means that we have a variable 'a' of type int.
+
+00:06:10.830 --> 00:06:14.180
+If we want to write a pointer variable that should
+
+00:06:14.180 --> 00:06:15.839
+point to another variable
+
+00:06:15.839 --> 00:06:17.219
+all we do is, we
+
+00:06:17.219 --> 00:06:22.840
+put an asterisk sign before the variable. So,
+
+00:06:22.840 --> 00:06:23.550
+'p'
+
+00:06:23.550 --> 00:06:24.740
+is now
+
+00:06:24.740 --> 00:06:26.240
+a pointer variable that
+
+00:06:26.240 --> 00:06:32.080
+points to an integer. So 'p' is a variable that can store the address of an integer.
+
+00:06:32.080 --> 00:06:34.889
+Now to store the address of
+
+00:06:34.889 --> 00:06:36.300
+'a' in 'p'
+
+00:06:36.300 --> 00:06:37.129
+we need to
+
+00:06:37.129 --> 00:06:38.379
+use a statement like
+
+00:06:38.379 --> 00:06:41.580
+p = &amp;a (ampersand 'a')
+
+00:06:41.580 --> 00:06:44.689
+now if we put '&amp;' in front of a variable
+
+00:06:44.689 --> 00:06:47.829
+it gives us the address of that particular variable. In-fact, it
+
+00:06:47.829 --> 00:06:48.439
+returns a
+
+00:06:48.439 --> 00:06:49.849
+pointer
+
+00:06:49.849 --> 00:06:51.369
+to that particular variable.
+
+00:06:51.369 --> 00:06:53.520
+Okay so let's try to see a simulation of this.
+
+00:06:53.520 --> 00:06:56.749
+Let's say, when we declare the variable 'a', then
+
+00:06:56.749 --> 00:06:57.979
+it was allocated
+
+00:06:57.979 --> 00:06:59.629
+an address 204.
+
+00:06:59.629 --> 00:07:01.419
+Now we declare an..
+
+00:07:01.419 --> 00:07:04.270
+a pointer to integer 'p'.
+
+00:07:04.270 --> 00:07:06.509
+Let's say it was allocated address 64.
+
+00:07:06.509 --> 00:07:08.939
+Now when we write a statement like p = &amp;a
+
+00:07:08.939 --> 00:07:11.729
+p = &amp;a, then
+
+00:07:11.729 --> 00:07:14.239
+'p' now has the address of 'a'.
+
+00:07:14.239 --> 00:07:15.690
+And it kind of
+
+00:07:15.690 --> 00:07:19.289
+points to 'a'. Let's
+
+00:07:19.289 --> 00:07:23.660
+initialize 'a' to some value, let's say a =5, so, we fill 
+
+00:07:23.660 --> 00:07:26.580
+value 5 into 'a' now.
+
+00:07:26.580 --> 00:07:31.069
+Now what will happen if I print 'p'. What will be the output?
+
+00:07:31.069 --> 00:07:33.479
+Any guesses?
+
+00:07:33.479 --> 00:07:35.469
+Think about it.
+
+00:07:35.469 --> 00:07:39.249
+Okay so if we try to print 'p', then the
+
+00:07:39.249 --> 00:07:43.899
+output will be 204 because 'p' has a value 204.
+
+00:07:43.899 --> 00:07:45.579
+What if we simply try to print
+
+00:07:45.579 --> 00:07:46.959
+&amp;a (ampersand of a)?
+
+00:07:46.959 --> 00:07:50.819
+&amp;a also gives us the address of 'a'. So this will also be 204
+
+00:07:50.819 --> 00:07:52.500
+204.
+
+00:07:52.500 --> 00:07:55.009
+What if we want to print
+
+00:07:55.009 --> 00:07:57.469
+&amp;p?
+
+00:07:57.469 --> 00:08:00.649
+Now 'p' is also a variable and it is also stored in the memory.
+
+00:08:00.649 --> 00:08:06.309
+So ampersand since it prints the, it gives you the address of that variable, so
+
+00:08:06.309 --> 00:08:08.369
+printing &amp;p should give us
+
+00:08:08.369 --> 00:08:09.669
+64,
+
+00:08:09.669 --> 00:08:11.229
+which is the address of 'p'.
+
+00:08:11.229 --> 00:08:13.800
+Now there is one more important property of pointer:
+
+00:08:13.800 --> 00:08:15.550
+If we put
+
+00:08:15.550 --> 00:08:18.299
+an asterisk (*) sign in front of the pointer,
+
+00:08:18.299 --> 00:08:23.180
+than it gives us the value at the location that it points to. So what
+
+00:08:23.180 --> 00:08:27.560
+will happen if we try to print *p (asterisk of p). Well, it
+
+00:08:27.560 --> 00:08:30.339
+will give us 5.
+
+00:08:30.339 --> 00:08:34.020
+This concept is called as de-referencing, because
+
+00:08:34.020 --> 00:08:36.160
+we have a reference or
+
+00:08:36.160 --> 00:08:37.360
+we have stored the...
+
+00:08:37.360 --> 00:08:40.180
+an address in 'p'. And,
+
+00:08:40.180 --> 00:08:44.150
+we kind of get the value at this particular address using this operator.
+
+00:08:44.150 --> 00:08:45.730
+In fact, we can
+
+00:08:45.730 --> 00:08:49.470
+modify the value at this particular location, by
+
+00:08:49.470 --> 00:08:52.900
+saying something like *p is now 8 (*p=8).
+
+00:08:52.900 --> 00:08:55.170
+*p means value at 'p',
+
+00:08:55.170 --> 00:08:56.240
+and so
+
+00:08:56.240 --> 00:08:59.150
+the value at 'p' is now modified to 8.
+
+00:08:59.150 --> 00:09:00.680
+So what will happen if
+
+00:09:00.680 --> 00:09:04.650
+you print *p or print 'a' now,
+
+00:09:04.650 --> 00:09:08.090
+the output will be 8.
+
+00:09:08.090 --> 00:09:11.730
+By value of 'p' I mean value at address 'p'.
+
+00:09:11.730 --> 00:09:14.220
+So, 'p' is the address and *p
+
+00:09:14.220 --> 00:09:15.830
+is the value
+
+00:09:15.830 --> 00:09:17.140
+at address,
+
+00:09:17.140 --> 00:09:18.610
+that is stored in 'p'.
+
+00:09:18.610 --> 00:09:20.540
+Okay, to just to reiterate
+
+00:09:20.540 --> 00:09:22.970
+uh... we define a pointer variable
+
+00:09:22.970 --> 00:09:24.420
+using...
+
+00:09:24.420 --> 00:09:27.780
+by putting an asterisk (*) sign in front of the variable name and
+
+00:09:27.780 --> 00:09:31.370
+if we put an ampersand (&amp;) sign in front of a variable name, we get the address of
+
+00:09:31.370 --> 00:09:32.130
+it.
+
+00:09:32.130 --> 00:09:34.040
+So if we try to print
+
+00:09:34.040 --> 00:09:36.970
+a pointer variable without asterisk (*) sign, or operate upon it without
+
+00:09:36.970 --> 00:09:39.290
+asterisk (*) sign, we are operating with the address.
+
+00:09:39.290 --> 00:09:43.110
+While if we put the asterisk (*) sign in front of the pointer variable,
+
+00:09:43.110 --> 00:09:45.839
+and operate upon it then we are operating
+
+00:09:45.839 --> 00:09:47.900
+the value at that address.
+
+00:09:47.900 --> 00:09:50.800
+So this was some of the basics of pointers.
+
+00:09:50.800 --> 00:09:52.260
+In the coming lessons we'll some
+
+00:09:52.260 --> 00:09:57.630
+see some code snippets uh... where we'll see some of the common errors that we make
+
+00:09:57.630 --> 00:09:59.010
+while using pointers
+
+00:09:59.010 --> 00:10:00.510
+and we'll also learn
+
+00:10:00.510 --> 00:10:02.090
+pointer arithmetic,
+
+00:10:02.090 --> 00:10:05.070
+and pointers in the context of arrays.
+
+00:10:05.070 --> 00:10:05.640
+So, Thanks for watching!
+

@@ -1,0 +1,829 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.759 --> 00:00:05.410
+So, in our previous lesson "Introduction to pointers", we learned the basics of
+
+00:00:05.410 --> 00:00:06.799
+pointers.
+
+00:00:06.799 --> 00:00:09.829
+In this lesson we will see how to work with pointers
+
+00:00:09.829 --> 00:00:12.219
+in some real code examples,
+
+00:00:12.219 --> 00:00:15.459
+but before that a quick recap.
+
+00:00:15.459 --> 00:00:19.829
+Pointers are variables that store address of other variables.
+
+00:00:19.829 --> 00:00:23.689
+We declare a normal variable
+
+00:00:23.689 --> 00:00:25.480
+with a syntax like
+
+00:00:25.480 --> 00:00:27.719
+the data type or the variable type
+
+00:00:27.719 --> 00:00:30.179
+followed by the variable name,
+
+00:00:30.179 --> 00:00:32.540
+but we declare a pointer variable
+
+00:00:32.540 --> 00:00:33.860
+with a syntax
+
+00:00:33.860 --> 00:00:35.850
+datatype
+
+00:00:35.850 --> 00:00:39.880
+and an asterisk sign followed by the variable name.
+
+00:00:39.880 --> 00:00:43.260
+We need an integer pointer variable to store the address of an
+
+00:00:43.260 --> 00:00:44.290
+integer.
+
+00:00:44.290 --> 00:00:46.760
+To store the address of,
+
+00:00:46.760 --> 00:00:49.380
+say a character variable we will need
+
+00:00:49.380 --> 00:00:54.350
+a character pointer. So, the same syntax will be used. We put an asterisk sign
+
+00:00:54.350 --> 00:00:55.999
+and let's say the name of the variable is 'P0'
+
+00:00:57.320 --> 00:01:00.900
+So, 'c' is a character variable and 'P0' is a pointer to character
+
+00:01:02.480 --> 00:01:07.200
+And similarly, we can have a pointer to double.
+
+00:01:07.200 --> 00:01:11.300
+And we can also have pointers to a user defined structure,
+
+00:01:11.300 --> 00:01:14.650
+or a user defined class also.
+
+00:01:14.650 --> 00:01:17.860
+And to get the address of a variable, we
+
+00:01:17.860 --> 00:01:19.410
+write a statement like,
+
+00:01:19.410 --> 00:01:23.170
+P = &amp;a (ampersand 'a'). Now, this ampersand
+
+00:01:23.170 --> 00:01:26.950
+works as an operator that gives us the address of 'a',
+
+00:01:26.950 --> 00:01:30.230
+and what happens in the memory is something like this,
+
+00:01:30.230 --> 00:01:33.720
+variable 'P' stores the address of variable 'a'.
+
+00:01:33.720 --> 00:01:34.890
+So in this
+
+00:01:34.890 --> 00:01:36.340
+figure here
+
+00:01:36.340 --> 00:01:39.730
+P's value is 204 which is the address of 'a',
+
+00:01:39.730 --> 00:01:41.729
+so 'P' points to 'a',
+
+00:01:41.729 --> 00:01:45.430
+and using 'P' we can also get the value
+
+00:01:45.430 --> 00:01:47.660
+of 'a'. So let's say if 'a' 
+
+00:01:47.660 --> 00:01:48.830
+is 8
+
+00:01:48.830 --> 00:01:49.860
+and we
+
+00:01:49.860 --> 00:01:52.810
+use a star operator (*) in front of 'P'
+
+00:01:52.810 --> 00:01:55.110
+then *P gives us
+
+00:01:55.110 --> 00:01:57.359
+8, which is value of 'a'.
+
+00:01:57.359 --> 00:02:00.660
+If we try to print *P, it gives us 8.
+
+00:02:00.660 --> 00:02:03.240
+Let us now try to see some of these
+
+00:02:03.240 --> 00:02:05.159
+things in real code.
+
+00:02:05.159 --> 00:02:10.009
+Ok, so time to see things moving in a real C program.
+
+00:02:10.009 --> 00:02:13.950
+Now, what I will do is I will play a game with you. I will write some print statements and you
+
+00:02:13.950 --> 00:02:15.379
+need to guess,
+
+00:02:15.379 --> 00:02:17.879
+what will be the output?
+
+00:02:17.879 --> 00:02:21.769
+So what I will first do is I will declare an integer variable 'a',
+
+00:02:21.769 --> 00:02:25.180
+and then I will declare another variable which will be pointer to integer
+
+00:02:26.639 --> 00:02:29.430
+and now I will write a print statement
+
+00:02:29.430 --> 00:02:32.589
+where I'll be printing 'p'.
+
+00:02:32.589 --> 00:02:34.779
+Now, what will be the output of this program?
+
+00:02:34.779 --> 00:02:35.470
+OK, so
+
+00:02:35.470 --> 00:02:37.919
+let's run this program.
+
+00:02:37.919 --> 00:02:39.849
+Oops! this gives us an error.
+
+00:02:39.849 --> 00:02:43.189
+And if it is too small for you to read, then
+
+00:02:43.189 --> 00:02:43.839
+this
+
+00:02:43.839 --> 00:02:46.469
+is giving an error that the variable 'p'
+
+00:02:46.469 --> 00:02:48.809
+is not initialized
+
+00:02:48.809 --> 00:02:51.719
+and we are using it without initializing.
+
+00:02:51.719 --> 00:02:54.650
+So, that's why the program is crashing.
+
+00:02:54.650 --> 00:02:56.989
+So now I will write a statement.
+
+00:02:56.989 --> 00:02:59.509
+p = &amp;a (ampersand 'a')
+
+00:02:59.509 --> 00:03:00.689
+Now ampersand 
+
+00:03:00.689 --> 00:03:02.859
+of a (&amp;a) is nothing but
+
+00:03:02.859 --> 00:03:04.279
+address of a.
+
+00:03:04.279 --> 00:03:06.609
+Now lets run this again.
+
+00:03:06.609 --> 00:03:08.819
+Okay so this prints 
+
+00:03:08.819 --> 00:03:09.819
+an address.
+
+00:03:11.149 --> 00:03:13.629
+And how do you know that this is the address,
+
+00:03:13.629 --> 00:03:17.199
+or this is the right address that is stored in 'p'.
+
+00:03:17.199 --> 00:03:19.649
+So, I'll write another print statement.
+
+00:03:19.649 --> 00:03:23.810
+and now I am printing *p. Now star operator, when it is
+
+00:03:23.810 --> 00:03:28.159
+put in front of the address, then it gives us the value at that particular address.
+
+00:03:28.159 --> 00:03:29.789
+Okay so what will be
+
+00:03:29.789 --> 00:03:32.919
+the output of the second print statement?
+
+00:03:32.919 --> 00:03:38.079
+So when we run this, the first line gives us the address that 'p' points to
+
+00:03:38.079 --> 00:03:39.510
+and this address is different,
+
+00:03:39.510 --> 00:03:43.789
+than the previous address, because every time the program runs afresh,
+
+00:03:43.789 --> 00:03:45.979
+a new address is allocated,
+
+00:03:45.979 --> 00:03:48.319
+but the value at 'p'
+
+00:03:48.319 --> 00:03:53.209
+is some garbage value, is some integer
+that I am not sure what it is.
+
+00:03:53.209 --> 00:03:57.359
+This is happening because I have not initialized 'a' and
+
+00:03:57.359 --> 00:03:59.700
+although memories are allocated for 'a',
+
+00:03:59.700 --> 00:04:00.979
+there is
+
+00:04:00.979 --> 00:04:03.729
+some garbage value there that I do not know about.
+
+00:04:03.729 --> 00:04:07.449
+Ok, so let's initialize 'a'. Let's say 'a' is equal to 10.
+
+00:04:07.449 --> 00:04:13.879
+And now the second line prints the value of 'a', 
+
+00:04:13.879 --> 00:04:15.659
+and now I will write
+
+00:04:15.659 --> 00:04:17.089
+another print statement,
+
+00:04:17.089 --> 00:04:19.409
+and this time I will print
+
+00:04:19.409 --> 00:04:21.579
+&amp;a (ampersand 'a').
+
+00:04:21.579 --> 00:04:24.510
+Now what should be the output of this
+
+00:04:24.510 --> 00:04:26.120
+third print statement?
+
+00:04:26.120 --> 00:04:28.520
+And this should be pretty easy to guess.
+
+00:04:28.520 --> 00:04:31.059
+Ampersand operator (&amp;) gives us the address
+
+00:04:31.059 --> 00:04:32.280
+and that's why
+
+00:04:32.280 --> 00:04:36.620
+the third line is also the address of 'a'.
+
+00:04:36.620 --> 00:04:40.259
+In-fact that's what we have done here. We have assigned 'p'
+
+00:04:40.259 --> 00:04:44.009
+the address of 'a'. We have used the operator ampersand.
+
+00:04:44.009 --> 00:04:48.110
+Now, what I will do is, I will modify the value in 'a',
+
+00:04:48.110 --> 00:04:49.569
+using the pointer 'p'.
+
+00:04:49.569 --> 00:04:51.949
+And to do so I will write a statement like
+
+00:04:51.949 --> 00:04:54.309
+*p = 12
+
+00:04:54.309 --> 00:04:55.550
+and this is read as
+
+00:04:55.550 --> 00:04:59.590
+value at address 'p'... Value at address being pointed by 'p'
+
+00:04:59.590 --> 00:05:00.650
+is now 12.
+
+00:05:00.650 --> 00:05:01.870
+This concept is called
+
+00:05:01.870 --> 00:05:03.389
+de-referencing.
+
+00:05:03.389 --> 00:05:06.779
+So now if I try to print 'a',
+
+00:05:06.779 --> 00:05:10.499
+and let's also put one print statement for 'a', before we modify the value,
+
+00:05:13.169 --> 00:05:15.040
+and let's run this.
+
+00:05:15.040 --> 00:05:17.039
+So the first print gives me 10,
+
+00:05:17.039 --> 00:05:18.539
+which is the value that we have
+
+00:05:18.539 --> 00:05:20.899
+initialized 'a' with and
+
+00:05:20.899 --> 00:05:21.699
+the second
+
+00:05:21.699 --> 00:05:23.020
+print gives us a = 12
+
+00:05:23.020 --> 00:05:24.319
+a = 12
+
+00:05:24.319 --> 00:05:26.529
+because we modified the value
+
+00:05:26.529 --> 00:05:28.449
+using the pointer.
+
+00:05:28.449 --> 00:05:30.390
+Okay, so one more thing that I'll do here now.
+
+00:05:30.390 --> 00:05:32.469
+I will have another variable 'b',
+
+00:05:32.469 --> 00:05:33.990
+that will have value 20.
+
+00:05:33.990 --> 00:05:36.050
+and now what I will say is
+
+00:05:36.050 --> 00:05:36.789
+*p
+
+00:05:36.789 --> 00:05:40.330
+or value at address 'p' is equal to 'b'.
+
+00:05:40.330 --> 00:05:41.990
+And the question now is that,
+
+00:05:41.990 --> 00:05:43.630
+will the address in 'p' change now
+
+00:05:43.630 --> 00:05:46.839
+ to point to 'b'?
+
+00:05:46.839 --> 00:05:50.360
+Well.. No.., unless you explicitly write a
+statement like,
+
+00:05:50.360 --> 00:05:52.849
+p = &amp;b
+
+00:05:52.849 --> 00:05:56.939
+this reverse operation will not happen. What we are doing here is actually, only
+
+00:05:56.939 --> 00:05:58.049
+putting
+
+00:05:58.049 --> 00:06:00.989
+in the address of 'a', the value that 'b' has,
+
+00:06:00.989 --> 00:06:02.550
+but we are not pointing to 'b'
+
+00:06:02.550 --> 00:06:04.309
+and this will get clear, only
+
+00:06:04.309 --> 00:06:05.470
+ if we
+
+00:06:05.470 --> 00:06:07.490
+write some more printf statements.
+
+00:06:07.490 --> 00:06:10.630
+So before writing the statement, I am writing
+two print statements.
+
+00:06:10.630 --> 00:06:13.850
+one to print the address and one to print
+the value
+
+00:06:13.850 --> 00:06:14.779
+and after we
+
+00:06:14.779 --> 00:06:17.809
+write the statement, I will write two more print statements
+
+00:06:17.809 --> 00:06:20.300
+trying to print the address and value again
+
+00:06:20.300 --> 00:06:24.669
+so let us see what the output is now. OK, so
+
+00:06:24.669 --> 00:06:28.330
+address of p is initially three one four four
+five seven six
+
+00:06:28.330 --> 00:06:29.659
+and value is 10
+
+00:06:29.659 --> 00:06:33.670
+and after the statement star p
+equal to b, only value is modified
+
+00:06:33.670 --> 00:06:35.789
+and the pointer still points to a
+
+00:06:35.789 --> 00:06:39.539
+so a now becomes twenty but the address does not change
+
+00:06:39.539 --> 00:06:40.520
+now one more thing
+
+00:06:40.520 --> 00:06:45.110
+sometimes we declare and initialize a variable
+in the same statement
+
+00:06:45.110 --> 00:06:49.550
+so instead of writing this a 
+equal to ten here we could simply say that
+
+00:06:49.550 --> 00:06:50.580
+int a is equal to 10
+
+00:06:52.199 --> 00:06:56.150
+so we can do so for the pointer
+variable as well
+
+00:06:56.150 --> 00:06:57.610
+we could simply say for these two statements
+
+00:06:57.610 --> 00:07:01.199
+one simple statement like int star p is
+
+00:07:01.199 --> 00:07:03.309
+equal to ampersand a 
+
+00:07:03.309 --> 00:07:05.529
+and we will not need the statement
+
+00:07:05.529 --> 00:07:09.579
+this one statement is same as saying
+the earlier two statements
+
+00:07:09.579 --> 00:07:13.139
+the syntax of declaring pointer
+
+00:07:13.139 --> 00:07:14.939
+some people write this asterix sign 
+
+00:07:14.939 --> 00:07:16.989
+after int and do not write it
+
+00:07:16.989 --> 00:07:18.839
+in front of the variable name
+
+00:07:18.839 --> 00:07:21.119
+this also works and this is also fine
+
+00:07:21.119 --> 00:07:22.680
+so you can write int star
+
+00:07:22.680 --> 00:07:25.580
+which means pointer to integer and then you can write the variable name
+
+00:07:26.639 --> 00:07:28.619
+and this will also work
+
+00:07:28.619 --> 00:07:30.599
+okay so now we will point
+
+00:07:30.599 --> 00:07:32.080
+uh .. we will talk about a
+
+00:07:32.080 --> 00:07:34.029
+concept
+
+00:07:34.029 --> 00:07:35.749
+we will talk about the concept of
+
+00:07:35.749 --> 00:07:40.110
+pointer arithmetic
+
+00:07:40.110 --> 00:07:41.409
+but before that I will
+
+00:07:41.409 --> 00:07:43.389
+write this ... rewrite this
+
+00:07:43.389 --> 00:07:48.360
+declaration and initialization like
+before in two statements
+
+00:07:48.360 --> 00:07:50.979
+I like it better this way. It's less confusing
+
+00:07:50.979 --> 00:07:53.789
+now I will write two print statements here
+
+00:07:53.789 --> 00:07:55.030
+in the first statement
+
+00:07:55.030 --> 00:07:56.550
+I will print p
+
+00:07:56.550 --> 00:07:59.250
+and in another statement I will print
+
+00:07:59.250 --> 00:08:00.740
+p plus one
+
+00:08:00.740 --> 00:08:03.499
+Now, is it really possible to do so?
+
+00:08:03.499 --> 00:08:05.129
+can we really increment and decrement
+
+00:08:05.129 --> 00:08:07.050
+a pointer variable
+
+00:08:07.050 --> 00:08:09.029
+Well yes! we can do so
+
+00:08:09.029 --> 00:08:09.960
+so now let's assume
+
+00:08:09.960 --> 00:08:14.270
+that the address stored in p is
+
+00:08:14.270 --> 00:08:16.489
+something like 2002
+
+00:08:16.489 --> 00:08:18.430
+so any guesses what p plus one
+
+00:08:18.430 --> 00:08:20.729
+will be?
+
+00:08:20.729 --> 00:08:23.110
+Will it be 2003?
+
+00:08:23.110 --> 00:08:27.440
+Well no. (p + 1) will be 2006
+
+00:08:27.440 --> 00:08:28.430
+this is because
+
+00:08:28.430 --> 00:08:32.800
+if p is an integer pointer incrementing
+it by one unit
+
+00:08:32.800 --> 00:08:36.010
+takes us to the address of the next integer
+
+00:08:36.010 --> 00:08:36.790
+and because
+
+00:08:36.790 --> 00:08:39.450
+the size of an integer is four bytes
+
+00:08:39.450 --> 00:08:41.180
+so, to go to the next
+
+00:08:41.180 --> 00:08:46.790
+integer address we need to skip 4 bytes. so,
+p plus one increments p by 4 bytes
+
+00:08:46.790 --> 00:08:50.820
+I'll write another print statement in which I will print
+
+00:08:50.820 --> 00:08:53.370
+size of an integer variable
+
+00:08:53.370 --> 00:08:55.630
+and I will write something like sizeof
+
+00:08:55.630 --> 00:08:57.890
+integer is
+
+00:08:57.890 --> 00:09:01.220
+and we have a function in C, sizeof that gives us
+
+00:09:01.220 --> 00:09:03.650
+the size of the data type
+
+00:09:03.650 --> 00:09:04.520
+so this
+
+00:09:04.520 --> 00:09:07.770
+statement, this print statement will give
+us the size of integer
+
+00:09:07.770 --> 00:09:10.740
+and let's write in the first and third
+
+00:09:10.740 --> 00:09:13.560
+print statements something like
+
+00:09:13.560 --> 00:09:15.050
+address p is blah and 
+
+00:09:15.050 --> 00:09:17.310
+address (p+1) 
+
+00:09:17.310 --> 00:09:18.900
+is blah.. so
+
+00:09:18.900 --> 00:09:21.070
+let's now run this and see what happens
+
+00:09:21.070 --> 00:09:25.350
+okay.. so the output is address p is4 586052 which
+
+00:09:25.350 --> 00:09:26.720
+is some address
+
+00:09:26.720 --> 00:09:30.190
+and then we print size of integer is 4 bytes. so,
+
+00:09:30.190 --> 00:09:32.100
+for this particular compiler
+
+00:09:32.100 --> 00:09:34.740
+the size of an integer is four bytes
+
+00:09:34.740 --> 00:09:38.910
+and address (p+1) is four bytes
+more than address p
+
+00:09:38.910 --> 00:09:43.010
+you can try this thing out for a character pointer or a double pointer
+
+00:09:43.010 --> 00:09:45.100
+or a pointer for some other data type
+
+00:09:45.100 --> 00:09:48.020
+okay so we could also increment this by 2
+
+00:09:48.020 --> 00:09:50.870
+and what happens if we increment this by 2.
+
+00:09:50.870 --> 00:09:54.640
+well, it will increment the address by 8
+
+00:09:54.640 --> 00:09:56.490
+So, this will be like
+
+00:09:56.490 --> 00:09:58.640
+2010
+
+00:09:58.640 --> 00:10:01.060
+p plus 2 will be 2010
+
+00:10:01.060 --> 00:10:04.550
+and this 2002 and 2010 is something that I have picked up
+
+00:10:04.550 --> 00:10:05.540
+randomly
+
+00:10:05.540 --> 00:10:07.260
+just for the sake of example
+
+00:10:07.260 --> 00:10:10.920
+OK so now once again what if I want to
+print the value at this particular
+
+00:10:10.920 --> 00:10:11.920
+address
+
+00:10:11.920 --> 00:10:16.670
+so I am printing two more lines here now.
+ I am printing value at address p
+
+00:10:16.670 --> 00:10:20.740
+and I will print *p. It gives us the value at that address
+
+00:10:20.740 --> 00:10:22.629
+and we will print another line
+
+00:10:22.629 --> 00:10:25.880
+we will say that value at address (p+1) is
+
+00:10:25.880 --> 00:10:27.720
+and this should be
+
+00:10:27.720 --> 00:10:29.290
+*(p+1)
+
+00:10:29.290 --> 00:10:31.860
+we put the star operator in front of the
+address
+
+00:10:31.860 --> 00:10:33.940
+okay, so now what will be the output
+
+00:10:33.940 --> 00:10:35.420
+okay so the output is that
+
+00:10:35.420 --> 00:10:38.779
+address p is some address and value at address p is 10 which is 
+
+00:10:38.779 --> 00:10:42.180
+alright because we had stored the address of variable a
+
+00:10:42.180 --> 00:10:43.320
+in p
+
+00:10:43.320 --> 00:10:46.960
+now next line is size of integer is 4 bytes 
+ and p plus one is four more
+
+00:10:46.960 --> 00:10:47.800
+than
+
+00:10:47.800 --> 00:10:49.030
+the address p
+
+00:10:49.030 --> 00:10:52.490
+and the value at address p+1 is
+some integer value that I do not
+
+00:10:52.490 --> 00:10:53.630
+know about
+
+00:10:53.630 --> 00:10:56.140
+in fact this is some garbage value because
+
+00:10:56.140 --> 00:10:59.290
+because we do not really have an integer allocated to this
+
+00:10:59.290 --> 00:11:00.860
+particular memory address
+
+00:11:00.860 --> 00:11:05.650
+and this is one dangerous thing about c
+using pointer arithmetic
+
+00:11:05.650 --> 00:11:07.440
+using pointer manipulation you can reach to
+
+00:11:07.440 --> 00:11:08.860
+to any address
+
+00:11:08.860 --> 00:11:10.140
+and sometimes
+
+00:11:10.140 --> 00:11:13.990
+these kind of operations can bring some
+unwanted behavior to your program
+
+00:11:13.990 --> 00:11:18.320
+I recommend trying these things out, these
+snippets of code with other data types 
+
+00:11:18.320 --> 00:11:19.880
+like characters or float
+
+00:11:19.880 --> 00:11:20.819
+and the results
+
+00:11:20.819 --> 00:11:24.220
+will be similar. So, this was
+
+00:11:24.220 --> 00:11:25.879
+some playing around with
+
+00:11:25.879 --> 00:11:27.610
+pointers and
+
+00:11:27.610 --> 00:11:31.260
+in the coming lessons we will talk more 
+about pointers and we will talk about 
+
+00:11:31.260 --> 00:11:34.230
+pointers in the context of arrays
+
+00:11:34.230 --> 00:11:35.060
+So, thanks for watching!
+
