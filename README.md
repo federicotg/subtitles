@@ -1,6 +1,5 @@
 # Subtitles
 Subtitles
- 2X21 54
 
 
 curl https://yt-dl.org/downloads/2016.03.27/youtube-dl -o

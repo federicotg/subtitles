@@ -39,7 +39,7 @@ No dormí lo suficiente para haber soñado.
 10
 00:01:31,440 --> 00:01:35,672
 Quiero que vayas al médico.
-Para ver que te está sucediendo.
+Para ver qué te está sucediendo.
 
 11
 00:01:39,440 --> 00:01:43,479
@@ -99,7 +99,7 @@ de fallas mecánicas.
 23
 00:04:07,840 --> 00:04:12,755
 El ejército dice que fue suicidio.
-El segundo en dos semanas.
+El segundo en nueve semanas.
 
 24
 00:04:12,840 --> 00:04:17,630
@@ -897,7 +897,7 @@ del cadáver de Manuel Guttierez.
 
 197
 00:18:29,640 --> 00:18:33,189
-Vine apens recibí la orden del juez,
+Vine apenas recibí la orden del juez,
 pero es demasiado tarde.
 
 198
@@ -946,7 +946,7 @@ medicina se quedó sin cadáveres,
 207
 00:19:08,520 --> 00:19:11,796
 se dice que los ladrones
-recibieron 5200 por cabeza.
+reciben $200 por cabeza.
 
 208
 00:19:11,920 --> 00:19:15,549
@@ -1196,7 +1196,7 @@ Jack era mi amigo. Mire lo que le pasó.
 
 263
 00:23:06,800 --> 00:23:12,591
-No sabemos que le pasó.
+No sabemos qué le pasó.
 Pero hay una explicación médica para ello.
 
 264
@@ -1227,7 +1227,7 @@ de medianoche, el día de su boda.
 269
 00:23:37,960 --> 00:23:41,953
 Cuando le hicieron la autopsia
-para descubrir que era,
+para descubrir qué era,
 
 270
 00:23:42,320 --> 00:23:46,791
@@ -1314,12 +1314,12 @@ Así es.
 
 289
 00:26:37,480 --> 00:26:40,233
-Envie una queja al
+Envié una queja al
 Departamento de Justicia.
 
 290
 00:26:40,320 --> 00:26:44,472
-Su cadáaver desapareció.
+Su cadáver desapareció.
 Robado del ataúd, aparentemente.
 
 291
@@ -1353,7 +1353,7 @@ es un delito ante la ley internacional.
 297
 00:27:14,360 --> 00:27:18,672
 Se trata de Bauvais, ¿no?
-El les ha contado esos cuentos.
+Él les ha contado esos cuentos.
 
 298
 00:27:18,880 --> 00:27:25,956
@@ -1385,7 +1385,7 @@ No queremos que se le enfríe el desayuno.
 304
 00:28:10,920 --> 00:28:15,675
 Wharton no les dejó más alternativa que
-defenderse con el único arma que tienen.
+defenderse con la única arma que tienen.
 
 305
 00:28:15,760 --> 00:28:19,196
@@ -1661,7 +1661,7 @@ Coronel,
 
 366
 00:34:24,640 --> 00:34:27,632
-Si insinua que presione
+Si insinúa que presione
 al soldado McAlpin...
 
 367

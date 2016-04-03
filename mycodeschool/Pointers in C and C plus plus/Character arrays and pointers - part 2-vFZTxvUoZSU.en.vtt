@@ -15,15 +15,15 @@ and we also saw how we can work with
 character arrays using pointers in some of
 
 00:00:12.000 --> 00:00:13.259
-the basic scenarios
+the basic scenarios.
 
 00:00:13.259 --> 00:00:17.359
-whenever we are working with pointers
+Whenever we are working with pointers
 it's really important that we
 
 00:00:17.359 --> 00:00:21.570
 visualize how things are happening in
-the memory so the first thing that we
+the memory. So the first thing that we
 
 00:00:21.570 --> 00:00:22.900
 will do in this lesson is
@@ -43,62 +43,62 @@ goes where in the memory and we will also look
 into the concept of string constants and
 
 00:00:37.440 --> 00:00:42.120
-constant pointers so this is where we had
-left in our previous lesson
+constant pointers. So this is where we had
+left in our previous lesson.
 
 00:00:42.120 --> 00:00:46.960
-we have written a function print to
-print the characters in a string
+We have written a function print to
+print the characters in a string.
 
 00:00:46.960 --> 00:00:50.190
-in the main method we have a character
-array of size twenty
+In the main method we have a character
+array of size twenty,
 
 00:00:50.190 --> 00:00:53.579
 but we have stored a string of length
-five in it
+five in it.
 
 00:00:53.579 --> 00:00:56.920
-we have used a string lateral
+We have used a string literal
 
 00:00:56.920 --> 00:01:00.550
-so null termination is implicit we have
+so null termination is implicit. We have
 talked about this earlier
 
 00:01:00.550 --> 00:01:04.659
 so let us step through this code and see
-how it is working
+how it is working.
 
 00:01:04.659 --> 00:01:08.680
-now once again I have drawn this familiar
-diagram the memory
+Now once again I have drawn this familiar
+diagram. The memory
 
 00:01:08.680 --> 00:01:13.530
 that is allocated for execution of a
 program is typically divided into these
 
 00:01:13.530 --> 00:01:17.759
-four parts these four sections one
+four parts. These four sections one
 part of the memory stores the
 
 00:01:17.759 --> 00:01:22.470
-instructions in the program we call that
-the code segment or the text segment
+instructions in the program. We call that
+the code segment or the text segment.
 
 00:01:22.470 --> 00:01:26.259
-one section stores the global
-variables
+One section stores the global
+variables.
 
 00:01:26.259 --> 00:01:30.960
-and stack is where all the information
+And stack is where all the information
 regarding function call execution
 
 00:01:30.960 --> 00:01:32.540
 and all the local variables
 
 00:01:32.540 --> 00:01:36.229
-go whenever we are writing a program
-than ever we are executing a program
+go. Whenever we are writing a program.
+Whenever we are executing a program
 
 00:01:36.229 --> 00:01:38.040
 we should always visualize
@@ -109,15 +109,15 @@ goes where
 
 00:01:43.180 --> 00:01:47.200
 and what is the scope of that variable
-our data okay so
+or data. OK so
 
 00:01:47.200 --> 00:01:50.619
 let us run through this code and see
 what is happening in the memory
 
 00:01:50.619 --> 00:01:54.180
-when this program will start executing
-first
+when this program will start executing.
+First
 
 00:01:54.180 --> 00:01:57.259
 the main method main function will be invoked
@@ -128,14 +128,14 @@ amount of memory from the stack
 
 00:02:02.500 --> 00:02:05.549
 is allocated for the execution of that
-function
+function.
 
 00:02:05.549 --> 00:02:09.020
-it's called the stack frame of that
-function
+It's called the stack frame of that
+function.
 
 00:02:09.020 --> 00:02:12.250
-so let us say this stack frame from
+So let us say this stack frame from
 address
 
 00:02:12.250 --> 00:02:15.270
@@ -596,12 +596,12 @@ pointers I
 
 00:09:51.110 --> 00:09:54.810
 recommend that you get your hands dirty
-by writing some code yourself
+by writing some code yourself.
 
 00:09:54.810 --> 00:09:58.010
-that's the best way to learn so this is
-it for this lesson
+That's the best way to learn so this is
+it for this lesson.
 
 00:09:58.010 --> 00:09:59.360
-thanks for watching
+Thanks for watching!
 

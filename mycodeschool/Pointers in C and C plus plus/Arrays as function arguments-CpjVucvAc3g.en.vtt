@@ -3,7 +3,7 @@ Kind: captions
 Language: en
 
 00:00:00.210 --> 00:00:04.420
-in this lesson we will be talking about 
+In this lesson we will be talking about 
 one more scenario in which
 
 00:00:04.420 --> 00:00:05.300
@@ -13,23 +13,23 @@ the concept of
 arrays and
 
 00:00:06.379 --> 00:00:08.719
-pointers go together
+pointers go together.
 
 00:00:08.719 --> 00:00:10.180
-and this scenario is when
+And this scenario is when
 
 00:00:10.180 --> 00:00:10.960
 you pass
 
 00:00:10.960 --> 00:00:14.169
-an array as function argument
+an array as function argument.
 
 00:00:14.169 --> 00:00:17.390
-let us see a code example where we pass
+Let us see a code example where we pass
 
 00:00:17.390 --> 00:00:20.949
 array as function argument and try to
-analyze it
+analyze it.
 
 00:00:20.949 --> 00:00:24.130
 I will write a simple C program in 
@@ -45,19 +45,19 @@ that will give me
 the sum of all the elements
 
 00:00:29.179 --> 00:00:31.060
-in an integer array
+in an integer array.
 
 00:00:31.060 --> 00:00:34.650
-this function will take an integer array as argument
+This function will take an integer array as argument
 
 00:00:34.650 --> 00:00:37.340
-this is one of the ways to pass an integer array
+this is one of the ways to pass an integer array,
 
 00:00:37.340 --> 00:00:39.610
-an array in general as argument
+an array in general as argument.
 
 00:00:39.610 --> 00:00:42.340
-this would be data type and this 
+This would be data type and this 
 would be
 
 00:00:42.340 --> 00:00:44.240
@@ -67,7 +67,7 @@ the name of the array
 and in the main method we have
 
 00:00:46.160 --> 00:00:50.130
-declared an initialized an array named A
+declared an initialized an array named A.
 
 00:00:50.130 --> 00:00:53.190
 Now in the main method we will call this function 
@@ -83,7 +83,7 @@ array A as argument
 and of course we need to write the
 
 00:00:58.289 --> 00:01:01.190
-body of this function sumOfElements
+body of this function sumOfElements.
 
 00:01:01.190 --> 00:01:03.910
 I will declare two variables i
@@ -103,45 +103,45 @@ in the array A
 that is passed as argument
 
 00:01:15.210 --> 00:01:18.810
-but wait a minute we do not know the 
-size of the array A
+but wait a minute. We do not know the 
+size of the array A.
 
 00:01:18.810 --> 00:01:21.510
-is there some way to know the size of 
-the array
+Is there some way to know the size of 
+the array?
 
 00:01:21.510 --> 00:01:22.590
-one of the
+One of the
 
 00:01:22.590 --> 00:01:24.130
 ways to find out
 
 00:01:24.130 --> 00:01:27.730
-the size of the array and by the size of 
+the size of the array, and by the size of 
 the array we mean the number of elements in
 
 00:01:27.730 --> 00:01:28.990
-the array here
+the array here,
 
 00:01:28.990 --> 00:01:32.370
-is to use the function sizeof
+is to use the function sizeof.
 
 00:01:32.370 --> 00:01:33.780
-so if we write something like
+So if we write something like
 
 00:01:33.780 --> 00:01:34.609
-sizeof
+sizeof(A)
 
 00:01:34.609 --> 00:01:36.650
-A here in the main method
+here in the main method
 
 00:01:36.650 --> 00:01:40.500
 then this will give us the size of array A
- in bytes
+ in bytes.
 
 00:01:40.500 --> 00:01:43.680
-array A has five integers and in a 
-typical compiler
+Array A has five integers and in a 
+typical compiler;
 
 00:01:43.680 --> 00:01:47.369
 and I know for sure that in this 
@@ -154,7 +154,7 @@ bytes so size of A
 will return
 
 00:01:51.320 --> 00:01:54.830
-twenty if we want to know the number of elements in the array
+twenty. If we want to know the number of elements in the array
 
 00:01:54.830 --> 00:01:56.460
 then we can do something like
@@ -166,10 +166,10 @@ divide the size of
 the size in bytes
 
 00:02:00.180 --> 00:02:03.200
-of the whole array by size of one integer
+of the whole array by size of one integer.
 
 00:02:03.200 --> 00:02:06.670
-so we will say size of A upon size of
+So we will say size of A upon size of
 
 00:02:06.670 --> 00:02:09.689
 each integer in byte the size of A[0] 
@@ -182,17 +182,17 @@ number of elements in the array and
 I will write this particular line
 
 00:02:14.310 --> 00:02:16.849
-below this line
+below this line.
 
 00:02:16.849 --> 00:02:19.809
-the line where we are calling the function 
+Yhe line where we are calling the function 
 sumOfElements
 
 00:02:19.809 --> 00:02:21.459
-now what we can do is
+now what we can do is.
 
 00:02:21.459 --> 00:02:24.060
-we could either pass the size of the
+We could either pass the size of the
 array
 
 00:02:24.060 --> 00:02:27.179
@@ -232,16 +232,16 @@ we return sum
 and finally we will write a
 
 00:02:47.259 --> 00:02:48.949
-print statement
+print statement.
 
 00:02:48.949 --> 00:02:50.889
-something like this
+Something like this
 
 00:02:50.889 --> 00:02:53.799
-to print the sum of all the elements in the array
+to print the sum of all the elements in the array.
 
 00:02:53.799 --> 00:02:55.519
-let us now run this program and
+Let us now run this program and
 
 00:02:55.519 --> 00:02:56.819
 see what happens
@@ -253,44 +253,44 @@ the output on console is that
 the sum of elements
 
 00:03:00.529 --> 00:03:02.059
-is equal to fifteen
+is equal to fifteen.
 
 00:03:02.059 --> 00:03:06.539
-fight plus four plus three plus two plus one
-is fifteen so this is all right
+Five plus four plus three plus two plus one
+is fifteen so this is all right.
 
 00:03:06.539 --> 00:03:10.599
-now what I want to do is I want to
-modify this code a little
+Now what I want to do is I want to
+modify this code a little.
 
 00:03:10.599 --> 00:03:12.520
 I do not want to pass this size
 
 00:03:12.520 --> 00:03:14.149
-as argument here
+as argument here.
 
 00:03:14.149 --> 00:03:18.229
 I want to calculate the size of the
-array inside this function
+array inside this function.
 
 00:03:18.229 --> 00:03:19.669
-so
+So
 
 00:03:19.669 --> 00:03:23.230
 we will not be passing the sizes
 argument here so there will be
 
 00:03:23.230 --> 00:03:24.500
-just one argument
+just one argument.
 
 00:03:24.500 --> 00:03:25.930
-the array
+The array.
 
 00:03:25.930 --> 00:03:28.479
-so we have this array as argument
+So we have this array as argument.
 
 00:03:28.479 --> 00:03:31.039
-the array A
+The array 'A'
 
 00:03:31.039 --> 00:03:33.499
 and we calculate the size here as total size of the array in bytes
@@ -299,14 +299,14 @@ and we calculate the size here as total size of the array in bytes
 upon the size of
 
 00:03:35.299 --> 00:03:37.249
-one integer in bytes
+one integer in bytes.
 
 00:03:37.249 --> 00:03:40.989
-let us now run this program and see
-what happens
+Let us now run this program and see
+what happens.
 
 00:03:40.989 --> 00:03:44.290
-oops there seems to be some problem because
+Oops there seems to be some problem because
 the sum of elements
 
 00:03:44.290 --> 00:03:47.059
@@ -314,28 +314,28 @@ that we have as output on
 console here is
 
 00:03:47.059 --> 00:03:49.439
-equal to one it should be fifteen
+equal to one it should be fifteen.
 
 00:03:49.439 --> 00:03:51.489
-and why is it so
+And why is it so?
 
 00:03:51.489 --> 00:03:53.689
-to explain this behavior I will write
+To explain this behavior I will write
 
 00:03:53.689 --> 00:03:55.579
-to mort print statements
+two more print statements.
 
 00:03:55.579 --> 00:03:58.099
-one in the function sumOfElements
+One in the function sumOfElements
 
 00:03:58.099 --> 00:04:00.450
 where I will print the size of A
 
 00:04:00.450 --> 00:04:03.639
-and the size of A[0]
+and the size of A[0].
 
 00:04:03.639 --> 00:04:06.329
-I will be calling these two function
+I will be calling these two functions
 sizeOf
 
 00:04:06.329 --> 00:04:07.019
@@ -345,40 +345,40 @@ upon A
 and upon A[0] respectively and we will write one more print statements
 
 00:04:11.180 --> 00:04:12.549
-in the main method
+in the main method.
 
 00:04:12.549 --> 00:04:16.009
-it will again be the same thing printing
+It will again be the same thing printing
 the size of A in bytes and the size
 
 00:04:16.009 --> 00:04:18.269
-of A[0] in bytes
+of A[0] in bytes.
 
 00:04:18.269 --> 00:04:19.999
-let us now see the output
+Let us now see the output.
 
 00:04:19.999 --> 00:04:24.430
-in the method sumOfElements size
-of A is equal to four bytes
+In the method sumOfElements size
+of A is equal to four bytes.
 
 00:04:24.430 --> 00:04:26.819
-size of A[0] is equal to four bytes
+Size of A[0] is equal to four bytes.
 
 00:04:26.819 --> 00:04:30.459
-in the method main size of A
+In the method main size of A
 is equal to twenty bytes and the size of
 
 00:04:30.459 --> 00:04:31.760
 A[0] again is
 
 00:04:31.760 --> 00:04:33.110
-four bytes
+four bytes.
 
 00:04:33.110 --> 00:04:35.210
-to understand this concept
+To understand this concept.
 
 00:04:35.210 --> 00:04:36.740
-why the size of
+Why the size of
 
 00:04:36.740 --> 00:04:37.750
 A is
@@ -397,38 +397,38 @@ we need to dive deep into
 how compiler interprets
 
 00:04:47.689 --> 00:04:50.740
-an array as function argument
+an array as function argument.
 
 00:04:50.740 --> 00:04:52.459
-once again I will draw this
+Once again I will draw this
 
 00:04:52.459 --> 00:04:54.469
-familiar memory diagram
+familiar memory diagram.
 
 00:04:54.469 --> 00:04:57.510
-the memory assigned to an application or
+The memory assigned to an application or
 a program
 
 00:04:57.510 --> 00:05:00.300
 is typically divided into these four
-parts
+parts.
 
 00:05:00.300 --> 00:05:03.089
-we have talked about this in our
-previous lessons
+We have talked about this in our
+previous lessons.
 
 00:05:03.089 --> 00:05:06.040
-for the execution of function calls we use
+For the execution of function calls we use
 
 00:05:06.040 --> 00:05:08.639
 stacked section of the
 
 00:05:08.639 --> 00:05:11.880
-memory this green rectangle here is our
-stack
+memory. This green rectangle here is our
+stack.
 
 00:05:11.880 --> 00:05:16.439
-now when the program starts executing
+Now when the program starts executing
 first main method is invoked
 
 00:05:16.439 --> 00:05:18.599
@@ -439,29 +439,29 @@ from the stack is allocated
 
 00:05:20.750 --> 00:05:25.330
 corresponding to the call of the main
-method
+method.
 
 00:05:25.330 --> 00:05:27.639
-this particular section or this
+This particular section or this
 particular part
 
 00:05:27.639 --> 00:05:30.870
 is also called the stack frame of a
-method
+method.
 
 00:05:30.870 --> 00:05:34.199
-all the local variables reside within this
-stack frame
+All the local variables reside within this
+stack frame.
 
 00:05:34.199 --> 00:05:34.949
-now here
+Now here
 
 00:05:34.949 --> 00:05:37.289
 in main method we have
 
 00:05:37.289 --> 00:05:40.889
-two local variables one is the array
-A
+two local variables. One is the array
+'A'
 
 00:05:40.889 --> 00:05:44.050
 and another local variable is integer total
@@ -473,18 +473,18 @@ so
 around twenty bytes if integer is
 
 00:05:47.479 --> 00:05:48.620
-four bytes
+four bytes.
 
 00:05:48.620 --> 00:05:51.599
-exactly twenty bytes infact would
+Exactly twenty bytes in fact would
 be allocated
 
 00:05:51.599 --> 00:05:54.330
 from this stack frame for the local variable
-A
+'A',
 
 00:05:54.330 --> 00:05:56.709
-the array A and
+the array 'A', and
 
 00:05:56.709 --> 00:05:57.919
 four bytes
@@ -494,10 +494,10 @@ for total the variable total
 
 00:06:00.779 --> 00:06:03.529
 and there would be some more information
-in the stack frame
+in the stack frame.
 
 00:06:03.529 --> 00:06:07.069
-now when the program execution reaches
+Now when the program execution reaches
 this particular line
 
 00:06:07.069 --> 00:06:09.789
@@ -517,10 +517,10 @@ another stack frame
 is allocated to execute the function
 
 00:06:17.900 --> 00:06:19.469
-sumOfElements
+sumOfElements.
 
 00:06:19.469 --> 00:06:21.160
-we have talked about this
+We have talked about this
 
 00:06:21.160 --> 00:06:22.839
 call stack growth
@@ -529,26 +529,26 @@ call stack growth
 and function execution
 
 00:06:24.389 --> 00:06:26.560
-a number of times in our previous lessons
+a number of times in our previous lessons.
 
 00:06:26.560 --> 00:06:27.490
-ok now this
+Ok now this
 
 00:06:27.490 --> 00:06:31.059
-is a local variable this parameter
+is a local variable. This parameter
 is a local variable to
 
 00:06:31.059 --> 00:06:33.259
-the function sumOfElements it is not
+the function sumOfElements. It is not
 
 00:06:33.259 --> 00:06:34.469
-this A in the
+this 'A' in the
 
 00:06:34.469 --> 00:06:35.870
-main method
+main method.
 
 00:06:35.870 --> 00:06:38.249
-what happens when we make a function call
+What happens when we make a function call
 is that
 
 00:06:38.249 --> 00:06:41.669
@@ -563,59 +563,59 @@ value from the variable in the calling
 function is copied to the variable in
 
 00:06:47.610 --> 00:06:49.360
-the called function
+the called function.
 
 00:06:49.360 --> 00:06:51.279
-so ideally we should have
+So ideally we should have
 
 00:06:51.279 --> 00:06:53.349
 one more
 
 00:06:53.349 --> 00:06:54.830
-A local to
+'A' local to
 
 00:06:54.830 --> 00:06:57.740
 the function called sumOfElements
 
 00:06:57.740 --> 00:07:00.839
-and the value of A should be
+and the value of 'A' should be
 copied into
 
 00:07:00.839 --> 00:07:03.929
-this parameter A
+this parameter 'A'.
 
 00:07:03.929 --> 00:07:05.430
-so we would have another
+So we would have another
 
 00:07:05.430 --> 00:07:06.819
-array named A
+array named 'A'
 
 00:07:06.819 --> 00:07:10.759
 taking twenty bytes in the stack frame of sumOfElements
 
 00:07:10.759 --> 00:07:12.349
-and it would have the same value
+and it would have the same value,
 
 00:07:12.349 --> 00:07:14.389
 same elements as
 
 00:07:14.389 --> 00:07:17.919
-the array A in the calling function
+the array 'A' in the calling function,
 
 00:07:17.919 --> 00:07:21.669
-but actually this doesn't happen
+but actually this doesn't happen.
 
 00:07:21.669 --> 00:07:23.129
-when compiler sees
+When compiler sees
 
 00:07:23.129 --> 00:07:26.249
 and array as function argument
 
 00:07:26.249 --> 00:07:28.349
-it does not copy the whole array
+it does not copy the whole array.
 
 00:07:28.349 --> 00:07:30.979
-what it actually does
+What it actually does
 
 00:07:30.979 --> 00:07:33.519
 it just creates
@@ -642,7 +642,7 @@ address of the first element in the
 array
 
 00:07:51.289 --> 00:07:52.739
-of the calling function so
+of the calling function. So
 
 00:07:52.739 --> 00:07:53.880
 let's say
@@ -652,7 +652,7 @@ the starting address the address of the first
 element
 
 00:07:57.599 --> 00:08:01.399
-in this array A that belongs to the main
+in this array 'A' that belongs to the main
 method is two hundred so
 
 00:08:01.399 --> 00:08:03.039
@@ -663,20 +663,20 @@ all that happens is a pointer to integer
 is created and the value
 
 00:08:06.979 --> 00:08:09.550
-in this pointer to integer is 200
+in this pointer to integer is 200.
 
 00:08:09.550 --> 00:08:14.819
-the compiler implicitly converts
+The compiler implicitly converts
 this
 
 00:08:14.819 --> 00:08:16.119
 int A to something like
 
 00:08:16.119 --> 00:08:17.529
-int *A
+int *A.
 
 00:08:17.529 --> 00:08:19.120
-that is this A
+That is this A
 
 00:08:19.120 --> 00:08:22.349
 here in this particular format is not
@@ -686,10 +686,10 @@ interpreted as
 array but it is interpreted
 
 00:08:24.360 --> 00:08:26.249
-as pointer to integer
+as pointer to integer.
 
 00:08:26.249 --> 00:08:28.179
-so whether you write int
+So whether you write int
 
 00:08:28.179 --> 00:08:33.170
 space variable name following these
@@ -699,26 +699,26 @@ brackets or you write something like
 int* space A
 
 00:08:35.090 --> 00:08:37.870
-they are both the same
+they are both the same.
 
 00:08:37.870 --> 00:08:39.330
-we have a term for this
+We have a term for this
 
 00:08:39.330 --> 00:08:42.960
 instead of copying the value of the
 variable we are just
 
 00:08:42.960 --> 00:08:45.770
-copying and storing the address of the variable
+copying and storing the address of the variable.
 
 00:08:45.770 --> 00:08:46.700
-so
+So
 
 00:08:46.700 --> 00:08:48.710
-we make a call by reference here
+we make a call by reference here.
 
 00:08:48.710 --> 00:08:50.170
-arrays
+Arrays
 
 00:08:50.170 --> 00:08:51.230
 always are passed
@@ -734,7 +734,7 @@ arrays can be really large in size so it
 does not make much sense to create a new
 
 00:09:00.640 --> 00:09:05.850
-copy of array each time it is
+copy of array each time.  It is
 unnecessarily using a lot of memory
 
 00:09:05.850 --> 00:09:09.430
@@ -742,13 +742,13 @@ so for arrays there is no call by value there
 is always a call by
 
 00:09:09.430 --> 00:09:10.600
-reference
+reference.
 
 00:09:10.600 --> 00:09:12.320
-and that's why this size of
+And that's why this size of
 
 00:09:12.320 --> 00:09:13.400
-A here
+'A' here
 
 00:09:13.400 --> 00:09:14.360
 would give us
@@ -760,10 +760,10 @@ four as output
 because A is a pointer to integer here
 
 00:09:18.520 --> 00:09:21.520
-while here in the main method A is an array
+while here in the main method A is an array.
 
 00:09:21.520 --> 00:09:23.450
-so this format of
+So this format of
 
 00:09:23.450 --> 00:09:24.440
 passing
@@ -782,26 +782,26 @@ is actually interpreted
 something like this
 
 00:09:33.290 --> 00:09:34.520
-by the compiler
+by the compiler.
 
 00:09:34.520 --> 00:09:37.880
-you can put an asterick sign here or
-you can put an asterick sign here its the
+You can put an asterisk sign here or
+you can put an asterisk sign here. Its the
 
 00:09:37.880 --> 00:09:39.330
-same thing
+same thing.
 
 00:09:39.330 --> 00:09:41.690
-it makes more sense to write it like this
+It makes more sense to write it like this
 
 00:09:41.690 --> 00:09:43.930
 so A is actually interpreted as
 
 00:09:43.930 --> 00:09:45.610
-pointer to integer
+pointer to integer.
 
 00:09:45.610 --> 00:09:47.530
-that's why when we pass
+That's why when we pass
 
 00:09:47.530 --> 00:09:50.660
 array as function argument there is no way
@@ -811,10 +811,10 @@ to know the
 number of elements in the array
 
 00:09:52.810 --> 00:09:54.639
-by using a trick like this
+by using a trick like this.
 
 00:09:54.639 --> 00:09:56.140
-we actually need to pass
+We actually need to pass
 
 00:09:56.140 --> 00:09:59.220
 the size of the array
@@ -831,13 +831,13 @@ and
 
 00:10:06.600 --> 00:10:11.770
 when we run this program now we get the
-output as expected sum of elements is
+output as expected. Sum of elements is
 
 00:10:11.770 --> 00:10:13.490
-fifteen
+fifteen.
 
 00:10:13.490 --> 00:10:15.420
-we should always keep in mind that
+We should always keep in mind that
 
 00:10:15.420 --> 00:10:17.650
 a variable name which is
@@ -862,10 +862,10 @@ the name of the array
 to get the
 
 00:10:29.320 --> 00:10:30.990
-pointer to the first element
+pointer to the first element.
 
 00:10:30.990 --> 00:10:33.090
-like in this function sumOfElements
+Like in this function sumOfElements
 
 00:10:33.090 --> 00:10:34.560
 you could say something like
@@ -878,7 +878,7 @@ we could have said
 
 00:10:37.090 --> 00:10:40.840
 ampersand A[0] address of the
-first element
+first element,
 
 00:10:40.840 --> 00:10:43.100
 but if we just use A
@@ -890,21 +890,21 @@ instead of using
 ampersand A[0]
 
 00:10:46.380 --> 00:10:48.920
-then that has allowed if A is an 
-array
+then that is allowed if A is an 
+array.
 
 00:10:48.920 --> 00:10:51.860
-but if A is an array we cannot do
+But if A is an array we cannot do
 something like
 
 00:10:51.860 --> 00:10:54.170
 incrementing or decrementing
 
 00:10:54.170 --> 00:10:56.300
-it like pointer variables
+it like pointer variables.
 
 00:10:56.300 --> 00:10:59.920
-with pointer variables we can do couple
+With pointer variables we can do a couple
 of other stuff
 
 00:10:59.920 --> 00:11:03.130
@@ -924,20 +924,20 @@ array because
 A[i] is interpreted as
 
 00:11:09.610 --> 00:11:12.070
-value at address (A+i)
+value at address (A+i).
 
 00:11:12.070 --> 00:11:15.580
-so we need to keep this differences and
-similarities in mind it's a little
+So we need to keep this differences and
+similarities in mind. It's a little
 
 00:11:15.580 --> 00:11:17.120
-tricky
+tricky.
 
 00:11:17.120 --> 00:11:19.010
-there is one more thing
+There is one more thing.
 
 00:11:19.010 --> 00:11:23.170
-because the array is passed by 
+Because the array is passed by 
 reference
 
 00:11:23.170 --> 00:11:26.070
@@ -949,20 +949,20 @@ called function
 
 00:11:27.380 --> 00:11:31.690
 and it would reflect in the
-calling function
+calling function.
 
 00:11:31.690 --> 00:11:33.750
-so let's say instead of
+So let's say instead of
 
 00:11:33.750 --> 00:11:38.270
 calculating the sum total we want to
 double all the elements each individual
 
 00:11:38.270 --> 00:11:39.920
-element in the array
+element in the array.
 
 00:11:39.920 --> 00:11:44.520
-so our code will go something like this i
+So our code will go something like this. I
 want to say that A[i] is now
 
 00:11:44.520 --> 00:11:46.730
@@ -980,36 +980,36 @@ stuff and what I will do is I will simply run
 a loop
 
 00:11:56.430 --> 00:11:59.540
-to print all the elements in the array
+to print all the elements in the array.
 
 00:11:59.540 --> 00:12:03.600
-okay let us now run this and see what
-happens
+OK let us now run this and see what
+happens.
 
 00:12:03.600 --> 00:12:06.420
-oops I forgot to call the function double
+Oops! I forgot to call the function double
 
-00:12:06.420 --> 00:12:09.270
+00:12:06.420 --> 00:12:09.270a
 and I must make a call before I print
-the elements
+the elements.
 
 00:12:09.270 --> 00:12:11.030
-okay let us now run this
+OK let us now run this.
 
 00:12:11.030 --> 00:12:12.030
-if you see
+If you see
 
 00:12:12.030 --> 00:12:13.870
 the elements in the array
 
 00:12:13.870 --> 00:12:16.820
-A are modified each element is twice
+A are modified. Each element is twice
 
 00:12:16.820 --> 00:12:18.480
 its previous value
 
 00:12:18.480 --> 00:12:21.240
-because this is called by reference the
+because this is called by reference. The
 same
 
 00:12:21.240 --> 00:12:22.490
@@ -1019,33 +1019,33 @@ copy
 of the array A
 
 00:12:24.400 --> 00:12:29.120
-is modified using dereferencing
+is modified using dereferencing.
 
 00:12:29.120 --> 00:12:30.710
-so this was
+So this was
 
 00:12:30.710 --> 00:12:33.000
-array as function arguments
+array as function arguments.
 
 00:12:33.000 --> 00:12:37.360
-an important use case of array
+An important use case of array
 as function argument
 
 00:12:37.360 --> 00:12:40.840
-is when we work with strings in c
+is when we work with strings in C.
 
 00:12:40.840 --> 00:12:44.570
-so strings in C are nothing
-but character arrays
+So strings in C are nothing
+but character arrays.
 
 00:12:44.570 --> 00:12:48.070
-this concept really becomes important in
+This concept really becomes important in
 the context of
 
 00:12:48.070 --> 00:12:51.930
 character arrays we will be talking about
-it in the coming lessons
+it in the coming lessons.
 
 00:12:51.930 --> 00:12:52.490
-so thanks for watching
+So thanks for watching!
 
