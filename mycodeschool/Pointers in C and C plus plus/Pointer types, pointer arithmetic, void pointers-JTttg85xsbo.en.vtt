@@ -15,10 +15,10 @@ code using pointers
 
 00:00:11.580 --> 00:00:14.630
 and we will look through some of these
-concepts.
+concepts
 
 00:00:14.630 --> 00:00:19.480
-In more detail using some examples, the
+in more detail using some examples. The
 first thing that I want to point out is
 
 00:00:19.480 --> 00:00:22.160
@@ -117,8 +117,8 @@ Let's say we have an integer A
 and its value is 1025 and this
 
 00:01:49.630 --> 00:01:54.490
-is how it is led out in the memory. Each
-bracket here is one bite.
+is how it is laid out in the memory. Each
+bracket here is one byte.
 
 00:01:54.490 --> 00:01:58.740
 Let's say this particular byte which
