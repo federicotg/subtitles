@@ -63,10 +63,10 @@ We have used a string literal
 
 00:00:56.920 --> 00:01:00.550
 so null termination is implicit. We have
-talked about this earlier
+talked about this earlier.
 
 00:01:00.550 --> 00:01:04.659
-so let us step through this code and see
+So let us step through this code and see
 how it is working.
 
 00:01:04.659 --> 00:01:08.680
@@ -78,7 +78,7 @@ that is allocated for execution of a
 program is typically divided into these
 
 00:01:13.530 --> 00:01:17.759
-four parts. These four sections one
+four parts. These four sections. One
 part of the memory stores the
 
 00:01:17.759 --> 00:01:22.470
@@ -120,10 +120,10 @@ when this program will start executing.
 First
 
 00:01:54.180 --> 00:01:57.259
-the main method main function will be invoked
+the main method main function will be invoked.
 
 00:01:57.259 --> 00:02:02.500
-whenever a function is called some
+Whenever a function is called some
 amount of memory from the stack
 
 00:02:02.500 --> 00:02:05.549
@@ -146,11 +146,11 @@ the main function stack is one
 contiguous
 
 00:02:18.590 --> 00:02:21.920
-block of memory so let us say in this stack
+block of memory. So let us say in this stack
 the memory
 
 00:02:21.920 --> 00:02:26.360
-increases from bottom to top all the
+increases from bottom to top. All the
 local variables of a function
 
 00:02:26.360 --> 00:02:30.020
@@ -162,33 +162,33 @@ declare a character array 20 bytes
 from the stack frame will be allocated
 
 00:02:34.230 --> 00:02:36.349
-for this particular character array
+for this particular character array.
 
 00:02:36.349 --> 00:02:40.560
-let's say they are allocated from address
-100 to 120
+Let's say they are allocated from address
+100 to 120.
 
 00:02:40.560 --> 00:02:43.769
-each character is stored in one bite so
+Each character is stored in one byte so
 
 00:02:43.769 --> 00:02:46.970
 we need 20 bytes for character array of
-size 20
+size 20.
 
 00:02:46.970 --> 00:02:51.670
-apart from local variables there maybe some
+Apart from local variables there may be some
 more information in stack frame so
 
 00:02:51.670 --> 00:02:53.450
-that's why we have some more space
+that's why we have some more space.
 
 00:02:53.450 --> 00:02:57.590
-and now the control of the program goes
-to this statement print 'c'
+And now the control of the program goes
+to this statement print 'c'.
 
 00:02:57.590 --> 00:03:01.690
-as soon as we make a call to another
-function from a function the execution
+As soon as we make a call to another
+function from a function, the execution
 
 00:03:01.690 --> 00:03:03.129
 of that particular function
@@ -198,23 +198,23 @@ is paused at that particular line and
 the machine goes on to execute
 
 00:03:08.060 --> 00:03:12.230
-the called function the called function
-is allocated stack frame
+the called function. The called function
+is allocated
 
 00:03:12.230 --> 00:03:17.360
-on top of the calling functions of print
+on top of the stack. The calling function of print
 will be allocated as stack frame on top of
 
 00:03:17.360 --> 00:03:21.110
-main function whatever function is at
-the top of the stack in
+main function. Whatever function is at
+the top of the stack
 
 00:03:21.110 --> 00:03:25.150
-at any point is executing I mean we'll
-wait for this function to finish
+at any point is executing. I mean we'll
+wait for this function to finish.
 
 00:03:25.150 --> 00:03:29.640
-let's say this particular stack frame is
+Let's say this particular stack frame is
 from 150 to 170
 
 00:03:29.640 --> 00:03:32.769
@@ -225,38 +225,38 @@ print is executing right now, now
 print will also have a local variable C
 
 00:03:37.370 --> 00:03:41.480
-but this will be a pointer variable 
-a pointer variable takes
+but this will be a pointer variable.
+A pointer variable takes
 
 00:03:41.480 --> 00:03:45.830
 four byte of memory in a typical
 architecture so this will be
 
 00:03:45.830 --> 00:03:48.959
-taking four bytes so let's say starting
+taking four bytes. So let's say starting
 address:
 
 00:03:48.959 --> 00:03:53.620
-154 in this stack frame we have
+154. In this stack frame we have
 four bytes for this particular character
 
 00:03:53.620 --> 00:03:54.170
-pointer
+pointer.
 
 00:03:54.170 --> 00:03:57.200
-so this C in main is actually not the
+So this C in main is actually not the
 same C
 
 00:03:57.200 --> 00:04:01.700
-in print, the C in main and C print
-are different
+in print. The C in main and C print
+are different.
 
 00:04:01.700 --> 00:04:06.390
-they have different scopes we could have
+They have different scopes we could have
 named this particular variable
 
 00:04:06.390 --> 00:04:11.439
-a or PTR or whatever but all that
+a or PTR or whatever, but all what
 happens when we make this particular
 
 00:04:11.439 --> 00:04:15.110
@@ -268,34 +268,34 @@ base address of the array
 
 00:04:19.340 --> 00:04:22.800
 is passed to the print function and the
-print function keeps it
+print function keeps it.
 
 00:04:22.800 --> 00:04:27.759
-stores it in the pointer variable
-sometimes it may confuse us when we are
+It stores it in the pointer variable.
+Sometimes it may confuse us when we are
 
 00:04:27.759 --> 00:04:30.600
 using the same local variable name in the
 
 00:04:30.600 --> 00:04:34.780
 calling function and the same argument
-name in the called function
+name in the called function,
 
 00:04:34.780 --> 00:04:38.220
 but we must always understand that
-they're different okay to run through
+they're different. OK to run through
 
 00:04:38.220 --> 00:04:39.729
 this code further
 
 00:04:39.729 --> 00:04:42.820
-I clear some space here now
+I'll clear some space here now.
 
 00:04:42.820 --> 00:04:47.300
-I'll draw this array C outside the stack here
+I'll draw this array C outside the stack here.
 
 00:04:47.300 --> 00:04:51.190
-we have an array of size 20 but
+We have an array of size 20 but
 we are only showing
 
 00:04:51.190 --> 00:04:55.449
@@ -303,14 +303,14 @@ the first six positions in the array
 from address 100 to 105
 
 00:04:55.449 --> 00:04:58.919
-and that's why it is extending towards the right
+and that's why it is extending towards the right.
 
 00:04:58.919 --> 00:05:02.960
-the sixth charecter is a null
+The sixth character is a null
 character and the first five characters
 
 00:05:02.960 --> 00:05:08.130
-are the characters of word hello and now
+are the characters of word hello. And now
 we have this another guy which is c
 
 00:05:08.130 --> 00:05:11.740
@@ -321,16 +321,16 @@ address
 154 that stores address 100 so it points to
 
 00:05:16.130 --> 00:05:21.490
-the first element of the array now let's
+the first element of the array. Now let's
 come back to our program execution
 
 00:05:21.490 --> 00:05:25.289
-let's say we are here initially I'll
+let's say we are here initially. I'll
 mark the statement that
 
 00:05:25.289 --> 00:05:30.259
 is executing by this green arrow, let's
-name these two guys this guy is C but ths guy is
+name these two guys. This guy is C but this guy is
 
 00:05:30.259 --> 00:05:30.660
 an array
@@ -340,17 +340,17 @@ local to main and this is also
 C but it is a character pointer local
 
 00:05:36.120 --> 00:05:37.389
-to print
+to print.
 
 00:05:37.389 --> 00:05:42.240
-ok so now here what we're saying is while
+OK so now here what we're saying is while
 *C is not equal to the null
 
 00:05:42.240 --> 00:05:43.070
-character
+character.
 
 00:05:43.070 --> 00:05:47.150
-when we put this asterisk operator in
+When we put this asterisk operator in
 front of a pointer variable
 
 00:05:47.150 --> 00:05:50.650
@@ -363,18 +363,18 @@ the
 
 00:05:54.400 --> 00:05:58.810
 base address *C is H so this
-condition is not true
+condition is not true.
 
 00:05:58.810 --> 00:06:02.509
-we will go to this line print F
+We will go to this line printf
 that will simply
 
 00:06:02.509 --> 00:06:06.819
-print *C which is H let's write down
-the output here
+print *C which is H. Let's write down
+the output here.
 
 00:06:06.819 --> 00:06:12.910
-so we have printed H so far and then we say c++;
+So we have printed H so far and then we say c++;
 
 00:06:12.910 --> 00:06:16.380
 if we understand pointer arithmetic from
@@ -388,7 +388,7 @@ increments the address by size of the
 data type
 
 00:06:22.100 --> 00:06:26.890
-that the pointer points to C here is a
+that the pointer points to. C here is a
 pointer to character data type and
 
 00:06:26.890 --> 00:06:28.120
@@ -396,10 +396,10 @@ character data type is
 
 00:06:28.120 --> 00:06:34.120
 one byte so C+1, C++ is 
-saying C= C+1
+saying C= C+1.
 
 00:06:34.120 --> 00:06:38.240
-so C now becomes 101 so now C points
+So C now becomes 101 so now C points
 
 00:06:38.240 --> 00:06:42.220
 to the second character in the array and
@@ -407,7 +407,7 @@ once again we come
 
 00:06:42.220 --> 00:06:46.270
 to where we find this condition in the while
-loop *C is E
+loop. *C is E
 
 00:06:46.270 --> 00:06:50.760
 here it's not null once again
@@ -417,11 +417,11 @@ we will go inside the loop and print E
 and we will keep on going like this
 
 00:06:55.650 --> 00:06:59.580
-till the address in this pointer variable
-reaches 105
+until the address in this pointer variable
+reaches 105.
 
 00:06:59.580 --> 00:07:02.870
-now here the value at this particular
+Now here the value at this particular
 addresses is
 
 00:07:02.870 --> 00:07:05.890
@@ -434,29 +434,29 @@ print an end-of-line
 
 00:07:09.920 --> 00:07:14.370
 and the execution of print function will
-finish
+finish.
 
 00:07:14.370 --> 00:07:17.470
-so this particular stack frame for print
+So this particular stack frame for print
 will be
 
 00:07:17.470 --> 00:07:20.530
-cleared from the stack will be 
+cleared from the stack. It Will be 
 deallocated
 
 00:07:20.530 --> 00:07:24.130
-and now main will resume and finish so
+and now main will resume and finish. So
 
 00:07:24.130 --> 00:07:27.350
 with pointers we should always know
-what's going where in the memory
+what's going where in the memory.
 
 00:07:27.350 --> 00:07:31.040
-okay so let us now modify
+OK so let us now modify
 
 00:07:31.040 --> 00:07:35.300
 in this particular code to learn some
-more concepts now what I'm going to do
+more concepts. Now what I'm going to do
 
 00:07:35.300 --> 00:07:36.330
 in my code is
@@ -473,37 +473,37 @@ C
 and equate it against
 
 00:07:47.800 --> 00:07:52.570
-a string lateral in a statement like
+a string literal in a statement like
 this and if you run this program
 
 00:07:52.570 --> 00:07:56.350
-and the output will be the same what
+the output will be the same. What
 really happens is
 
 00:07:56.350 --> 00:08:01.310
-if you use the string lateral in
- initialization statement of an array
+if you use the string literal in
+initialization statement of an array
 
 00:08:01.310 --> 00:08:02.390
 something like this
 
 00:08:02.390 --> 00:08:05.980
 and then the string gets stored in this
-space that is allocated to the array
+space that is allocated to the array.
 
 00:08:05.980 --> 00:08:10.650
-so in this case it will go into the
-stack in this character array of size 20
+So in this case it will go into the
+stack in this character array of size 20.
 
 00:08:10.650 --> 00:08:15.410
-but if you use the string lateral
-elsewhere in a statement like this
+But if you use the string literal
+elsewhere in a statement like these
 
 00:08:15.410 --> 00:08:19.230
-are maybe when we do something like
+are, maybe when we doing something like
 
 00:08:19.230 --> 00:08:22.270
-passing a string lateral to a function
+passing a string literal to a function,
 
 00:08:22.270 --> 00:08:25.360
 then in these cases
@@ -519,36 +519,36 @@ probably it will be stored in the text
 segment of the application memory
 
 00:08:34.420 --> 00:08:38.820
-and it cannot be modified so if you write
-a statement like this let's say you want
+and it cannot be modified. So if you write
+a statement like this. Let's say you want
 
 00:08:38.820 --> 00:08:39.250
 to
 
 00:08:39.250 --> 00:08:43.540
-change the first character of on this
+change the first character on this
 constant string to
 
 00:08:43.540 --> 00:08:46.840
-A running this program will give
-you an error
+'A' then running this program will give
+you an error.
 
 00:08:46.840 --> 00:08:50.390
-will cause a crash okay coming back to
+It will cause a crash. OK coming back to
 
 00:08:50.390 --> 00:08:55.430
-having a character array, now if we have
+having a character array. Now if we have
 a character array and we are passing
 
 00:08:55.430 --> 00:08:58.500
 the address of the array to a function
 
 00:08:58.500 --> 00:09:01.510
-that function receive's it in a character
-pointer
+that function receives it in a character
+pointer.
 
 00:09:01.510 --> 00:09:07.590
-now using this pointer we can modify the
+Now using this pointer we can modify the
 data in this particular array
 
 00:09:07.590 --> 00:09:12.280
@@ -556,35 +556,35 @@ so if I say something like this: we
 first to change the first character to
 
 00:09:12.280 --> 00:09:15.700
-A and then we are printing the
+'A' and then we are printing the
 characters and then as you can see
 
 00:09:15.700 --> 00:09:19.950
-it is possible to do so now sometimes we
+it is possible to do so. Now sometimes we
 may want a function
 
 00:09:19.950 --> 00:09:23.110
 just to read a string and not write
-anything
+anything.
 
 00:09:23.110 --> 00:09:26.980
-to force this kind of behavior we can
+To force this kind of behavior we can
 change our argument
 
 00:09:26.980 --> 00:09:32.490
-to const character pointer and now if run this code
-this code will give us compilation error
+to const character pointer and now if we run this code
+this code will give us compilation error.
 
 00:09:32.490 --> 00:09:35.670
-we can read whatever
+We can read whatever
 is there in the array
 
 00:09:35.670 --> 00:09:39.910
-that is past but we cannot write to any
-of the positions
+that is passed, but we cannot write to any
+of the positions.
 
 00:09:39.910 --> 00:09:44.050
-this code will work fine, pointers
+This code will work fine, pointers
 
 00:09:44.050 --> 00:09:47.580
 are really tricky and even the most
@@ -592,14 +592,14 @@ experienced programmers
 
 00:09:47.580 --> 00:09:51.110
 write buggy code when they are using
-pointers I
+pointers. I
 
 00:09:51.110 --> 00:09:54.810
 recommend that you get your hands dirty
 by writing some code yourself.
 
 00:09:54.810 --> 00:09:58.010
-That's the best way to learn so this is
+That's the best way to learn. So this is
 it for this lesson.
 
 00:09:58.010 --> 00:09:59.360

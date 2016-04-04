@@ -156,7 +156,7 @@ Now let's look at this, B[0] is
 from
 
 00:02:22.160 --> 00:02:26.080
-byte address 400 till 411.
+byte address 400 until 411.
 
 00:02:26.080 --> 00:02:29.730
 We have three integers and we have four

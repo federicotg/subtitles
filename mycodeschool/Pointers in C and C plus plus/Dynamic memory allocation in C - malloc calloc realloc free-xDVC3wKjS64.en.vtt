@@ -79,7 +79,7 @@ has an address. Let us say this bottom most
 byte has the address 200 and the next byte
 
 00:02:05.790 --> 00:02:12.790
-is 201 and we go on increasing till the top.
+is 201 and we go on increasing until the top.
 I will mark the address of some of these bytes.
 
 00:02:13.290 --> 00:02:17.950
@@ -435,7 +435,7 @@ Ok, so the output is as expected. We have
 array as let's say 25, then this is what we
 
 00:11:08.940 --> 00:11:15.850
-get. We get all the elements till 25. if we
+get. We get all the elements until 25. if we
 wanted to use calloc instead of malloc here,
 
 00:11:15.850 --> 00:11:19.930
@@ -476,7 +476,7 @@ now, we will talk about free. Any memory that
 
 00:12:09.399 --> 00:12:14.860
 is dynamically allocated remains allocated
-till the lifetime of the program, till the
+till the lifetime of the program, until the
 
 00:12:14.860 --> 00:12:21.860
 time the program is executing unless you explicitly
