@@ -25,16 +25,16 @@ the real use cases of pointer variables, in what scenarios we may
 want to 
 
 00:00:19.410 --> 00:00:21.499
-use pointer variables
+use pointer variables.
 
 00:00:21.499 --> 00:00:23.400
 So in this lesson we will talk about
 
 00:00:23.400 --> 00:00:26.259
-one of the use cases of pointer variables
+one of the use cases of pointer variables.
 
 00:00:26.259 --> 00:00:27.699
-and the use case is
+And the use case is
 
 00:00:27.699 --> 00:00:30.369
 using them, using pointers as
@@ -43,13 +43,13 @@ using them, using pointers as
 function arguments
 
 00:00:32.099 --> 00:00:35.890
-and we also term this as call by reference
+and we also call this as call by reference.
 
 00:00:35.890 --> 00:00:36.720
-so
+So
 
 00:00:36.720 --> 00:00:39.280
-let's discuss a scenario
+let's discuss a scenario.
 
 00:00:39.280 --> 00:00:41.080
 Albert is a beginner programmer
@@ -59,7 +59,7 @@ and he has recently learned about the
 concept
 
 00:00:44.540 --> 00:00:46.360
-user-defined functions
+user-defined functions.
 
 00:00:46.360 --> 00:00:48.750
 Now, he tries to apply this concept
@@ -71,10 +71,10 @@ and he writes
 a simple C program
 
 00:00:51.760 --> 00:00:52.890
-like this
+like this.
 
 00:00:52.890 --> 00:00:56.710
-what he is trying to achieve here is
+What he is trying to achieve here is
 that he has
 
 00:00:56.710 --> 00:00:58.400
