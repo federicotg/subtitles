@@ -17,3 +17,8 @@ for URI in "https://www.youtube.com/watch?v=h-HBipu_1P0" "https://www.youtube.co
 do
     bin/youtube-dl --verbose --all-subs --sub-format srt --skip-download $URI
 done
+
+
+31/3 4h
+1/4 3h
+2/4 1h
