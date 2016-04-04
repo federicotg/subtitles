@@ -168,7 +168,7 @@ use malloc like this. Total number of bytes
 
 00:04:15.629 --> 00:04:22.629
 should be written as number of elements* size
-of one unit. One unit of the data. Lets say
+of one unit. One unit of the data. Let's say
 
 00:04:23.030 --> 00:04:29.400
 we want to have space for 3 integers. I have
@@ -176,7 +176,7 @@ picked up 3 so I that have enough space to
 
 00:04:29.400 --> 00:04:35.040
 allocate memory in the figure that I am showing
-here. let's say this block of 12 bytes is
+here. Let's say this block of 12 bytes is
 
 00:04:35.040 --> 00:04:40.060
 allocated because size of integer is 4 bytes
@@ -211,7 +211,7 @@ you are allocating this memory to store character
 or to store integer or to store any other
 
 00:05:22.100 --> 00:05:26.930
-data type. it simply returns a void pointer
+data type. It simply returns a void pointer
 to the starting address. To be able to use
 
 00:05:26.930 --> 00:05:32.990
@@ -239,11 +239,11 @@ integer in this list, then we will do something
 like we will dereference that address p+1,
 
 00:06:03.750 --> 00:06:10.750
-lets say, we write the value 4 here and if
+let's say, we write the value 4 here and if
 we want to access the third integer, then
 
 00:06:10.819 --> 00:06:16.620
-we will write something like this. let's say
+we will write something like this. Let's say
 the value 6 here. By asking the memory block
 
 00:06:16.620 --> 00:06:23.030
@@ -376,7 +376,7 @@ the user, the size of the array and then we
 
 00:09:33.510 --> 00:09:38.440
 want to declare an array exactly of this particular
-size entered by the user. So, lets say I have
+size entered by the user. So, let's say I have
 
 00:09:38.440 --> 00:09:44.670
 a variable n and I write a print statement
@@ -416,7 +416,7 @@ of size n. And we can fill in some data into
 
 00:10:35.829 --> 00:10:40.800
 these dynamically, into the elements of this
-dynamically allocated array. Lets say we want
+dynamically allocated array. Let's say we want
 
 00:10:40.800 --> 00:10:46.240
 to put data something like first element is
@@ -424,7 +424,7 @@ to put data something like first element is
 
 00:10:46.240 --> 00:10:52.870
 we will write something like A[i] = i+1. We
-can print the elements in the array. lets
+can print the elements in the array. Let's
 
 00:10:52.870 --> 00:10:59.769
 say we want to pick up size of array as 10.
@@ -492,7 +492,7 @@ as argument. Now, what will happen if I will
 
 00:12:34.160 --> 00:12:39.800
 free A. if we free A, then the data from that
-memory is erased. it may not or may not be
+memory is erased. It may not or may not be
 
 00:12:39.800 --> 00:12:45.010
 erased, it actually depends upon your compiler
@@ -500,7 +500,7 @@ or machine, but that memory will be available
 
 00:12:45.010 --> 00:12:50.389
 for allocation against another call to malloc.
-Lets see what happens in this case when we
+Let's see what happens in this case when we
 
 00:12:50.389 --> 00:12:55.149
 are printing after freeing that particular
@@ -543,7 +543,7 @@ or what you are writing or what behavior it
 will have. It actually depends upon the compiler
 
 00:13:39.470 --> 00:13:45.070
-and the machine. In my case, lets say after
+and the machine. In my case, let's say after
 freeing, we try to access the third element
 
 00:13:45.070 --> 00:13:50.190
@@ -551,7 +551,7 @@ A[2] and try to push some value there, lets
 see what happens if you run this program.
 
 00:13:50.190 --> 00:13:54.490
-Lets give size of array as 5 again. If you
+Let's give size of array as 5 again. If you
 see, even after free, we are able to modify
 
 00:13:54.490 --> 00:14:00.820
@@ -568,7 +568,7 @@ do not know what will happen. We will now
 
 00:14:11.930 --> 00:14:17.800
 talk about realloc. If we want to modify the
-size of a memory block, lets say we have a
+size of a memory block, let's say we have a
 
 00:14:17.800 --> 00:14:23.720
 memory block to store n elements in an array
@@ -643,11 +643,11 @@ the first five elements are from A and rest
 5 elements are garbage value. If we wanted
 
 00:16:01.269 --> 00:16:07.220
-to reduce the array size to lets say half,
+to reduce the array size to let's say half,
 then the same block, the previous block itself
 
 00:16:07.220 --> 00:16:12.320
-will be reduced. So, lets say I want to print
+will be reduced. So, let's say I want to print
 the previous block now, the n elements. Now
 
 00:16:12.320 --> 00:16:16.600
@@ -680,7 +680,7 @@ the first argument to realloc as NULL. if
 
 00:16:55.380 --> 00:16:59.949
 the first argument is NULL and the second
-argument is size, and lets say we want to
+argument is size, and let's say we want to
 
 00:16:59.949 --> 00:17:06.319
 create something like a new block with address,

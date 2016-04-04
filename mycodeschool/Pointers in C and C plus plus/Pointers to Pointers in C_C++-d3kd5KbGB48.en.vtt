@@ -32,14 +32,14 @@ is at address 200, the next byte would be
 
 00:00:44.440 --> 00:00:52.489
 at address 201 &amp; the next byte would be at
-address 202 &amp; so on Now lets say in my programme
+address 202 &amp; so on Now let's say in my program
 
 00:00:52.489 --> 00:01:02.969
 I have declared an integer variable named
-X &amp; maybe I have initialized it as 5. now
+X &amp; maybe I have initialized it as 5. Now
 
 00:01:02.969 --> 00:01:07.509
-when the programme will run, some amount of
+when the program will run, some amount of
 memory will be allocated for this variable
 
 00:01:07.509 --> 00:01:14.780
@@ -47,7 +47,7 @@ x. in a typical architecture in a typical
 compiler, integer is stored in 4 bytes, so
 
 00:01:14.780 --> 00:01:22.619
-4 byte will be allocated for x. so, Lets say
+4 byte will be allocated for x. so, Let's say
 these 4 bytes at address 225, this block of
 
 00:01:22.619 --> 00:01:29.509
@@ -55,7 +55,7 @@ these 4 bytes at address 225, this block of
 for x &amp; the values stored in this block of
 
 00:01:29.509 --> 00:01:37.189
-4 bytes for x is 5. now the next thing that
+4 bytes for x is 5. Now the next thing that
 I want to do is I want to declare a pointer
 
 00:01:37.189 --> 00:01:42.759
@@ -67,7 +67,7 @@ will have to declare a pointer to integer
 something like this we need to put an asterisk sign
 
 00:01:48.420 --> 00:01:53.799
-in front of the variable name. now what will
+in front of the variable name. Now what will
 happen is that some amount of memory will
 
 00:01:53.799 --> 00:01:59.539
@@ -95,7 +95,7 @@ of type pointer to character or pointer to
 some other some other variable, this statement
 
 00:02:34.689 --> 00:02:41.250
-p=&amp;x would not have been valid. so if I have
+p=&amp;x would not have been valid. So if I have
 to write down the types of these two variables,
 
 00:02:41.250 --> 00:02:49.980
@@ -147,7 +147,7 @@ put two ** sign in front of a variable name
 of p so with this first line with this int
 
 00:04:03.769 --> 00:04:12.049
-**q we created q. lets say we created q at
+**q we created q. Let's say we created q at
 205 &amp; now we are saying that q will store
 
 00:04:12.049 --> 00:04:25.450
@@ -183,7 +183,7 @@ or we can put it immediately before the variable
 name like we have done in the case of q here
 
 00:05:09.220 --> 00:05:16.670
-let's say we define r as int *** so lets say
+let's say we define r as int *** so let's say
 r gets this address 230 in the memory now
 
 00:05:16.670 --> 00:05:27.800
@@ -271,7 +271,7 @@ the asterisk operator twice &amp; we reach p &amp; then we
 r using the asterisk operator thrice &amp; we reach x.
 
 00:07:59.540 --> 00:08:05.780
-Lets make some more changes in this code &amp; run
+Let's make some more changes in this code &amp; run
 this in a real compiler so what I'll do here
 
 00:08:05.780 --> 00:08:14.220

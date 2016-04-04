@@ -111,7 +111,7 @@ here. Whats the point in calling A indirectly
 through B in this code. This is not making
 
 00:02:46.730 --> 00:02:52.790
-much sense. So, lets now look at a scenario
+much sense. So, let's now look at a scenario
 where using a function pointer and callback
 
 00:02:52.790 --> 00:02:58.629
@@ -219,7 +219,7 @@ numbers in decreasing order. Now, my list
 is sorted in decreasing order of the value
 
 00:05:30.169 --> 00:05:36.889
-of integers. Now, lets say I have a requirement
+of integers. Now, let's say I have a requirement
 like this. Sometimes in my program, I want
 
 00:05:36.889 --> 00:05:43.669
@@ -236,7 +236,7 @@ first sort function to sort in increasing
 
 00:05:55.860 --> 00:06:01.449
 order and another sort function to sort in
-decreasing order. but if we will do so, there
+decreasing order. But if we will do so, there
 
 00:06:01.449 --> 00:06:08.129
 will be a lot of duplicate code. The two functions
@@ -255,7 +255,7 @@ to the sort function to say whether we want
 the list sorted in increasing order or decreasing
 
 00:06:24.909 --> 00:06:30.530
-order. We can have a flag. let's say when
+order. We can have a flag. Let's say when
 flag is one, we will sort in increasing order
 
 00:06:30.530 --> 00:06:36.229
@@ -276,7 +276,7 @@ and say that this should come first and this
 
 00:06:52.409 --> 00:06:58.319
 should come later. The core logic will always
-be the same. only the ranking mechanism or
+be the same. Only the ranking mechanism or
 
 00:06:58.319 --> 00:07:03.259
 comparison logic will change. What I am going
@@ -292,7 +292,7 @@ My function will take a function pointer as
 
 00:07:15.400 --> 00:07:20.689
 argument. My sort function will take function
-pointer as argument. the callback function
+pointer as argument. The callback function
 
 00:07:20.689 --> 00:07:27.020
 or the function that this pointer should point
@@ -312,7 +312,7 @@ say, the element that has higher rank will
 
 00:07:47.999 --> 00:07:54.389
 go towards the end in sorted array. towards
-higher indices. these are my assumptions while
+higher indices. These are my assumptions while
 
 00:07:54.389 --> 00:08:01.409
 designing this sort function. Now, I am going
@@ -435,7 +435,7 @@ not pass absolute_compare in this call to
 bubble sort, this basically is passing a pointer
 
 00:11:04.300 --> 00:11:09.220
-to absolute_compare function. Lets now run
+to absolute_compare function. Let's now run
 this program and see what happens. This is
 
 00:11:09.220 --> 00:11:14.550
@@ -516,7 +516,7 @@ if A is ranked lower and 0 if both are ranked
 
 00:13:17.110 --> 00:13:24.480
 same. We can simply return A-B and it will
-mean the same. if A is higher in value, A-B
+mean the same. If A is higher in value, A-B
 
 00:13:24.480 --> 00:13:29.670
 will be positive and I am trying to create

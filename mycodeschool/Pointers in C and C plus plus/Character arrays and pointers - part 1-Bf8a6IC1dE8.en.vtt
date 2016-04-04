@@ -801,7 +801,7 @@ element 'e'. To traverse an array
 we run a loop and we use
 
 00:11:00.390 --> 00:11:03.980
-a local variable, lets say I and
+a local variable, let's say I and
 increment it in the loop. If we have a
 
 00:11:03.980 --> 00:11:07.540

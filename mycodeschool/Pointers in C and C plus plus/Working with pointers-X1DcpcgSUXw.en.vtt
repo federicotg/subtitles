@@ -204,7 +204,7 @@ of a (&amp;a) is nothing but
 address of a.
 
 00:03:04.279 --> 00:03:06.609
-Now lets run this again.
+Now let's run this again.
 
 00:03:06.609 --> 00:03:08.819
 Okay so this prints 
@@ -656,10 +656,10 @@ address (p+1)
 is blah.. so
 
 00:09:18.900 --> 00:09:21.070
-let's now run this and see what happens
+let's now run this and see what happens.
 
 00:09:21.070 --> 00:09:25.350
-okay.. so the output is address p is4 586052 which
+OK so the output is address p is4 586052 which
 
 00:09:25.350 --> 00:09:26.720
 is some address

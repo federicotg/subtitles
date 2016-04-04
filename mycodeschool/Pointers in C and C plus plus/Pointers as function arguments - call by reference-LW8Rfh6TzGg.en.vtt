@@ -107,7 +107,7 @@ and inside this function he's writing a
 statement like a is equal to a plus
 
 00:01:21.980 --> 00:01:22.960
-one
+one.
 
 00:01:22.960 --> 00:01:26.010
 He calls this function increment from
@@ -120,10 +120,10 @@ passing
 a as argument
 
 00:01:28.119 --> 00:01:31.030
-and then he prints the value of a
+and then he prints the value of a.
 
 00:01:31.030 --> 00:01:33.300
-now what he is expecting here
+Now what he is expecting here
 
 00:01:33.300 --> 00:01:37.160
 is that the value of a will be incremented
@@ -133,17 +133,17 @@ to eleven
 and hence the print statement will print
 
 00:01:39.770 --> 00:01:41.640
-a = 11
+a = 11,
 
 00:01:41.640 --> 00:01:47.670
-but when he runs the program, the output of the print statement is a = 10. Now,
+but when he runs the program the output of the print statement is a = 10. Now,
 
 00:01:47.670 --> 00:01:50.110
 Albert does not understand why this is
-happening
+happening.
 
 00:01:50.110 --> 00:01:52.580
-he has declared a valuable a
+He has declared a variable a
 
 00:01:52.580 --> 00:01:57.640
 and then he has initialized this variable to 10 and
@@ -153,19 +153,19 @@ then he is passing the same a
 to the function increment
 
 00:01:59.170 --> 00:02:03.860
-and the same a is being incremented by one in this function
+and the same a is being incremented by one in this function.
 
 00:02:03.860 --> 00:02:07.210
-so why the value of a being printed
+So why the value of a being printed
 
 00:02:07.210 --> 00:02:08.399
-is not eleven
+is not eleven?
 
 00:02:08.399 --> 00:02:10.829
-why is it 10
+Why is it 10?
 
 00:02:10.829 --> 00:02:13.799
-now what Albert does not understand well
+Now what Albert does not understand well
 
 00:02:13.799 --> 00:02:16.049
 or what he probably forgot
@@ -190,23 +190,23 @@ we can access that variable only
 
 00:02:28.909 --> 00:02:32.429
 inside the same function in which we
-have declared the variable
+have declared the variable.
 
 00:02:32.429 --> 00:02:33.769
-so these two a
+So these two a,
 
 00:02:33.769 --> 00:02:37.599
-this a in the function increment and
-this a in the function main 
+This a in the function increment and
+this a in the function main,
 
 00:02:37.599 --> 00:02:40.299
-are actually not the same a
+are actually not the same a.
 
 00:02:40.299 --> 00:02:43.089
-the 'a' in the function increment is another 'a' 
+The 'a' in the function increment is another 'a'.
 
 00:02:43.089 --> 00:02:45.589
-when main calls the method increment
+When main calls the method increment
 
 00:02:45.589 --> 00:02:47.289
 and passes this
@@ -227,66 +227,66 @@ to this another 'a' which is
 another variable
 
 00:02:56.900 --> 00:02:58.979
-local to the increment function
+local to the increment function.
 
 00:02:58.979 --> 00:03:02.359
-so what I'll do is, I'll do couple of
+So what I'll do is, I'll do couple of
 modifications in this code to show you
 
 00:03:02.359 --> 00:03:04.369
-a better picture
+a better picture.
 
 00:03:04.369 --> 00:03:06.340
 I will write two print statements
 
 00:03:06.340 --> 00:03:07.679
-in this code
+in this code.
 
 00:03:07.679 --> 00:03:11.549
-first print statement in the increment method
-something like this
+First print statement in the increment method.
+Something like this.
 
 00:03:11.549 --> 00:03:16.540
-address of variable 'a' in increment is
+Address of variable 'a' in increment is.
 
 00:03:16.540 --> 00:03:19.900
-uh... as we know if we put ampersand
-operator in front of a variable name
+As we know if we put ampersand
+operator in front of a variable name,
 
 00:03:19.900 --> 00:03:22.239
 then we get the address
 
 00:03:22.239 --> 00:03:25.119
-of that variable
+of that variable.
 
 00:03:25.119 --> 00:03:28.129
-and I'll comment out this print and I'll write
+And I'll comment out this print and I'll write
 
 00:03:28.129 --> 00:03:31.259
 one more print in the main method
-like this
+like this.
 
 00:03:31.259 --> 00:03:36.159
-and here I print that the address of variable 'a'
-in main is ampersand 'a'
+And here I print that the address of variable 'a'
+in main is ampersand 'a'.
 
 00:03:36.159 --> 00:03:38.569
-let us now run this and see what happens
+Let us now run this and see what happens.
 
 00:03:38.569 --> 00:03:40.399
-uh... let me also put
+Let me also put
 
 00:03:40.399 --> 00:03:42.999
-and en of line after 
+and end of line after 
 
 00:03:42.999 --> 00:03:44.039
 we print the
 
 00:03:44.039 --> 00:03:45.180
-statement
+statement.
 
 00:03:45.180 --> 00:03:50.219
-and the output is address of variable 'a'
+And the output is address of variable 'a'
 in increment method is printed as
 
 00:03:50.219 --> 00:03:53.049
@@ -294,31 +294,31 @@ four four five four four six zero
 
 00:03:53.049 --> 00:03:58.259
 and in main it is equal to four four
-five four six six two
+five four six six two.
 
 00:03:58.259 --> 00:04:00.779
-these two look similar but they're
-not the same
+These two look similar but they're
+not the same.
 
 00:04:00.779 --> 00:04:05.519
-one is having four four six seven zero in the end
-and the another is having four four six zero
+One is having four four six seven zero in the end
+and the another is having four four six zero.
 
 00:04:05.519 --> 00:04:08.229
-what the values are is not important
+What the values are is not important.
 
 00:04:08.229 --> 00:04:11.599
-what the addresses are is not important
-what's important is that
+What the addresses are is not important.
+What's important is that
 
 00:04:11.599 --> 00:04:13.869
-these addresses are different
+these addresses are different.
 
 00:04:13.869 --> 00:04:18.610
-if the 'a' in main method and the 'a' in increment method were same 
+If the 'a' in main method and the 'a' in increment method were same 
 
 00:04:18.610 --> 00:04:21.949
-these two addresses would have been same
+these two addresses would have been same.
 
 00:04:21.949 --> 00:04:24.870
 To understand this even better, we will
@@ -328,25 +328,25 @@ try to understand how things happen in
 computer's memory when a program
 
 00:04:28.759 --> 00:04:30.139
-executes
+executes.
 
 00:04:30.139 --> 00:04:33.169
 When a program on an application is started
 
 00:04:33.169 --> 00:04:35.229
-then the computer sets aside
+then the computer sets aside;
 
 00:04:35.229 --> 00:04:37.590
-the machine sets aside or reserves
+or reserves
 
 00:04:37.590 --> 00:04:39.329
 some amount of memory
 
 00:04:39.329 --> 00:04:41.759
-for the execution of this program
+for the execution of this program.
 
 00:04:41.759 --> 00:04:46.020
-the memory that is a set aside for the
+The memory that is a set aside for the
 application is divided into
 
 00:04:46.020 --> 00:04:47.740
@@ -356,42 +356,42 @@ is typically divided into
 these four parts
 
 00:04:49.479 --> 00:04:51.149
-that we are showing here
+that we are showing here.
 
 00:04:51.149 --> 00:04:53.629
-one part of memory is allocated
+One part of memory is allocated
 
 00:04:53.629 --> 00:04:57.280
-to store the various instructions in the program
+to store the various instructions in the program.
 
 00:04:57.280 --> 00:05:00.139
-the computer needs to keep all these
-instructions in the memory
+The computer needs to keep all these
+instructions in the memory.
 
 00:05:00.139 --> 00:05:03.830
-these instructions that we have in the
+These instructions that we have in the
 program like increment or declare these
 
 00:05:03.830 --> 00:05:05.089
-variables
+variables;
 
 00:05:05.089 --> 00:05:07.039
-all these sequential instructions
+all these sequential instructions.
 
 00:05:07.039 --> 00:05:09.240
-one part of the memory is
+One part of the 
 
 00:05:09.240 --> 00:05:11.389
-one part of the allocated memory is for 
+allocated memory is for 
 
 00:05:11.389 --> 00:05:13.960
-static or global variables
+static or global variables.
 
 00:05:13.960 --> 00:05:17.669
-if we do not declare a variable inside a function 
+If we do not declare a variable inside a function 
 
 00:05:17.669 --> 00:05:21.129
-in c++ or c, then it is a global variable
+in c++ or c, then it is a global variable.
 
 00:05:21.129 --> 00:05:22.660
 Now global variables
@@ -413,28 +413,28 @@ accessed and modified within a
 particular function or within a
 
 00:05:32.870 --> 00:05:34.900
-particular code block
+particular code block.
 
 00:05:34.900 --> 00:05:37.819
-now tthe third part of applications memory is
+Now the third part of applications memory is
 
 00:05:37.819 --> 00:05:40.720
 called as stack and
 
 00:05:40.720 --> 00:05:42.349
-this is really important
+this is really important.
 
 00:05:42.349 --> 00:05:45.119
-this is where all the local variables go
+This is where all the local variables go
 
 00:05:45.119 --> 00:05:48.120
 and we will mostly be talking about stack
 
 00:05:48.120 --> 00:05:49.439
-in this lesson
+in this lesson.
 
 00:05:49.439 --> 00:05:52.819
-and the fourth part is heap
+And the fourth part is heap
 
 00:05:52.819 --> 00:05:55.069
 and we will come to this later
@@ -443,10 +443,10 @@ and we will come to this later
 in our
 
 00:05:56.479 --> 00:05:58.210
-forthcoming lessons
+forthcoming lessons.
 
 00:05:58.210 --> 00:06:01.299
-of these four segments of the allocated
+Of these four segments of the allocated
 memory:
 
 00:06:01.299 --> 00:06:03.490
@@ -491,19 +491,19 @@ Let us now see what happens when
 a program
 
 00:06:30.370 --> 00:06:31.499
-executes
+executes.
 
 00:06:31.499 --> 00:06:34.409
-let us say this is our computer's overall memory
+Let us say this is our computer's overall memory,
 
 00:06:34.409 --> 00:06:35.349
-the RAM
+the RAM,
 
 00:06:35.349 --> 00:06:37.299
 and as we know each
 
 00:06:37.299 --> 00:06:41.119
-byte in the memory is addressable. so, let's say
+byte in the memory is addressable. So, let's say
 
 00:06:41.119 --> 00:06:44.779
 the memory allocated for our
@@ -522,7 +522,7 @@ and these are the various segments
 of our application's memory and of this
 
 00:06:51.239 --> 00:06:53.959
-let's say uh... address three hundred
+let's say address three hundred
 
 00:06:53.959 --> 00:06:57.259
 to six hundred is allocated for stack
@@ -535,7 +535,7 @@ the RAM
 after
 
 00:07:00.589 --> 00:07:03.460
-uh... address 800 and before address 200
+address 800 and before address 200
 
 00:07:03.460 --> 00:07:05.479
 Ok, so from 200 to 800
@@ -545,7 +545,7 @@ this part of the memory is assigned for
 our program
 
 00:07:08.399 --> 00:07:11.810
-let's say this Cprogram that we have
+let's say this C program that we have
 in the left
 
 00:07:11.810 --> 00:07:14.409
@@ -574,7 +574,7 @@ the calling function to which it should return
 the current
 
 00:07:31.059 --> 00:07:34.529
-instruction at which is executing, all this infromation
+instruction at which is executing, all this information
 
 00:07:34.529 --> 00:07:36.519
 it's stored in the stack

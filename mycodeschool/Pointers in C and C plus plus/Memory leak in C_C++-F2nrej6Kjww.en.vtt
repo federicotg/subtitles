@@ -505,7 +505,7 @@ more print statement initially.
 
 00:08:10.600 --> 00:08:14.970
 Let's now play this game and see what
-happens. what I have done is
+happens. What I have done is
 
 00:08:14.970 --> 00:08:18.910
 I have compiled this code and created an
@@ -844,7 +844,7 @@ Now what will happen this time is
 that we will not
 
 00:13:23.610 --> 00:13:27.330
-create the array on the stack. we will still
+create the array on the stack. We will still
 have
 
 00:13:27.330 --> 00:13:30.390
@@ -1095,7 +1095,7 @@ of the function
 
 00:17:18.449 --> 00:17:23.559
 it's not going up there is no memory
-leak. so finally to summarize it,
+leak. So finally to summarize it,
 
 00:17:23.559 --> 00:17:27.010
 memory leak is improper use of dynamic
