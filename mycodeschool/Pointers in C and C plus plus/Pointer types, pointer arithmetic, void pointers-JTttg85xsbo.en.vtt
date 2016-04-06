@@ -139,7 +139,7 @@ is addressable. Let's say the address of
 byte zero
 
 00:02:12.209 --> 00:02:16.989
-is 200 now these four bytes need to be
+is 200. Now these four bytes need to be
 contiguous. Let's say the address of
 
 00:02:16.989 --> 00:02:20.950
@@ -197,10 +197,10 @@ the ampersand operator.
 
 00:03:09.830 --> 00:03:12.849
 What will happen if I print the value of
-P,
+P?
 
 00:03:12.849 --> 00:03:16.310
-the value of P or the address stored in P
+The value of P or the address stored in P
 will be
 
 00:03:16.310 --> 00:03:21.400
@@ -220,7 +220,7 @@ try to print
 this particular address.
 
 00:03:32.459 --> 00:03:35.650
-Then the machine sees that ok P is a pointer
+Then the machine sees that P is a pointer
 to
 
 00:03:35.650 --> 00:03:39.409
@@ -229,7 +229,7 @@ bytes
 
 00:03:39.409 --> 00:03:43.209
 starting address 200 and then the
-machine knows that
+machine knows 
 
 00:03:43.209 --> 00:03:46.950
 how to extract the value of an
