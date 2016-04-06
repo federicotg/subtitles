@@ -119,7 +119,7 @@ address and write some value there. So if I
 write a statement like this, this value here
 
 00:03:15.709 --> 00:03:23.780
-at address 225, this x is now modified. now
+at address 225, this x is now modified. Now
 can I create a pointer to this variable p,
 
 00:03:23.780 --> 00:03:28.819
@@ -288,7 +288,7 @@ for obvious reasons and as u can see we are
 
 00:08:32.479 --> 00:08:40.779
 able to modify x by doing this chain of de
-referencing using this variable r. if we would
+referencing using this variable r. If we would
 
 00:08:40.779 --> 00:08:53.240
 write something like **q = let's say something

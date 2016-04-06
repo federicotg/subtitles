@@ -616,7 +616,7 @@ increment is that the machine says "hey
 I will stop your execution for some time
 
 00:08:06.359 --> 00:08:10.580
-I will stop at this particular instruction. let me go ahead
+I will stop at this particular instruction. Let me go ahead
 
 00:08:10.580 --> 00:08:11.559
 finish this
@@ -872,7 +872,7 @@ Well! yes, we can do so
 
 00:11:24.320 --> 00:11:29.060
 if we use pointers as function
-arguments. let us now look at this code
+arguments. Let us now look at this code
 
 00:11:29.060 --> 00:11:33.760
 and I am drawing only the stack here so
@@ -957,7 +957,7 @@ the value that gets stored in this
 particular
 
 00:12:37.550 --> 00:12:40.549
-sorry its not a function, its a variable. the value that gets
+sorry its not a function, its a variable. The value that gets
 
 00:12:40.549 --> 00:12:41.580
 copied or

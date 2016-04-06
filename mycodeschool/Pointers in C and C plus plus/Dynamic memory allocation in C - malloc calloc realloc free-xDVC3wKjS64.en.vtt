@@ -435,7 +435,7 @@ Ok, so the output is as expected. We have
 array as let's say 25, then this is what we
 
 00:11:08.940 --> 00:11:15.850
-get. We get all the elements until 25. if we
+get. We get all the elements until 25. If we
 wanted to use calloc instead of malloc here,
 
 00:11:15.850 --> 00:11:19.930
@@ -491,7 +491,7 @@ you pass starting address of the memory block
 as argument. Now, what will happen if I will
 
 00:12:34.160 --> 00:12:39.800
-free A. if we free A, then the data from that
+free A. If we free A, then the data from that
 memory is erased. It may not or may not be
 
 00:12:39.800 --> 00:12:45.010
@@ -676,7 +676,7 @@ pointer. So, you can write, instead of writing
 
 00:16:46.610 --> 00:16:53.610
 B here, we can write A also. We can also pass
-the first argument to realloc as NULL. if
+the first argument to realloc as NULL. If
 
 00:16:55.380 --> 00:16:59.949
 the first argument is NULL and the second

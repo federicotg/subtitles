@@ -394,14 +394,14 @@ will the address in 'p' change now
  to point to 'b'?
 
 00:05:46.839 --> 00:05:50.360
-Well.. No.., unless you explicitly write a
+Well. No, unless you explicitly write a
 statement like,
 
 00:05:50.360 --> 00:05:52.849
-p = &amp;b
+p = &amp;b.
 
 00:05:52.849 --> 00:05:56.939
-this reverse operation will not happen. What we are doing here is actually, only
+This reverse operation will not happen. What we are doing here is actually, only
 
 00:05:56.939 --> 00:05:58.049
 putting
@@ -410,13 +410,13 @@ putting
 in the address of 'a', the value that 'b' has,
 
 00:06:00.989 --> 00:06:02.550
-but we are not pointing to 'b'
+but we are not pointing to 'b'.
 
 00:06:02.550 --> 00:06:04.309
-and this will get clear, only
+And this will get clear, only
 
 00:06:04.309 --> 00:06:05.470
- if we
+if we
 
 00:06:05.470 --> 00:06:07.490
 write some more printf statements.
@@ -426,43 +426,43 @@ So before writing the statement, I am writing
 two print statements.
 
 00:06:10.630 --> 00:06:13.850
-one to print the address and one to print
-the value
+One to print the address and one to print
+the value.
 
 00:06:13.850 --> 00:06:14.779
-and after we
+And after we
 
 00:06:14.779 --> 00:06:17.809
 write the statement, I will write two more print statements
 
 00:06:17.809 --> 00:06:20.300
-trying to print the address and value again
+trying to print the address and value again.
 
 00:06:20.300 --> 00:06:24.669
-so let us see what the output is now. OK, so
+Ao let us see what the output is now. OK, so
 
 00:06:24.669 --> 00:06:28.330
-address of p is initially three one four four
-five seven six
+address of p is initially three, one, four, four,
+five, seven and six,
 
 00:06:28.330 --> 00:06:29.659
-and value is 10
+and value is 10.
 
 00:06:29.659 --> 00:06:33.670
-and after the statement star p
+And after the statement star p
 equal to b, only value is modified
 
 00:06:33.670 --> 00:06:35.789
-and the pointer still points to a
+and the pointer still points to 'a'.
 
 00:06:35.789 --> 00:06:39.539
-so a now becomes twenty but the address does not change
+So a now becomes twenty but the address does not change.
 
 00:06:39.539 --> 00:06:40.520
-now one more thing
+Now one more thing.
 
 00:06:40.520 --> 00:06:45.110
-sometimes we declare and initialize a variable
+Sometimes we declare and initialize a variable
 in the same statement
 
 00:06:45.110 --> 00:06:49.550
@@ -470,30 +470,30 @@ so instead of writing this a
 equal to ten here we could simply say that
 
 00:06:49.550 --> 00:06:50.580
-int a is equal to 10
+int a is equal to 10.
 
 00:06:52.199 --> 00:06:56.150
-so we can do so for the pointer
-variable as well
+So we can do so for the pointer
+variable as well.
 
 00:06:56.150 --> 00:06:57.610
-we could simply say for these two statements
+We could simply say for these two statements
 
 00:06:57.610 --> 00:07:01.199
 one simple statement like int star p is
 
 00:07:01.199 --> 00:07:03.309
-equal to ampersand a 
+equal to ampersand 'a' 
 
 00:07:03.309 --> 00:07:05.529
-and we will not need the statement
+and we will not need the statement.
 
 00:07:05.529 --> 00:07:09.579
-this one statement is same as saying
-the earlier two statements
+This one statement is same as saying
+the earlier two statements.
 
 00:07:09.579 --> 00:07:13.139
-the syntax of declaring pointer
+The syntax of declaring pointer
 
 00:07:13.139 --> 00:07:14.939
 some people write this asterisk sign 
@@ -502,10 +502,10 @@ some people write this asterisk sign
 after int and do not write it
 
 00:07:16.989 --> 00:07:18.839
-in front of the variable name
+in front of the variable name.
 
 00:07:18.839 --> 00:07:21.119
-this also works and this is also fine
+This also works and this is also fine
 
 00:07:21.119 --> 00:07:22.680
 so you can write int star
@@ -514,22 +514,22 @@ so you can write int star
 which means pointer to integer and then you can write the variable name
 
 00:07:26.639 --> 00:07:28.619
-and this will also work
+and this will also work.
 
 00:07:28.619 --> 00:07:30.599
-okay so now we will point
+OK so now we will point.
 
 00:07:30.599 --> 00:07:32.080
-uh. We will talk about a
+We will talk about a
 
 00:07:32.080 --> 00:07:34.029
-concept
+concept.
 
 00:07:34.029 --> 00:07:35.749
-we will talk about the concept of
+We will talk about the concept of
 
 00:07:35.749 --> 00:07:40.110
-pointer arithmetic
+pointer arithmetic,
 
 00:07:40.110 --> 00:07:41.409
 but before that I will
@@ -539,16 +539,16 @@ write this. Rewrite this
 
 00:07:43.389 --> 00:07:48.360
 declaration and initialization like
-before in two statements
+before in two statements.
 
 00:07:48.360 --> 00:07:50.979
-I like it better this way. It's less confusing
+I like it better this way. It's less confusing.
 
 00:07:50.979 --> 00:07:53.789
-now I will write two print statements here
+Now I will write two print statements here.
 
 00:07:53.789 --> 00:07:55.030
-in the first statement
+In the first statement
 
 00:07:55.030 --> 00:07:56.550
 I will print p
@@ -557,31 +557,31 @@ I will print p
 and in another statement I will print
 
 00:07:59.250 --> 00:08:00.740
-p plus one
+p plus one.
 
 00:08:00.740 --> 00:08:03.499
 Now, is it really possible to do so?
 
 00:08:03.499 --> 00:08:05.129
-can we really increment and decrement
+Can we really increment and decrement
 
 00:08:05.129 --> 00:08:07.050
-a pointer variable
+a pointer variable?
 
 00:08:07.050 --> 00:08:09.029
-Well yes! we can do so
+Well, yes! We can do so.
 
 00:08:09.029 --> 00:08:09.960
-so now let's assume
+So now let's assume
 
 00:08:09.960 --> 00:08:14.270
 that the address stored in p is
 
 00:08:14.270 --> 00:08:16.489
-something like 2002
+something like 2002.
 
 00:08:16.489 --> 00:08:18.430
-so any guesses what p plus one
+So any guesses what p plus one
 
 00:08:18.430 --> 00:08:20.729
 will be?
@@ -590,10 +590,10 @@ will be?
 Will it be 2003?
 
 00:08:23.110 --> 00:08:27.440
-Well no. (p + 1) will be 2006
+Well no. (p + 1) will be 2006.
 
 00:08:27.440 --> 00:08:28.430
-this is because
+This is because
 
 00:08:28.430 --> 00:08:32.800
 if p is an integer pointer incrementing
@@ -609,11 +609,11 @@ and because
 the size of an integer is four bytes
 
 00:08:39.450 --> 00:08:41.180
-so, to go to the next
+to go to the next
 
 00:08:41.180 --> 00:08:46.790
-integer address we need to skip 4 bytes. so,
-p plus one increments p by 4 bytes
+integer address we need to skip 4 bytes. So,
+p plus one increments p by 4 bytes.
 
 00:08:46.790 --> 00:08:50.820
 I'll write another print statement in which I will print
@@ -625,23 +625,23 @@ size of an integer variable
 and I will write something like sizeof
 
 00:08:55.630 --> 00:08:57.890
-integer is
+integer is.
 
 00:08:57.890 --> 00:09:01.220
 and we have a function in C, sizeof that gives us
 
 00:09:01.220 --> 00:09:03.650
-the size of the data type
+the size of the data type.
 
 00:09:03.650 --> 00:09:04.520
-so this
+So this
 
 00:09:04.520 --> 00:09:07.770
-statement, this print statement will give
-us the size of integer
+statement, this print statement, will give
+us the size of integer.
 
 00:09:07.770 --> 00:09:10.740
-and let's write in the first and third
+And let's write in the first and third
 
 00:09:10.740 --> 00:09:13.560
 print statements something like
@@ -653,7 +653,7 @@ address p is blah and
 address (p+1) 
 
 00:09:17.310 --> 00:09:18.900
-is blah.. so
+is blah. So
 
 00:09:18.900 --> 00:09:21.070
 let's now run this and see what happens.
@@ -665,7 +665,7 @@ OK so the output is address p is4 586052 which
 is some address
 
 00:09:26.720 --> 00:09:30.190
-and then we print size of integer is 4 bytes. so,
+and then we print size of integer is 4 bytes. So,
 
 00:09:30.190 --> 00:09:32.100
 for this particular compiler
@@ -690,13 +690,13 @@ okay so we could also increment this by 2
 and what happens if we increment this by 2.
 
 00:09:50.870 --> 00:09:54.640
-well, it will increment the address by 8
+Well, it will increment the address by 8.
 
 00:09:54.640 --> 00:09:56.490
 So, this will be like
 
 00:09:56.490 --> 00:09:58.640
-2010
+2010.
 
 00:09:58.640 --> 00:10:01.060
 p plus 2 will be 2010
@@ -719,32 +719,32 @@ address
 
 00:10:11.920 --> 00:10:16.670
 so I am printing two more lines here now.
- I am printing value at address p
+I am printing value at address p
 
 00:10:16.670 --> 00:10:20.740
 and I will print *p. It gives us the value at that address
 
 00:10:20.740 --> 00:10:22.629
-and we will print another line
+and we will print another line.
 
 00:10:22.629 --> 00:10:25.880
-we will say that value at address (p+1) is
+We will say that value at address (p+1) is
 
 00:10:25.880 --> 00:10:27.720
 and this should be
 
 00:10:27.720 --> 00:10:29.290
-*(p+1)
+*(p+1).
 
 00:10:29.290 --> 00:10:31.860
-we put the star operator in front of the
-address
+We put the star operator in front of the
+address.
 
 00:10:31.860 --> 00:10:33.940
-okay, so now what will be the output
+OK, so now what will be the output?
 
 00:10:33.940 --> 00:10:35.420
-okay so the output is that
+OK so the output is that
 
 00:10:35.420 --> 00:10:38.779
 address p is some address and value at address p is 10 which is 
@@ -753,11 +753,11 @@ address p is some address and value at address p is 10 which is
 alright because we had stored the address of variable a
 
 00:10:42.180 --> 00:10:43.320
-in p
+in p.
 
 00:10:43.320 --> 00:10:46.960
-now next line is size of integer is 4 bytes 
- and p plus one is four more
+Now next line is size of integer is 4 bytes 
+and p plus one is four more
 
 00:10:46.960 --> 00:10:47.800
 than
@@ -770,10 +770,10 @@ and the value at address p+1 is
 some integer value that I do not
 
 00:10:52.490 --> 00:10:53.630
-know about
+know about.
 
 00:10:53.630 --> 00:10:56.140
-in fact this is some garbage value because
+In fact this is some garbage value because
 
 00:10:56.140 --> 00:10:59.290
 because we do not really have an integer allocated to this
@@ -783,10 +783,10 @@ particular memory address
 
 00:11:00.860 --> 00:11:05.650
 and this is one dangerous thing about c
-using pointer arithmetic
+using pointer arithmetic.
 
 00:11:05.650 --> 00:11:07.440
-using pointer manipulation you can reach to
+Using pointer manipulation you can reach to
 
 00:11:07.440 --> 00:11:08.860
 to any address
@@ -796,7 +796,7 @@ and sometimes
 
 00:11:10.140 --> 00:11:13.990
 these kind of operations can bring some
-unwanted behavior to your program
+unwanted behavior to your program.
 
 00:11:13.990 --> 00:11:18.320
 I recommend trying these things out, these
