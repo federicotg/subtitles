@@ -3,7 +3,7 @@ Kind: captions
 Language: en
 
 00:00:00.739 --> 00:00:05.790
-Pointer is a very fundamental and important concept in programming,
+Pointers is a very fundamental and important concept in programming,
 
 00:00:05.790 --> 00:00:08.050
 but a lot of beginner programmers
@@ -57,10 +57,10 @@ and when we talk about computer's memory in context of
 program execution, we mostly talk about the random access memory or the RAM.
 
 00:00:51.530 --> 00:00:54.960
-We often say that my machine has got 2 GB RAM
+We often say that my machine has got 2 GB or 2 Giga bytes of RAM
 
 00:00:54.960 --> 00:00:58.990
-or 4 GB of RAM. Now, Let's say these segments
+or 4 Giga bytes of RAM. Now, Let's say these segments
 
 00:00:58.990 --> 00:01:01.799
 or partitions that we are showing here in the memory
@@ -129,22 +129,22 @@ the computer allocates some amount of memory corresponding to this particular
 variable.
 
 00:02:01.100 --> 00:02:03.259
-How much memory it allocates,
+How much memory it allocates
 
 00:02:03.259 --> 00:02:05.800
 depends upon the datatype
 
 00:02:05.800 --> 00:02:07.610
-and also upon,
+and also upon
 
 00:02:07.610 --> 00:02:12.190
-the compiler, so in a typical modern-day compiler an integer is allocated
+the compiler. So in a typical modern-day compiler an integer is allocated
 
 00:02:12.190 --> 00:02:14.149
 4 bytes of memory.
 
 00:02:14.149 --> 00:02:15.890
-Character variable is
+A character variable is
 
 00:02:15.890 --> 00:02:18.239
 allocated 1 byte of memory.
@@ -153,28 +153,28 @@ allocated 1 byte of memory.
 Float is allocated
 
 00:02:20.389 --> 00:02:23.669
-4 bytes of memory and we can have other variables as well.
+in 4 bytes of memory and we can have other variables as well.
 
 00:02:23.669 --> 00:02:26.829
-Okay, so as soon as the computer sees a declaration,
+Okay, so as soon as the computer sees a declaration
 
 00:02:26.829 --> 00:02:30.089
-like this, during the program's execution,
+like this during the program's execution,
 
 00:02:30.089 --> 00:02:33.689
-it knows that this is an integer variable, so I need to allocate
+it knows that this is an integer variable. So it needs to allocate
 
 00:02:33.689 --> 00:02:35.059
 4 bytes of memory.
 
 00:02:35.059 --> 00:02:36.529
-Let's say in our example,
+Let's say
 
 00:02:36.529 --> 00:02:37.869
 it allocates
 
 00:02:37.869 --> 00:02:40.230
-memory starting address 204
+memory starting from address 204
 
 00:02:40.230 --> 00:02:42.159
 to address 207
@@ -183,16 +183,16 @@ to address 207
 for 'a'.
 
 00:02:43.709 --> 00:02:46.339
-And the computer has an internal structure,
+The computer has an internal structure,
 
 00:02:46.339 --> 00:02:47.640
-a lookup table
+a lookup table,
 
 00:02:47.640 --> 00:02:50.900
-where its stores this information that there is a variable 'a',
+where its stores the information that there is a variable 'a',
 
 00:02:50.900 --> 00:02:53.859
-it is of the type integer, and it
+that it is of the type integer, and it
 
 00:02:53.859 --> 00:02:55.969
 is located at address 204,
@@ -201,13 +201,13 @@ is located at address 204,
 which is the starting address of the variable. Now,
 
 00:02:59.109 --> 00:03:03.049
-if we declare another variable, say for example if we declare a variable, 
+if we declare another variable, say for example if we declare a variable 
 
 00:03:03.049 --> 00:03:05.989
-name 'c' which is of type character, now
+named 'c', which is of type character, now
 
 00:03:05.989 --> 00:03:09.029
-once again when the machines sees this declaration
+once again when the machine sees this declaration,
 
 00:03:09.029 --> 00:03:13.029
 it knows that it is a character variable, so it needs 1 byte of memory.
@@ -219,10 +219,10 @@ So it looks for some free space, let's say in this case
 it allocates
 
 00:03:18.029 --> 00:03:22.689
-the address 209, the byte 209 for 'c',
+the address 209 for 'c',
 
 00:03:22.689 --> 00:03:25.669
-and once again it keeps an entry for it,
+and once again it keeps an entry for it
 
 00:03:25.669 --> 00:03:27.289
 in an internal structure,
@@ -231,7 +231,7 @@ in an internal structure,
 called lookup table,
 
 00:03:29.109 --> 00:03:30.839
-that hey 'c' is a character,
+that the 'c' is a character
 
 00:03:30.839 --> 00:03:32.069
 and its
@@ -252,25 +252,25 @@ and our machine or computer sees such a statement,
 it looks into the lookup table for this
 
 00:03:44.379 --> 00:03:45.500
-variable 'a',
+variable 'a'.
 
 00:03:45.500 --> 00:03:49.810
-so it finds this variable 'a', that it is an integer and it is at address 204
+It finds this variable 'a' that it is an integer and it is at address 204.
 
 00:03:49.810 --> 00:03:51.689
-204,
+
 
 00:03:51.689 --> 00:03:55.450
-so it goes at address 204, and in these 4 bytes, starting 
+So it goes at address 204, and in these 4 bytes, starting 
 
 00:03:55.450 --> 00:03:56.749
-204,
+from 204,
 
 00:03:56.749 --> 00:04:00.189
 it writes this value 5.
 
 00:04:00.189 --> 00:04:02.429
-Now in reality, the value
+In fact the value
 
 00:04:02.429 --> 00:04:04.000
 is written in binary, but
@@ -292,7 +292,7 @@ statements we
 have another statement which increments 'a'.
 
 00:04:15.499 --> 00:04:17.829
-Now again, when computer sees that,
+When computer sees that,
 
 00:04:17.829 --> 00:04:20.600
 'a' has to be incremented, it again looks for this
@@ -322,10 +322,10 @@ a variable
 in our program?
 
 00:04:38.860 --> 00:04:43.060
-Or can we operate upon these memory addresses in our program. Well,
+Or can we operate upon these memory addresses in our program?
 
 00:04:43.060 --> 00:04:46.520
-yes, you can do so in a C or C++ program,
+Yes, you can do so in a C or C++ program,
 
 00:04:46.520 --> 00:04:47.760
 using the concept of
@@ -340,7 +340,7 @@ Pointers are variables that store the address of another variable.
 And to make you understand,
 
 00:04:54.509 --> 00:04:58.129
-about this a little better, I'll redraw couple of these things.
+about this a little better, I'll redraw a couple of these things.
 
 00:04:58.129 --> 00:05:01.170
 Let's say, we have a block of 4 bytes,
@@ -460,13 +460,13 @@ we need to
 use a statement like
 
 00:06:38.379 --> 00:06:41.580
-p = &amp;a (ampersand 'a')
+p = &a (ampersand 'a').
 
 00:06:41.580 --> 00:06:44.689
-now if we put '&amp;' in front of a variable
+Now if we put '&' in front of a variable
 
 00:06:44.689 --> 00:06:47.829
-it gives us the address of that particular variable. In-fact, it
+it gives us the address of that particular variable. In fact, it
 
 00:06:47.829 --> 00:06:48.439
 returns a
@@ -490,7 +490,7 @@ it was allocated
 an address 204.
 
 00:06:59.629 --> 00:07:01.419
-Now we declare an..
+Now we declare 
 
 00:07:01.419 --> 00:07:04.270
 a pointer to integer 'p'.
@@ -499,10 +499,10 @@ a pointer to integer 'p'.
 Let's say it was allocated address 64.
 
 00:07:06.509 --> 00:07:08.939
-Now when we write a statement like p = &amp;a
+Now when we write a statement like p = &a
 
 00:07:08.939 --> 00:07:11.729
-p = &amp;a, then
+p = &a, then
 
 00:07:11.729 --> 00:07:14.239
 'p' now has the address of 'a'.
@@ -514,7 +514,7 @@ And it kind of
 points to 'a'. Let's
 
 00:07:19.289 --> 00:07:23.660
-initialize 'a' to some value, let's say a =5, so, we fill 
+initialize 'a' to some value, let's say a=5, so, we fill 
 
 00:07:23.660 --> 00:07:26.580
 value 5 into 'a' now.
@@ -538,19 +538,19 @@ output will be 204 because 'p' has a value 204.
 What if we simply try to print
 
 00:07:45.579 --> 00:07:46.959
-&amp;a (ampersand of a)?
+&a (ampersand of a)?
 
 00:07:46.959 --> 00:07:50.819
-&amp;a also gives us the address of 'a'. So this will also be 204
+&a also gives us the address of 'a'. So this will also be 204
 
 00:07:50.819 --> 00:07:52.500
-204.
+
 
 00:07:52.500 --> 00:07:55.009
 What if we want to print
 
 00:07:55.009 --> 00:07:57.469
-&amp;p?
+&p?
 
 00:07:57.469 --> 00:08:00.649
 Now 'p' is also a variable and it is also stored in the memory.
@@ -559,7 +559,7 @@ Now 'p' is also a variable and it is also stored in the memory.
 So ampersand since it prints the, it gives you the address of that variable, so
 
 00:08:06.309 --> 00:08:08.369
-printing &amp;p should give us
+printing &p should give us
 
 00:08:08.369 --> 00:08:09.669
 64,
@@ -568,7 +568,7 @@ printing &amp;p should give us
 which is the address of 'p'.
 
 00:08:11.229 --> 00:08:13.800
-Now there is one more important property of pointer:
+Now there is one more important property of pointer.
 
 00:08:13.800 --> 00:08:15.550
 If we put
@@ -652,7 +652,7 @@ we define a pointer variable
 by putting an asterisk (*) sign in front of the variable name and
 
 00:09:27.780 --> 00:09:31.370
-if we put an ampersand (&amp;) sign in front of a variable name, we get the address of
+if we put an ampersand (&) sign in front of a variable name, we get the address of
 
 00:09:31.370 --> 00:09:32.130
 it.
@@ -661,13 +661,13 @@ it.
 So if we try to print
 
 00:09:34.040 --> 00:09:36.970
-a pointer variable without asterisk (*) sign, or operate upon it without
+a pointer variable without asterisk sign, or operate upon it without
 
 00:09:36.970 --> 00:09:39.290
-asterisk (*) sign, we are operating with the address.
+asterisk sign, we are operating with the address.
 
 00:09:39.290 --> 00:09:43.110
-While if we put the asterisk (*) sign in front of the pointer variable,
+While if we put the asterisk sign in front of the pointer variable,
 
 00:09:43.110 --> 00:09:45.839
 and operate upon it then we are operating
