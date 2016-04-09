@@ -81,7 +81,7 @@ a of Add and the value of b in main is copied
 to b of Add.
 
 00:02:07.100 --> 00:02:13.500
-This a in main and this a in Add - they're
+This a in main and this a in Add. They're
 not the same. You can verify this by printing
 
 00:02:13.500 --> 00:02:20.209
