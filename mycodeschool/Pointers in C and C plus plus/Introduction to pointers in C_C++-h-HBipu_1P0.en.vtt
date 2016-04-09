@@ -141,16 +141,16 @@ and also upon
 the compiler. So in a typical modern-day compiler an integer is allocated
 
 00:02:12.190 --> 00:02:14.149
-4 bytes of memory.
+in 4 bytes of memory.
 
 00:02:14.149 --> 00:02:15.890
 A character variable is
 
 00:02:15.890 --> 00:02:18.239
-allocated 1 byte of memory.
+allocated in 1 byte of memory.
 
 00:02:18.239 --> 00:02:20.389
-Float is allocated
+A float is allocated
 
 00:02:20.389 --> 00:02:23.669
 in 4 bytes of memory and we can have other variables as well.
