@@ -172,7 +172,7 @@ this function Add. I have tried to print a
 
 00:04:30.550 --> 00:04:37.800
 and I have tried to print *a and initially
-I was printing &amp;a. So now &amp;a should give us
+I was printing &a. So now &a should give us
 
 00:04:37.800 --> 00:04:43.120
 the address of the pointer variable. a should
@@ -215,8 +215,8 @@ So what we will do now is we will say that
 we want to return pointer to integer from
 
 00:05:41.130 --> 00:05:47.240
-this function and here we will return &amp;c.
-Now &amp; when it is put in front of a variable
+this function and here we will return &c.
+Now & when it is put in front of a variable
 
 00:05:47.240 --> 00:05:53.320
 it gives us the address. Now of course, here
