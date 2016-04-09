@@ -4,7 +4,7 @@ Language: en
 
 00:00:00.170 --> 00:00:08.170
 In our lesson so far we have seen how we can
-work with pointers in some of the basic scenarios,
+work with pointers in some of the basic scenarios
 
 00:00:08.170 --> 00:00:13.880
 but there are some scenarios where pointers
@@ -75,16 +75,16 @@ be reserved for this variable p in a typical
 architecture. Pointer is also stored in 4
 
 00:01:59.539 --> 00:02:07.229
-bytes so let's say we get this block of 4
+bytes. So let's say we get this block of 4
 bytes at address 215 for p and now I want to
 
 00:02:07.229 --> 00:02:14.080
-write a statement like this so I want to fill
+write a statement like this. So I want to fill
 in the address of x in p and that's how p points
 
 00:02:14.080 --> 00:02:21.840
-to x. &amp; operator gives us the address of a
-variable. Now one important thing here, we
+to x. The & operator gives us the address of a
+variable. One important thing here. We
 
 00:02:21.840 --> 00:02:29.010
 are able to store the address of x in p because
@@ -95,7 +95,7 @@ of type pointer to character or pointer to
 some other some other variable, this statement
 
 00:02:34.689 --> 00:02:41.250
-p=&amp;x would not have been valid. So if I have
+p=&x would not have been valid. So if I have
 to write down the types of these two variables,
 
 00:02:41.250 --> 00:02:49.980
@@ -104,19 +104,19 @@ or I can also say that p is int * or int
 
 00:02:49.980 --> 00:02:56.450
 asterisk. Why pointer variables are strongly
-typed? why do we need a pointer to integer
+typed? Why do we need a pointer to integer
 
 00:02:56.450 --> 00:03:02.890
 to reference or store the address of an integer?
 It is because we don't just store the address
 
 00:03:02.890 --> 00:03:10.430
-of a variable in a pointer variable we also
+of a variable in a pointer variable. We also
 use the pointer variable to dereference the
 
 00:03:10.430 --> 00:03:15.709
 address and write some value there. So if I
-write a statement like this, this value here
+write a statement like this. This value here
 
 00:03:15.709 --> 00:03:23.780
 at address 225, this x is now modified. Now
@@ -168,7 +168,7 @@ p we will need a pointer to int * so we will
 
 00:04:44.780 --> 00:04:51.170
 put one extra asterisk to say that this is a pointer
-to int star and we can go on like this lets
+to int * and we can go on like this lets
 
 00:04:51.170 --> 00:04:57.100
 say we want to declare a pointer to pointer
@@ -191,7 +191,7 @@ r is of type int *** so it can store the address
 of int ** so it cannot store the address of
 
 00:05:27.800 --> 00:05:38.050
-x or p the statement something like r =&amp;q
+x or p the statement something like r =&q
 will be valid now I have translated my previous
 
 00:05:38.050 --> 00:05:44.880
@@ -199,7 +199,7 @@ rough code into a working c program. Let
 us assume that this program is working as
 
 00:05:44.880 --> 00:05:51.280
-per this memory sketch that we r showing in
+per this memory sketch that we are showing in
 the right now I will write some print statements
 
 00:05:51.280 --> 00:05:57.000
@@ -208,7 +208,7 @@ you have to assume that these variables x
 
 00:05:57.000 --> 00:06:03.950
 p q and r are allocated these addresses what
-we r showing here in the right so the first
+we are showing here in the right so the first
 
 00:06:03.950 --> 00:06:11.260
 print statement that I am going to write is
@@ -244,7 +244,7 @@ a good practice if we are using this asterisk
 
 00:07:07.390 --> 00:07:14.070
 operator to use parentheses wherever we can
-do it because some times when we r also using
+do it because some times when we are also using
 
 00:07:14.070 --> 00:07:23.020
 other operators we are not sure about the
@@ -263,16 +263,16 @@ more dereferencing will take us to value in
 x which will be 6 if u see this is really
 
 00:07:45.530 --> 00:07:52.940
-interesting from r we r using one asterisk operator
+interesting from r we are using one asterisk operator
 and we are able to go to q then we are using
 
 00:07:52.940 --> 00:07:59.540
 the asterisk operator twice and we reach p and then we
-r using the asterisk operator thrice and we reach x.
+are using the asterisk operator thrice and we reach x.
 
 00:07:59.540 --> 00:08:05.780
 Let's make some more changes in this code and run
-this in a real compiler so what I'll do here
+this in a real compiler. So what I'll do here
 
 00:08:05.780 --> 00:08:14.220
 is I'll write a statement like this and then
@@ -295,11 +295,11 @@ write something like **q = let's say something
 like this. Now *p is also referencing x and **q
 
 00:08:53.240 --> 00:08:59.939
-is also dereferencing x sorry we are dereferencing
-here so any guesses what will be the output
+is also dereferencing x. Sorry, we are dereferencing
+here. So any guesses what will be the output
 
 00:08:59.939 --> 00:09:06.800
-of this last print statement Well if u see,
+of this last print statement? Well if u see,
 x is incremented by 2 here so this was pointer
 
 00:09:06.800 --> 00:09:13.220
