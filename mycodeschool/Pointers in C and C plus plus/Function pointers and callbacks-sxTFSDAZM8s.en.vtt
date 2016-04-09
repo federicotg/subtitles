@@ -188,7 +188,7 @@ say I want to sort my list in decreasing order
 
 00:04:45.199 --> 00:04:50.759
 of the value of integers. So, what change
-should go in my code here. Think about it.
+should go in my code here? Think about it.
 
 00:04:50.759 --> 00:04:56.349
 The only change will be in this comparison
@@ -415,7 +415,7 @@ named absolute_compare. I have included a
 reference to Math.h library and I will use
 
 00:10:32.370 --> 00:10:38.610
-abs function from this library that will give
+"abs" function from this library that will give
 me absolute value of an integer. If absolute
 
 00:10:38.610 --> 00:10:45.290

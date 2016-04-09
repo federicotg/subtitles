@@ -119,24 +119,24 @@ address and write some value there. So if I
 write a statement like this. This value here
 
 00:03:15.709 --> 00:03:23.780
-at address 225, this x is now modified. Now
-can I create a pointer to this variable p,
+at address 225. This x is now modified. 
+Can I create a pointer to this variable p,
 
 00:03:23.780 --> 00:03:28.819
-which itself is a pointer to integer Well
-yes we actually we can do so so let's say
+which itself is a pointer to integer?
+Yes, we actually can do so. So let's say
 
 00:03:28.819 --> 00:03:34.870
 we want to create a variable named q, that
-will store the address of p now what will
+will store the address of p. Now what will
 
 00:03:34.870 --> 00:03:40.870
-be the type of this variable we need a pointer
+be the type of this variable. We need a pointer
 of a particular type to store the address
 
 00:03:40.870 --> 00:03:46.569
-of a particular type of variable, so to store
-a pointer to integer, we will have to say
+of a particular type of variable. So to store
+a pointer to integer we will have to say
 
 00:03:46.569 --> 00:03:54.140
 that we want a pointer to pointer. So we will
@@ -144,7 +144,7 @@ put two ** sign in front of a variable name
 
 00:03:54.140 --> 00:04:03.769
 and now this variable q can store the address
-of p so with this first line with this int
+of p. So with this first line with this int
 
 00:04:03.769 --> 00:04:12.049
 **q we created q. Let's say we created q at
@@ -164,15 +164,15 @@ a star to say that this is a pointer to that
 
 00:04:38.740 --> 00:04:44.780
 particular type and to store the address of
-p we will need a pointer to int * so we will
+p we will need a pointer to int *. So we will
 
 00:04:44.780 --> 00:04:51.170
 put one extra asterisk to say that this is a pointer
-to int * and we can go on like this lets
+to int * and we can go on like this. Lets
 
 00:04:51.170 --> 00:04:57.100
 say we want to declare a pointer to pointer
-to pointer so int ** is pointer to pointer
+to pointer. So int ** is pointer to pointer
 
 00:04:57.100 --> 00:05:03.780
 and we will put one more asterisk we can put these
@@ -180,66 +180,66 @@ three asterisks immediately after this key word int
 
 00:05:03.780 --> 00:05:09.220
 or we can put it immediately before the variable
-name like we have done in the case of q here
+name like we have done in the case of q here.
 
 00:05:09.220 --> 00:05:16.670
-let's say we define r as int *** so let's say
-r gets this address 230 in the memory now
+Let's say we define r as int *** so let's say
+r gets this address 230 in the memory. Now
 
 00:05:16.670 --> 00:05:27.800
 r is of type int *** so it can store the address
 of int ** so it cannot store the address of
 
 00:05:27.800 --> 00:05:38.050
-x or p the statement something like r =&q
+x or p. The statement something like r =&q
 will be valid now I have translated my previous
 
 00:05:38.050 --> 00:05:44.880
-rough code into a working c program. Let
-us assume that this program is working as
+rough code into a working c program. Let's
+assume that this program is working as
 
 00:05:44.880 --> 00:05:51.280
 per this memory sketch that we are showing in
-the right now I will write some print statements
+the right. Now I will write some print statements
 
 00:05:51.280 --> 00:05:57.000
-and you need to guess the out puts. So basically
-you have to assume that these variables x
+and you need to guess the outputs. So basically
+you have to assume that these variables x,
 
 00:05:57.000 --> 00:06:03.950
-p q and r are allocated these addresses what
-we are showing here in the right so the first
+p, q, and r are allocated in these addresses what
+we are showing here in the right. So the first
 
 00:06:03.950 --> 00:06:11.260
-print statement that I am going to write is
+print statement that I am going to write is this.
 I want to print *p and this one should be simple
 
 00:06:11.260 --> 00:06:18.710
-for you *p would be value stored at address
-in p so this will be 6 now the next statement
+for you. *p would be value stored at address
+in p so this will be 6. Now the next statement
 
 00:06:18.710 --> 00:06:26.660
-that I want to print is *q so *q will be a
-value at address stored in q address stored
+that I want to print is *q. So *q will be a
+value at address stored in q. Address stored
 
 00:06:26.660 --> 00:06:36.030
 in variable q is 215 so this is nothing but
-the value of p so this will be 225 and now I
+the value of p so this will be 225. And now I
 
 00:06:36.030 --> 00:06:44.910
-want to print **q so I want to do de referencing
-twice first I want to go to *q, *q is this
+want to print **q. So I want to do dereferencing
+twice. First I want to go to *q. *q is this
 
 00:06:44.910 --> 00:06:53.800
-address 225 and now I want to look at the value
-at address 225 so this one will be 6 we could
+address 225. And now I want to look at the value
+at address 225. So this one will be 6. We could
 
 00:06:53.800 --> 00:07:01.400
-have avoided writing this parentheses here,
-we could have said **q only and that would have
+have avoided writing this parentheses here.
+We could have said **q only and that would have
 
 00:07:01.400 --> 00:07:07.390
-also that would have meant the same but it's
+meant the same but it's
 a good practice if we are using this asterisk
 
 00:07:07.390 --> 00:07:14.070
@@ -248,22 +248,22 @@ do it because some times when we are also using
 
 00:07:14.070 --> 00:07:23.020
 other operators we are not sure about the
-precedence and we want to avoid unwanted behaviors
+precedence and we want to avoid unwanted behaviors.
 
 00:07:23.020 --> 00:07:31.540
-now what about these two print statements
+Now what about these two print statements.
 **r and ***r, *r means value in q which will
 
 00:07:31.540 --> 00:07:40.020
 be 215 and then further one more dereferencing
-will take us to value in p which is 225 and one
+will take us to value in p which is 225. And one
 
 00:07:40.020 --> 00:07:45.530
 more dereferencing will take us to value in
-x which will be 6 if u see this is really
+x which will be 6. If you see this is really
 
 00:07:45.530 --> 00:07:52.940
-interesting from r we are using one asterisk operator
+interesting. From r we are using one asterisk operator
 and we are able to go to q then we are using
 
 00:07:52.940 --> 00:07:59.540
@@ -279,12 +279,12 @@ is I'll write a statement like this and then
 after this statement I'll print the value
 
 00:08:14.220 --> 00:08:25.350
-in x. If u run this now as you can see *p,
+in x. If you run this now as you can see *p,
 **q and ***r all these 3 values are 6 the address
 
 00:08:25.350 --> 00:08:32.479
 will not be same as we had shown in the example
-for obvious reasons and as u can see we are
+for obvious reasons and as you can see we are
 
 00:08:32.479 --> 00:08:40.779
 able to modify x by doing this chain of de
@@ -299,11 +299,11 @@ is also dereferencing x. Sorry, we are dereferencing
 here. So any guesses what will be the output
 
 00:08:59.939 --> 00:09:06.800
-of this last print statement? Well if u see,
+of this last print statement? Well if you see,
 x is incremented by 2 here so this was pointer
 
 00:09:06.800 --> 00:09:13.220
-to pointer I recommend that you write some
+to pointer. I recommend that you write some
 of this code yourself and play a little bit.
 
 00:09:13.220 --> 00:09:18.779
@@ -311,5 +311,5 @@ In the coming lessons we will use pointer
 to pointer in some real problem scenarios.
 
 00:09:18.779 --> 00:09:19.680
-So thanks for watching
+Thanks for watching
 
