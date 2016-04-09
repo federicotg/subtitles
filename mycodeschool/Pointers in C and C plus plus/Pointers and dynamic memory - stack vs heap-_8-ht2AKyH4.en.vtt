@@ -396,7 +396,7 @@ and until when to keep
 
 00:08:07.200 --> 00:08:12.230
 the data in the memory during the application's
-lifetime.  The heap can
+lifetime. The heap can
 
 00:08:12.230 --> 00:08:18.010
 grow as long as you do not run out of memory
@@ -412,10 +412,10 @@ heap a free pool of memory
 
 00:08:27.240 --> 00:08:32.579
 or a free store of memory. We can get as much
-as we want from the heap.
+as we want from heap.
 
 00:08:32.579 --> 00:08:37.999
-How heap is implemented by the operating system,
+How the heap is implemented by the operating system,
 language runtime or
 
 00:08:37.999 --> 00:08:42.569
@@ -432,7 +432,7 @@ pool of memory available to us
 
 00:08:52.470 --> 00:08:59.339
 that we can use flexibly as per our need.
-Heap is also called dynamic
+The heap is also called dynamic
 
 00:08:59.339 --> 00:09:05.470
 memory and using the heap is referred to as
@@ -451,7 +451,7 @@ heap. There is one more thing that I must
 point out before moving
 
 00:09:21.660 --> 00:09:26.670
-forward. Heap is also one data structure and
+forward. The heap is also one data structure and
 if you do not know about
 
 00:09:26.670 --> 00:09:30.089
@@ -463,11 +463,11 @@ Structure course. But this nomenclature here
 has nothing to do with
 
 00:09:34.620 --> 00:09:40.879
-heap data structure. The term heap is being
+heap data structure. The term "heap" is being
 used only for the large free
 
 00:09:40.879 --> 00:09:44.589
-pool of memory. Heap data structure does not
+pool of memory. The heap data structure does not
 come anywhere in this
 
 00:09:44.589 --> 00:09:49.029
@@ -483,7 +483,7 @@ segment of the memory is actually an implementation
 of the stack data
 
 00:09:56.860 --> 00:10:00.410
-structure but heap is not an implementation
+structure, but the heap is not an implementation
 of the heap data structure.
 
 00:10:00.410 --> 00:10:06.019
@@ -616,7 +616,7 @@ the pointer p and then put in
 
 00:12:41.610 --> 00:12:47.199
 some value. In fact the only way to use memory
-on heap is through
+on the heap is through
 
 00:12:47.199 --> 00:12:51.129
 reference. All the malloc function does it,
