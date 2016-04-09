@@ -492,10 +492,10 @@ about four functions
 
 00:10:06.019 --> 00:10:14.889
 malloc, calloc, realloc and free. To use dynamic
-memory in C++, we need
+memory in C++ we need
 
 00:10:14.889 --> 00:10:22.249
-to know about two operators new and delete.
+to know about two operators: new and delete.
 These four functions can
 
 00:10:22.249 --> 00:10:29.170
@@ -515,7 +515,7 @@ how things happen when dynamic memory is used.
 Let us first pick up
 
 00:10:44.509 --> 00:10:50.110
-some code examples in C. Let us write a C
+some code examples in C. Let's write a C
 program. I will clean up some
 
 00:10:50.110 --> 00:10:54.420

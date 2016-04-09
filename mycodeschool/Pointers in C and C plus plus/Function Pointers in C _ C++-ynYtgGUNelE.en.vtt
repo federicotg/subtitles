@@ -181,7 +181,7 @@ On a Windows machine, executable
 files has extension
 
 00:02:48.569 --> 00:02:52.569
-exe. An executable file will be stored
+"exe". An executable file will be stored
 in
 
 00:02:52.569 --> 00:02:56.459
@@ -212,11 +212,11 @@ only when it starts execution.
 
 00:03:18.829 --> 00:03:23.090
 When the application finishes execution,
-this memory is claimed back
+this memory is claimed back.
 
 00:03:23.090 --> 00:03:27.379
 What really happens is that when
-we run a program when
+we run a program, when
 
 00:03:27.379 --> 00:03:31.870
 a program started execution, some amount
@@ -295,19 +295,19 @@ Instructions in a program are executed
 sequentially.
 
 00:04:40.860 --> 00:04:45.100
-Only exception will be when instruction
+The only exception will be when the instruction
 itself will say that,
 
 00:04:45.100 --> 00:04:48.740
 "go to or jump to this other
-instruction"
+instruction
 
 00:04:48.740 --> 00:04:53.290
-at this particular address, which will
-happen in case of function calls,
+At this particular address", which will
+happen in case of function calls.
 
 00:04:53.290 --> 00:04:58.550
-for example if instruction 01 at address 200 is currently executing
+For example, if instruction 01 at address 200 is currently executing
 
 00:04:58.550 --> 00:05:01.610
 by default the next instruction to be
@@ -321,7 +321,7 @@ Unless instruction 01 is itself
 something like
 
 00:05:08.570 --> 00:05:12.810
-go to instruction-05 at address 216
+go to instruction 05 at address 216
 
 00:05:12.810 --> 00:05:16.130
 which will happen in case of function
@@ -329,10 +329,10 @@ calls. A function
 
 00:05:16.130 --> 00:05:21.690
 is nothing but a set of instructions
-stored in one contiguous block of memory
+stored in one contiguous block of memory.
 
 00:05:21.690 --> 00:05:24.920
-let's say this block containing
+Let's say this block containing
 instructions 5 until
 
 00:05:24.920 --> 00:05:28.800
