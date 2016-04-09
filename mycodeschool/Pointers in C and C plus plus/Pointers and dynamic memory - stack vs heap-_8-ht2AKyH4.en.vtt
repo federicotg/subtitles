@@ -63,7 +63,7 @@ stack in our lesson on Call by Reference.
 Local variables are declared
 
 00:01:18.950 --> 00:01:24.070
-inside a function and they live only till
+inside a function and they live only until
 the time the function is executing.
 
 00:01:24.070 --> 00:01:28.210
@@ -375,12 +375,12 @@ problem with stack. For all these problems,
 like allocating large chunks of
 
 00:07:39.970 --> 00:07:44.800
-memory or keeping variable in the memory till
-the time we want, we
+memory or keeping variable in the memory until
+the time we want we
 
 00:07:44.800 --> 00:07:53.310
-have heap. Unlike stack, application's heap
-is not fixed. It's size can vary
+have the heap. Unlike the stack, the application's heap
+is not fixed. Its size can vary
 
 00:07:53.310 --> 00:07:57.720
 during the lifetime of the application and
@@ -392,11 +392,11 @@ A programmer can totally
 
 00:08:01.990 --> 00:08:07.200
 control how much memory to use from the heap,
-till what time to keep
+and until when to keep
 
 00:08:07.200 --> 00:08:12.230
-the data in the memory during the applications
-lifetime and heap can
+the data in the memory during the application's
+lifetime.  The heap can
 
 00:08:12.230 --> 00:08:18.010
 grow as long as you do not run out of memory
@@ -408,10 +408,10 @@ really careful about using
 
 00:08:21.790 --> 00:08:27.240
 heap for this reason. We also sometimes call
-heap, free pool of memory
+heap a free pool of memory
 
 00:08:27.240 --> 00:08:32.579
-or free store of memory. We can get as much
+or a free store of memory. We can get as much
 as we want from the heap.
 
 00:08:32.579 --> 00:08:37.999
