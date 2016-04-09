@@ -454,7 +454,7 @@ A against some pointer variable like
 this, you cannot do something like
 
 00:08:03.110 --> 00:08:07.479
-A plus plus, increment the value of A. Yhis 
+A plus plus, increment the value of A. This 
 will give us compilation error.
 
 00:08:07.479 --> 00:08:10.900
