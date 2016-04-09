@@ -407,7 +407,7 @@ if we run a loop like this from 0 to 4
 then they can print address of the
 
 00:07:11.449 --> 00:07:14.610
-element at index i as &amp;A[i] or
+element at index i as &A[i] or
 
 00:07:14.610 --> 00:07:18.979
 (A+i) and we can print the value of i element as
