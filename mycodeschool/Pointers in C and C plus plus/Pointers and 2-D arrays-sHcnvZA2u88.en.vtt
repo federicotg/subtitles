@@ -214,7 +214,7 @@ is same as A[i], these are alternate
 syntax
 
 00:03:29.040 --> 00:03:32.420
-and (A+i) is same as &amp;A[i]
+and (A+i) is same as &A[i]
 
 00:03:32.420 --> 00:03:36.220
 both will give us the address of the
@@ -379,7 +379,7 @@ pointer to the first integer in B[0]
 which will be accessed
 
 00:06:19.910 --> 00:06:23.759
-as B[0][0] so I'm putting this '&amp;' sign here
+as B[0][0] so I'm putting this '&' sign here
 in front of 
 
 00:06:23.759 --> 00:06:25.310
@@ -451,7 +451,7 @@ in bytes, so output will be 412
 
 00:07:27.979 --> 00:07:33.039
 which makes sense because B+1
-is same as &amp;B[1]
+is same as &B[1]
 
 00:07:33.039 --> 00:07:36.419
 or address of B[1] and address of B[1] is
@@ -506,7 +506,7 @@ output will be 412.
 All these expressions *(B+1) or
 
 00:08:32.080 --> 00:08:35.170
-B[1] or &amp;B[1][0] are 
+B[1] or &B[1][0] are 
 
 00:08:35.170 --> 00:08:40.440
 returning us pointer to integer. Okay now
@@ -573,7 +573,7 @@ they are returning pointer
 this element B[1][2]
 
 00:09:43.570 --> 00:09:46.980
-and that's why we can also &amp;B[1][2].
+and that's why we can also &B[1][2].
 
 00:09:46.980 --> 00:09:51.280
 All these three once again are same.
@@ -662,11 +662,11 @@ to this integer at address 404.
 (*B+1) is basically
 
 00:11:13.480 --> 00:11:18.470
-&amp;B[0][1] and with this final
+&B[0][1] and with this final
 dereferencing
 
 00:11:18.470 --> 00:11:22.290
-we can get rid of this '&amp;' so
+we can get rid of this '&' so
 overall expression
 
 00:11:22.290 --> 00:11:25.600
