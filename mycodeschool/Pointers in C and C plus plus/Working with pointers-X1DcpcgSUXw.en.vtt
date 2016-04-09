@@ -81,7 +81,7 @@ And to get the address of a variable, we
 write a statement like,
 
 00:01:19.410 --> 00:01:23.170
-P = &amp;a (ampersand 'a'). Now, this ampersand
+P = &a (ampersand 'a'). Now, this ampersand
 
 00:01:23.170 --> 00:01:26.950
 works as an operator that gives us the address of 'a',
@@ -192,13 +192,13 @@ So, that's why the program is crashing.
 So now I will write a statement.
 
 00:02:56.989 --> 00:02:59.509
-p = &amp;a (ampersand 'a')
+p = &a (ampersand 'a')
 
 00:02:59.509 --> 00:03:00.689
 Now ampersand 
 
 00:03:00.689 --> 00:03:02.859
-of a (&amp;a) is nothing but
+of a (&a) is nothing but
 
 00:03:02.859 --> 00:03:04.279
 address of a.
@@ -280,7 +280,7 @@ another print statement,
 and this time I will print
 
 00:04:19.409 --> 00:04:21.579
-&amp;a (ampersand 'a').
+&a (ampersand 'a').
 
 00:04:21.579 --> 00:04:24.510
 Now what should be the output of this
@@ -292,7 +292,7 @@ third print statement?
 And this should be pretty easy to guess.
 
 00:04:28.520 --> 00:04:31.059
-Ampersand operator (&amp;) gives us the address
+Ampersand operator (&) gives us the address
 
 00:04:31.059 --> 00:04:32.280
 and that's why
@@ -322,7 +322,7 @@ And to do so I will write a statement like
 and this is read as
 
 00:04:55.550 --> 00:04:59.590
-value at address 'p'... Value at address being pointed by 'p'
+value at address 'p'. Value at address being pointed by 'p'
 
 00:04:59.590 --> 00:05:00.650
 is now 12.
@@ -391,14 +391,14 @@ And the question now is that,
 will the address in 'p' change now
 
 00:05:43.630 --> 00:05:46.839
- to point to 'b'?
+to point to 'b'?
 
 00:05:46.839 --> 00:05:50.360
-Well. No, unless you explicitly write a
+No, unless you explicitly write a
 statement like,
 
 00:05:50.360 --> 00:05:52.849
-p = &amp;b.
+p = &b.
 
 00:05:52.849 --> 00:05:56.939
 This reverse operation will not happen. What we are doing here is actually, only
@@ -569,7 +569,7 @@ Can we really increment and decrement
 a pointer variable?
 
 00:08:07.050 --> 00:08:09.029
-Well, yes! We can do so.
+Yes, we can do so.
 
 00:08:09.029 --> 00:08:09.960
 So now let's assume
@@ -606,10 +606,10 @@ takes us to the address of the next integer
 and because
 
 00:08:36.790 --> 00:08:39.450
-the size of an integer is four bytes
+the size of an integer is four bytes.
 
 00:08:39.450 --> 00:08:41.180
-to go to the next
+So, to go to the next
 
 00:08:41.180 --> 00:08:46.790
 integer address we need to skip 4 bytes. So,
@@ -628,7 +628,7 @@ and I will write something like sizeof
 integer is.
 
 00:08:57.890 --> 00:09:01.220
-and we have a function in C, sizeof that gives us
+We have a function in C, sizeof, that gives us
 
 00:09:01.220 --> 00:09:03.650
 the size of the data type.
@@ -637,11 +637,11 @@ the size of the data type.
 So this
 
 00:09:04.520 --> 00:09:07.770
-statement, this print statement, will give
+print statement will give
 us the size of integer.
 
 00:09:07.770 --> 00:09:10.740
-And let's write in the first and third
+Let's write in the first and third
 
 00:09:10.740 --> 00:09:13.560
 print statements something like
@@ -659,7 +659,7 @@ is blah. So
 let's now run this and see what happens.
 
 00:09:21.070 --> 00:09:25.350
-OK so the output is address p is4 586052 which
+So the output is address p is4 586052 which
 
 00:09:25.350 --> 00:09:26.720
 is some address
@@ -675,22 +675,22 @@ the size of an integer is four bytes
 
 00:09:34.740 --> 00:09:38.910
 and address (p+1) is four bytes
-more than address p
+more than address p.
 
 00:09:38.910 --> 00:09:43.010
-you can try this thing out for a character pointer or a double pointer
+You can try this thing out for a character pointer or a double pointer
 
 00:09:43.010 --> 00:09:45.100
-or a pointer for some other data type
+or a pointer for some other data type.
 
 00:09:45.100 --> 00:09:48.020
-okay so we could also increment this by 2
+So we could also increment this by 2
 
 00:09:48.020 --> 00:09:50.870
-and what happens if we increment this by 2.
+and what happens if we increment this by 2?
 
 00:09:50.870 --> 00:09:54.640
-Well, it will increment the address by 8.
+It will increment the address by 8.
 
 00:09:54.640 --> 00:09:56.490
 So, this will be like
@@ -708,17 +708,17 @@ and this 2002 and 2010 is something that I have picked up
 randomly
 
 00:10:05.540 --> 00:10:07.260
-just for the sake of example
+just for the sake of example.
 
 00:10:07.260 --> 00:10:10.920
-OK so now once again what if I want to
+So now once again what if I want to
 print the value at this particular
 
 00:10:10.920 --> 00:10:11.920
-address
+address?
 
 00:10:11.920 --> 00:10:16.670
-so I am printing two more lines here now.
+So I am printing two more lines here now.
 I am printing value at address p
 
 00:10:16.670 --> 00:10:20.740
@@ -741,10 +741,10 @@ We put the star operator in front of the
 address.
 
 00:10:31.860 --> 00:10:33.940
-OK, so now what will be the output?
+So now what will be the output?
 
 00:10:33.940 --> 00:10:35.420
-OK so the output is that
+So the output is that
 
 00:10:35.420 --> 00:10:38.779
 address p is some address and value at address p is 10 which is 
@@ -776,13 +776,13 @@ know about.
 In fact this is some garbage value because
 
 00:10:56.140 --> 00:10:59.290
-because we do not really have an integer allocated to this
+we do not really have an integer allocated to this
 
 00:10:59.290 --> 00:11:00.860
-particular memory address
+particular memory address.
 
 00:11:00.860 --> 00:11:05.650
-and this is one dangerous thing about c
+And this is one dangerous thing about c
 using pointer arithmetic.
 
 00:11:05.650 --> 00:11:07.440
@@ -822,7 +822,7 @@ in the coming lessons we will talk more
 about pointers and we will talk about 
 
 00:11:31.260 --> 00:11:34.230
-pointers in the context of arrays
+pointers in the context of arrays.
 
 00:11:34.230 --> 00:11:35.060
 So, thanks for watching!
