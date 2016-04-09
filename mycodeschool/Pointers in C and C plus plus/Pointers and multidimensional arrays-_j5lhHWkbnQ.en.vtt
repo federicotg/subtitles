@@ -345,7 +345,7 @@ that's why the output is 400. Even if I
 would print
 
 00:05:24.530 --> 00:05:27.710
-&amp;B[0][0] output will be
+&B[0][0] output will be
 
 00:05:27.710 --> 00:05:33.400
 400. B and *B are both returning
@@ -776,7 +776,7 @@ writing,
 I'm trying to print C, *C
 
 00:12:42.130 --> 00:12:46.709
-C[0] and &amp;C[0][0]. All of these
+C[0] and &C[0][0]. All of these
 are pointers
 
 00:12:46.709 --> 00:12:50.200
