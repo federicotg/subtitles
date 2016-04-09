@@ -13,13 +13,13 @@ and we also saw how to operate upon
 pointer variable, how to work with
 
 00:00:08.830 --> 00:00:12.659
-pointer variables in c or c++ program
+pointer variables in c or c++ program,
 
 00:00:12.659 --> 00:00:14.729
 but we did not really talk about
 
 00:00:14.729 --> 00:00:18.539
-the real use cases of pointer variables, in what scenarios we may 
+the real use cases of pointer variables. In what scenarios we may 
 
 00:00:18.539 --> 00:00:19.410
 want to 
@@ -37,13 +37,13 @@ one of the use cases of pointer variables.
 And the use case is
 
 00:00:27.699 --> 00:00:30.369
-using them, using pointers as
+using pointers as
 
 00:00:30.369 --> 00:00:32.099
-function arguments
+function arguments.
 
 00:00:32.099 --> 00:00:35.890
-and we also call this as call by reference.
+And we also term this as call by reference.
 
 00:00:35.890 --> 00:00:36.720
 So
@@ -85,10 +85,10 @@ declared and initialized in the main
 method
 
 00:01:01.160 --> 00:01:04.619
-and wants to increment the value in this variable by one
+and wants to increment the value in this variable by one.
 
 00:01:04.619 --> 00:01:09.980
-so instead of writing something like a plus plus, or a equal to a plus one
+So instead of writing something like a plus plus, or a equal to a plus one;
 
 00:01:09.980 --> 00:01:12.280
 instead of writing a statement like this
@@ -143,7 +143,7 @@ Albert does not understand why this is
 happening.
 
 00:01:50.110 --> 00:01:52.580
-He has declared a variable a
+he has declared a variable 'a'
 
 00:01:52.580 --> 00:01:57.640
 and then he has initialized this variable to 10 and
@@ -153,7 +153,7 @@ then he is passing the same a
 to the function increment
 
 00:01:59.170 --> 00:02:03.860
-and the same a is being incremented by one in this function.
+and the same 'a' is being incremented by one in this function.
 
 00:02:03.860 --> 00:02:07.210
 So why the value of a being printed
@@ -193,14 +193,14 @@ inside the same function in which we
 have declared the variable.
 
 00:02:32.429 --> 00:02:33.769
-So these two a,
+So these two 'a'.
 
 00:02:33.769 --> 00:02:37.599
-This a in the function increment and
-this a in the function main,
+This 'a' in the function increment and
+this 'a' in the function main 
 
 00:02:37.599 --> 00:02:40.299
-are actually not the same a.
+are actually not the same 'a'.
 
 00:02:40.299 --> 00:02:43.089
 The 'a' in the function increment is another 'a'.
@@ -212,13 +212,13 @@ When main calls the method increment
 and passes this
 
 00:02:47.289 --> 00:02:48.609
-a as argument
+'a' as argument
 
 00:02:48.609 --> 00:02:50.839
 to the function
 
 00:02:50.839 --> 00:02:53.549
-then only the value of a is copied
+then only the value of 'a' is copied
 
 00:02:53.549 --> 00:02:55.460
 to this another 'a' which is
@@ -230,7 +230,7 @@ another variable
 local to the increment function.
 
 00:02:58.979 --> 00:03:02.359
-So what I'll do is, I'll do couple of
+So what I'll do is I'll do couple of
 modifications in this code to show you
 
 00:03:02.359 --> 00:03:04.369
@@ -247,11 +247,11 @@ First print statement in the increment method.
 Something like this.
 
 00:03:11.549 --> 00:03:16.540
-Address of variable 'a' in increment is.
+Address of variable 'a' in increment is
 
 00:03:16.540 --> 00:03:19.900
-As we know if we put ampersand
-operator in front of a variable name,
+as we know. If we put ampersand
+operator in front of a variable name
 
 00:03:19.900 --> 00:03:22.239
 then we get the address
@@ -321,7 +321,7 @@ If the 'a' in main method and the 'a' in increment method were same
 these two addresses would have been same.
 
 00:04:21.949 --> 00:04:24.870
-To understand this even better, we will
+To understand this even better we will
 
 00:04:24.870 --> 00:04:28.759
 try to understand how things happen in
@@ -347,7 +347,7 @@ for the execution of this program.
 
 00:04:41.759 --> 00:04:46.020
 The memory that is a set aside for the
-application is divided into
+application 
 
 00:04:46.020 --> 00:04:47.740
 is typically divided into
@@ -394,7 +394,7 @@ If we do not declare a variable inside a function
 in c++ or c, then it is a global variable.
 
 00:05:21.129 --> 00:05:22.660
-Now global variables
+Global variables
 
 00:05:22.660 --> 00:05:24.289
 can be accessed
@@ -453,10 +453,10 @@ memory:
 the text segment,
 
 00:06:03.490 --> 00:06:06.099
-the global variable segment and the stack segment.
+the global variable segment and the stack segment,
 
 00:06:06.099 --> 00:06:08.669
-These three are fixed and
+these three are fixed and
 
 00:06:08.669 --> 00:06:10.900
 they are decided when the program starts
@@ -469,7 +469,7 @@ the application. However we can keep asking for
 more memory for 
 
 00:06:15.970 --> 00:06:17.729
-it's heap segment
+its heap segment
 
 00:06:17.729 --> 00:06:20.999
 during its execution.
@@ -494,13 +494,13 @@ a program
 executes.
 
 00:06:31.499 --> 00:06:34.409
-Let us say this is our computer's overall memory,
+Let us say this is our computer's overall memory.
 
 00:06:34.409 --> 00:06:35.349
-the RAM,
+The RAM.
 
 00:06:35.349 --> 00:06:37.299
-and as we know each
+And as we know each
 
 00:06:37.299 --> 00:06:41.119
 byte in the memory is addressable. So, let's say
@@ -519,23 +519,23 @@ eight zero zero
 and these are the various segments
 
 00:06:48.819 --> 00:06:51.239
-of our application's memory and of this
+of our application's memory. And of this,
 
 00:06:51.239 --> 00:06:53.959
-let's say address three hundred
+address three hundred
 
 00:06:53.959 --> 00:06:57.259
-to six hundred is allocated for stack
+to six hundred is allocated for stack.
 
 00:06:57.259 --> 00:06:59.729
-now there is more memory of course in
-the RAM
+Now there is more memory of course in
+the RAM.
 
 00:06:59.729 --> 00:07:00.589
-after
+After
 
 00:07:00.589 --> 00:07:03.460
-address 800 and before address 200
+address 800 and before address 200.
 
 00:07:03.460 --> 00:07:05.479
 Ok, so from 200 to 800
@@ -546,7 +546,7 @@ our program
 
 00:07:08.399 --> 00:07:11.810
 let's say this C program that we have
-in the left
+in the left.
 
 00:07:11.810 --> 00:07:14.409
 Now, when a function is invoked
@@ -562,13 +562,13 @@ initially invoked
 all the information about the method
 
 00:07:21.590 --> 00:07:25.680
-all the information about the method call like its parameters, all the
+call like its parameters, all the
 
 00:07:25.680 --> 00:07:27.270
-local variables
+local variables,
 
 00:07:27.270 --> 00:07:30.379
-the calling function to which it should return
+the calling function to which it should return,
 
 00:07:30.379 --> 00:07:31.059
 the current
@@ -577,10 +577,10 @@ the current
 instruction at which is executing, all this information
 
 00:07:34.529 --> 00:07:36.519
-it's stored in the stack
+is stored in the stack.
 
 00:07:36.519 --> 00:07:38.319
-so we will take out from
+So we will take out from
 
 00:07:38.319 --> 00:07:41.319
 the stack some part for the main method
@@ -589,34 +589,34 @@ the stack some part for the main method
 and create a unit
 
 00:07:43.339 --> 00:07:46.029
-which we call stack frame
+which we call stack frame.
 
 00:07:46.029 --> 00:07:48.749
-Each function will have a stack frame
+Each function will have a stack frame.
 
 00:07:48.749 --> 00:07:51.149
-now we have a variable 'a'
+Now we have a variable 'a'.
 
 00:07:51.149 --> 00:07:56.029
-now memory is allocated for 'a' from this stack frame and the value of 'a' is 10. 
+Now memory is allocated for 'a' from this stack frame and the value of 'a' is 10. 
 
 00:07:56.029 --> 00:07:57.729
-now the main method calls
+Now the main method calls
 
 00:07:57.729 --> 00:07:59.240
-increment function
+increment function.
 
 00:07:59.240 --> 00:08:01.610
-what happens when main method calls
+What happens when main method calls
 
 00:08:01.610 --> 00:08:04.039
-increment is that the machine says "hey
+increment is that the machine says:
 
 00:08:04.039 --> 00:08:06.359
-I will stop your execution for some time
+"I will stop your execution for some time.
 
 00:08:06.359 --> 00:08:10.580
-I will stop at this particular instruction. Let me go ahead
+I will stop at this particular instruction. Let me go ahead,
 
 00:08:10.580 --> 00:08:11.559
 finish this
@@ -633,10 +633,10 @@ Now another stack frame is allocated for
 the increment method
 
 00:08:20.069 --> 00:08:22.509
-and the parameters in increment method like
+and the parameters in increment method. 
 
 00:08:22.509 --> 00:08:24.139
-we have a parameter 'a'
+We have a parameter 'a',
 
 00:08:24.139 --> 00:08:26.280
 so fresh local variables are created
@@ -646,7 +646,7 @@ corresponding to these parameters
 
 00:08:28.080 --> 00:08:31.870
 and whatever values have been passed
-are copied to these variables, these
+are copied to these variables. These
 
 00:08:31.870 --> 00:08:33.720
 parameters
@@ -667,16 +667,16 @@ this 'a' which is local to the increment function, in this particular
 stack frame
 
 00:08:43.900 --> 00:08:46.110
-this 'a' is incremented
+this 'a' is incremented.
 
 00:08:46.110 --> 00:08:48.830
-they cannot access a variable outside
+They cannot access a variable outside
 
 00:08:48.830 --> 00:08:50.240
-its stack frame
+its stack frame.
 
 00:08:50.240 --> 00:08:52.240
-and now increment finishes
+And now increment finishes.
 
 00:08:52.240 --> 00:08:54.420
 When increment finishes, the control
@@ -700,35 +700,35 @@ increment
 so life time of a local variable is
 
 00:09:09.820 --> 00:09:13.990
-till the time the function is executing. Now,
+until the time the function is executing. Now,
 
 00:09:13.990 --> 00:09:17.540
-the next statement in main method is a call to the function printf
+the next statement in main method is a call to the function printf.
 
 00:09:17.540 --> 00:09:21.050
-printf is not a user defined function. It
-is a library function
+Printf is not a user defined function. It
+is a library function.
 
 00:09:21.050 --> 00:09:24.810
-the state of execution of main method is
-kind of paused and printf is executing
+The state of execution of main method is
+kind of paused and printf is executing.
 
 00:09:24.810 --> 00:09:25.610
-now
+Now
 
 00:09:25.610 --> 00:09:27.880
 we often call this particular
 
 00:09:27.880 --> 00:09:31.300
 structure call stack or function
-call stack
+call stack.
 
 00:09:31.300 --> 00:09:34.830
-whatever function is at the top of the
-stack is executing
+Whatever function is at the top of the
+stack is executing.
 
 00:09:34.830 --> 00:09:36.660
-and remember this stack is
+And remember this stack is
 
 00:09:36.660 --> 00:09:38.730
 fixed in size. So, if you
@@ -745,62 +745,62 @@ in the case of indefinite recursion
 
 00:09:46.070 --> 00:09:50.330
 then the memory of this stack will
-overflow and our program will crash
+overflow and our program will crash.
 
 00:09:50.330 --> 00:09:53.430
-ok, but that is not relevant for this
-scenario
+OK, but that is not relevant for this
+scenario.
 
 00:09:53.430 --> 00:09:56.830
-so now you must be getting a picture of
+So now you must be getting a picture of
 what happens when one function calls
 
 00:09:56.830 --> 00:09:58.280
-another function
+another function.
 
 00:09:58.280 --> 00:10:01.510
-this 'a' is in the stack frame of the
-main method
+This 'a' is in the stack frame of the
+main method.
 
 00:10:01.510 --> 00:10:03.610
-main is our calling function
+Main is our calling function
 
 00:10:03.610 --> 00:10:07.210
-and increment is our called function
+and increment is our called function.
 
 00:10:07.210 --> 00:10:10.650
-When we call a function in the
-calling function, the argument is also
+When we call a function, in the
+calling function the argument is also
 
 00:10:10.650 --> 00:10:11.750
 known as
 
 00:10:11.750 --> 00:10:13.290
-actual argument
+actual argument.
 
 00:10:13.290 --> 00:10:16.290
-and in the called function, the argument is
+And in the called function, the argument is
 known as
 
 00:10:16.290 --> 00:10:17.490
-formal argument
+formal argument.
 
 00:10:17.490 --> 00:10:21.340
-all that happens is that actual argument
+All that happens is that actual argument
 is actually mapped
 
 00:10:21.340 --> 00:10:23.340
-to a formal agreement
+to a formal agreement.
 
 00:10:23.340 --> 00:10:28.420
-so when this function call happens 'a'
+So when this function call happens 'a'
 mapped to, 'a' as an actual argument
 
 00:10:28.420 --> 00:10:31.310
-is mapped to another 'a' which is a formal argument
+is mapped to another 'a' which is a formal argument.
 
 00:10:31.310 --> 00:10:34.450
-instead of 'a', if we were having a 'x' here
+Instead of 'a', if we were having a 'x' here
 
 00:10:34.450 --> 00:10:38.120
 so we would have written something like
@@ -814,7 +814,7 @@ x plus one then
 
 00:10:42.790 --> 00:10:46.420
 so the value of 'a' will be copied to
-variable 'x'
+variable 'x'.
 
 00:10:46.420 --> 00:10:47.820
 Now, when we make such a
@@ -837,22 +837,22 @@ function call is also called as
 call by 
 
 00:11:00.629 --> 00:11:02.200
-value
+value.
 
 00:11:02.200 --> 00:11:04.220
-so this is what Albert was doing
+So this is what Albert was doing
 
 00:11:04.220 --> 00:11:06.210
 making a call by value
 
 00:11:06.210 --> 00:11:09.570
-and that's why he was he was not able to get the desired result
+and that's why he was he was not able to get the desired result,
 
 00:11:09.570 --> 00:11:11.720
 but can we get the result that Albert
 
 00:11:11.720 --> 00:11:12.860
-wanted to have
+wanted to have.
 
 00:11:12.860 --> 00:11:15.840
 Albert wanted to use this variable 'a'
@@ -862,16 +862,16 @@ which is local to the main method
 inside the
 
 00:11:18.809 --> 00:11:20.680
-increment function
+increment function.
 
 00:11:20.680 --> 00:11:22.240
 Can we really do so?
 
 00:11:22.240 --> 00:11:24.320
-Well! yes, we can do so
+Yes, we can do so.
 
 00:11:24.320 --> 00:11:29.060
-if we use pointers as function
+If we use pointers as function
 arguments. Let us now look at this code
 
 00:11:29.060 --> 00:11:33.760
@@ -892,49 +892,49 @@ an argument which is
 integer
 
 00:11:41.780 --> 00:11:45.270
-in this function increment, we have an argument which is pointer to integer
+in this function increment, we have an argument which is pointer to integer.
 
 00:11:45.270 --> 00:11:49.030
-and pointer to integer as we know will store the address of an
+And pointer to integer as we know will store the address of an
 
 00:11:49.030 --> 00:11:49.900
-integer
+integer.
 
 00:11:49.900 --> 00:11:53.910
-so now what we are doing is that in the increment function, we are passing
+So now what we are doing is that in the increment function we are passing
 
 00:11:53.910 --> 00:11:55.620
-the address of 'a'
+the address of 'a'.
 
 00:11:55.620 --> 00:11:58.810
-so when the program will start executing, the main method will be invoked
+So when the program will start executing, the main method will be invoked
 
 00:11:58.810 --> 00:12:03.120
-first. Let's say this is the stack frame of the main method
+first. Let's say this is the stack frame of the main method.
 
 00:12:03.120 --> 00:12:05.220
-let's say 300 to
+Let's say 300 to
 
 00:12:05.220 --> 00:12:09.270
-350, this address is the stack frame of the main method and
-of main method
+350. This address is the stack frame of the main method and
+of main method.
 
 00:12:09.270 --> 00:12:10.620
-there would be
+There would be
 
 00:12:10.620 --> 00:12:12.580
 a local variable 'a'
 
 00:12:12.580 --> 00:12:18.720
-in this main method, let's say the address at
-which 'a' is stored is 308
+in this main method. Let's say the address at
+which 'a' is stored is 308.
 
 00:12:18.720 --> 00:12:21.410
-this may not be in proportion but still
-let's say
+This may not be in proportion but still.
+Let's say
 
 00:12:21.410 --> 00:12:23.050
-this is how it is stored
+this is how it is stored.
 
 00:12:23.050 --> 00:12:25.460
 Now when main method calls increment
@@ -950,14 +950,14 @@ parameter
 and this is a pointer to integer and the value that is passed to this particular
 
 00:12:33.590 --> 00:12:34.940
-function
+function.
 
 00:12:34.940 --> 00:12:37.550
-the value that gets stored in this
-particular
+The value that gets stored in this
+particular.
 
 00:12:37.550 --> 00:12:40.549
-sorry its not a function, its a variable. The value that gets
+Sorry,it's not a function, it's a variable. The value that gets
 
 00:12:40.549 --> 00:12:41.580
 copied or
@@ -969,13 +969,13 @@ stored in this particular variable would be
 308, the address of 'a'. So. 
 
 00:12:47.790 --> 00:12:49.820
-'p' is pointing to 'a'
+'p' is pointing to 'a'.
 
 00:12:49.820 --> 00:12:52.830
 Now, in this statement here, when we say asterisk 'p'
 
 00:12:52.830 --> 00:12:57.090
-we dereference this address, so we are saying here that 
+we dereference this address. So we are saying here that 
 
 00:12:57.090 --> 00:13:00.050
 *p is value stored in address p 
@@ -984,16 +984,16 @@ we dereference this address, so we are saying here that
 so we say that
 
 00:13:01.290 --> 00:13:04.480
-increment the value stored at address p by one
+increment the value stored at address p by one.
 
 00:13:04.480 --> 00:13:09.170
-the value stored at address 308 gets incremented by one. So 'a'
+The value stored at address 308 gets incremented by one. So 'a'
 
 00:13:09.170 --> 00:13:11.400
-is now eleven
+is now eleven.
 
 00:13:11.400 --> 00:13:16.190
-so, now when increments initiatives and
+So, now when increments initiatives and
 we come back to the main method and the
 
 00:13:16.190 --> 00:13:19.800
@@ -1001,28 +1001,28 @@ next line gets executed which is the
 print statement
 
 00:13:19.800 --> 00:13:22.000
-then a is now 11
+then a is now 11.
 
 00:13:22.000 --> 00:13:26.420
-if u run this program then what gets
-printed is a = 11
+If you run this program then what gets
+printed is a = 11.
 
 00:13:26.420 --> 00:13:30.090
-such a function call in which, instead of
-passing the value of a variable, we
+Such a function call in which instead of
+passing the value of a variable we
 
 00:13:30.090 --> 00:13:31.290
 pass the
 
 00:13:31.290 --> 00:13:35.330
-address of the variable, so that we have
+address of the variable so that we have
 a reference to the variable
 
 00:13:35.330 --> 00:13:40.990
-and we can dereference it and perform some operations is called call by reference
+and we can dereference it and perform some operations is called call by reference.
 
 00:13:40.990 --> 00:13:44.260
-so if we use pointers as function
+So if we use pointers as function
 arguments
 
 00:13:44.260 --> 00:13:48.720
@@ -1036,23 +1036,23 @@ copy of a large and complex
 data-type
 
 00:13:53.920 --> 00:13:56.350
-if we just use a reference to it
+we just use a reference to it.
 
 00:13:56.350 --> 00:14:01.720
-and using a reference will also cost us some memory, but very small amount of memory, then
+And using a reference will also cost us some memory, but very small amount of memory, then
 
 00:14:01.720 --> 00:14:05.670
 we are saved from creating a new copy
-of a complex datatype
+of a complex datatype.
 
 00:14:05.670 --> 00:14:09.450
-in the coming lessons, we will see more of the layout of application's 
+In the coming lessons, we will see more of the layout of application's 
 
 00:14:09.450 --> 00:14:10.900
 memory and
 
 00:14:10.900 --> 00:14:13.420
-what all things we can do using pointers
+what all things we can do using pointers.
 
 00:14:13.420 --> 00:14:14.020
 So, thanks for watching!
