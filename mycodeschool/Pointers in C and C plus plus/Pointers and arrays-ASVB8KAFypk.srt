@@ -1,0 +1,637 @@
+0
+00:00:00,210 --> 00:00:03,070
+El concepto de punteros y matrices en
+
+1
+00:00:03,070 --> 00:00:06,100
+C o C ++ van de la mano.
+
+2
+00:00:06,100 --> 00:00:09,590
+Existe una relación muy fuerte entre estos 
+dos conceptos
+
+3
+00:00:09,590 --> 00:00:12,889
+y en esta lección vamos a discutir esta 
+relación.
+
+4
+00:00:12,889 --> 00:00:16,730
+Cuando declaramos un array. Digamos que 
+declaramos una matriz
+
+5
+00:00:16,730 --> 00:00:20,279
+de enteros A de tamaño 5.
+
+6
+00:00:20,279 --> 00:00:23,970
+Luego creamos 5 variables de números 
+enteros, A [0],
+
+7
+00:00:23,970 --> 00:00:27,939
+A [1], A [2], A [3] y A [4].
+
+8
+00:00:27,939 --> 00:00:32,590
+Y ahora se almacenarán estos cinco
+
+9
+00:00:32,590 --> 00:00:33,180
+números enteros en la memoria como
+
+10
+00:00:33,180 --> 00:00:36,719
+un bloque de cinco números enteros 
+consecutivos. Algo como esto.
+
+11
+00:00:36,719 --> 00:00:40,820
+Lo que estamos mostrando aquí en la derecha 
+es
+
+12
+00:00:40,820 --> 00:00:41,570
+A0 o el primer elemento en la matriz 
+almacenado
+
+13
+00:00:41,570 --> 00:00:44,950
+en la dirección 200 y en un típico de
+
+14
+00:00:44,950 --> 00:00:48,940
+compilación moderno número entero día 
+compilador se almacena en
+
+15
+00:00:48,940 --> 00:00:53,930
+cuatro bytes de modo A1 será de cuatro bytes
+
+16
+00:00:53,930 --> 00:00:57,129
+por delante de A0 a 204 y A2 será
+
+17
+00:00:57,129 --> 00:01:00,190
+en 208, A3 será a 212 A4 habrá al 216.
+
+18
+00:01:00,190 --> 00:01:05,070
+El tamaño total de la matriz será de 20
+
+19
+00:01:05,070 --> 00:01:10,850
+bytes y 20 bytes de estos será un bloque 
+consecutivo. Nosotros sólo estamos mostrando 
+la
+
+20
+00:01:10,850 --> 00:01:11,590
+sección de la memoria en
+
+21
+00:01:11,590 --> 00:01:14,630
+la que se almacena una. A veces también
+
+22
+00:01:14,630 --> 00:01:18,590
+mostramos la memoria horizontalmente. Algo 
+como esto de izquierda a derecha.
+
+23
+00:01:18,590 --> 00:01:21,979
+Aumentamos la dirección, pero estas dos 
+representaciones
+
+24
+00:01:21,979 --> 00:01:25,860
+son sólo por el hecho de entendimiento. 
+Vamos a usar la
+
+25
+00:01:25,860 --> 00:01:26,360
+representación horizontal de la
+
+26
+00:01:26,360 --> 00:01:30,960
+memoria de este tiempo. Voy a mostrar este 
+recuerdo se extiende un poco más hacia la
+
+27
+00:01:30,960 --> 00:01:34,170
+derecha de modo que pueda acomodar a una 
+pareja de más variables.
+
+28
+00:01:34,170 --> 00:01:37,439
+Digamos que, aparte de este entero
+
+29
+00:01:37,439 --> 00:01:40,439
+Array A Tengo una variable entera
+
+30
+00:01:40,439 --> 00:01:44,090
+X y su valor es 5. Y digamos que X se
+
+31
+00:01:44,090 --> 00:01:48,750
+encuentra en la dirección 300 ahora.
+
+32
+00:01:48,750 --> 00:01:51,850
+Digamos que tengo un puntero
+
+33
+00:01:51,850 --> 00:01:55,240
+a un entero P y
+
+34
+00:01:55,240 --> 00:01:58,460
+P en almaceno dirección de X. Si imprimimos 
+P entonces el valor
+
+35
+00:01:58,460 --> 00:02:03,689
+P y estaríamos 300 por lo
+
+36
+00:02:03,689 --> 00:02:07,680
+que esta declaración se imprimirá 300. Y si 
+eliminar la referencia P y
+
+37
+00:02:07,680 --> 00:02:12,980
+tratar de llevar la dirección almacenada en,
+
+38
+00:02:12,980 --> 00:02:16,690
+intente imprimir el valor almacenado en dicha
+
+39
+00:02:16,690 --> 00:02:21,150
+posición P en el valor sería de cinco. Esto 
+esta bien. Ahora también sabemos que
+
+40
+00:02:21,150 --> 00:02:24,430
+podemos hacer una operación. Algo así como 
+de incremento y decremento
+
+41
+00:02:24,430 --> 00:02:28,700
+de una variable puntero por una constante. 
+Por lo que podemos hacer algo como P igual 
+al P Más
+
+42
+00:02:28,700 --> 00:02:32,920
+uno y esto nos llevará a la dirección del 
+siguiente número entero.
+
+43
+00:02:32,920 --> 00:02:37,950
+Y debido a número entero es de cuatro bytes 
+por lo que ahora P sería 304.
+
+44
+00:02:37,950 --> 00:02:43,120
+Así que si quiero imprimir p ahora, la 
+salida debe
+
+45
+00:02:43,120 --> 00:02:46,319
+ser 304, pero si tratamos de eliminar la 
+referencia P
+
+46
+00:02:46,319 --> 00:02:50,160
+y ahora intenta imprimir * p, entonces no 
+sabemos el
+
+47
+00:02:50,160 --> 00:02:53,300
+valor en esta dirección, así que no podemos 
+decir lo que se imprimirá. Es como sabemos 
+que el Sr. X vive
+
+48
+00:02:53,300 --> 00:02:58,090
+en la dirección 300, pero no sabemos que
+
+49
+00:02:58,090 --> 00:03:02,870
+es su vecino que vive en la dirección 304.
+
+50
+00:03:02,870 --> 00:03:07,540
+Pero para esta matriz de enteros Un digamos
+
+51
+00:03:07,540 --> 00:03:08,099
+que estoy escribiendo esta misma matriz de 
+enteros
+
+52
+00:03:08,099 --> 00:03:13,459
+en el aquí, que se encuentra en la dirección 
+200. Si declaro un puntero a un
+
+53
+00:03:13,459 --> 00:03:18,579
+entero P y almacenar la dirección
+
+54
+00:03:18,579 --> 00:03:21,920
+del primer elemento, poniendo un operador
+
+55
+00:03:21,920 --> 00:03:25,180
+Y comercial frente a [0] luego
+
+56
+00:03:25,180 --> 00:03:29,349
+imprimir P nos daría en este
+
+57
+00:03:29,349 --> 00:03:33,370
+escenario la salida 200 y la impresión * P 
+nos daría. Pero antes de que digamos que
+
+58
+00:03:33,370 --> 00:03:37,659
+tenemos estos valores en la matriz. Vamos a 
+llenar algunos valores de la matriz de
+
+59
+00:03:37,659 --> 00:03:40,959
+modo * P sería 2 y si quiero imprimir
+
+60
+00:03:40,959 --> 00:03:45,849
+P más uno, entonces la dirección sería 204 y
+
+61
+00:03:45,849 --> 00:03:49,859
+si eliminar la referencia P + 1 y tratar
+
+62
+00:03:49,859 --> 00:03:56,600
+de llevar este valor a continuación, imprima 
+este valor
+
+63
+00:03:56,650 --> 00:03:59,900
+será de cuatro y del mismo modo si queríamos
+
+64
+00:03:59,900 --> 00:04:03,599
+el tercer elemento de la matriz que podíamos 
+hacer un P más 2.
+
+65
+00:04:03,599 --> 00:04:08,060
+aquí. Así, utilizando la aritmética de 
+puntero tiene sentido en
+
+66
+00:04:08,060 --> 00:04:11,680
+el caso de los punteros, porque en las 
+matrices
+
+67
+00:04:11,680 --> 00:04:16,340
+de casos porque sabemos lo que está en el 
+lugar adyacente. Hay una característica más 
+de la matriz si nos limitamos
+
+68
+00:04:16,340 --> 00:04:19,620
+a usar el nombre de la matriz A, entonces A
+
+69
+00:04:19,620 --> 00:04:23,860
+nos da el puntero al primer elemento de la 
+matriz. Por lo tanto, podemos
+
+70
+00:04:23,860 --> 00:04:24,669
+escribir una declaración como
+
+71
+00:04:24,669 --> 00:04:28,250
+P es igual a A. De hecho, ni siquiera 
+necesitamos para tomar esta dirección en
+
+72
+00:04:28,250 --> 00:04:33,210
+otra variable puntero si nos limitamos a 
+imprimir un entonces
+
+73
+00:04:33,210 --> 00:04:38,250
+esto nos da nada más que la dirección del 
+primer
+
+74
+00:04:38,250 --> 00:04:41,979
+elemento de la matriz y si queremos eliminar 
+referencia a
+
+75
+00:04:41,979 --> 00:04:46,720
+esto y tratamos de imprimir * A 
+continuación, este nos dará el valor.
+
+76
+00:04:46,720 --> 00:04:50,520
+Así que si queremos llevar a cabo algo así
+
+77
+00:04:50,520 --> 00:04:53,560
+como queremos imprimir un uno más, entonces 
+esto nos
+
+78
+00:04:53,560 --> 00:04:58,720
+dará la dirección 204 y * (A + 1)
+
+79
+00:04:58,720 --> 00:05:00,760
+nos dará la dirección del segundo elemento 
+en el
+
+80
+00:05:00,760 --> 00:05:04,750
+valor de la matriz del segundo elemento de 
+la matriz . Para un elemento de la matriz
+
+81
+00:05:04,750 --> 00:05:08,090
+en el índice i que puede
+
+82
+00:05:08,090 --> 00:05:12,570
+recuperar la dirección de este elemento
+
+83
+00:05:12,570 --> 00:05:16,190
+en particular en la memoria utilizando
+
+84
+00:05:16,190 --> 00:05:19,279
+cualquiera de signo A [i] o
+
+85
+00:05:19,279 --> 00:05:22,789
+simplemente un plus 'i' y estos
+
+86
+00:05:22,789 --> 00:05:26,710
+dos nos dará la dirección de
+
+87
+00:05:26,710 --> 00:05:29,810
+A [i] y la Un valor Simplemente usamos A [i] 
+o también podemos
+
+88
+00:05:29,810 --> 00:05:33,560
+utilizar * A más iy * (A
+
+89
+00:05:33,560 --> 00:05:37,599
++ 1) también nos dará el valor.
+
+90
+00:05:37,599 --> 00:05:40,870
+Ahora bien, este es un concepto importante 
+que usted puede escribir signo A
+
+91
+00:05:40,870 --> 00:05:45,680
+[i] o A plus i uno para el otro y que 
+significa lo mismo.
+
+92
+00:05:45,680 --> 00:05:51,099
+Y podemos escribir A [i] o * (A + 1) uno 
+para el otro y que significan lo mismo.
+
+93
+00:05:51,099 --> 00:05:54,260
+Esa dirección del primer elemento de la 
+matriz
+
+94
+00:05:54,260 --> 00:05:57,909
+también se puede llamar la dirección de base
+
+95
+00:05:57,909 --> 00:06:01,180
+y un simplemente utilizando el nombre de la
+
+96
+00:06:01,180 --> 00:06:05,479
+variable A nos da la dirección base de la 
+matriz. Veamos ahora algunos ejemplos de 
+código
+
+97
+00:06:05,479 --> 00:06:10,510
+y tratar de solidificar nuestros conceptos 
+más.
+
+98
+00:06:10,510 --> 00:06:14,190
+En mi programa digamos que tenemos y matriz 
+de
+
+99
+00:06:14,190 --> 00:06:18,000
+enteros A ahora como dijimos si nos 
+limitamos a
+
+100
+00:06:18,000 --> 00:06:23,469
+imprimir un entonces esto nos debe dar la 
+dirección
+
+101
+00:06:23,469 --> 00:06:24,139
+del primer elemento de la matriz y también 
+podemos
+
+102
+00:06:24,139 --> 00:06:27,860
+obtener la dirección del primer elemento de 
+la matriz
+
+103
+00:06:27,860 --> 00:06:31,080
+mediante el uso de signo escrito en frente a 
+[0].
+
+104
+00:06:31,080 --> 00:06:35,469
+Si yo simplemente imprimir un [0] se 
+imprimirá el
+
+105
+00:06:35,469 --> 00:06:38,659
+primer elemento de la matriz y también 
+podemos imprimir
+
+106
+00:06:38,659 --> 00:06:41,849
+el primer elemento de la matriz mediante el 
+uso
+
+107
+00:06:41,849 --> 00:06:45,180
+de operador * delante del nombre de la 
+variable A.
+
+108
+00:06:45,180 --> 00:06:48,320
+Veamos ahora corremos esto y ver qué pasa.
+
+109
+00:06:48,320 --> 00:06:52,650
+Y también necesito para poner un fin de 
+línea después de cada una de estas 
+declaraciones de impresión.
+
+110
+00:06:52,650 --> 00:06:57,760
+OK lo que la salida es que las dos primeras 
+líneas son los mismos.
+
+111
+00:06:57,760 --> 00:07:00,880
+Ellos nos están dando la dirección del 
+primer elemento en la matriz.
+
+112
+00:07:00,880 --> 00:07:04,550
+Y las segundas líneas nos están dando el 
+valor. De hecho, si se corre un circuito como
+
+113
+00:07:04,550 --> 00:07:08,089
+éste de 0 a 4, entonces pueden imprimir
+
+114
+00:07:08,089 --> 00:07:11,449
+la dirección del elemento en el índice i
+
+115
+00:07:11,449 --> 00:07:14,610
+como y A [i] o (A + i)
+
+116
+00:07:14,610 --> 00:07:18,979
+y podemos imprimir el valor de i como
+
+117
+00:07:18,979 --> 00:07:24,699
+elemento A [i] o * (A + i). Ahora bien, si 
+vemos la salida aquí se trata de una carrera
+
+118
+00:07:24,699 --> 00:07:29,030
+fresca una nueva ejecución de tan viejo 
+asignaciones de direcciones cambiará, pero
+
+119
+00:07:29,030 --> 00:07:32,729
+si vemos la dirección impresa en dos líneas 
+para A [0] es
+
+120
+00:07:32,729 --> 00:07:37,770
+el mismo que el valor mismo de nuevo por la 
+dirección A1
+
+121
+00:07:37,770 --> 00:07:42,129
+es mismos cuatro bytes por delante de la 
+dirección anterior y el valor es el esperado.
+
+122
+00:07:42,129 --> 00:07:45,960
+Y podemos seguir así.
+
+123
+00:07:45,960 --> 00:07:49,340
+Ahora bien, una cosa más. A pesar de que 
+acaba de usar el nombre
+
+124
+00:07:49,340 --> 00:07:52,800
+de la variable A nos devuelve puntero a la
+
+125
+00:07:52,800 --> 00:07:55,840
+dirección base o la dirección del primer 
+elemento y
+
+126
+00:07:55,840 --> 00:07:59,120
+podemos igualar el nombre de la variable A en
+
+127
+00:07:59,120 --> 00:08:03,110
+contra de alguna variable puntero de este 
+tipo, no
+
+128
+00:08:03,110 --> 00:08:07,479
+se puede hacer algo así como un plus plus, 
+incremente el valor de A. Esto nos dará 
+error de compilación.
+
+129
+00:08:07,479 --> 00:08:10,900
+Podemos hacer algo como P ++ vez
+
+130
+00:08:10,900 --> 00:08:14,340
+asignamos A a alguna variable puntero, otra
+
+131
+00:08:14,340 --> 00:08:19,439
+variable puntero, pero incrementando un 
+mismo estaríamos en válido.
+
+132
+00:08:19,439 --> 00:08:23,620
+Así que esto era cómo se almacenan las 
+matrices en
+
+133
+00:08:23,620 --> 00:08:26,759
+la memoria y la forma en que las direcciones 
+se
+
+134
+00:08:26,759 --> 00:08:30,879
+pueden manipular y cómo se puede acceder a 
+los valores utilizando punteros.
+
+135
+00:08:30,879 --> 00:08:34,469
+En las próximas lecciones vamos a hablar
+
+136
+00:08:34,469 --> 00:08:37,890
+de las matrices de caracteres e incluso
+
+137
+00:08:37,890 --> 00:08:41,030
+hablar de pasar matrices como argumentos de 
+la función. Así que gracias por ver!
+

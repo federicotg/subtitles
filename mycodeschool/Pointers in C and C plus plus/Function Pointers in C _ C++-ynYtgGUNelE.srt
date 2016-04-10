@@ -1,0 +1,949 @@
+0
+00:00:00,560 --> 00:00:03,679
+En esta lección vamos a hablar acerca de la
+
+1
+00:00:03,679 --> 00:00:06,740
+función punteros punteros de función, como 
+su nombre indica
+
+2
+00:00:06,740 --> 00:00:10,120
+se utilizan para almacenar la dirección de 
+las funciones.
+
+3
+00:00:10,120 --> 00:00:14,740
+Hasta ahora, hemos utilizado principalmente 
+como punteros
+
+4
+00:00:14,740 --> 00:00:19,220
+variables que almacenar la dirección de 
+otras variables. Básicamente punteros son 
+los tipos de datos que
+
+5
+00:00:19,220 --> 00:00:19,780
+pueden ser utilizados para almacenar la 
+dirección de
+
+6
+00:00:19,780 --> 00:00:24,640
+algunos datos almacenados en la memoria del 
+ordenador. O en otras palabras, para señalar
+
+7
+00:00:24,640 --> 00:00:29,850
+o hacer referencia a algunos datos. Y no 
+siempre tiene que ser una variable.
+
+8
+00:00:29,850 --> 00:00:34,010
+Los datos podrían ser almacenados como 
+constantes. También y usamos punteros no
+
+9
+00:00:34,010 --> 00:00:35,490
+sólo para almacenar la dirección.
+
+10
+00:00:35,490 --> 00:00:40,160
+Podemos eliminar la referencia y obtener el
+
+11
+00:00:40,160 --> 00:00:40,560
+valor en cualquier dirección el puntero está 
+apuntando.
+
+12
+00:00:40,560 --> 00:00:43,690
+Ahora estamos diciendo que podemos tener 
+punteros
+
+13
+00:00:43,690 --> 00:00:47,930
+que pueden almacenar direcciones de 
+funciones o
+
+14
+00:00:47,930 --> 00:00:48,640
+en otras palabras puede apuntar a funciones.
+
+15
+00:00:48,640 --> 00:00:52,520
+Y podemos usar un puntero a funcionar
+
+16
+00:00:52,520 --> 00:00:56,500
+para eliminar la referencia y ejecutar la 
+función. Y esto es realmente interesante.
+
+17
+00:00:56,500 --> 00:01:00,250
+Algunas preguntas básicas serían pop-up. Lo 
+que realmente sería
+
+18
+00:01:00,250 --> 00:01:05,030
+la dirección de una función? E incluso si 
+podemos tener punteros a funciones, cuáles 
+son
+
+19
+00:01:05,030 --> 00:01:08,570
+los casos de uso en los que pueden querer 
+tenerlos?
+
+20
+00:01:08,570 --> 00:01:12,670
+Hay casos de uso muy interesantes de
+
+21
+00:01:12,670 --> 00:01:13,450
+los punteros de función que hablaremos más 
+adelante.
+
+22
+00:01:13,450 --> 00:01:18,240
+Primero vamos a tratar de entender la lógica 
+de la base aquí. Una vez más, he
+
+23
+00:01:18,240 --> 00:01:19,530
+dibujado este diagrama familiar.
+
+24
+00:01:19,530 --> 00:01:24,250
+La memoria que se asigna a una aplicación o 
+un
+
+25
+00:01:24,250 --> 00:01:26,880
+programa por lo general se puede dividir en 
+estos cuatro
+
+26
+00:01:26,880 --> 00:01:30,340
+segmentos: hemos hablado de esto un poco en 
+nuestras sesiones anteriores.
+
+27
+00:01:30,340 --> 00:01:33,810
+OK, ahora un programa es
+
+28
+00:01:33,810 --> 00:01:38,080
+básicamente un conjunto o secuencia
+
+29
+00:01:38,080 --> 00:01:38,830
+de instrucciones que le daría
+
+30
+00:01:38,830 --> 00:01:43,320
+a la computadora para realizar una tarea. 
+Podemos escribir nuestro programa en un 
+lenguaje
+
+31
+00:01:43,320 --> 00:01:46,720
+de alto nivel como C o C
+
+32
+00:01:46,720 --> 00:01:50,400
+++, pero en su nivel más bajo
+
+33
+00:01:50,400 --> 00:01:55,810
+en su arquitectura informática entiende y 
+ejecuta solamente binario. Cualquier 
+instrucción que ha de ser ejecutado por
+
+34
+00:01:55,810 --> 00:01:59,369
+el ordenador tiene que ser codificada en 
+binario. Por supuesto, habrá algunas
+
+35
+00:01:59,369 --> 00:02:03,729
+reglas para la codificación. Así que lo que 
+hacemos es que escribimos
+
+36
+00:02:03,729 --> 00:02:08,329
+nuestro programa o conjunto de instrucciones 
+en un
+
+37
+00:02:08,329 --> 00:02:11,620
+lenguaje de alto nivel como C o C
+
+38
+00:02:11,620 --> 00:02:14,849
+++ y se pasa a un programa llamado 
+compilador como entrada. Y que corresponde 
+al código fuente del compilador
+
+39
+00:02:14,849 --> 00:02:18,980
+genera lo que llamamos código de máquina o
+
+40
+00:02:18,980 --> 00:02:22,540
+código ejecutable que es algo instrucciones 
+codificadas en
+
+41
+00:02:22,540 --> 00:02:27,099
+binario como lo que estoy tratando de 
+mostrar aquí.
+
+42
+00:02:27,099 --> 00:02:31,540
+El compilador básicamente toma uno o más 
+archivos de origen.
+
+43
+00:02:31,540 --> 00:02:34,569
+Digamos que el programa se ha escrito aquí 
+es en
+
+44
+00:02:34,569 --> 00:02:38,859
+un archivo con el nombre de puntos del 
+programa c. Ahora, un compilador de lenguaje 
+C se llevará
+
+45
+00:02:38,859 --> 00:02:41,969
+a este archivo como entrada y crear un
+
+46
+00:02:41,969 --> 00:02:45,059
+archivo ejecutable que tendrá el código de 
+la máquina.
+
+47
+00:02:45,059 --> 00:02:48,569
+En una máquina Windows, los
+
+48
+00:02:48,569 --> 00:02:52,569
+archivos ejecutables tiene extensión "exe". 
+Un archivo ejecutable se almacenará en la 
+unidad
+
+49
+00:02:52,569 --> 00:02:56,459
+de disco o algún dispositivo de 
+almacenamiento secundario.
+
+50
+00:02:56,459 --> 00:03:00,689
+Siempre que decimos memoria, sino sólo en la 
+memoria contexto de
+
+51
+00:03:00,689 --> 00:03:05,579
+la programación que significa que la memoria 
+de acceso aleatorio o RAM. También llamamos 
+a la
+
+52
+00:03:05,579 --> 00:03:10,010
+memoria principal primaria memoria. Así que 
+cualquier cosa de memoria
+
+53
+00:03:10,010 --> 00:03:10,829
+de la aplicación que estamos hablando
+
+54
+00:03:10,829 --> 00:03:14,299
+aquí será una parte de la memoria principal. 
+Es un programa o aplicación para crear una 
+parte
+
+55
+00:03:14,299 --> 00:03:18,829
+de la memoria sólo cuando se inicia la 
+ejecución.
+
+56
+00:03:18,829 --> 00:03:23,090
+Cuando la aplicación finaliza la ejecución, 
+esta memoria se afirma de nuevo.
+
+57
+00:03:23,090 --> 00:03:27,379
+Lo que realmente sucede es que cuando se 
+ejecuta un programa, cuando
+
+58
+00:03:27,379 --> 00:03:31,870
+un programa se inició la ejecución, una 
+cierta cantidad de memoria asignada
+
+59
+00:03:31,870 --> 00:03:35,629
+a la misma y que es lo que llamamos memoria 
+de la aplicación aquí. El segmento de código 
+o texto de
+
+60
+00:03:35,629 --> 00:03:38,829
+la memoria de aplicación es básicamente el
+
+61
+00:03:38,829 --> 00:03:43,419
+código máquina o instrucciones de copiado 
+del archivo ejecutable.
+
+62
+00:03:43,419 --> 00:03:47,540
+Las instrucciones no se ejecutan 
+directamente desde el almacenamiento 
+secundario.
+
+63
+00:03:47,540 --> 00:03:51,939
+Se copian primero en la memoria
+
+64
+00:03:51,939 --> 00:03:52,650
+principal y sólo pueden ser ejecutados.
+
+65
+00:03:52,650 --> 00:03:57,089
+Durante la ejecución del programa que 
+necesitamos no sólo la
+
+66
+00:03:57,089 --> 00:04:00,489
+memoria para almacenar instrucciones para 
+ser ejecutadas, sino también para
+
+67
+00:04:00,489 --> 00:04:04,519
+almacenar una gran cantidad de datos que 
+trabajaríamos sobre en un programa.
+
+68
+00:04:04,519 --> 00:04:09,370
+Estos otros segmentos son en su mayoría 
+sobre el almacenamiento y gestión de datos.
+
+69
+00:04:09,370 --> 00:04:14,129
+Lo que voy a hacer ahora es que voy a 
+acercar al segmento de código o texto.
+
+70
+00:04:14,129 --> 00:04:17,190
+Vamos a suponer que cada instrucción
+
+71
+00:04:17,190 --> 00:04:22,780
+en lenguaje de máquina toma cuatro bytes. 
+Estoy tratando de mostrar la sección de 
+memoria que almacena las instrucciones aquí.
+
+72
+00:04:22,780 --> 00:04:26,970
+Cada partición aquí es un bloque de cuatro 
+bytes
+
+73
+00:04:26,970 --> 00:04:28,140
+y las direcciones están aumentando de arriba 
+a abajo.
+
+74
+00:04:28,140 --> 00:04:31,820
+Así que tenemos la instrucción 01 en la 
+dirección
+
+75
+00:04:31,820 --> 00:04:33,580
+200 y la siguiente instrucción está en la 
+dirección
+
+76
+00:04:33,580 --> 00:04:37,450
+204 y la próxima es en 208 y así 
+sucesivamente.
+
+77
+00:04:37,450 --> 00:04:40,860
+Las instrucciones de un programa se ejecutan 
+secuencialmente.
+
+78
+00:04:40,860 --> 00:04:45,100
+La única excepción será cuando la 
+instrucción en sí va a decir
+
+79
+00:04:45,100 --> 00:04:48,740
+que, "ir a la o saltar a esta otra 
+instrucción en esta
+
+80
+00:04:48,740 --> 00:04:53,290
+dirección en particular", lo cual ocurrirá 
+en el caso de las llamadas de función.
+
+81
+00:04:53,290 --> 00:04:58,550
+Por ejemplo, si la instrucción 01 en la 
+dirección
+
+82
+00:04:58,550 --> 00:05:01,610
+200 se encuentra ejecutando de forma 
+predeterminada la siguiente
+
+83
+00:05:01,610 --> 00:05:04,790
+instrucción a ejecutar la instrucción es 02 
+en la dirección 204.
+
+84
+00:05:04,790 --> 00:05:08,570
+A menos que la instrucción 01 es en sí mismo
+
+85
+00:05:08,570 --> 00:05:12,810
+algo así como ir a la instrucción 05 en la
+
+86
+00:05:12,810 --> 00:05:16,130
+dirección 216, que va a pasar en caso de 
+llamadas a funciones. Una función no es más 
+que un conjunto
+
+87
+00:05:16,130 --> 00:05:21,690
+de instrucciones almacenadas en un bloque 
+contiguo de memoria.
+
+88
+00:05:21,690 --> 00:05:24,920
+Digamos que este bloque que contiene 
+instrucciones
+
+89
+00:05:24,920 --> 00:05:28,800
+de 5 hasta 8 es una función. Voy a nombrar
+
+90
+00:05:28,800 --> 00:05:33,650
+esta función func1. Básicamente es una 
+función de un conjunto
+
+91
+00:05:33,650 --> 00:05:38,140
+de instrucciones para llevar a cabo una 
+subtarea. En la memoria de una función
+
+92
+00:05:38,140 --> 00:05:42,770
+será un bloque contiguo con algunas 
+instrucciones. La dirección de una función 
+de lo que
+
+93
+00:05:42,770 --> 00:05:47,310
+también llamamos punto de entrada de una 
+función
+
+94
+00:05:47,310 --> 00:05:51,520
+será la dirección de la primera instrucción 
+en la función. En este ejemplo aquí la
+
+95
+00:05:51,520 --> 00:05:56,150
+dirección de func1 es 216.
+
+96
+00:05:56,150 --> 00:05:59,740
+Una llamada a la función en lenguaje de 
+máquina, básicamente, será
+
+97
+00:05:59,740 --> 00:06:02,790
+una instrucción para saltar al punto de 
+entrada de alguna función.
+
+98
+00:06:02,790 --> 00:06:06,250
+Para saltar a la primera instrucción de una 
+función.
+
+99
+00:06:06,250 --> 00:06:09,440
+No vamos a entrar más profundamente en la 
+arquitectura ahora,
+
+100
+00:06:09,440 --> 00:06:11,230
+esto es lo suficientemente bueno para 
+entender los punteros de función.
+
+101
+00:06:11,230 --> 00:06:15,150
+Cuando decimos dirección de la tienda 
+punteros de función de
+
+102
+00:06:15,150 --> 00:06:18,440
+las funciones que básicamente quiere decir 
+que los punteros de
+
+103
+00:06:18,440 --> 00:06:21,500
+función almacenar la dirección o punto de 
+entrada a partir
+
+104
+00:06:21,500 --> 00:06:25,430
+del bloque de memoria que contiene todas las 
+instrucciones de una función.
+
+105
+00:06:25,430 --> 00:06:30,310
+Ahora vamos a ver cómo el puede crear y 
+utilizar
+
+106
+00:06:30,310 --> 00:06:31,320
+los punteros de función en un programa C o C 
+++.
+
+107
+00:06:31,320 --> 00:06:34,490
+Voy a escribir un programa C simple aquí.
+
+108
+00:06:34,490 --> 00:06:38,420
+Lo primero que voy a hacer es que voy a
+
+109
+00:06:38,420 --> 00:06:41,770
+escribir una función llamada "Añadir" que 
+tendrá dos enteros como
+
+110
+00:06:41,770 --> 00:06:45,090
+argumentos y devolver la suma de estos dos 
+números enteros.
+
+111
+00:06:45,090 --> 00:06:48,390
+Y ahora voy a crear un puntero de
+
+112
+00:06:48,390 --> 00:06:54,020
+función que deberá apuntar a esta función 
+Add. La sintaxis para crear puntero de 
+función es
+
+113
+00:06:54,020 --> 00:06:57,080
+primer tipo en el tipo de retorno de
+
+114
+00:06:57,080 --> 00:07:00,900
+la función a la que apuntará este puntero. 
+Añadir
+
+115
+00:07:00,900 --> 00:07:05,790
+volverá Por lo tanto, he escrito en Int 
+entonces después de espacio dentro
+
+116
+00:07:05,790 --> 00:07:09,930
+de paréntesis tipo de asterisco y luego el 
+nombre de la variable.
+
+117
+00:07:09,930 --> 00:07:15,450
+Así que estoy creando un puntero llamado 'p' 
+y ahora, una
+
+118
+00:07:15,450 --> 00:07:19,340
+vez más dentro del tipo de paréntesis en 
+todos los tipos
+
+119
+00:07:19,340 --> 00:07:20,650
+de argumentos de la función a la que 
+apuntará este puntero.
+
+120
+00:07:20,650 --> 00:07:24,040
+tipos de argumentos en declaración de 
+función debe
+
+121
+00:07:24,040 --> 00:07:28,220
+ser exactamente igual que en la función a
+
+122
+00:07:28,220 --> 00:07:31,360
+la que apuntará este puntero porque tanto los
+
+123
+00:07:31,360 --> 00:07:34,550
+argumentos en función de complementos son 
+Int tenemos
+
+124
+00:07:34,550 --> 00:07:37,670
+dos enteros en la declaración de puntero de 
+función también. Para inicializar puntero de 
+función y rellene la dirección
+
+125
+00:07:37,670 --> 00:07:42,270
+de una función, se puede utilizar una 
+sentencia como esta.
+
+126
+00:07:42,270 --> 00:07:45,930
+Como sabemos operador de signo nos da la
+
+127
+00:07:45,930 --> 00:07:49,820
+dirección de algo esta declaración p = &
+
+128
+00:07:49,820 --> 00:07:52,900
+Agregar nos dará la dirección de Añadir en 
+'p'.
+
+129
+00:07:52,900 --> 00:07:56,560
+Así 'p' ahora apunta a Agregar y el
+
+130
+00:07:56,560 --> 00:08:00,930
+uso de 'p' podemos ejecutar esta función 
+Añadir. Lo que voy a hacer aquí
+
+131
+00:08:00,930 --> 00:08:01,700
+es que voy a declarar una
+
+132
+00:08:01,700 --> 00:08:05,050
+variable entera llamada 'c' y ahora
+
+133
+00:08:05,050 --> 00:08:08,710
+voy a escribir una declaración como esta. Lo 
+que he hecho es de primera calidad, he
+
+134
+00:08:08,710 --> 00:08:14,010
+utilizado el operador asterisco para 
+eliminar la referencia y
+
+135
+00:08:14,010 --> 00:08:17,060
+obtener la función y, a continuación, he 
+pasado argumentos
+
+136
+00:08:17,060 --> 00:08:22,070
+al igual que lo haría con un nombre de 
+función. Por lo tanto, he pasado dos 
+enteros, dos y
+
+137
+00:08:22,070 --> 00:08:26,510
+tres, y si todo está bien el resultado de
+
+138
+00:08:26,510 --> 00:08:31,820
+esta sentencia printf aquí debe ser un valor 
+entero 5. Cuando ejecuto el programa, esto 
+es lo que me pasa.
+
+139
+00:08:31,820 --> 00:08:37,120
+Así que esto es realmente genial. Sólo 
+utilizamos un puntero de función para hacer
+
+140
+00:08:37,120 --> 00:08:41,439
+referencia a una función y luego ejecutar la 
+función. Una cosa acerca de la sintaxis
+
+141
+00:08:41,439 --> 00:08:42,550
+de declaración de puntero de función.
+
+142
+00:08:42,550 --> 00:08:47,730
+Estamos poniendo el identificador o nombre 
+del
+
+143
+00:08:47,730 --> 00:08:50,809
+puntero dentro de este paréntesis si no
+
+144
+00:08:50,809 --> 00:08:53,980
+queremos usar los paréntesis, a 
+continuación, querrá
+
+145
+00:08:53,980 --> 00:08:57,819
+decir que estamos declarando una función que
+
+146
+00:08:57,819 --> 00:09:02,569
+devolverá puntero a entero en este caso. Si 
+me gustaría escribir algo como esto, me 
+gustaría escribir una declaración.
+
+147
+00:09:02,569 --> 00:09:07,759
+Algo como esto. Entonces este es declarar una
+
+148
+00:09:07,759 --> 00:09:12,389
+función que devolvería puntero a entero. 
+Podemos tener un asterisco justo antes del 
+nombre de la
+
+149
+00:09:12,389 --> 00:09:15,800
+función o podemos tener un asterisco justo 
+después de int.
+
+150
+00:09:15,800 --> 00:09:20,279
+Estos 2 sintaxis son los mismos, pero si
+
+151
+00:09:20,279 --> 00:09:23,980
+me volvería a poner esto dentro de 
+paréntesis,
+
+152
+00:09:23,980 --> 00:09:27,870
+entonces este es declarar un puntero de 
+función. Está bien, algunas cosas más.
+
+153
+00:09:27,870 --> 00:09:31,680
+En esta inicialización aquí, estamos 
+utilizando este
+
+154
+00:09:31,680 --> 00:09:35,379
+operador Y comercial, incluso si no 
+utilizamos
+
+155
+00:09:35,379 --> 00:09:40,050
+este operador Y comercial que significará lo 
+mismo. Simplemente usando el nombre de la 
+función también nos volverá
+
+156
+00:09:40,050 --> 00:09:44,339
+dirección de la función o en otras palabras, 
+un puntero apropiado.
+
+157
+00:09:44,339 --> 00:09:48,589
+Para eliminar la referencia, en lugar de 
+utilizar este
+
+158
+00:09:48,589 --> 00:09:53,009
+operador paréntesis y los asteriscos con el 
+nombre de
+
+159
+00:09:53,009 --> 00:09:53,980
+puntero de función, podemos utilizar 
+simplemente el nombre de
+
+160
+00:09:53,980 --> 00:09:58,509
+puntero de función y esto es lo 
+suficientemente bueno. Por lo tanto, podemos 
+utilizar la función de puntero
+
+161
+00:09:58,509 --> 00:10:00,430
+nombre o identificador como nombre de la 
+función como
+
+162
+00:10:00,430 --> 00:10:03,689
+se puede ver la salida aquí es como se 
+esperaba.
+
+163
+00:10:03,689 --> 00:10:08,220
+Así que tenemos dos posibles sintaxis para 
+ambas referencias
+
+164
+00:10:08,220 --> 00:10:11,860
+y eliminación de referencias puede utilizar 
+cualquiera usted tiene gusto. La segunda es 
+la más famosa.
+
+165
+00:10:11,860 --> 00:10:15,279
+Una última cosa, que sea capaz de apuntar a 
+un
+
+166
+00:10:15,279 --> 00:10:19,699
+tipo de función del puntero de función debe 
+ser apropiado. Así que en esta declaración
+
+167
+00:10:19,699 --> 00:10:20,160
+de 'p' aquí si yo
+
+168
+00:10:20,160 --> 00:10:23,189
+lo cambiaría algo como esto.
+
+169
+00:10:23,189 --> 00:10:27,079
+A continuación, este puntero de función está 
+destinado a señalar a una
+
+170
+00:10:27,079 --> 00:10:32,189
+función que debería tener dos números 
+enteros como argumentos y debe devolver 
+vacío.
+
+171
+00:10:32,189 --> 00:10:36,809
+Añadir función se entero de retorno por lo 
+que 'p' no puede apuntar a añadir. Esto me 
+dará
+
+172
+00:10:36,809 --> 00:10:41,089
+error de compilación. Una vez más, si me va a
+
+173
+00:10:41,089 --> 00:10:41,519
+cambiar la declaración de algo como esto.
+
+174
+00:10:41,519 --> 00:10:46,149
+Si voy a tener sólo un argumento en la 
+declaración de
+
+175
+00:10:46,149 --> 00:10:51,189
+un puntero de función, entonces P no puede 
+apuntar a Agregar. Bien, ahora vamos a 
+utilizar algunas funciones
+
+176
+00:10:51,189 --> 00:10:52,569
+más con diferentes firmas y tratar de
+
+177
+00:10:52,569 --> 00:10:56,869
+ejecutarlas a través de punteros de función. 
+Estoy escribiendo esta
+
+178
+00:10:56,869 --> 00:10:57,809
+función PrintHello simplemente
+
+179
+00:10:57,809 --> 00:11:02,129
+imprime "Hola" en la pantalla. Vamos a tener 
+que declarar
+
+180
+00:11:02,129 --> 00:11:05,410
+un puntero de función como esta.
+
+181
+00:11:05,410 --> 00:11:11,389
+y entonces podemos inicializar el puntero y 
+rellene la dirección
+
+182
+00:11:11,389 --> 00:11:14,899
+de esta función y ahora podemos ejecutar la 
+función a
+
+183
+00:11:14,899 --> 00:11:18,999
+través de este puntero Veamos lo que la 
+salida es. Esto se ve bien.
+
+184
+00:11:18,999 --> 00:11:23,720
+Ahora digamos que queremos decir "Hola" a
+
+185
+00:11:23,720 --> 00:11:24,879
+alguien y voy a cambiar la firma
+
+186
+00:11:24,879 --> 00:11:28,930
+de PrintHello Para tomar una cadena como
+
+187
+00:11:28,930 --> 00:11:31,999
+argumento, la declaración de puntero de 
+función también cambiará.
+
+188
+00:11:31,999 --> 00:11:35,569
+Y mientras que llama tendremos que pasar una 
+cadena después de ejecutar
+
+189
+00:11:35,569 --> 00:11:40,170
+este programa, esto es lo que me pasa y esto 
+también está bien.
+
+190
+00:11:40,170 --> 00:11:43,939
+Así que esto es más o menos cómo podemos 
+crear
+
+191
+00:11:43,939 --> 00:11:48,119
+y utilizar los punteros de función en C o C 
+++. punteros de función se utilizan en un 
+programa
+
+192
+00:11:48,119 --> 00:11:50,730
+en escenarios interesantes, tienen casos de 
+uso interesantes.
+
+193
+00:11:50,730 --> 00:11:55,240
+Vamos a hablar de los casos de uso en la 
+próxima lección. Esto es todo por
+
+194
+00:11:55,240 --> 00:11:55,939
+esta lección Gracias por mirar!
+

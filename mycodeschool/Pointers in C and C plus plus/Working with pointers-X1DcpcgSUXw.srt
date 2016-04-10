@@ -1,0 +1,1154 @@
+0
+00:00:00,759 --> 00:00:05,410
+Por lo tanto, en nuestro anterior lección 
+"Introducción a
+
+1
+00:00:05,410 --> 00:00:06,799
+los punteros", hemos aprendido los conceptos 
+básicos de los punteros.
+
+2
+00:00:06,799 --> 00:00:09,829
+En esta lección vamos a ver cómo
+
+3
+00:00:09,829 --> 00:00:12,219
+trabajar con punteros en algunos ejemplos de
+
+4
+00:00:12,219 --> 00:00:15,459
+código reales, pero antes de que un resumen 
+rápido.
+
+5
+00:00:15,459 --> 00:00:19,829
+Los punteros son variables que almacenan la 
+dirección de otras variables.
+
+6
+00:00:19,829 --> 00:00:23,689
+Declaramos una variable normal con una
+
+7
+00:00:23,689 --> 00:00:25,480
+sintaxis como el tipo de datos
+
+8
+00:00:25,480 --> 00:00:27,719
+o el tipo de variable seguido
+
+9
+00:00:27,719 --> 00:00:30,179
+por el nombre de la variable,
+
+10
+00:00:30,179 --> 00:00:32,540
+pero se declara una variable de
+
+11
+00:00:32,540 --> 00:00:33,860
+puntero con un tipo de datos
+
+12
+00:00:33,860 --> 00:00:35,850
+de sintaxis y un signo asterisco
+
+13
+00:00:35,850 --> 00:00:39,880
+seguido por el nombre de la variable.
+
+14
+00:00:39,880 --> 00:00:43,260
+Necesitamos una variable puntero del número 
+entero
+
+15
+00:00:43,260 --> 00:00:44,290
+para almacenar la dirección de un número 
+entero.
+
+16
+00:00:44,290 --> 00:00:46,760
+Para almacenar la dirección de,
+
+17
+00:00:46,760 --> 00:00:49,380
+por ejemplo una variable de
+
+18
+00:00:49,380 --> 00:00:54,350
+carácter vamos a necesitar un puntero 
+carácter. Así, se usará la misma sintaxis. 
+Ponemos un signo de asterisco y digamos que 
+el nombre
+
+19
+00:00:54,350 --> 00:00:55,999
+de la variable es 'P0' Por lo tanto, 'c' es
+
+20
+00:00:57,320 --> 00:01:00,900
+una variable de carácter y 'P0' es un 
+puntero a
+
+21
+00:01:02,480 --> 00:01:07,200
+carácter y de manera similar, que puede 
+tener un puntero a duplicar.
+
+22
+00:01:07,200 --> 00:01:11,300
+Y también podemos tener punteros a una 
+estructura definida por
+
+23
+00:01:11,300 --> 00:01:14,650
+el usuario, o una clase definida por el 
+usuario también.
+
+24
+00:01:14,650 --> 00:01:17,860
+Y para obtener la dirección de
+
+25
+00:01:17,860 --> 00:01:19,410
+una variable, se escribe una declaración
+
+26
+00:01:19,410 --> 00:01:23,170
+como, P & A (ampersand 'a'). Ahora, este 
+signo funciona como un operador que
+
+27
+00:01:23,170 --> 00:01:26,950
+nos da la dirección de la 'a', y
+
+28
+00:01:26,950 --> 00:01:30,230
+lo que sucede en la memoria es algo
+
+29
+00:01:30,230 --> 00:01:33,720
+como esto, variable almacena 'P' la 
+dirección de la variable 'a'.
+
+30
+00:01:33,720 --> 00:01:34,890
+Así que en esta figura aquí
+
+31
+00:01:34,890 --> 00:01:36,340
+el valor de P es 204,
+
+32
+00:01:36,340 --> 00:01:39,730
+que es la dirección de la
+
+33
+00:01:39,730 --> 00:01:41,729
+"a", por lo que los puntos
+
+34
+00:01:41,729 --> 00:01:45,430
+de 'P' a 'A', y el
+
+35
+00:01:45,430 --> 00:01:47,660
+uso de "P" también podemos obtener el valor 
+de "a". Así que digamos que si
+
+36
+00:01:47,660 --> 00:01:48,830
+'a' es 8 y se
+
+37
+00:01:48,830 --> 00:01:49,860
+utiliza un operador estrella (*)
+
+38
+00:01:49,860 --> 00:01:52,810
+delante de 'P', entonces P
+
+39
+00:01:52,810 --> 00:01:55,110
+* nos da 8, que
+
+40
+00:01:55,110 --> 00:01:57,359
+es el valor de "a".
+
+41
+00:01:57,359 --> 00:02:00,660
+Si tratamos de imprimir * P, nos da 8.
+
+42
+00:02:00,660 --> 00:02:03,240
+Vamos ahora a tratar de ver algunas
+
+43
+00:02:03,240 --> 00:02:05,159
+de estas cosas en el código real.
+
+44
+00:02:05,159 --> 00:02:10,009
+Ok, así que el tiempo para ver las cosas que 
+se mueven en un programa en C real.
+
+45
+00:02:10,009 --> 00:02:13,950
+Ahora, lo que voy a hacer es voy a jugar un 
+juego con usted. Voy a escribir algunas 
+declaraciones
+
+46
+00:02:13,950 --> 00:02:15,379
+de impresión y hay que
+
+47
+00:02:15,379 --> 00:02:17,879
+adivinar, lo que será la salida?
+
+48
+00:02:17,879 --> 00:02:21,769
+Así que lo primero que haré es Anunciaré una
+
+49
+00:02:21,769 --> 00:02:25,180
+variable entera "a", y entonces les 
+declararé otra variable
+
+50
+00:02:26,639 --> 00:02:29,430
+que será puntero a entero y ahora voy a
+
+51
+00:02:29,430 --> 00:02:32,589
+escribir una declaración de impresión en el 
+que estará imprimiendo 'P'.
+
+52
+00:02:32,589 --> 00:02:34,779
+Ahora, ¿cuál será la salida de este programa?
+
+53
+00:02:34,779 --> 00:02:35,470
+OK, así que vamos
+
+54
+00:02:35,470 --> 00:02:37,919
+a ejecutar este programa.
+
+55
+00:02:37,919 --> 00:02:39,849
+Ups! esto nos da un error.
+
+56
+00:02:39,849 --> 00:02:43,189
+Y si es demasiado pequeña
+
+57
+00:02:43,189 --> 00:02:43,839
+para que lo lea, entonces
+
+58
+00:02:43,839 --> 00:02:46,469
+esto está dando un error
+
+59
+00:02:46,469 --> 00:02:48,809
+que la variable «p» no
+
+60
+00:02:48,809 --> 00:02:51,719
+se ha inicializado y lo estamos utilizando 
+sin inicializar.
+
+61
+00:02:51,719 --> 00:02:54,650
+Por lo tanto, es por eso que el programa 
+está fallando.
+
+62
+00:02:54,650 --> 00:02:56,989
+Así que ahora voy a escribir un comunicado.
+
+63
+00:02:56,989 --> 00:02:59,509
+p = & a (signo
+
+64
+00:02:59,509 --> 00:03:00,689
+'a') Ahora signo de un
+
+65
+00:03:00,689 --> 00:03:02,859
+(& a) no es más
+
+66
+00:03:02,859 --> 00:03:04,279
+que la dirección de un.
+
+67
+00:03:04,279 --> 00:03:06,609
+Ahora vamos a correr de nuevo.
+
+68
+00:03:06,609 --> 00:03:08,819
+Bueno por lo que
+
+69
+00:03:08,819 --> 00:03:09,819
+se imprime una dirección.
+
+70
+00:03:11,149 --> 00:03:13,629
+Y, ¿cómo saber que esta es la dirección, o
+
+71
+00:03:13,629 --> 00:03:17,199
+esta es la dirección correcta que se 
+almacena en 'p'.
+
+72
+00:03:17,199 --> 00:03:19,649
+Por lo tanto, voy a escribir otra 
+declaración de impresión.
+
+73
+00:03:19,649 --> 00:03:23,810
+y ahora estoy imprimiendo * p. Ahora 
+operador estrella, cuando se pone en frente 
+de la
+
+74
+00:03:23,810 --> 00:03:28,159
+dirección, entonces nos da el valor de esa 
+dirección en particular.
+
+75
+00:03:28,159 --> 00:03:29,789
+Bueno por lo cuál será la
+
+76
+00:03:29,789 --> 00:03:32,919
+salida de la segunda sentencia print?
+
+77
+00:03:32,919 --> 00:03:38,079
+Así que cuando corremos esto, la primera 
+línea nos da
+
+78
+00:03:38,079 --> 00:03:39,510
+la dirección que 'p' señala y esta dirección 
+es diferente,
+
+79
+00:03:39,510 --> 00:03:43,789
+que la dirección anterior, porque cada vez 
+que el programa
+
+80
+00:03:43,789 --> 00:03:45,979
+se ejecuta de nuevo, una nueva dirección se 
+reserva, pero
+
+81
+00:03:45,979 --> 00:03:48,319
+el valor a 'p 'es un valor de basura, es
+
+82
+00:03:48,319 --> 00:03:53,209
+algún entero que no estoy seguro de lo que 
+es.
+
+83
+00:03:53,209 --> 00:03:57,359
+Esto está ocurriendo porque no he
+
+84
+00:03:57,359 --> 00:03:59,700
+inicializado 'a' y aunque los recuerdos
+
+85
+00:03:59,700 --> 00:04:00,979
+se asignan para 'a', hay algo
+
+86
+00:04:00,979 --> 00:04:03,729
+de valor de basura allí que no sé acerca.
+
+87
+00:04:03,729 --> 00:04:07,449
+Ok, así que vamos a inicializar 'a'. Digamos 
+que 'a' es igual a 10.
+
+88
+00:04:07,449 --> 00:04:13,879
+Y ahora la segunda línea imprime
+
+89
+00:04:13,879 --> 00:04:15,659
+el valor de "a", y ahora
+
+90
+00:04:15,659 --> 00:04:17,089
+va a escribir otra sentencia de
+
+91
+00:04:17,089 --> 00:04:19,409
+impresión, y esta vez voy a
+
+92
+00:04:19,409 --> 00:04:21,579
+imprimir y escribir una (ampersand 'a').
+
+93
+00:04:21,579 --> 00:04:24,510
+Ahora lo que debe ser el
+
+94
+00:04:24,510 --> 00:04:26,120
+resultado de esta tercera declaración de 
+impresión?
+
+95
+00:04:26,120 --> 00:04:28,520
+Y esto debería ser bastante fácil de 
+adivinar.
+
+96
+00:04:28,520 --> 00:04:31,059
+operador comercial (&) nos da la
+
+97
+00:04:31,059 --> 00:04:32,280
+dirección y por eso la tercera
+
+98
+00:04:32,280 --> 00:04:36,620
+línea es también la dirección de la "a".
+
+99
+00:04:36,620 --> 00:04:40,259
+Dentro de hecho eso es lo que hemos hecho 
+aquí. Hemos asignado 'p'
+
+100
+00:04:40,259 --> 00:04:44,009
+de la dirección "a". Hemos utilizado el 
+signo del operador.
+
+101
+00:04:44,009 --> 00:04:48,110
+Ahora, lo que voy a hacer es, voy a
+
+102
+00:04:48,110 --> 00:04:49,569
+modificar el valor de "a", usando el puntero 
+'p'.
+
+103
+00:04:49,569 --> 00:04:51,949
+Y, para ello voy a
+
+104
+00:04:51,949 --> 00:04:54,309
+escribir una declaración como *
+
+105
+00:04:54,309 --> 00:04:55,550
+p = 12 y esto
+
+106
+00:04:55,550 --> 00:04:59,590
+se lee como valor en la dirección 'p'. Valor 
+en la dirección que se señaló
+
+107
+00:04:59,590 --> 00:05:00,650
+por 'p' es ahora de 12 años.
+
+108
+00:05:00,650 --> 00:05:01,870
+Este concepto se
+
+109
+00:05:01,870 --> 00:05:03,389
+denomina eliminación de referencias.
+
+110
+00:05:03,389 --> 00:05:06,779
+Así que ahora si se intenta imprimir 'a', y
+
+111
+00:05:06,779 --> 00:05:10,499
+también vamos a poner una instrucción de 
+impresión para
+
+112
+00:05:13,169 --> 00:05:15,040
+'a', antes de modificar el valor, y vamos a 
+ejecutar esto.
+
+113
+00:05:15,040 --> 00:05:17,039
+Así que la primera
+
+114
+00:05:17,039 --> 00:05:18,539
+impresión me da 10,
+
+115
+00:05:18,539 --> 00:05:20,899
+que es el valor
+
+116
+00:05:20,899 --> 00:05:21,699
+que hemos inicializado 'a'
+
+117
+00:05:21,699 --> 00:05:23,020
+con la impresión y
+
+118
+00:05:23,020 --> 00:05:24,319
+la segunda nos da
+
+119
+00:05:24,319 --> 00:05:26,529
+a = 12 a
+
+120
+00:05:26,529 --> 00:05:28,449
+= 12, porque hemos
+
+121
+00:05:28,449 --> 00:05:30,390
+De acuerdo, entonces una cosa más que voy a 
+hacer aquí ahora.
+
+122
+00:05:30,390 --> 00:05:32,469
+Voy a tener otro 'b' variables,
+
+123
+00:05:32,469 --> 00:05:33,990
+que tienen un valor de 20.
+
+124
+00:05:33,990 --> 00:05:36,050
+y ahora lo que voy a
+
+125
+00:05:36,050 --> 00:05:36,789
+decir es p * o valor
+
+126
+00:05:36,789 --> 00:05:40,330
+en la dirección 'p' es igual a 'b'.
+
+127
+00:05:40,330 --> 00:05:41,990
+Y la pregunta ahora es que,
+
+128
+00:05:41,990 --> 00:05:43,630
+será la dirección en el cambio
+
+129
+00:05:43,630 --> 00:05:46,839
+'p' ahora para que apunte a "b"?
+
+130
+00:05:46,839 --> 00:05:50,360
+No, a menos que se escribe de manera
+
+131
+00:05:50,360 --> 00:05:52,849
+explícita una declaración como, p = & b.
+
+132
+00:05:52,849 --> 00:05:56,939
+Esta operación inversa no sucederá. Lo que 
+estamos haciendo aquí es, en
+
+133
+00:05:56,939 --> 00:05:58,049
+realidad, sólo se pone en la dirección
+
+134
+00:05:58,049 --> 00:06:00,989
+de la "a", el valor que 'b'
+
+135
+00:06:00,989 --> 00:06:02,550
+tiene, pero no están apuntando a 'b'.
+
+136
+00:06:02,550 --> 00:06:04,309
+Y esto va a
+
+137
+00:06:04,309 --> 00:06:05,470
+poner en claro, sólo
+
+138
+00:06:05,470 --> 00:06:07,490
+si escribimos algunas declaraciones más 
+printf.
+
+139
+00:06:07,490 --> 00:06:10,630
+Así que antes de escribir la declaración, 
+estoy escribiendo dos sentencias de 
+impresión.
+
+140
+00:06:10,630 --> 00:06:13,850
+Uno para imprimir la dirección y uno para 
+imprimir el valor.
+
+141
+00:06:13,850 --> 00:06:14,779
+Y después escribimos la declaración, voy a
+
+142
+00:06:14,779 --> 00:06:17,809
+escribir dos más sentencias de impresión que
+
+143
+00:06:17,809 --> 00:06:20,300
+tratan de imprimir la dirección y el valor 
+nuevo.
+
+144
+00:06:20,300 --> 00:06:24,669
+Ao nos deja ver lo que la salida es ahora. 
+Aceptar, por lo que la dirección de
+
+145
+00:06:24,669 --> 00:06:28,330
+p es inicialmente tres, uno, cuatro, cuatro,
+
+146
+00:06:28,330 --> 00:06:29,659
+cinco, siete y seis, y el valor es 10.
+
+147
+00:06:29,659 --> 00:06:33,670
+Y después de la estrella p comunicado igual 
+a b,
+
+148
+00:06:33,670 --> 00:06:35,789
+único valor es modificado y el puntero sigue 
+apuntando a 'A'.
+
+149
+00:06:35,789 --> 00:06:39,539
+Por lo que una se convierte ahora en veinte, 
+pero la dirección no cambia.
+
+150
+00:06:39,539 --> 00:06:40,520
+Ahora bien, una cosa más.
+
+151
+00:06:40,520 --> 00:06:45,110
+A veces declarar e inicializar una variable 
+en la misma instrucción
+
+152
+00:06:45,110 --> 00:06:49,550
+así que en vez de escribir esto un 
+equivalente al diez
+
+153
+00:06:49,550 --> 00:06:50,580
+por aquí simplemente podríamos decir que un 
+int es igual a 10.
+
+154
+00:06:52,199 --> 00:06:56,150
+Así que podemos hacerlo para la variable 
+puntero también.
+
+155
+00:06:56,150 --> 00:06:57,610
+simplemente podríamos decir de estas dos
+
+156
+00:06:57,610 --> 00:07:01,199
+afirmaciones una declaración simple como la
+
+157
+00:07:01,199 --> 00:07:03,309
+estrella int p es igual al
+
+158
+00:07:03,309 --> 00:07:05,529
+signo 'a' y que no necesitaremos el 
+comunicado.
+
+159
+00:07:05,529 --> 00:07:09,579
+Esta declaración es lo mismo que decir las 
+dos declaraciones anteriores.
+
+160
+00:07:09,579 --> 00:07:13,139
+La sintaxis de declaración de puntero
+
+161
+00:07:13,139 --> 00:07:14,939
+algunas personas escribir este signo 
+asterisco
+
+162
+00:07:14,939 --> 00:07:16,989
+después int y no escriba en
+
+163
+00:07:16,989 --> 00:07:18,839
+frente del nombre de la variable.
+
+164
+00:07:18,839 --> 00:07:21,119
+Esto también funciona y esto también está 
+bien
+
+165
+00:07:21,119 --> 00:07:22,680
+para que pueda escribir estrellas int que 
+significa
+
+166
+00:07:22,680 --> 00:07:25,580
+puntero a entero y luego se puede escribir
+
+167
+00:07:26,639 --> 00:07:28,619
+el nombre de la variable y esto también va a 
+trabajar.
+
+168
+00:07:28,619 --> 00:07:30,599
+Aceptar lo que ahora vamos a apuntar.
+
+169
+00:07:30,599 --> 00:07:32,080
+Vamos a hablar
+
+170
+00:07:32,080 --> 00:07:34,029
+de un concepto.
+
+171
+00:07:34,029 --> 00:07:35,749
+Vamos a hablar sobre
+
+172
+00:07:35,749 --> 00:07:40,110
+el concepto de la
+
+173
+00:07:40,110 --> 00:07:41,409
+aritmética de punteros, pero
+
+174
+00:07:41,409 --> 00:07:43,389
+antes de que voy a escribir esto. Reescribir 
+esta declaración e inicialización
+
+175
+00:07:43,389 --> 00:07:48,360
+como antes en dos estados.
+
+176
+00:07:48,360 --> 00:07:50,979
+Me gusta lo mejor de esta manera. Es menos 
+confuso.
+
+177
+00:07:50,979 --> 00:07:53,789
+Ahora voy a escribir dos sentencias de 
+impresión aquí.
+
+178
+00:07:53,789 --> 00:07:55,030
+En la primera
+
+179
+00:07:55,030 --> 00:07:56,550
+declaración Imprimiré p
+
+180
+00:07:56,550 --> 00:07:59,250
+y en otro
+
+181
+00:07:59,250 --> 00:08:00,740
+comunicado Imprimiré p más uno.
+
+182
+00:08:00,740 --> 00:08:03,499
+Ahora bien, ¿es realmente posible hacerlo?
+
+183
+00:08:03,499 --> 00:08:05,129
+Realmente podemos aumentar y
+
+184
+00:08:05,129 --> 00:08:07,050
+disminuir una variable puntero?
+
+185
+00:08:07,050 --> 00:08:09,029
+Sí, podemos hacerlo.
+
+186
+00:08:09,029 --> 00:08:09,960
+Así que ahora vamos a
+
+187
+00:08:09,960 --> 00:08:14,270
+suponer que la dirección almacenada
+
+188
+00:08:14,270 --> 00:08:16,489
+en p es algo así como 2.002.
+
+189
+00:08:16,489 --> 00:08:18,430
+Por lo que cualquier conjeturas
+
+190
+00:08:18,430 --> 00:08:20,729
+lo p más uno serán?
+
+191
+00:08:20,729 --> 00:08:23,110
+¿Será el 2003?
+
+192
+00:08:23,110 --> 00:08:27,440
+Bueno no. (P + 1) será de 2006.
+
+193
+00:08:27,440 --> 00:08:28,430
+Esto es porque si p es
+
+194
+00:08:28,430 --> 00:08:32,800
+un número entero puntero incrementándolo en
+
+195
+00:08:32,800 --> 00:08:36,010
+una unidad nos lleva a la
+
+196
+00:08:36,010 --> 00:08:36,790
+dirección del siguiente número entero y
+
+197
+00:08:36,790 --> 00:08:39,450
+porque el tamaño de un entero es de cuatro 
+bytes.
+
+198
+00:08:39,450 --> 00:08:41,180
+Por lo tanto, para ir a la siguiente 
+dirección
+
+199
+00:08:41,180 --> 00:08:46,790
+de número entero que necesitamos para saltar 
+4 bytes. Por lo tanto, p, más incrementos de 
+p por 4 bytes.
+
+200
+00:08:46,790 --> 00:08:50,820
+Voy a escribir otra sentencia de impresión
+
+201
+00:08:50,820 --> 00:08:53,370
+en el que voy a imprimir las
+
+202
+00:08:53,370 --> 00:08:55,630
+dimensiones de una variable entera y voy
+
+203
+00:08:55,630 --> 00:08:57,890
+a escribir algo como número entero es sizeof.
+
+204
+00:08:57,890 --> 00:09:01,220
+Tenemos una función en C, sizeof, que
+
+205
+00:09:01,220 --> 00:09:03,650
+nos da el tamaño del tipo de datos.
+
+206
+00:09:03,650 --> 00:09:04,520
+Por lo que esta sentencia print
+
+207
+00:09:04,520 --> 00:09:07,770
+nos dará el tamaño del número entero.
+
+208
+00:09:07,770 --> 00:09:10,740
+Vamos a escribir en el
+
+209
+00:09:10,740 --> 00:09:13,560
+primer y tercer declaraciones de
+
+210
+00:09:13,560 --> 00:09:15,050
+impresión algo así como dirección
+
+211
+00:09:15,050 --> 00:09:17,310
+de p es bla y
+
+212
+00:09:17,310 --> 00:09:18,900
+dirección (p + 1) es bla. Así que ahora 
+vamos a
+
+213
+00:09:18,900 --> 00:09:21,070
+ejecutar esto y ver qué pasa.
+
+214
+00:09:21,070 --> 00:09:25,350
+Por lo que la salida es la dirección p
+
+215
+00:09:25,350 --> 00:09:26,720
+es 4 586 052, que es un poco de
+
+216
+00:09:26,720 --> 00:09:30,190
+dirección y luego imprimimos tamaño del 
+número entero de 4 bytes. Así, por este 
+compilador particular, el tamaño
+
+217
+00:09:30,190 --> 00:09:32,100
+de un entero es de cuatro bytes
+
+218
+00:09:32,100 --> 00:09:34,740
+y la dirección (p + 1) es
+
+219
+00:09:34,740 --> 00:09:38,910
+de cuatro bytes más que la dirección p.
+
+220
+00:09:38,910 --> 00:09:43,010
+Puede probar esta cosa hacia fuera para un 
+puntero de carácter o
+
+221
+00:09:43,010 --> 00:09:45,100
+un puntero doble o un puntero para algún 
+otro tipo de datos.
+
+222
+00:09:45,100 --> 00:09:48,020
+Por lo que también podría incrementar este 
+por 2
+
+223
+00:09:48,020 --> 00:09:50,870
+y lo que sucede si incrementamos este por 2?
+
+224
+00:09:50,870 --> 00:09:54,640
+Se incrementará la dirección de un 8.
+
+225
+00:09:54,640 --> 00:09:56,490
+Por lo tanto,
+
+226
+00:09:56,490 --> 00:09:58,640
+esto será como 2010.
+
+227
+00:09:58,640 --> 00:10:01,060
+P más 2 serán 2010
+
+228
+00:10:01,060 --> 00:10:04,550
+y este 2002 y 2010
+
+229
+00:10:04,550 --> 00:10:05,540
+es algo que he recogido
+
+230
+00:10:05,540 --> 00:10:07,260
+al azar por el simple hecho de ejemplo.
+
+231
+00:10:07,260 --> 00:10:10,920
+Así que ahora, una vez más lo que si
+
+232
+00:10:10,920 --> 00:10:11,920
+quiero imprimir el valor en esta dirección 
+en particular?
+
+233
+00:10:11,920 --> 00:10:16,670
+Así que estoy imprimiendo dos líneas más 
+aquí ahora. Estoy escribiendo un valor en la 
+dirección
+
+234
+00:10:16,670 --> 00:10:20,740
+P y voy a imprimir * p. Nos da el valor en 
+esa
+
+235
+00:10:20,740 --> 00:10:22,629
+dirección y vamos a imprimir otra línea.
+
+236
+00:10:22,629 --> 00:10:25,880
+Diremos que el valor en la
+
+237
+00:10:25,880 --> 00:10:27,720
+dirección (p + 1) es y
+
+238
+00:10:27,720 --> 00:10:29,290
+esto debe ser * (p + 1).
+
+239
+00:10:29,290 --> 00:10:31,860
+Ponemos el operador estrellas en frente de 
+la dirección.
+
+240
+00:10:31,860 --> 00:10:33,940
+Así que ahora lo que será la salida?
+
+241
+00:10:33,940 --> 00:10:35,420
+Por lo que la salida es la dirección que
+
+242
+00:10:35,420 --> 00:10:38,779
+p es cierta dirección y el valor en la
+
+243
+00:10:38,779 --> 00:10:42,180
+dirección p es 10, que está bien porque 
+habíamos
+
+244
+00:10:42,180 --> 00:10:43,320
+guardado la dirección de la variable a en p.
+
+245
+00:10:43,320 --> 00:10:46,960
+Ahora siguiente línea es el tamaño del número
+
+246
+00:10:46,960 --> 00:10:47,800
+entero de 4 bytes y p más uno
+
+247
+00:10:47,800 --> 00:10:49,030
+es cuatro más que la dirección de P
+
+248
+00:10:49,030 --> 00:10:52,490
+y el valor en la dirección p +
+
+249
+00:10:52,490 --> 00:10:53,630
+1 es un valor entero que yo no sepa.
+
+250
+00:10:53,630 --> 00:10:56,140
+De hecho, este es un valor de la
+
+251
+00:10:56,140 --> 00:10:59,290
+basura, ya que en realidad no tenemos un
+
+252
+00:10:59,290 --> 00:11:00,860
+número entero asignado a esta dirección de 
+memoria particular.
+
+253
+00:11:00,860 --> 00:11:05,650
+Y esto es una cosa peligrosa sobre c 
+utilizando la aritmética de punteros.
+
+254
+00:11:05,650 --> 00:11:07,440
+El uso de manipulación de punteros se
+
+255
+00:11:07,440 --> 00:11:08,860
+puede llegar a cualquier dirección y, a
+
+256
+00:11:08,860 --> 00:11:10,140
+veces este tipo de operaciones puede llevar
+
+257
+00:11:10,140 --> 00:11:13,990
+algo de comportamiento no deseado de su 
+programa.
+
+258
+00:11:13,990 --> 00:11:18,320
+Recomiendo probar estas cosas, estos
+
+259
+00:11:18,320 --> 00:11:19,880
+fragmentos de código con otros
+
+260
+00:11:19,880 --> 00:11:20,819
+tipos de datos como caracteres
+
+261
+00:11:20,819 --> 00:11:24,220
+o flotador y los resultados serán similares. 
+Por lo tanto, se trataba de alguna
+
+262
+00:11:24,220 --> 00:11:25,879
+de jugar con los punteros y en
+
+263
+00:11:25,879 --> 00:11:27,610
+las próximas lecciones vamos a hablar más
+
+264
+00:11:27,610 --> 00:11:31,260
+sobre punteros y vamos a hablar de
+
+265
+00:11:31,260 --> 00:11:34,230
+los punteros en el contexto de las matrices.
+
+266
+00:11:34,230 --> 00:11:35,060
+Así que, gracias por ver!
+

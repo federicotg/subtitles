@@ -1,0 +1,881 @@
+0
+00:00:00,620 --> 00:00:06,330
+En nuestra lección anterior, vimos lo que 
+los punteros de función son y luego 
+escribimos un
+
+1
+00:00:06,330 --> 00:00:13,429
+programa sencillo de entender cómo podemos 
+crear punteros de función en un programa C o 
+C ++. Sin embargo, no discutimos los casos 
+reales de uso de punteros
+
+2
+00:00:13,429 --> 00:00:18,990
+de función, escenarios reales donde los 
+punteros de función pueden ser útiles.
+
+3
+00:00:18,990 --> 00:00:24,350
+Por lo tanto, en esta lección, vamos a 
+hablar de los casos de uso de punteros de 
+función. Todos los casos de uso de puntero 
+de función
+
+4
+00:00:24,350 --> 00:00:30,310
+son alrededor de este concepto de que la 
+función
+
+5
+00:00:30,310 --> 00:00:37,550
+de los punteros se pueden pasar como 
+argumentos de funciones. Y a continuación, 
+una función que recibiría un puntero a 
+función como
+
+6
+00:00:37,550 --> 00:00:43,760
+argumento puede devolver la llamada a la 
+función que este puntero apuntará a. Para 
+explicar esto mejor, voy
+
+7
+00:00:43,760 --> 00:00:50,039
+a tener que escribir código. En primer 
+lugar, voy a escribir una función con nombre 
+sencilla A.
+
+8
+00:00:50,039 --> 00:00:57,249
+Esta función toma ningún argumento, devuelve 
+void y simplemente imprimir Hola en la 
+pantalla. Ahora, voy a escribir
+
+9
+00:00:57,249 --> 00:01:04,430
+otra función denominada B. Esta función toma 
+un puntero a función como argumento. ptr 
+debe apuntar a una función
+
+10
+00:01:04,430 --> 00:01:10,290
+que debería tener ningún argumento y
+
+11
+00:01:10,290 --> 00:01:18,180
+deben volverá vacía, una función como A. 
+Ahora, en B simplemente a utilizar esta 
+función de puntero
+
+12
+00:01:18,180 --> 00:01:24,670
+PTR para llamar a cualquier función que 
+señala a su. O en otras palabras, puedo 
+decir que voy a llamar de nuevo la
+
+13
+00:01:24,670 --> 00:01:30,810
+función pasó a mí o que me han dado a través 
+de la PTR. En la función principal, voy a 
+declarar un puntero de
+
+14
+00:01:30,810 --> 00:01:35,780
+función y este puntero función también 
+debería apuntar a una
+
+15
+00:01:35,780 --> 00:01:44,060
+función que debería tener ningún argumento y 
+deben volverá vacía. Voy a inicializar este 
+puntero función p con la dirección de A.
+
+16
+00:01:44,060 --> 00:01:49,530
+Y ahora, voy a llamar a esta función B 
+pasándolo a este puntero función p. Vamos a 
+ejecutar este
+
+17
+00:01:49,530 --> 00:01:54,610
+programa y ver qué pasa. "Hola" está siendo 
+impreso en pantalla. Así que, básicamente, se
+
+18
+00:01:54,610 --> 00:02:01,110
+está ejecutado función A. A se ejecuta a 
+través de esta devolución de llamada /. En 
+la función principal, en lugar de escribir 
+estos dos
+
+19
+00:02:01,110 --> 00:02:06,960
+estados, que simplemente hay que escribir 
+una declaración como esta
+
+20
+00:02:06,960 --> 00:02:12,499
+y esto debería ser lo suficientemente bueno 
+porque el nombre
+
+21
+00:02:12,499 --> 00:02:18,109
+de una función, que había discutido esto 
+antes también, devuelve un puntero. Por lo 
+tanto, ésta declaración es igual a dos 
+declaraciones anteriores. Cuando referencia 
+a una función se pasa
+
+22
+00:02:18,109 --> 00:02:23,200
+a otra función, entonces esa función en
+
+23
+00:02:23,200 --> 00:02:29,730
+particular se llama una función de 
+devolución de llamada. Por lo tanto, A es 
+una función de devolución de llamada aquí. 
+Se puede volver a comprar por B a través
+
+24
+00:02:29,730 --> 00:02:34,560
+de la referencia, a través de la función de 
+puntero. Esta declaración en la que están 
+llamando a la función
+
+25
+00:02:34,560 --> 00:02:40,379
+a través de puntero de función es una 
+devolución de llamada. Todavía no estamos 
+haciendo
+
+26
+00:02:40,379 --> 00:02:46,730
+algo muy significativo aquí. Cuál es el 
+punto de llamar indirectamente a través de 
+un B en este código. Esto no es
+
+27
+00:02:46,730 --> 00:02:52,790
+hacer mucho sentido. Por lo tanto, vamos a 
+ver ahora un escenario en el que el uso de
+
+28
+00:02:52,790 --> 00:02:58,629
+un puntero de función de devolución de 
+llamada y puede hacer nuestra vida más 
+fácil. Tengo un escenario sencillo. Tengo 
+una lista de números enteros en una matriz y 
+quiero ordenar
+
+29
+00:02:58,629 --> 00:03:05,739
+esta lista en el orden del valor de números 
+enteros cada vez mayor. Para ello, voy a 
+escribir
+
+30
+00:03:05,739 --> 00:03:12,049
+mi propia función de clasificación. Estoy 
+escribiendo una función denominada clase que 
+tendrá una
+
+31
+00:03:12,049 --> 00:03:19,609
+gran variedad y el número de elementos de la 
+matriz. La función se llevará a una matriz 
+de enteros. Aquí, puedo escribir los 
+soportes A y luego o
+
+32
+00:03:19,609 --> 00:03:26,980
+puedo escribir * A, estos dos son sintaxis 
+alternativa. Voy a utilizar algoritmo
+
+33
+00:03:26,980 --> 00:03:33,459
+simple ordenamiento de burbuja. He cambiado 
+el nombre de esta función como una especie 
+de burbuja. En ordenamiento de burbuja, 
+hacemos varias pasadas en una matriz y en 
+cada pasada,
+
+34
+00:03:33,459 --> 00:03:40,299
+a medida que avanzamos de izquierda a 
+derecha, como vamos a partir de los
+
+35
+00:03:40,299 --> 00:03:46,879
+índices más bajos de los índices más altos, 
+lo comparamos los elementos adyacentes y
+
+36
+00:03:46,879 --> 00:03:52,919
+si el elemento en el índice más bajo es 
+mayor que el elemento en
+
+37
+00:03:52,919 --> 00:04:00,349
+el índice más alto mientras que la 
+comparación de los elementos adyacentes, 
+entonces intercambiamos los elementos. Este 
+bucle interno es un paso en la matriz. Y 
+este bucle exterior es básicamente
+
+38
+00:04:00,349 --> 00:04:06,439
+diciendo que vamos a hacer pases n. Después 
+de la primera pasada, el elemento más grande 
+en la
+
+39
+00:04:06,439 --> 00:04:12,769
+matriz formarán burbujas hasta el índice más 
+alto y en la
+
+40
+00:04:12,769 --> 00:04:18,739
+siguiente pasada la segunda mayor burbuja 
+voluntad hasta su posición adecuada. Esto 
+continuará y, finalmente, en n
+
+41
+00:04:18,739 --> 00:04:23,990
+pasos, se ordenará la lista completa. Si 
+desea actualizar ordenamiento de burbuja, 
+hay un enlace a la lección
+
+42
+00:04:23,990 --> 00:04:28,289
+de MycodeSchool en una especie de burbuja en 
+la descripción de este video. En la función 
+principal que he llamado función
+
+43
+00:04:28,289 --> 00:04:34,720
+de clasificación de la burbuja de pasarlo 
+matriz A. Y entonces, estoy imprimiendo 
+todos los elementos de A y
+
+44
+00:04:34,720 --> 00:04:39,270
+es de esperar elementos deben ser impresas 
+en orden creciente. La salida es como se 
+esperaba.
+
+45
+00:04:39,270 --> 00:04:45,199
+Tenemos una lista ordenada aquí. Bien, ahora 
+vamos a decir que quiero ordenar mi
+
+46
+00:04:45,199 --> 00:04:50,759
+lista por orden del valor de números enteros 
+decreciente. Por lo tanto, ¿qué cambio debe 
+ir en mi código aquí? Piénsalo.
+
+47
+00:04:50,759 --> 00:04:56,349
+El único cambio será en esta lógica de 
+comparación. En esta sentencia if. Si bien 
+la comparación de los elementos adyacentes, 
+ahora voy a
+
+48
+00:04:56,349 --> 00:05:02,120
+decir que, si el elemento de la izquierda es 
+menor, si
+
+49
+00:05:02,120 --> 00:05:07,780
+el elemento en el índice más bajo es más 
+pequeña, a
+
+50
+00:05:07,780 --> 00:05:14,770
+continuación, cambiar o básicamente, a 
+continuación, empuje hacia índice más alto. 
+La comparación de los elementos adyacentes y 
+el intercambio, está empujando
+
+51
+00:05:14,770 --> 00:05:20,830
+básicamente más pequeño o el más alto 
+elemento hacia índices más altos. Con esta 
+condición, con esta comparación, estamos 
+empujando
+
+52
+00:05:20,830 --> 00:05:25,430
+hacia el menor número de índice más alto. 
+Veamos ahora la salida. Como se puede ver, 
+estoy
+
+53
+00:05:25,430 --> 00:05:30,169
+consiguiendo los números en orden 
+decreciente. Ahora, mi lista se ordena en
+
+54
+00:05:30,169 --> 00:05:36,889
+orden del valor de números enteros 
+decreciente. Ahora, vamos a decir que tengo 
+un requisito como éste. A veces, en mi 
+programa, quiero ordenar una lista de
+
+55
+00:05:36,889 --> 00:05:43,669
+números enteros en orden creciente y, a 
+veces quiero ordenar
+
+56
+00:05:43,669 --> 00:05:49,409
+una lista por orden del valor de números 
+enteros decreciente. Por lo tanto, todo lo 
+que puedo hacer. Piénsalo. Una cosa que 
+puedo hacer es, puedo escribir dos funciones
+
+57
+00:05:49,409 --> 00:05:55,860
+de clasificación, primera función de 
+clasificación para ordenar en orden
+
+58
+00:05:55,860 --> 00:06:01,449
+y la otra función de clasificación para 
+ordenar en orden decreciente creciente. Pero 
+si vamos a hacerlo, habrá
+
+59
+00:06:01,449 --> 00:06:08,129
+una gran cantidad de código duplicado. Las 
+dos funciones serán iguales excepto un solo 
+carácter,
+
+60
+00:06:08,129 --> 00:06:13,979
+sólo por esta signo menor que o mayor que 
+signo. Escribir código duplicado tiene 
+muchas desventajas.
+
+61
+00:06:13,979 --> 00:06:19,819
+Por lo tanto, podemos hacer algo mejor. Otra 
+cosa que podemos hacer es, podemos pasar un
+
+62
+00:06:19,819 --> 00:06:24,909
+parámetro más a la función de clasificación 
+para decir
+
+63
+00:06:24,909 --> 00:06:30,530
+si queremos que la lista ordenada en orden 
+creciente o decreciente. Podemos tener una 
+bandera. Digamos que cuando la bandera es 
+uno, vamos a ordenar en orden
+
+64
+00:06:30,530 --> 00:06:36,229
+creciente y cuando el indicador es 0, se 
+clasificará en orden decreciente. Con este 
+enfoque, podemos
+
+65
+00:06:36,229 --> 00:06:42,759
+evitar escribir mucho código duplicado. Lo 
+que voy a hacer es, voy a utilizar un 
+puntero de función.
+
+66
+00:06:42,759 --> 00:06:47,509
+Clasificación de una lista siempre se hace 
+sobre la base de algún mecanismo de 
+clasificación. Así, sobre la base de alguna 
+propiedad, debemos ser
+
+67
+00:06:47,509 --> 00:06:52,409
+capaces de comparar los elementos y decir 
+que esto
+
+68
+00:06:52,409 --> 00:06:58,319
+debe ser lo primero y esto debe venir más 
+tarde. La lógica de la base siempre será el 
+mismo. Sólo el mecanismo o la comparación
+
+69
+00:06:58,319 --> 00:07:03,259
+en la lógica va a cambiar. Lo que voy a 
+hacer aquí es, voy a decidir qué elemento es
+
+70
+00:07:03,259 --> 00:07:09,620
+mayor en rango, y qué elemento es menor a 
+través de una función. Básicamente, voy a 
+llevar a cabo
+
+71
+00:07:09,620 --> 00:07:15,400
+esta comparación a través de una función. Mi 
+función tendrá un
+
+72
+00:07:15,400 --> 00:07:20,689
+puntero a función como argumento. Mi función 
+de clasificación se llevará a puntero de 
+función como argumento. La función de 
+devolución de llamada o la función que
+
+73
+00:07:20,689 --> 00:07:27,020
+este puntero debe apuntar a dos enteros 
+deben tomar como argumento. Se debe comparar 
+los dos
+
+74
+00:07:27,020 --> 00:07:34,689
+enteros y debe regresar un entero. Debe 
+devolver 1 si el primer elemento tiene un 
+rango
+
+75
+00:07:34,689 --> 00:07:41,610
+más alto, 0 si los elementos son iguales y -1
+
+76
+00:07:41,610 --> 00:07:47,999
+si el segundo elemento o segundo argumento 
+tiene mayor rango. Y digamos, el elemento 
+que tiene mayor
+
+77
+00:07:47,999 --> 00:07:54,389
+rango irá hacia el final de matriz ordenada. 
+Hacia los índices más altos. Estos son mis 
+suposiciones, mientras que
+
+78
+00:07:54,389 --> 00:08:01,409
+el diseño de esta función de clasificación. 
+Ahora, voy a usar mi llamada de retorno para 
+la comparación, si A [j] y A
+
+79
+00:08:01,409 --> 00:08:09,139
+[j + 1] están ahora pasa como argumentos de 
+esta función de devolución de llamada y
+
+80
+00:08:09,139 --> 00:08:14,930
+nos llevamos 1, por lo que esta condición 
+será verdadera, intercambiaremos en esta 
+condición debido a
+
+81
+00:08:14,930 --> 00:08:22,400
+que a [j] tendrá que ser más alta en rango 
+para esta función de comparación para volver 
+1. Por lo tanto, vamos a tratar de
+
+82
+00:08:22,400 --> 00:08:28,199
+empujar A [j] hacia índices más altos. Ahora 
+vamos a tratar de utilizar esta 
+implementación particular de ordenamiento de 
+burbuja.
+
+83
+00:08:28,199 --> 00:08:33,779
+Voy a tener que escribir una función de 
+devolución de llamada en primer lugar. He 
+escrito una función como esta. Ahora, en el 
+principal, sólo puede utilizar el nombre de
+
+84
+00:08:33,779 --> 00:08:39,930
+esta función que me va a devolver un puntero 
+de
+
+85
+00:08:39,930 --> 00:08:46,579
+función y pasarlo en la presente 
+convocatoria de ordenamiento de burbuja. En 
+esta función de comparación, no he escrito 
+una
+
+86
+00:08:46,579 --> 00:08:51,480
+declaración a devolver 0 si los elementos 
+son iguales. La igualdad no importa en la 
+lógica, por lo
+
+87
+00:08:51,480 --> 00:08:58,740
+que para la igualdad también voy a devolver 
+-1. Vamos a ejecutar este programa y ver la 
+salida. Esto es lo
+
+88
+00:08:58,740 --> 00:09:04,769
+que quiero decir. Los números están 
+ordenados en orden creciente. Ahora, voy a 
+cambiar la
+
+89
+00:09:04,769 --> 00:09:13,260
+lógica de comparación un poco. Voy a 
+devolver -1 si A es mayor que B. Así que, 
+básicamente, he cambiado mecanismo de 
+clasificación.
+
+90
+00:09:13,260 --> 00:09:18,510
+El elemento de menor valor está puesto más
+
+91
+00:09:18,510 --> 00:09:23,800
+alto e irá hacia el final de la matriz. Esto 
+es lo que quiero decir después de ejecutar 
+el programa. La matriz está ordenada por 
+orden
+
+92
+00:09:23,800 --> 00:09:30,170
+de valor de números enteros decreciente. 
+Este es un muy buen diseño, porque ahora, 
+nuestra función de clasificación puede
+
+93
+00:09:30,170 --> 00:09:36,589
+clasificar una lista de números enteros 
+sobre la base de cualquier mecanismo de 
+clasificación. Podemos tener una función de 
+devolución
+
+94
+00:09:36,589 --> 00:09:41,800
+de llamada para cada mecanismo de 
+clasificación. Voy a poner un ejemplo más. 
+Digamos, tenemos una lista de números 
+enteros, con valores
+
+95
+00:09:41,800 --> 00:09:48,190
+positivos y negativos en el mismo, he 
+modificado Una aquí. A ahora tiene valores 
+positivos y negativos, esta vez
+
+96
+00:09:48,190 --> 00:09:55,339
+quiero ordenar esta matriz A con el fin de
+
+97
+00:09:55,339 --> 00:10:01,290
+que el valor absoluto de los números enteros 
+cada vez mayor. Por lo tanto, el signo 
+negativo no importará. Sólo tomaremos un
+
+98
+00:10:01,290 --> 00:10:09,019
+MOD y luego comparar. Esta matriz A en la 
+clasificación debería reorganizar como este.
+
+99
+00:10:09,019 --> 00:10:14,470
+Para poder clasificar, voy a tener que 
+escribir una función de comparación. La 
+última vez, había modificado la misma función
+
+100
+00:10:14,470 --> 00:10:19,240
+de comparación, pero en realidad se debe 
+escribir
+
+101
+00:10:19,240 --> 00:10:25,370
+una función de comparación para cada 
+escenario de clasificación. Por lo tanto, 
+voy a escribir una nueva función de este 
+tiempo. Voy a escribir
+
+102
+00:10:25,370 --> 00:10:32,370
+una función llamada absolute_compare. He 
+incluido una referencia a la matemática. h 
+biblioteca y voy a utilizar la función de 
+"ABS" de
+
+103
+00:10:32,370 --> 00:10:38,610
+esta biblioteca que me dará valor absoluto 
+de un número entero. Si el valor absoluto de 
+A es mayor que
+
+104
+00:10:38,610 --> 00:10:45,290
+el valor absoluto de B, entonces su puesto 
+más
+
+105
+00:10:45,290 --> 00:10:52,540
+alto, que debería devolver 1, más que 
+debería devolver -1. Ahora vamos a utilizar 
+esta función para ordenar esta matriz. Tengo 
+un error
+
+106
+00:10:52,540 --> 00:10:57,269
+ortográfico menor aquí. Ok, en lugar de 
+pasar esta función como argumento de 
+comparar,
+
+107
+00:10:57,269 --> 00:11:04,300
+no voy a pasar absolute_compare en este 
+llamado a la ordenación
+
+108
+00:11:04,300 --> 00:11:09,220
+de burbuja, esto básicamente está pasando un 
+puntero a la función absolute_compare. Ahora 
+vamos a ejecutar este programa y ver qué 
+pasa. Esto es lo
+
+109
+00:11:09,220 --> 00:11:14,550
+que quiero decir. Los elementos se ordenan 
+en orden de sus valores absolutos en aumento.
+
+110
+00:11:14,550 --> 00:11:20,660
+La función de ordenamiento de burbuja aquí 
+puede tomar sólo una matriz
+
+111
+00:11:20,660 --> 00:11:26,630
+de enteros, pero tenemos una función de 
+biblioteca que puede tomar cualquier matriz. 
+Por lo tanto, su más genérico. Esta función 
+de
+
+112
+00:11:26,630 --> 00:11:36,480
+biblioteca está en stdlib. h biblioteca y su 
+qsort llamado. qsort de ordenamiento rápido 
+y para esta función, debe pasar una matriz y
+
+113
+00:11:36,480 --> 00:11:42,130
+que puede ser cualquier matriz, puede ser 
+una matriz de enteros o puede
+
+114
+00:11:42,130 --> 00:11:49,149
+ser una serie de caracteres o incluso un 
+complejo de tipo de datos, una estructura. 
+El primer argumento será una matriz, segundo 
+argumento
+
+115
+00:11:49,149 --> 00:11:53,779
+será el número de elementos en la matriz. En 
+tercer argumento será el
+
+116
+00:11:53,779 --> 00:12:01,199
+tamaño del tipo de datos. Por lo tanto, si 
+se trata de una matriz de enteros, necesito 
+pasar sizeof (int). tamaño del tipo
+
+117
+00:12:01,199 --> 00:12:07,560
+de datos en bytes. la función sizeof da 
+tamaño de cualquier tipo de datos en bytes. 
+Último argumento debe ser un puntero de
+
+118
+00:12:07,560 --> 00:12:14,019
+función, un puntero a función de 
+comparación. Firma de la función
+
+119
+00:12:14,019 --> 00:12:22,100
+de comparación debería ser así. Se debe 
+tomar dos punteros void constantes como 
+argumento y devuelve un número entero.
+
+120
+00:12:22,100 --> 00:12:28,959
+¿Por qué punteros vacío? punteros void son 
+punteros genéricos. Podemos encasillado a un 
+puntero
+
+121
+00:12:28,959 --> 00:12:34,500
+de cualquier tipo de datos. Esta es la 
+especificación de la función qsort. Debe ser 
+pasado un puntero
+
+122
+00:12:34,500 --> 00:12:40,769
+a una función de este tipo. Por lo tanto, 
+será capaz de llamar de nuevo. Vamos a 
+escribir la función de comparación.
+
+123
+00:12:40,769 --> 00:12:48,310
+Se puede pensar en esto como referencia del 
+primer elemento se pasa como un puntero 
+nulo. Para obtener el elemento, si es una 
+lista de números enteros, que primero
+
+124
+00:12:48,310 --> 00:12:57,040
+tendrá que encasillada el puntero nulo 
+puntero a int y luego voy a
+
+125
+00:12:57,040 --> 00:13:02,769
+tener que utilizar el operador asterisco 
+para eliminar la referencia y obtener el 
+valor. Vamos a hacer lo mismo para
+
+126
+00:13:02,769 --> 00:13:09,750
+obtener el valor del segundo elemento. Esta 
+función debe devolver cualquier número 
+entero positivo si A está
+
+127
+00:13:09,750 --> 00:13:17,110
+en el puesto más alto, un entero negativo si 
+A está
+
+128
+00:13:17,110 --> 00:13:24,480
+en el puesto más bajo y 0 si ambos están 
+clasificados misma. Podemos simplemente 
+volver A-B y va a significar lo mismo. Si A 
+es mayor en valor, A-B será positivo y
+
+129
+00:13:24,480 --> 00:13:29,670
+estoy tratando de crear una función de 
+comparación simple aquí
+
+130
+00:13:29,670 --> 00:13:33,720
+que clasificar un número entero con un mayor 
+valor tan alto. Así que, básicamente esta 
+función de comparación se puede utilizar para
+
+131
+00:13:33,720 --> 00:13:39,579
+ordenar la matriz en orden de valor 
+creciente de números enteros. Así que, como 
+dije, volviendo valor positivo significa que 
+a es un puesto
+
+132
+00:13:39,579 --> 00:13:45,690
+más alto, volviendo medios de valor 
+negativos, B está en el puesto más alto.
+
+133
+00:13:45,690 --> 00:13:51,500
+Con esta función de comparación, si yo 
+simplemente pasar esta a qsort y después de 
+la
+
+134
+00:13:51,500 --> 00:13:57,430
+llamada a qsort, imprime el valor en esta 
+matriz, esto es lo que voy a conseguir. Como 
+se puede ver, la lista se ordena en
+
+135
+00:13:57,430 --> 00:14:02,319
+orden del valor de números enteros cada vez 
+mayor. Si voy a cambiar esta función de 
+comparación para volver BA, por lo que el
+
+136
+00:14:02,319 --> 00:14:10,300
+elemento con menor valor, número entero con 
+menor valor tendrá mejor posición, la lista 
+se
+
+137
+00:14:10,300 --> 00:14:15,819
+ordena en orden del valor de números enteros 
+decreciente y si va a utilizar el
+
+138
+00:14:15,819 --> 00:14:23,480
+valor absoluto de un signo menos absoluta 
+valor de B, esto es lo que voy a conseguir. 
+Recuerde que en esta función de comparación, 
+los dos elementos
+
+139
+00:14:23,480 --> 00:14:30,649
+que se van a comparar se están pasando a 
+través
+
+140
+00:14:30,649 --> 00:14:36,889
+de referencias, sus direcciones se están 
+pasando a través de un puntero. La palabra 
+clave const aquí significa, no se
+
+141
+00:14:36,889 --> 00:14:41,639
+puede modificar la dirección de esta 
+variable puntero. Estamos teniendo que 
+utilizar puntero nulo debido
+
+142
+00:14:41,639 --> 00:14:47,839
+a un diseño genérico de la función qsort. 
+Recuerde, qsort puede ordenar cualquier 
+matriz,
+
+143
+00:14:47,839 --> 00:14:53,350
+no sólo una matriz de enteros. es sólo eso, 
+usted tendrá que dar a la lógica de 
+comparación. Ok, por lo que acabamos de 
+discutir uno
+
+144
+00:14:53,350 --> 00:15:00,100
+de los casos de uso de punteros de función. 
+Toda esta idea de devolución de llamada se 
+utiliza
+
+145
+00:15:00,100 --> 00:15:05,730
+en una gran cantidad de escenarios de diseño 
+interesantes. Una cosa más en su concepto de 
+devolución de llamada hace que
+
+146
+00:15:05,730 --> 00:15:11,360
+nuestra vida más fácil es algo que se llama 
+la gestión de eventos. Si tiene curiosidad, 
+puede consultar también la descripción de
+
+147
+00:15:11,360 --> 00:15:16,670
+este video para algunos recursos en la 
+gestión de eventos. Esto es todo
+
+148
+00:15:16,670 --> 00:15:18,550
+por esta lección. ¡Gracias por ver!
+

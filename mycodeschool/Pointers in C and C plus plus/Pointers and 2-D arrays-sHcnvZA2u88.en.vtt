@@ -467,7 +467,7 @@ when we are putting an asterisk signs when we
 are trying to dereference this is when
 
 00:07:46.670 --> 00:07:51.280
-the type of pointer becomes important,
+the type of pointer becomes important.
 'B' is a pointer to one-dimensional array
 
 00:07:51.280 --> 00:07:52.440
@@ -482,20 +482,20 @@ and when we will dereference we will
 get this whole one-dimensional array of
 
 00:08:01.150 --> 00:08:03.630
-three integers starting address 412
+three integers starting address 412.
 
 00:08:03.630 --> 00:08:07.910
 *(B+1) is same as B[1] so
-we will get B[1]
+we will get B[1].
 
 00:08:07.910 --> 00:08:11.860
-now printing B[1] means using the name of
+Now printing B[1] means using the name of
 
 00:08:11.860 --> 00:08:16.560
 this one-dimensional array B[1] which should return us the pointer to
 
 00:08:16.560 --> 00:08:22.240
-the first integer in B[1], so *(B+1)
+the first integer in B[1]. So *(B+1)
 is basically pointer to this
 
 00:08:22.240 --> 00:08:28.190

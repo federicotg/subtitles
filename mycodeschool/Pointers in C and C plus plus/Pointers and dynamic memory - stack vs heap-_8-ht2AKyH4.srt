@@ -1,0 +1,1131 @@
+0
+00:00:00,729 --> 00:00:08,179
+La memoria es un recurso importante y 
+crucial en
+
+1
+00:00:08,179 --> 00:00:12,659
+nuestra máquina y siempre es bueno conocer 
+la arquitectura
+
+2
+00:00:12,659 --> 00:00:17,449
+de la memoria, el sistema operativo manera 
+administra la
+
+3
+00:00:17,449 --> 00:00:21,169
+memoria y la memoria de forma es accesible 
+para nosotros como programadores. En esta 
+lección vamos a discutir el concepto
+
+4
+00:00:21,169 --> 00:00:25,800
+de memoria dinámica y vamos a ver cómo
+
+5
+00:00:25,800 --> 00:00:32,340
+trabajar con memoria dinámica utilizando C o 
+C ++. La memoria que se asigna a un programa 
+o aplicación
+
+6
+00:00:32,340 --> 00:00:38,250
+en una arquitectura típica puede ser 
+dividido en cuatro segmentos. Un segmento de 
+la memoria
+
+7
+00:00:38,250 --> 00:00:44,309
+se asigna para almacenar las
+
+8
+00:00:44,309 --> 00:00:51,000
+instrucciones que deben ser ejecutadas. Otra 
+de las tiendas de la sección de todas las 
+variables estáticas o globales,
+
+9
+00:00:51,000 --> 00:00:54,859
+las variables que no se declaran dentro de 
+una función, y que tienen todo
+
+10
+00:00:54,859 --> 00:00:58,690
+el tiempo de vida de una aplicación, que se 
+puede acceder en cualquier lugar
+
+11
+00:00:58,690 --> 00:01:03,239
+durante todo el ciclo de vida de la 
+aplicación, siempre y cuando se ejecuta la 
+aplicación.
+
+12
+00:01:03,239 --> 00:01:08,090
+Una sección de la memoria se utiliza para 
+almacenar toda la información
+
+13
+00:01:08,090 --> 00:01:12,510
+de las llamadas a funciones y todas las 
+variables locales y también
+
+14
+00:01:12,510 --> 00:01:18,950
+hemos hablado de pila en nuestra lección 
+sobre la llamada por referencia. Las 
+variables locales se declaran dentro de una 
+función y
+
+15
+00:01:18,950 --> 00:01:24,070
+viven sólo hasta el momento en que la 
+función se ejecuta.
+
+16
+00:01:24,070 --> 00:01:28,210
+La cantidad de memoria reservada para estos 
+tres segmentos:
+
+17
+00:01:28,210 --> 00:01:31,130
+el segmento de texto, el segmento variable 
+global y
+
+18
+00:01:31,130 --> 00:01:35,260
+la pila, no crece mientras se ejecuta la 
+aplicación. Vamos a volver a por qué usamos
+
+19
+00:01:35,260 --> 00:01:40,300
+esta cuarta montón segmentados, desde hace 
+tiempo. Comencemos por entender cómo se 
+utilizan estos tres
+
+20
+00:01:40,300 --> 00:01:44,680
+segmentos de la memoria cuando un programa 
+se ejecuta. Tengo un sencillo
+
+21
+00:01:44,680 --> 00:01:49,500
+programa C aquí. Tenemos un cuadrado función 
+que me
+
+22
+00:01:49,500 --> 00:01:54,110
+da el cuadrado de un número. Tenemos otra 
+función de la plaza de suma que se le da dos
+
+23
+00:01:54,110 --> 00:01:59,970
+argumentos x e y, y nos devuelve el cuadrado 
+de x más y.
+
+24
+00:01:59,970 --> 00:02:04,700
+Y, en el procedimiento principal, sólo estoy 
+llamando esta
+
+25
+00:02:04,700 --> 00:02:09,280
+función Plaza de Suma pasándolo dos 
+argumentos a y b. Veamos ahora lo que sucede 
+en
+
+26
+00:02:09,280 --> 00:02:15,090
+la memoria cuando este programa se ejecuta. 
+Digamos en este rectángulo verde aquí está 
+reservado memoria
+
+27
+00:02:15,090 --> 00:02:20,599
+como pila y el rectángulo de color naranja es
+
+28
+00:02:20,599 --> 00:02:24,959
+la memoria reservada como estática o de 
+sección variable global. Cuando el programa 
+se inicia la ejecución,
+
+29
+00:02:24,959 --> 00:02:28,790
+en primer lugar se invoca el método 
+principal. Cuando se invoca el método 
+principal, una
+
+30
+00:02:28,790 --> 00:02:33,109
+cierta cantidad de memoria de la pila
+
+31
+00:02:33,109 --> 00:02:38,359
+se asigna para la ejecución del principal. Y 
+este total es una variable global, por
+
+32
+00:02:38,359 --> 00:02:42,930
+lo que debe sentarse en la sección global. 
+La cantidad de memoria asignada en la pila
+
+33
+00:02:42,930 --> 00:02:47,530
+de ejecución de principal también puede ser 
+llamado
+
+34
+00:02:47,530 --> 00:02:53,290
+el marco de pila para el principal método. 
+Todas las variables locales, argumentos y la 
+información que
+
+35
+00:02:53,290 --> 00:02:58,040
+esta función debe devolver de nuevo a, toda 
+esta
+
+36
+00:02:58,040 --> 00:03:02,680
+información se almacena dentro de este marco 
+de pila. El tamaño del marco de pila de un
+
+37
+00:03:02,680 --> 00:03:07,359
+método se calcula cuando el programa está 
+recopilando. Ahora, cuando la principal 
+llama a la plaza del método de la suma,
+
+38
+00:03:07,359 --> 00:03:14,569
+escribamos atajo SOS, para el cuadrado de la 
+suma, a continuación, un marco
+
+39
+00:03:14,569 --> 00:03:20,040
+de pila se asigna a la llamada a la Plaza de 
+resumen, todos
+
+40
+00:03:20,040 --> 00:03:24,379
+estos locales variables x, y, z se sentará 
+en este marco de pila particular, . Ahora, 
+la suma del cuadrado de las llamadas Square, 
+vamos a
+
+41
+00:03:24,379 --> 00:03:29,170
+poner un acceso directo de nuevo aquí por 
+cuadrado, por lo
+
+42
+00:03:29,170 --> 00:03:34,019
+que otro marco de pila de cuadrados y tendrá 
+sus propias variables locales. En cualquier 
+momento durante la ejecución del programa, 
+la función
+
+43
+00:03:34,019 --> 00:03:38,689
+en la parte superior de la pila se está 
+ejecutando
+
+44
+00:03:38,689 --> 00:03:44,290
+y el descanso son una especie de pausa, 
+esperando a
+
+45
+00:03:44,290 --> 00:03:49,659
+que la función anterior para devolver algo y 
+luego se reanuda la ejecución. He dibujado 
+éstos botón de reproducción y
+
+46
+00:03:49,659 --> 00:03:53,909
+pausa aquí, en caso de que no entienda. Ok, 
+por lo que este total es una
+
+47
+00:03:53,909 --> 00:03:58,739
+variable global, que está aquí en esta 
+sección. variable global, ya que no
+
+48
+00:03:58,739 --> 00:04:03,840
+se declara dentro de una función. Podemos 
+acceder a él en cualquier lugar, y luego ir
+
+49
+00:04:03,840 --> 00:04:06,370
+a esta declaración particular cuando 
+llamamos a la plaza de
+
+50
+00:04:06,370 --> 00:04:11,389
+Suma, y ​​la plaza de suma es llamar a la
+
+51
+00:04:11,389 --> 00:04:15,200
+plaza y por lo tanto esto se le llama 
+nuestra pila de llamadas. Este programa 
+puede no ser la mejor manera de implementar 
+esta lógica. He escrito este programa de esta
+
+52
+00:04:15,200 --> 00:04:19,110
+manera para que yo pueda tener
+
+53
+00:04:19,110 --> 00:04:23,290
+algunos métodos anidados llamando unos a 
+otros. Digamos que en este momento estamos en
+
+54
+00:04:23,290 --> 00:04:28,130
+esta declaración particular, estamos 
+ejecutando esta declaración. Por lo tanto, 
+en esta etapa la
+
+55
+00:04:28,130 --> 00:04:32,390
+pila de llamadas tendrá estos tres métodos. 
+Ahora, cuando termina este método, vamos a
+
+56
+00:04:32,390 --> 00:04:36,570
+volver de nuevo a esta declaración 
+particular. Tan pronto como función de la 
+plaza volverá,
+
+57
+00:04:36,570 --> 00:04:41,630
+se borra de la memoria de pila y
+
+58
+00:04:41,630 --> 00:04:46,350
+la función ahora la plaza de Suma se 
+reanudará. Una vez más, cuando la plaza de 
+Suma terminado, el control va
+
+59
+00:04:46,350 --> 00:04:50,700
+a venir a este total de la línea en 
+particular es igual
+
+60
+00:04:50,700 --> 00:04:58,790
+a la Plaza de la Suma y la principal se 
+reanudará de nuevo. Ahora, la principal 
+llamada printf voluntad, por lo que una
+
+61
+00:04:58,790 --> 00:05:04,420
+vez más printf irá a la parte superior de la 
+pila. Printf terminará y el control va a 
+volver
+
+62
+00:05:04,420 --> 00:05:08,510
+de nuevo a fin principal y ahora principal 
+voluntad. Y, ahora acabados principales,
+
+63
+00:05:08,510 --> 00:05:13,570
+el programa también terminar. Así que, al 
+final, nuestras
+
+64
+00:05:13,570 --> 00:05:17,570
+variables globales también ser anulado. No 
+había ninguna necesidad en este programa
+
+65
+00:05:17,570 --> 00:05:23,070
+para mantener este total como variable 
+global. Debemos asignamos una variable como 
+global sólo si es necesario en varios
+
+66
+00:05:23,070 --> 00:05:27,590
+lugares en múltiples funciones y es 
+necesario para toda la duración del
+
+67
+00:05:27,590 --> 00:05:33,440
+programa, de lo contrario, es una pérdida de 
+la memoria para mantener
+
+68
+00:05:33,440 --> 00:05:38,500
+una variable para toda la vida útil de la 
+ejecución del programa. Habíamos mantenido 
+una variable global en
+
+69
+00:05:38,500 --> 00:05:42,990
+este programa sólo para entender los 
+conceptos.
+
+70
+00:05:42,990 --> 00:05:49,020
+Aquí, debo señalar una cosa más. Cuando se 
+inicia el programa, nuestro sistema
+
+71
+00:05:49,020 --> 00:05:54,030
+operativo asigna una cierta cantidad de 
+espacio reservado. Digamos que se asigna 1 
+MB de espacio
+
+72
+00:05:54,030 --> 00:05:59,780
+como pila, pero la asignación real del marco
+
+73
+00:05:59,780 --> 00:06:04,030
+de pila y la asignación real de las
+
+74
+00:06:04,030 --> 00:06:09,340
+variables locales sucede desde la pila en 
+tiempo de ejecución. Y si nuestra pila de 
+llamadas crece más allá de la
+
+75
+00:06:09,340 --> 00:06:14,650
+memoria reservada para la pila, como por 
+ejemplo, si un método
+
+76
+00:06:14,650 --> 00:06:19,440
+A llama a B, B llama C y vamos a llamar
+
+77
+00:06:19,440 --> 00:06:26,180
+y nos agota todo el espacio reservado para 
+la pila, entonces
+
+78
+00:06:26,180 --> 00:06:31,510
+esto se llama desbordamiento de pila y en 
+este caso, nuestro programa se bloqueará. Un 
+caso común de desbordamiento de pila es 
+cuando se escribe
+
+79
+00:06:31,510 --> 00:06:37,470
+un mal recursividad y el programa va 
+infinitamente en la recursividad. Así, como 
+podemos ver, hay
+
+80
+00:06:37,470 --> 00:06:42,170
+algunas limitaciones de la pila. La memoria 
+reservada para la pila
+
+81
+00:06:42,170 --> 00:06:46,150
+no crece durante el tiempo de ejecución. La 
+aplicación no se puede
+
+82
+00:06:46,150 --> 00:06:52,340
+pedir más memoria para la pila. Por lo 
+tanto, si se trata de 1 MB, a continuación, 
+si la asignación de
+
+83
+00:06:52,340 --> 00:06:57,210
+variables y funciones en la pila sea 
+superior a 1 MB, nuestro programa se 
+colgará. Promover la asignación y 
+desasignación de memoria en
+
+84
+00:06:57,210 --> 00:07:02,030
+la pila pasa por un conjunto de reglas. 
+Cuando una función se llama, se inserta
+
+85
+00:07:02,030 --> 00:07:07,490
+en la pila, cuando termina, se salió
+
+86
+00:07:07,490 --> 00:07:10,550
+de la pila o se retira de la pila. No es 
+posible manipular el ámbito de
+
+87
+00:07:10,550 --> 00:07:15,610
+una variable si está en la pila. Otra 
+limitación es que si tenemos que declarar
+
+88
+00:07:15,610 --> 00:07:20,810
+un gran tipo de datos, como una matriz
+
+89
+00:07:20,810 --> 00:07:25,530
+como variable local, entonces necesitamos 
+saber el tamaño
+
+90
+00:07:25,530 --> 00:07:29,850
+de la matriz en tiempo de compilación única. 
+Si tenemos un escenario como el que tenemos 
+que decidir
+
+91
+00:07:29,850 --> 00:07:34,470
+qué tan grande la matriz se basa en algunos 
+parámetros
+
+92
+00:07:34,470 --> 00:07:39,970
+en tiempo de ejecución, entonces es un 
+problema con la pila. Por todos estos 
+problemas, al igual que la asignación de
+
+93
+00:07:39,970 --> 00:07:44,800
+grandes trozos de memoria o de mantenimiento 
+de la variable
+
+94
+00:07:44,800 --> 00:07:53,310
+en la memoria hasta el momento en que 
+queremos tenemos el montón. A diferencia de 
+la pila, montón de la aplicación no es fijo. 
+Su tamaño puede variar durante el tiempo de 
+vida
+
+95
+00:07:53,310 --> 00:07:57,720
+de la aplicación y no hay ningún conjunto de
+
+96
+00:07:57,720 --> 00:08:01,990
+reglas para la asignación o cancelación de 
+asignación de la memoria. Un programador 
+puede controlar totalmente la cantidad de 
+memoria que
+
+97
+00:08:01,990 --> 00:08:07,200
+desea utilizar desde el montón, y hasta 
+cuándo guardar los
+
+98
+00:08:07,200 --> 00:08:12,230
+datos en la memoria durante la vida de la 
+aplicación. El montón puede crecer, siempre 
+y cuando que
+
+99
+00:08:12,230 --> 00:08:18,010
+no se quede sin memoria en el propio 
+sistema. Esa es una cosa peligrosa también
+
+100
+00:08:18,010 --> 00:08:21,790
+y tenemos que tener mucho cuidado
+
+101
+00:08:21,790 --> 00:08:27,240
+con el uso del montón por esta razón. 
+También llamamos a veces amontonar una 
+piscina libre de
+
+102
+00:08:27,240 --> 00:08:32,579
+la memoria o una tienda libre de la memoria. 
+Podemos conseguir todo lo que queremos de la 
+pila.
+
+103
+00:08:32,579 --> 00:08:37,999
+¿Cómo se implementa la pila por el sistema 
+operativo, el
+
+104
+00:08:37,999 --> 00:08:42,569
+tiempo de ejecución o el compilador de 
+lenguaje, es algo
+
+105
+00:08:42,569 --> 00:08:47,170
+que puede variar, que es una cosa de la 
+arquitectura de computadores. Pero una forma 
+abstracta de mirar el montón como programador
+
+106
+00:08:47,170 --> 00:08:52,470
+es que esta es una gran piscina libre de 
+memoria
+
+107
+00:08:52,470 --> 00:08:59,339
+disponible para nosotros que podemos 
+utilizar de forma flexible según nuestra 
+necesidad. El montón es también llamada 
+memoria dinámica y el uso
+
+108
+00:08:59,339 --> 00:09:05,470
+de la pila se conoce como la asignación de 
+memoria dinámica.
+
+109
+00:09:05,470 --> 00:09:11,569
+Veamos ahora cómo utilizar el montón en el 
+programa C ++ o C a cabo. Voy a borrar el 
+código
+
+110
+00:09:11,569 --> 00:09:17,629
+de la izquierda y sacaré
+
+111
+00:09:17,629 --> 00:09:21,660
+otro bloque rectangular aquí por montón. Hay 
+una cosa más que
+
+112
+00:09:21,660 --> 00:09:26,670
+debo señalar antes de seguir adelante. El 
+montón es también una estructura de datos y 
+si usted
+
+113
+00:09:26,670 --> 00:09:30,089
+no sabe acerca de esta estructura de datos 
+del montón, sin
+
+114
+00:09:30,089 --> 00:09:34,620
+embargo, usted aprenderá acerca de ello en 
+el curso de estructura de datos. Pero esta 
+nomenclatura aquí no tiene nada que
+
+115
+00:09:34,620 --> 00:09:40,879
+ver con la estructura de datos del montón. 
+El término "montón" se utiliza sólo
+
+116
+00:09:40,879 --> 00:09:44,589
+para la gran piscina de memoria libre. La 
+estructura de datos del montón no
+
+117
+00:09:44,589 --> 00:09:49,029
+viene en cualquier lugar en este contexto. 
+Este término a menudo confunde a mucha gente 
+cuando
+
+118
+00:09:49,029 --> 00:09:53,269
+saben acerca de la estructura de datos del 
+montón. Stack es también una estructura de 
+datos, pero el segmento de pila de la
+
+119
+00:09:53,269 --> 00:09:56,860
+memoria es en realidad una aplicación de la 
+estructura de datos de la pila,
+
+120
+00:09:56,860 --> 00:10:00,410
+pero el montón no es una implementación de 
+la estructura de datos del montón.
+
+121
+00:10:00,410 --> 00:10:06,019
+Para utilizar la memoria dinámica en C, lo 
+que necesitamos
+
+122
+00:10:06,019 --> 00:10:14,889
+saber acerca de cuatro funciones malloc, 
+calloc, realloc y libre. Para utilizar la 
+memoria dinámica en C ++ que
+
+123
+00:10:14,889 --> 00:10:22,249
+necesitamos saber acerca de dos operadores: 
+new y delete. Estas cuatro funciones también 
+se pueden utilizar en
+
+124
+00:10:22,249 --> 00:10:29,170
+C ++, como C ++ tiene compatibilidad hacia 
+atrás. Sólo es un
+
+125
+00:10:29,170 --> 00:10:34,559
+superconjunto de C. Pero los programadores 
+de C ++ utilizan en
+
+126
+00:10:34,559 --> 00:10:40,009
+su mayoría estos dos operadores, nuevos y 
+eliminar. Vamos a ver algunos ejemplos de 
+código y tratar de
+
+127
+00:10:40,009 --> 00:10:44,509
+entender cómo las cosas ocurren cuando se 
+utiliza la memoria dinámica. Primero vamos a 
+recoger algunos
+
+128
+00:10:44,509 --> 00:10:50,110
+ejemplos de código en C. Vamos a escribir un 
+programa en C. Voy a limpiar algunas de
+
+129
+00:10:50,110 --> 00:10:54,420
+las cosas en la derecha. 1 MB para la pila, 
+esto fue sólo una suposición. En realidad, 
+el tamaño de
+
+130
+00:10:54,420 --> 00:10:57,999
+la pila será decidido por
+
+131
+00:10:57,999 --> 00:11:01,569
+el sistema operativo y el compilador. Es una 
+cosa de la arquitectura de computadores. 
+Volviendo al código, si declaramos
+
+132
+00:11:01,569 --> 00:11:05,879
+una variable como esta, entonces
+
+133
+00:11:05,879 --> 00:11:10,970
+esta variable es una variable local. Se va a 
+la pila. Memoria para esta variable en 
+particular «a» se asignará
+
+134
+00:11:10,970 --> 00:11:16,809
+a partir del marco de pila del método 
+principal. Digamos que queremos almacenar un
+
+135
+00:11:16,809 --> 00:11:21,209
+número entero en el montón. Para reservar u 
+obtener algo de espacio
+
+136
+00:11:21,209 --> 00:11:25,220
+asignado en el montón, tenemos que llamar
+
+137
+00:11:25,220 --> 00:11:29,709
+a la función malloc, algo como esto. La 
+función malloc pregunta por la cantidad de
+
+138
+00:11:29,709 --> 00:11:35,740
+memoria para asignar en el montón en bytes. 
+Cuando decimos malloc y pasamos como 
+argumento el tamaño
+
+139
+00:11:35,740 --> 00:11:39,209
+del número entero, entonces estamos hablando 
+de que "Hey,
+
+140
+00:11:39,209 --> 00:11:44,920
+dame un bloque de memoria, que es de 4 
+bytes". 4 bytes es el tamaño típico del 
+entero. Por lo tanto, a una cuadra de 4 bytes
+
+141
+00:11:44,920 --> 00:11:49,059
+será reservado o asignado en el montón y 
+malloc
+
+142
+00:11:49,059 --> 00:11:53,699
+devolverá un puntero a la dirección inicial 
+de este bloque. Y, malloc devuelve
+
+143
+00:11:53,699 --> 00:11:58,860
+un puntero nulo. Digamos, la dirección 
+inicial de este bloque de 4
+
+144
+00:11:58,860 --> 00:12:03,009
+bytes es 200, entonces malloc volverá a 
+abordar 200. Ahora, tenemos un puntero a un 
+entero
+
+145
+00:12:03,009 --> 00:12:09,079
+p, que es una variable local al principal. 
+Por lo tanto, este será asignado en
+
+146
+00:12:09,079 --> 00:12:12,839
+el marco de pila del método principal. Hemos 
+hecho un casting tipo aquí, porque malloc
+
+147
+00:12:12,839 --> 00:12:17,420
+regresa puntero a anular, lo siento, puntero 
+nulo
+
+148
+00:12:17,420 --> 00:12:22,029
+y p es un número entero de puntero. Ahora, p 
+almacena la dirección de
+
+149
+00:12:22,029 --> 00:12:27,670
+este bloque de memoria que es 200. Por lo 
+tanto, tenemos unas bloque de memoria en el
+
+150
+00:12:27,670 --> 00:12:32,420
+montón que se quiere utilizar para almacenar 
+un número entero. En este momento, no 
+sabemos lo que
+
+151
+00:12:32,420 --> 00:12:37,230
+hay en este bloque particular de la memoria. 
+Si queremos llenar algo aquí, tenemos que 
+eliminar
+
+152
+00:12:37,230 --> 00:12:41,610
+la referencia de este lugar usando el puntero
+
+153
+00:12:41,610 --> 00:12:47,199
+P y luego poner en un cierto valor. De 
+hecho, la única forma de utilizar la
+
+154
+00:12:47,199 --> 00:12:51,129
+memoria en el montón es a través de 
+referencias. Toda la función malloc lo hace, 
+busca algo de espacio libre en el
+
+155
+00:12:51,129 --> 00:12:55,499
+montón, los libros de TI o reservas por 
+usted y devolver el puntero. Y la única 
+forma en que puede tener
+
+156
+00:12:55,499 --> 00:12:58,899
+acceso a este bloque en particular 
+manteniendo una
+
+157
+00:12:58,899 --> 00:13:04,689
+variable puntero que será local a su 
+función. Ahora, vamos a
+
+158
+00:13:04,689 --> 00:13:10,869
+escribir algo como esto. Después de escribir 
+10 en este bloque en particular, voy
+
+159
+00:13:10,869 --> 00:13:15,100
+a seguir adelante y hacer una llamada más a 
+malloc. Cuando hago una llamada más a 
+malloc, uno más
+
+160
+00:13:15,100 --> 00:13:19,790
+bloques de 4 bytes se asigna en el montón
+
+161
+00:13:19,790 --> 00:13:24,189
+y digamos la dirección es de 400 para este 
+bloque. Ahora, la dirección que se devuelve 
+por la segunda llamada
+
+162
+00:13:24,189 --> 00:13:28,930
+a malloc, que almacena esta dirección en la 
+variable p. Por lo tanto, lo que sucede es,
+
+163
+00:13:28,930 --> 00:13:33,899
+que p ahora apunta a la dirección 400. La 
+siguiente línea escribe la
+
+164
+00:13:33,899 --> 00:13:38,959
+dirección 20 a esta dirección. Nos asignaron 
+una cuadra más y modificamos la
+
+165
+00:13:38,959 --> 00:13:43,300
+dirección de p para apuntar a este bloque. 
+El bloque anterior todavía
+
+166
+00:13:43,300 --> 00:13:47,600
+se sentará en el montón. Esta memoria 
+todavía estamos
+
+167
+00:13:47,600 --> 00:13:51,959
+consumiendo, no se borrará automáticamente. 
+En cualquier punto de nuestro programa, si 
+estamos hecho
+
+168
+00:13:51,959 --> 00:13:56,360
+uso de algún bloque de memoria que se asigna
+
+169
+00:13:56,360 --> 00:14:00,439
+dinámicamente usando malloc, también tenemos 
+que aclararlo, porque es
+
+170
+00:14:00,439 --> 00:14:03,589
+el consumo innecesario de la memoria que es 
+un recurso importante. Por lo tanto, lo que 
+deberíamos haber hecho aquí es que
+
+171
+00:14:03,589 --> 00:14:08,029
+una vez que nos hecho usando este bloque 
+particular de la
+
+172
+00:14:08,029 --> 00:14:13,279
+memoria en 200, que debería haber hecho una 
+llamada a la función gratuita. Cualquier 
+memoria que se asigna
+
+173
+00:14:13,279 --> 00:14:18,019
+usando malloc, es despejado llamando gratis.
+
+174
+00:14:18,019 --> 00:14:21,559
+Y a la libre, se pasa el puntero
+
+175
+00:14:21,559 --> 00:14:25,769
+a la dirección de inicio del bloque de 
+memoria. Por lo tanto, ahora con el código 
+de este primer bloque de memoria
+
+176
+00:14:25,769 --> 00:14:30,589
+en primer lugar se borra y luego estará 
+apuntando a otra dirección de memoria. Es 
+responsabilidad del programador para borrar
+
+177
+00:14:30,589 --> 00:14:34,759
+nada en el montón si se
+
+178
+00:14:34,759 --> 00:14:39,429
+ha asignado y que no lo necesita más. Por lo 
+tanto, se ve, en términos del alcance de
+
+179
+00:14:39,429 --> 00:14:43,230
+la variable, lo que sea asignada en el 
+montón no
+
+180
+00:14:43,230 --> 00:14:47,999
+es liberado automáticamente cuando la 
+función se completa como en la pila.
+
+181
+00:14:47,999 --> 00:14:52,639
+Y, lo que no necesita vivir para toda la
+
+182
+00:14:52,639 --> 00:14:57,170
+vida útil de la aplicación como una variable 
+global. Podemos controlar cuándo liberar 
+nada en el
+
+183
+00:14:57,170 --> 00:15:01,589
+montón, cuándo desasignar nada en el montón. 
+Si quisiéramos almacenar una matriz en el 
+montón, como digamos que
+
+184
+00:15:01,589 --> 00:15:04,850
+queríamos para almacenar una matriz de 
+enteros en el montón, entonces
+
+185
+00:15:04,850 --> 00:15:09,119
+todo lo que hacemos es hacer una llamada a 
+malloc pidiendo
+
+186
+00:15:09,119 --> 00:15:13,990
+un bloque de memoria igual al tamaño total 
+de la matriz en bytes. Por lo tanto, si 
+queremos una matriz de enteros de
+
+187
+00:15:13,990 --> 00:15:20,420
+20 elementos, entonces vamos a hacer una 
+llamada a malloc
+
+188
+00:15:20,420 --> 00:15:25,319
+pidiendo 20 x tamaño de int que será 4 
+número de bytes. Entonces, ¿qué va a pasar 
+ahora, es que un poco de
+
+189
+00:15:25,319 --> 00:15:31,170
+bloque contiguo de bytes para 20 números 
+enteros se asignará en
+
+190
+00:15:31,170 --> 00:15:34,910
+el montón y nos pondremos la dirección 
+inicial de la pila.
+
+191
+00:15:34,910 --> 00:15:41,019
+Por lo tanto, que tipo de obtener la 
+dirección base de la matriz. Esta p apuntará 
+aquí, a
+
+192
+00:15:41,019 --> 00:15:46,379
+la dirección base de este bloque. Y luego, 
+en nuestro código, podemos utilizar este, 20 
+enteros
+
+193
+00:15:46,379 --> 00:15:53,399
+como P [0], P [1], p [2] y así 
+sucesivamente. Como sabemos, P [0] es lo 
+mismo que decir
+
+194
+00:15:53,399 --> 00:15:58,970
+valor en la dirección P, y P [1] es
+
+195
+00:15:58,970 --> 00:16:04,869
+lo mismo que decir valor en la dirección P + 
+1. Esto es lo que significa. Una cosa más, 
+si malloc no es capaz de encontrar ningún
+
+196
+00:16:04,869 --> 00:16:08,720
+bloque libre de la memoria, no es capaz de 
+asignar parte
+
+197
+00:16:08,720 --> 00:16:13,970
+de la memoria en el montón, se devuelve un 
+valor nulo. Por lo tanto, para el 
+tratamiento de errores, lo que necesitamos
+
+198
+00:16:13,970 --> 00:16:19,079
+saber esto y tenemos que escribir nuestro 
+código de forma apropiada. Malloc y libre. 
+El uso de malloc y libre
+
+199
+00:16:19,079 --> 00:16:24,279
+es de código de estilo C. Si queremos 
+escribir el mismo código, misma
+
+200
+00:16:24,279 --> 00:16:28,739
+lógica en C ++, no hay mucha diferencia. En 
+lugar de utilizar estas dos
+
+201
+00:16:28,739 --> 00:16:33,639
+funciones, malloc y libre, vamos a
+
+202
+00:16:33,639 --> 00:16:36,910
+utilizar dos operadores: Nuevo y Eliminar. 
+Y, vamos a escribir nuestro código de algo 
+como esto. Así, en lugar de malloc, estamos 
+usando
+
+203
+00:16:36,910 --> 00:16:41,050
+el operador New aquí y en lugar
+
+204
+00:16:41,050 --> 00:16:46,689
+de utilizar libre, estamos usando eliminar 
+aquí. Si queremos asignar una matriz, se 
+utiliza algo
+
+205
+00:16:46,689 --> 00:16:51,160
+como esto donde ponemos el tamaño entre 
+paréntesis aquí. Y, si queremos liberar a una
+
+206
+00:16:51,160 --> 00:16:54,399
+matriz, utilizamos este operador particular, 
+borrar
+
+207
+00:16:54,399 --> 00:17:00,129
+y dos soportes, lo siento, un soporte. Con C 
+++, no tenemos que hacer todas estas
+
+208
+00:17:00,129 --> 00:17:03,550
+piezas de fundición de tipos, como malloc 
+regresa vacía
+
+209
+00:17:03,550 --> 00:17:07,829
+y tenemos que encasillado de nuevo a entero 
+puntero. operadores new y delete tipo son 
+seguros. Lo que significa es, que se
+
+210
+00:17:07,829 --> 00:17:12,720
+utilizan con un tipo y punteros
+
+211
+00:17:12,720 --> 00:17:17,079
+vuelven a solamente un tipo particular. Así 
+pues, aquí p obtendrá un puntero a un entero 
+solamente. Vamos a hablar acerca de la 
+asignación
+
+212
+00:17:17,079 --> 00:17:21,289
+de memoria dinámica y otra función de
+
+213
+00:17:21,289 --> 00:17:23,730
+biblioteca con más detalle en las próximas 
+lecciones. Así que, gracias por ver!
+

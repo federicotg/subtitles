@@ -1,0 +1,452 @@
+0
+00:00:00,170 --> 00:00:08,170
+En nuestra lección hasta ahora hemos visto 
+cómo podemos trabajar con punteros en
+
+1
+00:00:08,170 --> 00:00:13,880
+algunos de los escenarios básicos, pero hay 
+algunos escenarios en los punteros puede
+
+2
+00:00:13,880 --> 00:00:20,830
+ser muy desconcertante y un tal escenario es 
+cuando queremos usar punteros a punteros. En 
+esta lección vamos a ver
+
+3
+00:00:20,830 --> 00:00:27,130
+cómo podemos utilizar un puntero a puntero. 
+Supongamos que se trata de una vista lógica 
+de la memoria del
+
+4
+00:00:27,130 --> 00:00:32,879
+ordenador y cada partición aquí es de un 
+byte de la memoria. Ahora sabemos que cada 
+byte
+
+5
+00:00:32,879 --> 00:00:38,769
+de memoria tiene una dirección. Hemos 
+elaborado la memoria horizontalmente aquí. 
+Supongamos que los incrementos de dirección a
+
+6
+00:00:38,769 --> 00:00:44,440
+medida que van de izquierda a derecha. Así 
+que si este byte está en la dirección 200, 
+el siguiente byte sería en
+
+7
+00:00:44,440 --> 00:00:52,489
+la dirección 201 y el siguiente byte sería 
+en la dirección 202 y así sucesivamente. 
+Ahora digamos que en mi programa que he 
+declarado una
+
+8
+00:00:52,489 --> 00:01:02,969
+variable entera llamada X y tal vez he 
+inicializado como 5. Ahora, cuando el 
+programa se
+
+9
+00:01:02,969 --> 00:01:07,509
+ejecutará, cierta cantidad de memoria
+
+10
+00:01:07,509 --> 00:01:14,780
+se asignará para esta variable x. En una 
+arquitectura típica de un compilador típica, 
+número entero se almacena
+
+11
+00:01:14,780 --> 00:01:22,619
+en 4 bytes, por lo tanto 4 bytes se asignará 
+para x. Por lo tanto, digamos que estos 4 
+bytes en la dirección 225,
+
+12
+00:01:22,619 --> 00:01:29,509
+este bloque de 4 bytes, dirección inicial 
+225 se asigna para x
+
+13
+00:01:29,509 --> 00:01:37,189
+y los valores almacenados en este bloque de 
+4 bytes para x es 5. Ahora la siguiente cosa 
+que quiero hacer es que quiero
+
+14
+00:01:37,189 --> 00:01:42,759
+declarar una variable puntero que almacenará 
+la dirección de x. Ahora para almacenar la 
+dirección de un entero tendremos que
+
+15
+00:01:42,759 --> 00:01:48,420
+declarar un puntero a un entero algo como 
+esto tenemos
+
+16
+00:01:48,420 --> 00:01:53,799
+que poner un signo asterisco delante del 
+nombre de la variable. Ahora lo que sucederá 
+es que una cierta cantidad de
+
+17
+00:01:53,799 --> 00:01:59,539
+memoria queda reservada para esta variable p 
+en una arquitectura típica. Pointer también 
+se
+
+18
+00:01:59,539 --> 00:02:07,229
+almacena en 4 bytes. Así que digamos que 
+tenemos este bloque de 4 bytes en la
+
+19
+00:02:07,229 --> 00:02:14,080
+dirección 215 para p y ahora quiero escribir 
+una declaración como esta. Así que quiero 
+que rellenar la dirección de x
+
+20
+00:02:14,080 --> 00:02:21,840
+en p y así es como p apunta a x. El operador 
+& nos da la dirección de una variable. Una 
+cosa importante aquí. Somos capaces de 
+almacenar la dirección de x en
+
+21
+00:02:21,840 --> 00:02:29,010
+p porque p es de tipo puntero a entero. Si p 
+era de tipo puntero a carácter
+
+22
+00:02:29,010 --> 00:02:34,689
+o puntero a alguna otra alguna otra variable,
+
+23
+00:02:34,689 --> 00:02:41,250
+esta declaración p = & x no habrían sido 
+válidas. Así que si tengo que anotar los 
+tipos de estas dos variables,
+
+24
+00:02:41,250 --> 00:02:49,980
+entonces x es un número entero y p es 
+puntero a un
+
+25
+00:02:49,980 --> 00:02:56,450
+entero o también puedo decir que p es int 
+asterisco o int. ¿Por qué variables de 
+puntero están fuertemente tipado? ¿Por qué 
+necesitamos un puntero a un entero para
+
+26
+00:02:56,450 --> 00:03:02,890
+hacer referencia o almacenar la dirección de 
+un entero? Es porque no nos limitamos a 
+almacenar la
+
+27
+00:03:02,890 --> 00:03:10,430
+dirección de una variable en una variable 
+puntero. También utilizamos la variable 
+puntero a eliminar la
+
+28
+00:03:10,430 --> 00:03:15,709
+referencia de la dirección y escribimos 
+algún valor allí. Así que si escribo una 
+declaración como esta. Este valor aquí
+
+29
+00:03:15,709 --> 00:03:23,780
+en la dirección 225. Este x está modificado. 
+¿Puedo crear un puntero a esta variable p,
+
+30
+00:03:23,780 --> 00:03:28,819
+que en sí es un puntero a un entero? Sí, en 
+realidad podemos hacerlo. Así que digamos 
+que queremos crear una variable
+
+31
+00:03:28,819 --> 00:03:34,870
+llamada q, que almacenará la dirección de p. 
+Ahora ¿cuál será el
+
+32
+00:03:34,870 --> 00:03:40,870
+tipo de esta variable. Necesitamos un 
+puntero de un tipo particular para
+
+33
+00:03:40,870 --> 00:03:46,569
+almacenar la dirección de un tipo particular 
+de variable. Así que para almacenar un 
+puntero a un entero
+
+34
+00:03:46,569 --> 00:03:54,140
+tendremos que decir que queremos un puntero 
+a puntero. Así que vamos a poner dos signo 
+** delante de un nombre
+
+35
+00:03:54,140 --> 00:04:03,769
+de variable y ahora esta variable q podemos 
+almacenar la dirección de p. Así que con 
+esta primera línea
+
+36
+00:04:03,769 --> 00:04:12,049
+con este ** int q creamos q. Digamos que 
+hemos creado q en 205 y ahora estamos 
+diciendo que q va a almacenar la dirección
+
+37
+00:04:12,049 --> 00:04:25,450
+de P, de manera que los puntos q p y el tipo 
+de q es de tipo int **. Pusimos dos *. Una 
+manera sencilla de leer esto es que el tipo 
+de variable x es un número
+
+38
+00:04:25,450 --> 00:04:30,860
+entero por lo que para almacenar la 
+dirección de x, necesitaremos un puntero de 
+tipo int
+
+39
+00:04:30,860 --> 00:04:38,740
+* así que vamos a poner una estrella que 
+decir que este es un puntero a
+
+40
+00:04:38,740 --> 00:04:44,780
+ese tipo particular y para almacenar la 
+dirección de p vamos a necesitar un puntero 
+a int *. Así que vamos a poner un asterisco 
+extra para decir que
+
+41
+00:04:44,780 --> 00:04:51,170
+este es un puntero a int * y podemos seguir 
+así. Digamos que queremos declarar un
+
+42
+00:04:51,170 --> 00:04:57,100
+puntero a puntero a puntero. Así int ** es 
+puntero a puntero y vamos a poner un 
+asterisco más podemos
+
+43
+00:04:57,100 --> 00:05:03,780
+poner estos tres asteriscos inmediatamente 
+después de esta palabra clave int o podemos 
+ponerlo inmediatamente
+
+44
+00:05:03,780 --> 00:05:09,220
+antes del nombre de la variable como lo 
+hemos hecho en el caso de q aquí.
+
+45
+00:05:09,220 --> 00:05:16,670
+Supongamos que definimos como int r *** así 
+que digamos r consigue esta dirección 230 en 
+la memoria. Ahora r es de tipo int *** por 
+lo que
+
+46
+00:05:16,670 --> 00:05:27,800
+puede almacenar la dirección de int ** por 
+lo que
+
+47
+00:05:27,800 --> 00:05:38,050
+no se puede almacenar la dirección de x o p. 
+La sentencia como r = & q será válida ahora 
+he
+
+48
+00:05:38,050 --> 00:05:44,880
+traducido mi código en bruto anterior en un 
+programa de trabajo c. Vamos a suponer que 
+este programa está funcionando de acuerdo
+
+49
+00:05:44,880 --> 00:05:51,280
+con este esquema de memoria que estamos 
+mostrando en la derecha. Ahora voy a 
+escribir algunas declaraciones de
+
+50
+00:05:51,280 --> 00:05:57,000
+impresión y hay que adivinar las salidas. 
+Así que, básicamente, hay que asumir que 
+estas variables x, p, q, r
+
+51
+00:05:57,000 --> 00:06:03,950
+y se asignan en estas direcciones lo que 
+estamos mostrando aquí en la derecha. Así 
+que la primera sentencia print
+
+52
+00:06:03,950 --> 00:06:11,260
+que voy a escribir es esto. Quiero imprimir 
+* p y
+
+53
+00:06:11,260 --> 00:06:18,710
+éste debería ser simple para usted. * P 
+sería el valor almacenado en la dirección en 
+la p por lo que este será el 6. Ahora la 
+siguiente declaración que
+
+54
+00:06:18,710 --> 00:06:26,660
+quiero imprimir es q *. Así * q será un 
+valor en la dirección almacenada en q. 
+Dirección almacenada en la variable q es 215 
+por lo que este no
+
+55
+00:06:26,660 --> 00:06:36,030
+es más que el valor de p por lo que este 
+será 225. Y ahora quiero
+
+56
+00:06:36,030 --> 00:06:44,910
+imprimir ** q. Así que quiero hacer 
+dereferencing dos veces. En primer lugar 
+quiero ir a * q. * Q es
+
+57
+00:06:44,910 --> 00:06:53,800
+esta dirección 225. Y ahora quiero mirar el 
+valor en la dirección 225. Así que éste será 
+de 6. Podríamos haber evitado
+
+58
+00:06:53,800 --> 00:07:01,400
+escribir este paréntesis aquí. Podríamos 
+haber dicho ** única q y que habría 
+significado el mismo, pero
+
+59
+00:07:01,400 --> 00:07:07,390
+es una buena práctica si estamos utilizando 
+este operador asterisco para utilizar 
+paréntesis
+
+60
+00:07:07,390 --> 00:07:14,070
+en lo que podamos hacemos porque algunos 
+momentos en los que también están
+
+61
+00:07:14,070 --> 00:07:23,020
+utilizando otros operadores no estamos 
+seguros acerca la precedencia y queremos 
+evitar comportamientos no deseados.
+
+62
+00:07:23,020 --> 00:07:31,540
+Ahora ¿qué pasa con estas dos declaraciones 
+de impresión. ** *** R y r, r * significa el 
+valor de q que será 215
+
+63
+00:07:31,540 --> 00:07:40,020
+y luego además uno desreferenciar más nos 
+llevará a valorar en p, que es de 225. Y uno 
+más desreferenciar nos llevará
+
+64
+00:07:40,020 --> 00:07:45,530
+al valor de x que será 6. Si ves que
+
+65
+00:07:45,530 --> 00:07:52,940
+esto es realmente interesante. De r estamos 
+utilizando un operador de asterisco y somos 
+capaces de ir a continuación, q estamos 
+usando el
+
+66
+00:07:52,940 --> 00:07:59,540
+operador asterisco dos veces y llegamos a p 
+y luego usamos el operador asterisco tres 
+veces y llegamos a x.
+
+67
+00:07:59,540 --> 00:08:05,780
+Vamos a hacer algunos cambios más en este 
+código y ejecutar esto en un compilador 
+real. Entonces, ¿qué voy a hacer aquí es que
+
+68
+00:08:05,780 --> 00:08:14,220
+voy a escribir una declaración como esta y
+
+69
+00:08:14,220 --> 00:08:25,350
+luego después de esta declaración Imprimiré 
+el valor de x. Si ejecuta este ahora como se 
+puede ver p *, ** y *** r q todos estos 
+valores
+
+70
+00:08:25,350 --> 00:08:32,479
+son 3 6 la dirección no será el mismo que 
+habíamos mostrado en el ejemplo por razones 
+obvias
+
+71
+00:08:32,479 --> 00:08:40,779
+y como se puede ver que somos capaces 
+modificar x haciendo esta cadena de 
+referenciación de utilizar esta variable r. 
+Si queremos escribir algo como **
+
+72
+00:08:40,779 --> 00:08:53,240
+= q digamos algo como esto. Ahora p * 
+También hace referencia a
+
+73
+00:08:53,240 --> 00:08:59,939
+X y Q ** También se dereferencing x. En este 
+momento, estamos eliminación de referencias 
+aquí. Así que ninguna aproximación cuál será 
+el
+
+74
+00:08:59,939 --> 00:09:06,800
+resultado de esta sentencia de impresión 
+pasada? Bueno, si usted ve, x se incrementa 
+en
+
+75
+00:09:06,800 --> 00:09:13,220
+2 aquí, así que fue puntero a puntero. Le 
+recomiendo que escriba algo de este código 
+usted mismo y jugar un poco.
+
+76
+00:09:13,220 --> 00:09:18,779
+En las próximas lecciones vamos a utilizar 
+puntero a puntero en algunos escenarios 
+verdadero problema.
+
+77
+00:09:18,779 --> 00:09:19,680
+
+

@@ -1,0 +1,788 @@
+0
+00:00:00,399 --> 00:00:03,760
+En la primera parte de la lección sobre las 
+matrices
+
+1
+00:00:03,760 --> 00:00:07,009
+de caracteres y punteros vimos cómo podemos 
+almacenar cadenas en
+
+2
+00:00:07,009 --> 00:00:12,000
+las matrices de caracteres y también hemos 
+visto cómo podemos
+
+3
+00:00:12,000 --> 00:00:13,259
+trabajar con matrices de caracteres usando 
+punteros en algunos de los escenarios 
+básicos.
+
+4
+00:00:13,259 --> 00:00:17,359
+Siempre que estamos trabajando con los 
+punteros que es muy
+
+5
+00:00:17,359 --> 00:00:21,570
+importante que visualizamos cómo las cosas 
+están sucediendo en la memoria. Así que lo 
+primero que vamos a
+
+6
+00:00:21,570 --> 00:00:22,900
+hacer en esta lección es vamos a
+
+7
+00:00:22,900 --> 00:00:26,640
+simular el programa que habíamos escrito en
+
+8
+00:00:26,640 --> 00:00:31,140
+la lección anterior para imprimir los 
+caracteres
+
+9
+00:00:31,140 --> 00:00:34,280
+de una cadena y ver lo que
+
+10
+00:00:34,280 --> 00:00:37,440
+pasa cuando en la memoria y también
+
+11
+00:00:37,440 --> 00:00:42,120
+vamos a mirar en el concepto de cadena 
+constantes y punteros constantes. Así que 
+esto es donde habíamos dejado en nuestra 
+lección anterior.
+
+12
+00:00:42,120 --> 00:00:46,960
+Hemos escrito una función de impresión para 
+imprimir los caracteres de una cadena.
+
+13
+00:00:46,960 --> 00:00:50,190
+En el método principal que tenemos una 
+matriz de caracteres de tamaño
+
+14
+00:00:50,190 --> 00:00:53,579
+veinte, pero hemos almacenado una cuerda de 
+longitud y cinco en ella.
+
+15
+00:00:53,579 --> 00:00:56,920
+Hemos utilizado un cierre que
+
+16
+00:00:56,920 --> 00:01:00,550
+se nula cadena literal es implícita. Hemos 
+hablado de esto antes.
+
+17
+00:01:00,550 --> 00:01:04,659
+Así que demos un paso a través de este 
+código y ver cómo está funcionando.
+
+18
+00:01:04,659 --> 00:01:08,680
+Ahora, una vez que he dibujado este diagrama 
+familiar. La memoria que se asigna para
+
+19
+00:01:08,680 --> 00:01:13,530
+la ejecución de un programa se
+
+20
+00:01:13,530 --> 00:01:17,759
+divide típicamente en estas cuatro partes. 
+Estas cuatro secciones. Una parte de la 
+memoria
+
+21
+00:01:17,759 --> 00:01:22,470
+almacena las instrucciones del programa. 
+Llamamos a que el segmento de código o el 
+segmento de texto.
+
+22
+00:01:22,470 --> 00:01:26,259
+Una sección almacena las variables globales.
+
+23
+00:01:26,259 --> 00:01:30,960
+Y la pila es donde está toda la
+
+24
+00:01:30,960 --> 00:01:32,540
+información con respecto a la función de 
+establecimiento
+
+25
+00:01:32,540 --> 00:01:36,229
+de llamada y todas las variables locales 
+van. Cada vez que se introduce un programa. 
+Siempre que estamos ejecutando un programa 
+que siempre
+
+26
+00:01:36,229 --> 00:01:38,040
+debe visualizar lo que ocurre con la variable
+
+27
+00:01:38,040 --> 00:01:43,180
+de dónde o qué datos va a donde
+
+28
+00:01:43,180 --> 00:01:47,200
+y cuál es el alcance de dicha variable o 
+datos. Aceptar lo que corramos a través de 
+este
+
+29
+00:01:47,200 --> 00:01:50,619
+código y ver lo que está sucediendo en
+
+30
+00:01:50,619 --> 00:01:54,180
+la memoria cuando este programa comenzará a 
+ejecutar. En primer lugar se invocará
+
+31
+00:01:54,180 --> 00:01:57,259
+la principal función principal método.
+
+32
+00:01:57,259 --> 00:02:02,500
+Siempre que una función se llama una cierta 
+cantidad de memoria
+
+33
+00:02:02,500 --> 00:02:05,549
+de la pila se asigna para la ejecución de 
+dicha función.
+
+34
+00:02:05,549 --> 00:02:09,020
+Se llama el marco de pila de esa función.
+
+35
+00:02:09,020 --> 00:02:12,250
+Así que digamos que este marco
+
+36
+00:02:12,250 --> 00:02:15,270
+de pila de dirección de 100
+
+37
+00:02:15,270 --> 00:02:18,590
+a 150 se asigna a la
+
+38
+00:02:18,590 --> 00:02:21,920
+pila principal función es un bloque contiguo 
+de memoria. Así que digamos en este apilar 
+los
+
+39
+00:02:21,920 --> 00:02:26,360
+aumentos de memoria de abajo hacia arriba. 
+Todas las variables locales de una función 
+entran en el marco
+
+40
+00:02:26,360 --> 00:02:30,020
+de la pila de la función de modo que cuando 
+se
+
+41
+00:02:30,020 --> 00:02:34,230
+declara un array de caracteres de 20 bytes 
+desde el marco
+
+42
+00:02:34,230 --> 00:02:36,349
+de pila se asignarán para esta matriz de 
+caracteres en particular.
+
+43
+00:02:36,349 --> 00:02:40,560
+Digamos que se asignan a partir de 
+direcciones 100 a 120.
+
+44
+00:02:40,560 --> 00:02:43,769
+Cada carácter se almacena en un byte por lo 
+que
+
+45
+00:02:43,769 --> 00:02:46,970
+necesitamos 20 bytes para arreglo de 
+caracteres de tamaño 20.
+
+46
+00:02:46,970 --> 00:02:51,670
+Aparte de las variables locales que puede 
+haber algo más de información en el marco
+
+47
+00:02:51,670 --> 00:02:53,450
+de la pila de manera que por eso que tenemos 
+un poco más de espacio.
+
+48
+00:02:53,450 --> 00:02:57,590
+Y ahora el control del programa pasa a esta 
+sentencia print 'c'.
+
+49
+00:02:57,590 --> 00:03:01,690
+Tan pronto como hacemos una llamada a otra 
+función
+
+50
+00:03:01,690 --> 00:03:03,129
+de una función, la ejecución de esta función 
+particular
+
+51
+00:03:03,129 --> 00:03:08,060
+se detuvo en esa línea en particular y la
+
+52
+00:03:08,060 --> 00:03:12,230
+máquina continúa con la ejecución de la 
+función llamada. La función llamada es 
+asignada en
+
+53
+00:03:12,230 --> 00:03:17,360
+la parte superior de la pila. La función de 
+llamada de impresión se asignará como marco
+
+54
+00:03:17,360 --> 00:03:21,110
+de la pila en la parte superior de la 
+función principal. Sea cual sea la función 
+es en la parte
+
+55
+00:03:21,110 --> 00:03:25,150
+superior de la pila en cualquier punto está 
+ejecutando. Es decir que habrá que esperar 
+para esta función hasta el final.
+
+56
+00:03:25,150 --> 00:03:29,640
+Digamos que este marco de pila particular es 
+de
+
+57
+00:03:29,640 --> 00:03:32,769
+150 a la 170 Main está en pausa y
+
+58
+00:03:32,769 --> 00:03:37,370
+de impresión está ejecutando en este 
+momento, ahora imprimir
+
+59
+00:03:37,370 --> 00:03:41,480
+también tendrá una variable local C, pero 
+esto será una variable puntero. Una variable 
+puntero toma cuatro bytes de
+
+60
+00:03:41,480 --> 00:03:45,830
+memoria en una arquitectura típica por lo
+
+61
+00:03:45,830 --> 00:03:48,959
+que este va a tomar cuatro bytes. Así que 
+digamos que
+
+62
+00:03:48,959 --> 00:03:53,620
+la dirección de inicio: 154. En este marco 
+de pila tenemos
+
+63
+00:03:53,620 --> 00:03:54,170
+cuatro bytes para este puntero carácter 
+particular.
+
+64
+00:03:54,170 --> 00:03:57,200
+Por lo que esta en C principal no
+
+65
+00:03:57,200 --> 00:04:01,700
+es en realidad la misma C en la impresión. 
+El C en la impresión principal y C son 
+diferentes.
+
+66
+00:04:01,700 --> 00:04:06,390
+Ellos tienen diferentes alcances que podría 
+haber llamaron a esta variable de un
+
+67
+00:04:06,390 --> 00:04:11,439
+particular o de PTR o lo que sea, pero todo 
+lo que sucede
+
+68
+00:04:11,439 --> 00:04:15,110
+cuando hacemos esta llamada particular para 
+imprimir y así pasan C aquí es
+
+69
+00:04:15,110 --> 00:04:19,340
+que la dirección 100, que es la dirección 
+base de la matriz se
+
+70
+00:04:19,340 --> 00:04:22,800
+pasa a la función de impresión y la función 
+de impresión se mantiene.
+
+71
+00:04:22,800 --> 00:04:27,759
+Lo almacena en la variable puntero. A veces 
+nos puede confundir cuando estamos usando el
+
+72
+00:04:27,759 --> 00:04:30,600
+mismo nombre de variable local en la función 
+de
+
+73
+00:04:30,600 --> 00:04:34,780
+llamada y el mismo nombre del parámetro en la
+
+74
+00:04:34,780 --> 00:04:38,220
+función llamada, pero hay que entender 
+siempre que son diferentes. Aceptar para 
+ejecutar este
+
+75
+00:04:38,220 --> 00:04:39,729
+código más voy a
+
+76
+00:04:39,729 --> 00:04:42,820
+liberar espacio aquí ahora.
+
+77
+00:04:42,820 --> 00:04:47,300
+Voy a llamar esta matriz C fuera de la pila 
+aquí.
+
+78
+00:04:47,300 --> 00:04:51,190
+Tenemos una matriz de tamaño 20, pero sólo 
+estamos mostrando las
+
+79
+00:04:51,190 --> 00:04:55,449
+primeras seis posiciones en la matriz de la 
+dirección 100 a
+
+80
+00:04:55,449 --> 00:04:58,919
+105 y es por eso que se extiende hacia la 
+derecha.
+
+81
+00:04:58,919 --> 00:05:02,960
+El sexto carácter es un carácter nulo y los
+
+82
+00:05:02,960 --> 00:05:08,130
+primeros cinco caracteres son los caracteres 
+de la palabra hola. Y ahora tenemos este 
+otro chico que es
+
+83
+00:05:08,130 --> 00:05:11,740
+c impresión de que es un puntero de
+
+84
+00:05:11,740 --> 00:05:16,130
+caracteres en la dirección 154 que almacena 
+frente
+
+85
+00:05:16,130 --> 00:05:21,490
+a 100 para que apunte al primer elemento de 
+la matriz. Ahora vamos a volver a nuestro 
+ejecución
+
+86
+00:05:21,490 --> 00:05:25,289
+del programa digamos que estamos aquí al 
+principio. Voy a señalar la afirmación que 
+se está ejecutando
+
+87
+00:05:25,289 --> 00:05:30,259
+por esta flecha verde, Vamos a nombrar estos 
+dos chicos. Este tipo es C, pero este chico
+
+88
+00:05:30,259 --> 00:05:30,660
+es un array local de principal y
+
+89
+00:05:30,660 --> 00:05:36,120
+esto también es C, pero se trata
+
+90
+00:05:36,120 --> 00:05:37,389
+de un puntero de carácter local para 
+imprimir.
+
+91
+00:05:37,389 --> 00:05:42,240
+Aceptar lo que ahora aquí lo que estamos 
+diciendo es
+
+92
+00:05:42,240 --> 00:05:43,070
+que mientras que C * no es igual al carácter 
+nulo.
+
+93
+00:05:43,070 --> 00:05:47,150
+Cuando ponemos este operador asterisco 
+delante de una variable puntero que
+
+94
+00:05:47,150 --> 00:05:50,650
+estamos viendo el valor en esa dirección 
+particular, por lo que
+
+95
+00:05:50,650 --> 00:05:54,400
+en esta etapa cuando C está apuntando a la 
+dirección base
+
+96
+00:05:54,400 --> 00:05:58,810
+C * H es por lo que esta condición no es 
+cierta.
+
+97
+00:05:58,810 --> 00:06:02,509
+Vamos a ir a esta línea printf
+
+98
+00:06:02,509 --> 00:06:06,819
+que simplemente imprimir * C que es H. Vamos 
+a escribir abajo de la salida de aquí.
+
+99
+00:06:06,819 --> 00:06:12,910
+Así que hemos impreso H hasta el momento y
+
+100
+00:06:12,910 --> 00:06:16,380
+luego diremos c ++; si entendemos la 
+aritmética de
+
+101
+00:06:16,380 --> 00:06:21,450
+punteros de nuestras lecciones anteriores 
+incrementar un puntero en
+
+102
+00:06:21,450 --> 00:06:22,100
+una unidad incrementos de la dirección por 
+el tamaño
+
+103
+00:06:22,100 --> 00:06:26,890
+del tipo de datos que el puntero apunta a. C 
+aquí es un puntero a tipo de datos de 
+caracteres
+
+104
+00:06:26,890 --> 00:06:28,120
+y el tipo de datos de caracteres es un byte 
+de
+
+105
+00:06:28,120 --> 00:06:34,120
+modo C + 1, C ++ está diciendo C = C + 1.
+
+106
+00:06:34,120 --> 00:06:38,240
+Así que ahora se convierte en C 101 por lo 
+que ahora
+
+107
+00:06:38,240 --> 00:06:42,220
+los puntos C en el segundo carácter de la 
+matriz y una
+
+108
+00:06:42,220 --> 00:06:46,270
+vez más llegamos a donde nos encontramos con 
+esta condición en el bucle while. * C es E 
+aquí no es nulo, una
+
+109
+00:06:46,270 --> 00:06:50,760
+vez más vamos a ir dentro del bucle de
+
+110
+00:06:50,760 --> 00:06:55,650
+impresión y E y vamos a seguir adelante como
+
+111
+00:06:55,650 --> 00:06:59,580
+esto hasta que la dirección de esta variable 
+puntero llega a 105.
+
+112
+00:06:59,580 --> 00:07:02,870
+Ahora aquí el valor en este direcciones 
+particulares es carácter
+
+113
+00:07:02,870 --> 00:07:05,890
+nulo por lo que el bucle no se ejecutará 
+vamos
+
+114
+00:07:05,890 --> 00:07:09,920
+a llegar a esta declaración para imprimir un 
+fin-de-línea y
+
+115
+00:07:09,920 --> 00:07:14,370
+la ejecución de la función de impresión va a 
+terminar.
+
+116
+00:07:14,370 --> 00:07:17,470
+Por lo que este marco de pila
+
+117
+00:07:17,470 --> 00:07:20,530
+particular para impresión se elimina de la 
+pila. Será cancela la asignación y
+
+118
+00:07:20,530 --> 00:07:24,130
+ahora principal se reanudará y acabado. Así 
+que con punteros que siempre debe saber
+
+119
+00:07:24,130 --> 00:07:27,350
+lo que está pasando en donde en la memoria.
+
+120
+00:07:27,350 --> 00:07:31,040
+Aceptar lo que ahora vamos a modificar en
+
+121
+00:07:31,040 --> 00:07:35,300
+este código particular para aprender algunos 
+conceptos más. Ahora lo que voy a hacer en
+
+122
+00:07:35,300 --> 00:07:36,330
+mi código es en lugar de crear
+
+123
+00:07:36,330 --> 00:07:40,560
+una matriz de caracteres de tamaño 20
+
+124
+00:07:40,560 --> 00:07:44,050
+Voy a crear un puntero personaje llamado
+
+125
+00:07:44,050 --> 00:07:47,800
+C y los comparo contra un literal
+
+126
+00:07:47,800 --> 00:07:52,570
+de cadena en un comunicado de esta
+
+127
+00:07:52,570 --> 00:07:56,350
+manera y si se ejecuta este programa la 
+salida será lo mismo. Lo que realmente 
+sucede es que si se utiliza
+
+128
+00:07:56,350 --> 00:08:01,310
+la cadena literal en el estado de 
+inicialización de
+
+129
+00:08:01,310 --> 00:08:02,390
+una matriz algo como esto y entonces la 
+cadena
+
+130
+00:08:02,390 --> 00:08:05,980
+se almacena en este espacio que se asigna a 
+la matriz.
+
+131
+00:08:05,980 --> 00:08:10,650
+Así que en este caso voy a entrar en la pila 
+en esta matriz de caracteres de tamaño 20.
+
+132
+00:08:10,650 --> 00:08:15,410
+Pero si se utiliza la cadena literal en
+
+133
+00:08:15,410 --> 00:08:19,230
+otras partes de una declaración como estos 
+son,
+
+134
+00:08:19,230 --> 00:08:22,270
+tal vez cuando estamos haciendo algo así como
+
+135
+00:08:22,270 --> 00:08:25,360
+pasar una cadena literal a una función, a
+
+136
+00:08:25,360 --> 00:08:28,570
+continuación, en estos casos, la cadena se 
+almacenan
+
+137
+00:08:28,570 --> 00:08:32,600
+como una constante durante el tiempo de 
+compilación
+
+138
+00:08:32,600 --> 00:08:34,420
+y muy probablemente lo hará se almacena en
+
+139
+00:08:34,420 --> 00:08:38,820
+el segmento de texto de la memoria de la 
+aplicación y no puede ser modificado. Así 
+que si se escribe una sentencia como esta. 
+Digamos que usted desea cambiar
+
+140
+00:08:38,820 --> 00:08:39,250
+el primer carácter de esta
+
+141
+00:08:39,250 --> 00:08:43,540
+cadena constante a 'A' y
+
+142
+00:08:43,540 --> 00:08:46,840
+luego ejecutar este programa le dará un 
+error.
+
+143
+00:08:46,840 --> 00:08:50,390
+Esto causará un accidente. Aceptar volviendo 
+a tener
+
+144
+00:08:50,390 --> 00:08:55,430
+una matriz de caracteres. Ahora bien, si 
+tenemos una matriz de caracteres y
+
+145
+00:08:55,430 --> 00:08:58,500
+estamos pasando la dirección de la matriz a 
+una
+
+146
+00:08:58,500 --> 00:09:01,510
+función que recibe funcionar en un puntero 
+de carácter.
+
+147
+00:09:01,510 --> 00:09:07,590
+Ahora usando este puntero podemos modificar 
+los datos en esta matriz
+
+148
+00:09:07,590 --> 00:09:12,280
+particular, por lo que si digo algo como 
+esto: en primer
+
+149
+00:09:12,280 --> 00:09:15,700
+lugar para cambiar el primer carácter de "A" 
+y luego estamos
+
+150
+00:09:15,700 --> 00:09:19,950
+imprimiendo los caracteres y como se puede 
+ver que es posible hacer asi que. Ahora, a 
+veces es posible que queramos una función
+
+151
+00:09:19,950 --> 00:09:23,110
+sólo para leer una cadena y no escribir nada.
+
+152
+00:09:23,110 --> 00:09:26,980
+Para forzar este tipo de comportamiento que 
+podemos cambiar nuestro argumento de puntero 
+de
+
+153
+00:09:26,980 --> 00:09:32,490
+carácter const y ahora si corremos el código 
+el código nos dará error de compilación.
+
+154
+00:09:32,490 --> 00:09:35,670
+Podemos leer lo que está allí en la matriz 
+que
+
+155
+00:09:35,670 --> 00:09:39,910
+se pasa, pero no podemos escribir en 
+cualquiera de las posiciones.
+
+156
+00:09:39,910 --> 00:09:44,050
+Este código funciona bien, los punteros son
+
+157
+00:09:44,050 --> 00:09:47,580
+realmente complicado e incluso los 
+programadores más
+
+158
+00:09:47,580 --> 00:09:51,110
+experimentados escriben código erróneo 
+cuando se está utilizando punteros. Le 
+recomiendo que ensuciarse las manos
+
+159
+00:09:51,110 --> 00:09:54,810
+al escribir algo de código usted mismo.
+
+160
+00:09:54,810 --> 00:09:58,010
+Esa es la mejor manera de aprender. Así que 
+esto es todo por esta lección.
+
+161
+00:09:58,010 --> 00:09:59,360
+¡Gracias por ver!
+

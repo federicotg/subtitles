@@ -1,0 +1,1336 @@
+0
+00:00:00,210 --> 00:00:04,420
+En esta lección vamos a
+
+1
+00:00:04,420 --> 00:00:05,300
+estar hablando de otro escenario
+
+2
+00:00:05,300 --> 00:00:06,379
+en el que el concepto
+
+3
+00:00:06,379 --> 00:00:08,719
+de matrices y punteros van de la mano.
+
+4
+00:00:08,719 --> 00:00:10,180
+Y este escenario es
+
+5
+00:00:10,180 --> 00:00:10,960
+cuando se pasa una
+
+6
+00:00:10,960 --> 00:00:14,169
+matriz como argumento de la función.
+
+7
+00:00:14,169 --> 00:00:17,390
+Veamos un ejemplo de código, donde se pasa la
+
+8
+00:00:17,390 --> 00:00:20,949
+matriz como argumento de la función y tratar 
+de analizarlo.
+
+9
+00:00:20,949 --> 00:00:24,130
+Voy a escribir un sencillo
+
+10
+00:00:24,130 --> 00:00:25,539
+programa C en el que
+
+11
+00:00:25,539 --> 00:00:26,960
+voy a escribir una función
+
+12
+00:00:26,960 --> 00:00:29,179
+que me dará la suma
+
+13
+00:00:29,179 --> 00:00:31,060
+de todos los elementos en una matriz de 
+enteros.
+
+14
+00:00:31,060 --> 00:00:34,650
+Esta función se llevará a una matriz de 
+enteros
+
+15
+00:00:34,650 --> 00:00:37,340
+como argumento esta es una de las formas de
+
+16
+00:00:37,340 --> 00:00:39,610
+pasar una matriz de enteros, una matriz, en 
+general, como argumento.
+
+17
+00:00:39,610 --> 00:00:42,340
+Esto podría ser del tipo de datos
+
+18
+00:00:42,340 --> 00:00:44,240
+y este sería el nombre de la
+
+19
+00:00:44,240 --> 00:00:46,160
+matriz y en el método principal por
+
+20
+00:00:46,160 --> 00:00:50,130
+la que han declarado una inicializado una 
+matriz llamada A.
+
+21
+00:00:50,130 --> 00:00:53,190
+Ahora en el principal método vamos
+
+22
+00:00:53,190 --> 00:00:54,270
+a llamar a esta función sumOfElements
+
+23
+00:00:54,270 --> 00:00:56,620
+y pasar esta matriz A como
+
+24
+00:00:56,620 --> 00:00:58,289
+argumento y, por supuesto, tenemos que
+
+25
+00:00:58,289 --> 00:01:01,190
+escribir el cuerpo de esta función 
+sumOfElements.
+
+26
+00:01:01,190 --> 00:01:03,910
+Voy a declarar dos variables i y
+
+27
+00:01:03,910 --> 00:01:07,340
+otra parte variable e inicializar a cero.
+
+28
+00:01:07,340 --> 00:01:08,930
+Variable 'i' se utilizará para ejecutar un 
+bucle
+
+29
+00:01:08,930 --> 00:01:12,840
+así que vamos a recorrer todos los elementos
+
+30
+00:01:12,840 --> 00:01:15,210
+de la matriz A que se pasa como argumento.
+
+31
+00:01:15,210 --> 00:01:18,810
+Pero espere un minuto. No sabemos el tamaño 
+de la matriz A.
+
+32
+00:01:18,810 --> 00:01:21,510
+¿Hay alguna manera de saber el tamaño de la 
+matriz?
+
+33
+00:01:21,510 --> 00:01:22,590
+Una de las maneras de averiguar el
+
+34
+00:01:22,590 --> 00:01:24,130
+tamaño de la matriz, y por el
+
+35
+00:01:24,130 --> 00:01:27,730
+tamaño de la matriz nos referimos al
+
+36
+00:01:27,730 --> 00:01:28,990
+número de elementos de la matriz aquí,
+
+37
+00:01:28,990 --> 00:01:32,370
+es el uso de la función sizeof.
+
+38
+00:01:32,370 --> 00:01:33,780
+Así que si escribimos algo como
+
+39
+00:01:33,780 --> 00:01:34,609
+sizeof (A) aquí en el método
+
+40
+00:01:34,609 --> 00:01:36,650
+principal, entonces esto nos dará el
+
+41
+00:01:36,650 --> 00:01:40,500
+tamaño de la matriz A en bytes.
+
+42
+00:01:40,500 --> 00:01:43,680
+Array A tiene cinco enteros y
+
+43
+00:01:43,680 --> 00:01:47,369
+en un compilador típico; y estoy
+
+44
+00:01:47,369 --> 00:01:49,540
+seguro de que en este compilador
+
+45
+00:01:49,540 --> 00:01:51,320
+un número entero se almacena en
+
+46
+00:01:51,320 --> 00:01:54,830
+cuatro bytes lo que el tamaño de A volverá 
+veinte. Si queremos conocer el número de
+
+47
+00:01:54,830 --> 00:01:56,460
+elementos de la matriz entonces podemos
+
+48
+00:01:56,460 --> 00:01:58,680
+hacer algo como dividir el tamaño
+
+49
+00:01:58,680 --> 00:02:00,180
+en bytes de todo el conjunto
+
+50
+00:02:00,180 --> 00:02:03,200
+por el tamaño de un entero.
+
+51
+00:02:03,200 --> 00:02:06,670
+Así diremos tamaño de un sobre tamaño
+
+52
+00:02:06,670 --> 00:02:09,689
+de cada número entero en bytes del
+
+53
+00:02:09,689 --> 00:02:12,549
+tamaño de un [0] nos daría el
+
+54
+00:02:12,549 --> 00:02:14,310
+número de elementos de la matriz y
+
+55
+00:02:14,310 --> 00:02:16,849
+escribiré esta línea particular por debajo 
+de esta línea.
+
+56
+00:02:16,849 --> 00:02:19,809
+La línea en la que estamos llamando a los 
+sumOfElements de función.
+
+57
+00:02:19,809 --> 00:02:21,459
+Ahora lo que podemos
+
+58
+00:02:21,459 --> 00:02:24,060
+hacer es que podríamos
+
+59
+00:02:24,060 --> 00:02:27,179
+o bien pasar el
+
+60
+00:02:27,179 --> 00:02:28,769
+tamaño de la matriz
+
+61
+00:02:28,769 --> 00:02:30,239
+como otro argumento por
+
+62
+00:02:30,239 --> 00:02:32,169
+lo que sería fresco
+
+63
+00:02:32,169 --> 00:02:32,970
+y entonces podemos ejecutar
+
+64
+00:02:32,970 --> 00:02:33,840
+el bucle a partir
+
+65
+00:02:33,840 --> 00:02:35,439
+de cero hasta el
+
+66
+00:02:35,439 --> 00:02:38,040
+tamaño del índice menos
+
+67
+00:02:38,040 --> 00:02:40,869
+uno y seguimos en
+
+68
+00:02:40,869 --> 00:02:41,849
+la adición de cada
+
+69
+00:02:41,849 --> 00:02:44,929
+elemento a esta suma
+
+70
+00:02:44,929 --> 00:02:47,259
+variable y, finalmente, volvemos
+
+71
+00:02:47,259 --> 00:02:48,949
+suma y finalmente vamos
+
+72
+00:02:48,949 --> 00:02:50,889
+Algo como esto.
+
+73
+00:02:50,889 --> 00:02:53,799
+Para imprimir la suma de todos los elementos 
+de la matriz.
+
+74
+00:02:53,799 --> 00:02:55,519
+Vamos ahora a ejecutar este
+
+75
+00:02:55,519 --> 00:02:56,819
+programa y ver qué pasa.
+
+76
+00:02:56,819 --> 00:02:58,510
+La salida en la consola
+
+77
+00:02:58,510 --> 00:03:00,529
+es que la suma de
+
+78
+00:03:00,529 --> 00:03:02,059
+elementos es igual a quince.
+
+79
+00:03:02,059 --> 00:03:06,539
+Cinco más cuatro más tres más dos más uno es 
+quince por lo que este está bien.
+
+80
+00:03:06,539 --> 00:03:10,599
+Ahora lo que quiero hacer es que quiero 
+modificar este código un poco.
+
+81
+00:03:10,599 --> 00:03:12,520
+No quiero pasar este
+
+82
+00:03:12,520 --> 00:03:14,149
+tamaño como argumento aquí.
+
+83
+00:03:14,149 --> 00:03:18,229
+Quiero calcular el tamaño de la matriz 
+dentro de esta función.
+
+84
+00:03:18,229 --> 00:03:19,669
+Por lo que no se le
+
+85
+00:03:19,669 --> 00:03:23,230
+pasa el argumento tamaños aquí por
+
+86
+00:03:23,230 --> 00:03:24,500
+lo que habrá un solo argumento.
+
+87
+00:03:24,500 --> 00:03:25,930
+La matriz.
+
+88
+00:03:25,930 --> 00:03:28,479
+Así que tenemos esta matriz como argumento.
+
+89
+00:03:28,479 --> 00:03:31,039
+La matriz "A" y se calcula
+
+90
+00:03:31,039 --> 00:03:33,499
+el tamaño de aquí como el
+
+91
+00:03:33,499 --> 00:03:35,299
+tamaño total de la matriz en
+
+92
+00:03:35,299 --> 00:03:37,249
+bytes del tamaño de un entero en bytes.
+
+93
+00:03:37,249 --> 00:03:40,989
+Vamos ahora a ejecutar este programa y ver 
+qué pasa.
+
+94
+00:03:40,989 --> 00:03:44,290
+Vaya parece que hay algún problema, ya que la
+
+95
+00:03:44,290 --> 00:03:47,059
+suma de los elementos que tenemos como 
+salida en
+
+96
+00:03:47,059 --> 00:03:49,439
+la consola aquí es igual a uno que debería 
+ser quince.
+
+97
+00:03:49,439 --> 00:03:51,489
+Y por qué es así?
+
+98
+00:03:51,489 --> 00:03:53,689
+Para explicar este comportamiento voy a
+
+99
+00:03:53,689 --> 00:03:55,579
+escribir dos más sentencias de impresión.
+
+100
+00:03:55,579 --> 00:03:58,099
+Uno de los sumOfElements de función en
+
+101
+00:03:58,099 --> 00:04:00,450
+la que se imprimirá el tamaño de
+
+102
+00:04:00,450 --> 00:04:03,639
+A y el tamaño de A [0].
+
+103
+00:04:03,639 --> 00:04:06,329
+Voy a llamar a estas dos funciones
+
+104
+00:04:06,329 --> 00:04:07,019
+SIZEOF sobre A y sobre una [0],
+
+105
+00:04:07,019 --> 00:04:11,180
+respectivamente, y vamos a escribir uno más
+
+106
+00:04:11,180 --> 00:04:12,549
+sentencias de impresión en el método 
+principal.
+
+107
+00:04:12,549 --> 00:04:16,009
+Se volverá a ser lo mismo que la impresión 
+del tamaño
+
+108
+00:04:16,009 --> 00:04:18,269
+de una en bytes y el tamaño de A [0] en 
+bytes.
+
+109
+00:04:18,269 --> 00:04:19,999
+Veamos ahora la salida.
+
+110
+00:04:19,999 --> 00:04:24,430
+En el tamaño sumOfElements método de A es 
+igual a cuatro bytes.
+
+111
+00:04:24,430 --> 00:04:26,819
+Tamaño de A [0] es igual a cuatro bytes.
+
+112
+00:04:26,819 --> 00:04:30,459
+En el tamaño principal método de A es
+
+113
+00:04:30,459 --> 00:04:31,760
+igual a veinte bytes y el tamaño de
+
+114
+00:04:31,760 --> 00:04:33,110
+A [0] de nuevo es de cuatro bytes.
+
+115
+00:04:33,110 --> 00:04:35,210
+Para entender este concepto.
+
+116
+00:04:35,210 --> 00:04:36,740
+¿Por qué el tamaño de
+
+117
+00:04:36,740 --> 00:04:37,750
+A es de cuatro bytes
+
+118
+00:04:37,750 --> 00:04:41,419
+en los sumOfElements método y
+
+119
+00:04:41,419 --> 00:04:43,460
+es igual a veinte bytes
+
+120
+00:04:43,460 --> 00:04:45,620
+en el método principal que
+
+121
+00:04:45,620 --> 00:04:47,689
+tenemos que profundizar en cómo
+
+122
+00:04:47,689 --> 00:04:50,740
+compilador interpreta una matriz como 
+argumento de la función.
+
+123
+00:04:50,740 --> 00:04:52,459
+Una vez más voy a
+
+124
+00:04:52,459 --> 00:04:54,469
+dibujar este diagrama la memoria familiar.
+
+125
+00:04:54,469 --> 00:04:57,510
+La memoria asignada a una aplicación o un
+
+126
+00:04:57,510 --> 00:05:00,300
+programa se divide típicamente en estas 
+cuatro partes.
+
+127
+00:05:00,300 --> 00:05:03,089
+Hemos hablado de esto en nuestras lecciones 
+anteriores.
+
+128
+00:05:03,089 --> 00:05:06,040
+Para la ejecución de
+
+129
+00:05:06,040 --> 00:05:08,639
+llamadas a funciones que
+
+130
+00:05:08,639 --> 00:05:11,880
+utilizamos sección apilada de la memoria. 
+Este rectángulo verde aquí es nuestra pila.
+
+131
+00:05:11,880 --> 00:05:16,439
+Ahora, cuando el programa comienza a 
+ejecutarse
+
+132
+00:05:16,439 --> 00:05:18,599
+primer método principal es invocada por lo
+
+133
+00:05:18,599 --> 00:05:20,750
+que se asigna cierta cantidad de memoria
+
+134
+00:05:20,750 --> 00:05:25,330
+de la pila correspondiente a la llamada del 
+método principal.
+
+135
+00:05:25,330 --> 00:05:27,639
+Esta sección en particular o esta parte 
+también se
+
+136
+00:05:27,639 --> 00:05:30,870
+llama el marco de la pila de un método.
+
+137
+00:05:30,870 --> 00:05:34,199
+Todas las variables locales residen dentro 
+de este marco de pila.
+
+138
+00:05:34,199 --> 00:05:34,949
+Ahora aquí en
+
+139
+00:05:34,949 --> 00:05:37,289
+el método principal
+
+140
+00:05:37,289 --> 00:05:40,889
+tenemos dos variables locales. Una de ellas 
+es la
+
+141
+00:05:40,889 --> 00:05:44,050
+matriz "A" y otra variable
+
+142
+00:05:44,050 --> 00:05:44,949
+local es total número entero
+
+143
+00:05:44,949 --> 00:05:47,479
+por lo veintena de bytes
+
+144
+00:05:47,479 --> 00:05:48,620
+si es entero de cuatro bytes.
+
+145
+00:05:48,620 --> 00:05:51,599
+Exactamente veinte bytes, de hecho, se 
+asignarían
+
+146
+00:05:51,599 --> 00:05:54,330
+de este marco de pila para la
+
+147
+00:05:54,330 --> 00:05:56,709
+variable local "A", la matriz "A", y
+
+148
+00:05:56,709 --> 00:05:57,919
+cuatro bytes para el total de la
+
+149
+00:05:57,919 --> 00:06:00,779
+variable total y no habría algo más
+
+150
+00:06:00,779 --> 00:06:03,529
+de información en el marco de la pila.
+
+151
+00:06:03,529 --> 00:06:07,069
+Ahora, cuando la ejecución del
+
+152
+00:06:07,069 --> 00:06:09,789
+programa llega a esta línea
+
+153
+00:06:09,789 --> 00:06:11,999
+en particular, donde se hace
+
+154
+00:06:11,999 --> 00:06:13,619
+una llamada a sumOfElements entonces
+
+155
+00:06:13,619 --> 00:06:15,300
+la ejecución de principal está
+
+156
+00:06:15,300 --> 00:06:17,900
+en pausa y otro marco
+
+157
+00:06:17,900 --> 00:06:19,469
+de pila se asigna para ejecutar las 
+funciones sumOfElements.
+
+158
+00:06:19,469 --> 00:06:21,160
+Hemos hablado de esta llamada crecimiento
+
+159
+00:06:21,160 --> 00:06:22,839
+de la pila y la ejecución
+
+160
+00:06:22,839 --> 00:06:24,389
+de la función de un número
+
+161
+00:06:24,389 --> 00:06:26,560
+de veces en nuestras lecciones anteriores.
+
+162
+00:06:26,560 --> 00:06:27,490
+Ok ahora esto
+
+163
+00:06:27,490 --> 00:06:31,059
+es una variable local. Este parámetro es una 
+variable
+
+164
+00:06:31,059 --> 00:06:33,259
+local para los sumOfElements de función. No 
+es
+
+165
+00:06:33,259 --> 00:06:34,469
+este "A"
+
+166
+00:06:34,469 --> 00:06:35,870
+en el
+
+167
+00:06:35,870 --> 00:06:38,249
+¿Qué pasa cuando se hace una llamada a la
+
+168
+00:06:38,249 --> 00:06:41,669
+función es que el valor de esta variable 
+local
+
+169
+00:06:41,669 --> 00:06:43,529
+en particular en el método principal o más 
+bien
+
+170
+00:06:43,529 --> 00:06:47,610
+debería decir que el valor de la variable en
+
+171
+00:06:47,610 --> 00:06:49,360
+la función de llamada se copia en la 
+variable en la función llamada.
+
+172
+00:06:49,360 --> 00:06:51,279
+Por lo que idealmente
+
+173
+00:06:51,279 --> 00:06:53,349
+deberíamos tener uno más
+
+174
+00:06:53,349 --> 00:06:54,830
+"A" local para la
+
+175
+00:06:54,830 --> 00:06:57,740
+función llamada sumOfElements y
+
+176
+00:06:57,740 --> 00:07:00,839
+el valor de "A"
+
+177
+00:07:00,839 --> 00:07:03,929
+debe ser copiado en este parámetro "A".
+
+178
+00:07:03,929 --> 00:07:05,430
+Así tendríamos otra matriz denominada "A"
+
+179
+00:07:05,430 --> 00:07:06,819
+teniendo veinte bytes en el marco
+
+180
+00:07:06,819 --> 00:07:10,759
+de la pila de sumOfElements y
+
+181
+00:07:10,759 --> 00:07:12,349
+que iba a tener el mismo
+
+182
+00:07:12,349 --> 00:07:14,389
+valor, mismos elementos que el array
+
+183
+00:07:14,389 --> 00:07:17,919
+'A' en la función de llamada,
+
+184
+00:07:17,919 --> 00:07:21,669
+pero en realidad esto no sucede.
+
+185
+00:07:21,669 --> 00:07:23,129
+Cuando el compilador ve y
+
+186
+00:07:23,129 --> 00:07:26,249
+matriz como argumento de la
+
+187
+00:07:26,249 --> 00:07:28,349
+función no copia todo el conjunto.
+
+188
+00:07:28,349 --> 00:07:30,979
+Lo que realmente hace que sólo crea
+
+189
+00:07:30,979 --> 00:07:33,519
+una variable de puntero con el mismo
+
+190
+00:07:33,519 --> 00:07:38,469
+nombre en lugar de crear toda la
+
+191
+00:07:38,469 --> 00:07:39,559
+gama sólo crea un puntero al tipo
+
+192
+00:07:39,559 --> 00:07:40,629
+de datos de la matriz de lo
+
+193
+00:07:40,629 --> 00:07:44,649
+que en este caso será puntero a
+
+194
+00:07:44,649 --> 00:07:47,280
+un entero y el compilador sólo copia
+
+195
+00:07:47,280 --> 00:07:51,289
+la dirección de el primer elemento en
+
+196
+00:07:51,289 --> 00:07:52,739
+la matriz de la función de llamada. Así que 
+digamos que la dirección inicial
+
+197
+00:07:52,739 --> 00:07:53,880
+de la dirección del primer elemento de
+
+198
+00:07:53,880 --> 00:07:57,599
+este vector "A" que pertenece a la
+
+199
+00:07:57,599 --> 00:08:01,399
+principal método es de doscientos por lo
+
+200
+00:08:01,399 --> 00:08:03,039
+que en sumOfElements todo lo que sucede
+
+201
+00:08:03,039 --> 00:08:06,979
+es que se crea un puntero a
+
+202
+00:08:06,979 --> 00:08:09,550
+entero y el valor de este puntero al número 
+entero es 200 .
+
+203
+00:08:09,550 --> 00:08:14,819
+El compilador convierte implícitamente
+
+204
+00:08:14,819 --> 00:08:16,119
+este int A a
+
+205
+00:08:16,119 --> 00:08:17,529
+algo así como int * A.
+
+206
+00:08:17,529 --> 00:08:19,120
+Es decir esto Una aquí
+
+207
+00:08:19,120 --> 00:08:22,349
+en este formato en particular
+
+208
+00:08:22,349 --> 00:08:24,360
+no se interpreta como matriz,
+
+209
+00:08:24,360 --> 00:08:26,249
+pero se interpreta como puntero a un entero.
+
+210
+00:08:26,249 --> 00:08:28,179
+Así que si usted escribe el espacio
+
+211
+00:08:28,179 --> 00:08:33,170
+int nombre de la variable siguiendo estos
+
+212
+00:08:33,170 --> 00:08:35,090
+soportes o se escribe algo así como
+
+213
+00:08:35,090 --> 00:08:37,870
+int * Un espacio de los dos son lo mismo.
+
+214
+00:08:37,870 --> 00:08:39,330
+Tenemos un término para este lugar de
+
+215
+00:08:39,330 --> 00:08:42,960
+copiar el valor de la variable que
+
+216
+00:08:42,960 --> 00:08:45,770
+acaba copiando y almacenando la dirección de 
+la variable.
+
+217
+00:08:45,770 --> 00:08:46,700
+Por lo tanto hacemos
+
+218
+00:08:46,700 --> 00:08:48,710
+un llamado aquí por referencia.
+
+219
+00:08:48,710 --> 00:08:50,170
+Las matrices son siempre pasan como
+
+220
+00:08:50,170 --> 00:08:51,230
+parámetros de referencia y esto hace
+
+221
+00:08:51,230 --> 00:08:53,390
+mucho sentido, porque las matrices pueden
+
+222
+00:08:53,390 --> 00:08:55,620
+ser muy grandes en tamaño por
+
+223
+00:08:55,620 --> 00:09:00,640
+lo que no tiene mucho sentido
+
+224
+00:09:00,640 --> 00:09:05,850
+para crear una nueva copia de la matriz cada 
+vez. Innecesariamente utiliza una gran 
+cantidad de memoria por
+
+225
+00:09:05,850 --> 00:09:09,430
+lo que para las matrices no hay ninguna
+
+226
+00:09:09,430 --> 00:09:10,600
+llamada por valor siempre hay una llamada 
+por referencia.
+
+227
+00:09:10,600 --> 00:09:12,320
+Y es por eso que
+
+228
+00:09:12,320 --> 00:09:13,400
+este tamaño de 'A' aquí
+
+229
+00:09:13,400 --> 00:09:14,360
+nos daría cuatro como salida,
+
+230
+00:09:14,360 --> 00:09:15,820
+ya que A es un
+
+231
+00:09:15,820 --> 00:09:18,520
+puntero a un entero aquí
+
+232
+00:09:18,520 --> 00:09:21,520
+mientras aquí en el principal
+
+233
+00:09:21,520 --> 00:09:23,450
+Así que este formato
+
+234
+00:09:23,450 --> 00:09:24,440
+de pasar matriz como
+
+235
+00:09:24,440 --> 00:09:26,760
+argumento de la función
+
+236
+00:09:26,760 --> 00:09:29,430
+donde ponemos estos aparatos
+
+237
+00:09:29,430 --> 00:09:30,970
+para decir que se
+
+238
+00:09:30,970 --> 00:09:33,290
+trata de una matriz
+
+239
+00:09:33,290 --> 00:09:34,520
+es en realidad interpretado
+
+240
+00:09:34,520 --> 00:09:37,880
+Se puede poner un signo asterisco aquí o se 
+puede poner un signo asterisco aquí. Es
+
+241
+00:09:37,880 --> 00:09:39,330
+lo
+
+242
+00:09:39,330 --> 00:09:41,690
+Tiene más sentido que escribirlo como
+
+243
+00:09:41,690 --> 00:09:43,930
+esto así que A es en
+
+244
+00:09:43,930 --> 00:09:45,610
+realidad interpretado como puntero a un 
+entero.
+
+245
+00:09:45,610 --> 00:09:47,530
+Es por eso que cuando se pasa matriz
+
+246
+00:09:47,530 --> 00:09:50,660
+como argumento de la función no hay manera
+
+247
+00:09:50,660 --> 00:09:52,810
+de saber el número de elementos de la
+
+248
+00:09:52,810 --> 00:09:54,639
+matriz mediante el uso de un truco como este.
+
+249
+00:09:54,639 --> 00:09:56,140
+Que realmente se necesita para pasar el
+
+250
+00:09:56,140 --> 00:09:59,220
+tamaño de la matriz por lo que
+
+251
+00:09:59,220 --> 00:10:03,390
+preferiría mover este cálculo del tamaño en
+
+252
+00:10:03,390 --> 00:10:05,060
+el método principal y pasar el tamaño
+
+253
+00:10:05,060 --> 00:10:06,600
+y cuando se ejecute este programa ahora
+
+254
+00:10:06,600 --> 00:10:11,770
+que obtener la salida como se esperaba. Suma 
+de los
+
+255
+00:10:11,770 --> 00:10:13,490
+elementos es de quince.
+
+256
+00:10:13,490 --> 00:10:15,420
+Siempre debemos tener en cuenta
+
+257
+00:10:15,420 --> 00:10:17,650
+que un nombre de variable
+
+258
+00:10:17,650 --> 00:10:18,980
+que se utiliza como una
+
+259
+00:10:18,980 --> 00:10:20,510
+matriz es diferente de una
+
+260
+00:10:20,510 --> 00:10:22,640
+variable que es puntero a
+
+261
+00:10:22,640 --> 00:10:26,490
+entero a pesar de que
+
+262
+00:10:26,490 --> 00:10:28,090
+el compilador nos da algunos
+
+263
+00:10:28,090 --> 00:10:29,320
+privilegios como podemos usar el
+
+264
+00:10:29,320 --> 00:10:30,990
+nombre de la matriz para
+
+265
+00:10:30,990 --> 00:10:33,090
+Al igual que en esta
+
+266
+00:10:33,090 --> 00:10:34,560
+función sumOfElements se podría decir
+
+267
+00:10:34,560 --> 00:10:36,299
+algo como para pasar el
+
+268
+00:10:36,299 --> 00:10:37,090
+primer elemento que podríamos haber
+
+269
+00:10:37,090 --> 00:10:40,840
+dicho signo A [0] dirección
+
+270
+00:10:40,840 --> 00:10:43,100
+del primer elemento, pero si
+
+271
+00:10:43,100 --> 00:10:44,330
+sólo tiene que utilizar un
+
+272
+00:10:44,330 --> 00:10:46,380
+lugar de utilizar signo A
+
+273
+00:10:46,380 --> 00:10:48,920
+[0] entonces que se permite
+
+274
+00:10:48,920 --> 00:10:51,860
+Pero si A es una matriz que
+
+275
+00:10:51,860 --> 00:10:54,170
+no podemos hacer algo así como aumentar
+
+276
+00:10:54,170 --> 00:10:56,300
+o disminuir ella como variables de puntero.
+
+277
+00:10:56,300 --> 00:10:59,920
+Con variables de puntero que podemos hacer
+
+278
+00:10:59,920 --> 00:11:03,130
+un par de otras cosas y si
+
+279
+00:11:03,130 --> 00:11:04,970
+tenemos un puntero a la dirección inicial
+
+280
+00:11:04,970 --> 00:11:06,199
+de la matriz podemos más o menos
+
+281
+00:11:06,199 --> 00:11:07,460
+usarlo como un nombre de variable de
+
+282
+00:11:07,460 --> 00:11:09,610
+matriz debido a [i] se interpreta como
+
+283
+00:11:09,610 --> 00:11:12,070
+valor en la dirección (A + yo).
+
+284
+00:11:12,070 --> 00:11:15,580
+Así que tenemos que mantener esta 
+diferencias y similitudes en mente. Es un
+
+285
+00:11:15,580 --> 00:11:17,120
+poco difícil.
+
+286
+00:11:17,120 --> 00:11:19,010
+Hay una cosa más.
+
+287
+00:11:19,010 --> 00:11:23,170
+Debido a que la matriz se pasa
+
+288
+00:11:23,170 --> 00:11:26,070
+por referencia podemos modificar los 
+elementos de
+
+289
+00:11:26,070 --> 00:11:27,380
+la matriz en la función llamada y
+
+290
+00:11:27,380 --> 00:11:31,690
+se reflejaría en la función de llamada.
+
+291
+00:11:31,690 --> 00:11:33,750
+Así que digamos que en lugar de calcular
+
+292
+00:11:33,750 --> 00:11:38,270
+la suma total que queremos duplicar todos los
+
+293
+00:11:38,270 --> 00:11:39,920
+elementos de cada elemento individual de la 
+matriz.
+
+294
+00:11:39,920 --> 00:11:44,520
+Así que nuestro código será algo parecido a 
+esto. Quiero decir que A [i] es ahora el 
+doble
+
+295
+00:11:44,520 --> 00:11:46,730
+A [i] y no vamos a devolver un entero
+
+296
+00:11:46,730 --> 00:11:50,510
+digamos que el tipo de retorno es nulo y
+
+297
+00:11:50,510 --> 00:11:55,420
+en el método principal que va a limpiar todas
+
+298
+00:11:55,420 --> 00:11:56,430
+las cosas y lo que voy a hacer es
+
+299
+00:11:56,430 --> 00:11:59,540
+simplemente voy a ejecutar un bucle para 
+imprimir todos los elementos de la matriz.
+
+300
+00:11:59,540 --> 00:12:03,600
+OK ahora vamos a correr esto y ver qué pasa.
+
+301
+00:12:03,600 --> 00:12:06,420
+Ups! Me olvidé de llamar a la función
+
+302
+00:12:09,270 --> 00:12:11,030
+doble OK ahora vamos a ejecutar este.
+
+303
+00:12:11,030 --> 00:12:12,030
+Si ve los
+
+304
+00:12:12,030 --> 00:12:13,870
+elementos de la
+
+305
+00:12:13,870 --> 00:12:16,820
+matriz A se modifican. Cada elemento es el 
+doble
+
+306
+00:12:16,820 --> 00:12:18,480
+de su valor anterior debido
+
+307
+00:12:18,480 --> 00:12:21,240
+a esto se le llama por referencia. La misma
+
+308
+00:12:21,240 --> 00:12:22,490
+copia de
+
+309
+00:12:22,490 --> 00:12:24,400
+la matriz
+
+310
+00:12:24,400 --> 00:12:29,120
+A se
+
+311
+00:12:29,120 --> 00:12:30,710
+Así que esto era matriz
+
+312
+00:12:30,710 --> 00:12:33,000
+como argumentos de la función.
+
+313
+00:12:33,000 --> 00:12:37,360
+Un caso de uso importante de la matriz como 
+argumento
+
+314
+00:12:37,360 --> 00:12:40,840
+de la función es cuando trabajamos con 
+cadenas en C.
+
+315
+00:12:40,840 --> 00:12:44,570
+Así cadenas en C no son más que las matrices 
+de caracteres.
+
+316
+00:12:44,570 --> 00:12:48,070
+Este concepto se vuelve muy importante en el 
+contexto de las
+
+317
+00:12:48,070 --> 00:12:51,930
+matrices de caracteres estaremos hablando 
+sobre ello en las próximas lecciones.
+
+318
+00:12:51,930 --> 00:12:52,490
+Así que gracias por ver!
+

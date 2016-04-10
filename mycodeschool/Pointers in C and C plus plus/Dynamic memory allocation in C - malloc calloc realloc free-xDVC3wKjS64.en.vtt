@@ -476,15 +476,15 @@ now, we will talk about free. Any memory that
 
 00:12:09.399 --> 00:12:14.860
 is dynamically allocated remains allocated
-till the lifetime of the program, until the
+until the lifetime of the program, until the
 
 00:12:14.860 --> 00:12:21.860
 time the program is executing unless you explicitly
-deallocate it and to deallocate memory allocated
+deallocate it. And to deallocate memory allocated
 
 00:12:22.290 --> 00:12:27.959
 using malloc and calloc and realloc, we have
-the function free and to the function free,
+the function free. To the function free,
 
 00:12:27.959 --> 00:12:34.160
 you pass starting address of the memory block
@@ -512,7 +512,7 @@ there is some garbage value being printed.
 
 00:12:59.850 --> 00:13:06.389
 if this free was not there, we would have
-printed elements 1,2,3,4,5 as initialized.
+printed elements 1, 2, 3, 4, 5 as initialized.
 
 00:13:06.389 --> 00:13:11.130
 Not the obvious question would be even though

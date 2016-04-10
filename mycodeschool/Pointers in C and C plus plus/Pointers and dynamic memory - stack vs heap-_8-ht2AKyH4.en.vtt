@@ -283,12 +283,12 @@ one global variable in this program just to
 understand the concepts.
 
 00:05:42.990 --> 00:05:49.020
-Here, I must point out one more thing, when
+Here, I must point out one more thing. When
 our program starts, our
 
 00:05:49.020 --> 00:05:54.030
 operating system allocates some amount of
-reserved space, let's say OS
+reserved space. Let's say it
 
 00:05:54.030 --> 00:05:59.780
 allocates 1 MB of space as stack, but the
@@ -299,7 +299,7 @@ frame and the actual allocation of the local
 variables happens from the
 
 00:06:04.030 --> 00:06:09.340
-stack during runtime and if our call stack
+stack during runtime. And if our call stack
 grows beyond the reserved
 
 00:06:09.340 --> 00:06:14.650

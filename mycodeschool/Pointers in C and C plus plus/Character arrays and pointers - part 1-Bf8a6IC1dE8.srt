@@ -1,0 +1,1446 @@
+0
+00:00:00,560 --> 00:00:03,260
+En nuestras lecciones hasta ahora, hemos 
+visto cómo los
+
+1
+00:00:03,260 --> 00:00:07,300
+conceptos de matrices y punteros van de la 
+mano.
+
+2
+00:00:07,300 --> 00:00:10,849
+Ahora, en esta lección, vamos a hablar 
+acerca de las matrices de caracteres.
+
+3
+00:00:10,849 --> 00:00:14,189
+¿Cómo podemos trabajar con conjuntos de 
+caracteres utilizando punteros.
+
+4
+00:00:14,189 --> 00:00:16,939
+Ahora, cuando hablamos de las matrices
+
+5
+00:00:16,939 --> 00:00:18,849
+de caracteres en C que básicamente
+
+6
+00:00:18,849 --> 00:00:20,230
+queremos hablar acerca de las cadenas.
+
+7
+00:00:20,230 --> 00:00:24,039
+Las cadenas son grupo o
+
+8
+00:00:24,039 --> 00:00:25,480
+conjunto de caracteres y los
+
+9
+00:00:25,480 --> 00:00:26,710
+datos del mundo real como
+
+10
+00:00:26,710 --> 00:00:29,909
+nombres frases y oraciones, todos
+
+11
+00:00:29,909 --> 00:00:31,300
+estos son cadenas a nosotros.
+
+12
+00:00:31,300 --> 00:00:33,930
+Por lo tanto, estos son algunos de los 
+ejemplos de cadenas.
+
+13
+00:00:33,930 --> 00:00:37,800
+matrices de caracteres se vuelven aún más
+
+14
+00:00:37,800 --> 00:00:39,460
+importante porque los usamos para almacenar 
+cadenas
+
+15
+00:00:39,460 --> 00:00:43,200
+y luego realizar una gran cantidad de
+
+16
+00:00:43,200 --> 00:00:46,380
+operaciones en cadenas como la modificación 
+de
+
+17
+00:00:46,380 --> 00:00:48,790
+una cadena, la copia de una cadena
+
+18
+00:00:48,790 --> 00:00:50,819
+concatenación de dos cadenas o descubrir 
+propiedades
+
+19
+00:00:50,819 --> 00:00:53,140
+de cadenas como averiguar la longitud de una 
+cadena.
+
+20
+00:00:53,140 --> 00:00:56,780
+Para poder trabajar de manera eficiente con 
+las cadenas en
+
+21
+00:00:56,780 --> 00:00:59,440
+C, hay un par de cosas que tenemos que 
+entender.
+
+22
+00:00:59,440 --> 00:01:00,859
+Lo primero que tenemos que entender es
+
+23
+00:01:00,859 --> 00:01:04,600
+cómo almacenamos cadenas en las matrices de 
+caracteres.
+
+24
+00:01:04,600 --> 00:01:06,620
+Para ser capaz de almacenar una cadena
+
+25
+00:01:06,620 --> 00:01:10,140
+en una matriz de caracteres, el primer
+
+26
+00:01:10,140 --> 00:01:12,560
+requisito es que la matriz de caracteres
+
+27
+00:01:12,560 --> 00:01:14,420
+debería ser suficiente para dar cabida a la 
+cadena grande.
+
+28
+00:01:14,420 --> 00:01:16,960
+Y lo que es una matriz de caracteres lo 
+suficientemente grande?
+
+29
+00:01:16,960 --> 00:01:19,970
+Una matriz de caracteres lo
+
+30
+00:01:19,970 --> 00:01:21,219
+suficientemente grande es una matriz
+
+31
+00:01:21,219 --> 00:01:23,060
+de caracteres de tamaño mayor
+
+32
+00:01:23,060 --> 00:01:26,180
+o igual que el número
+
+33
+00:01:26,180 --> 00:01:27,820
+de caracteres en la cadena más uno.
+
+34
+00:01:27,820 --> 00:01:30,130
+Así que digamos que si nuestra
+
+35
+00:01:30,130 --> 00:01:32,310
+cadena es un nombre de cuatro
+
+36
+00:01:32,310 --> 00:01:33,830
+caracteres, como Juan, entonces el tamaño
+
+37
+00:01:33,830 --> 00:01:35,540
+de la matriz debe ser mayor
+
+38
+00:01:35,540 --> 00:01:38,450
+o igual a cinco, y ahora
+
+39
+00:01:38,450 --> 00:01:42,310
+la pregunta obvia sería ¿por qué
+
+40
+00:01:42,310 --> 00:01:43,350
+necesitamos espacio para un personaje extra?
+
+41
+00:01:43,350 --> 00:01:44,170
+¿No es que si
+
+42
+00:01:44,170 --> 00:01:45,540
+declaramos un array de
+
+43
+00:01:45,540 --> 00:01:47,730
+caracteres de tamaño cuatro,
+
+44
+00:01:47,730 --> 00:01:52,429
+podemos almacenar todos los personajes de 
+John. J irá al índice cero
+
+45
+00:01:52,429 --> 00:01:54,610
+'O' irá en el índice
+
+46
+00:01:54,610 --> 00:01:56,540
+1, 'H' y 'N' irá
+
+47
+00:01:56,540 --> 00:01:58,729
+a los 2 y 3, respectivamente índice.
+
+48
+00:01:58,729 --> 00:02:01,280
+Por lo tanto, estoy en el almacenamiento de 
+todos los datos, ¿no es así?
+
+49
+00:02:01,280 --> 00:02:03,570
+Vamos a tratar de entender de esta manera.
+
+50
+00:02:03,570 --> 00:02:06,740
+Digamos que tenemos una matriz de caracteres 
+de tamaño 8.
+
+51
+00:02:06,740 --> 00:02:10,009
+Digamos que se trata de una vista lógica de 
+nuestra matriz
+
+52
+00:02:10,009 --> 00:02:13,599
+C y queremos almacenar la cadena john en 
+esta matriz particular.
+
+53
+00:02:13,599 --> 00:02:15,730
+Tenemos índices de cero a siete.
+
+54
+00:02:15,730 --> 00:02:17,449
+Se trata de una matriz de tamaño ocho,
+
+55
+00:02:17,449 --> 00:02:20,180
+así que puede almacenar 'J' en el índice
+
+56
+00:02:20,180 --> 00:02:24,470
+0, 'O' en el índice 1, 'H' en
+
+57
+00:02:24,470 --> 00:02:25,469
+el índice 2, y 'N' en el índice 3.
+
+58
+00:02:25,469 --> 00:02:29,700
+Por lo tanto, hemos almacenado todos los 
+caracteres de la cadena 'John'
+
+59
+00:02:29,700 --> 00:02:32,930
+en este array, pero si ves que no hemos 
+almacenado una información.
+
+60
+00:02:32,930 --> 00:02:36,389
+No hemos almacenado la información que este 
+carácter
+
+61
+00:02:36,389 --> 00:02:38,200
+particular 'N' es el último carácter de la 
+cadena.
+
+62
+00:02:38,200 --> 00:02:39,860
+Así que la cadena
+
+63
+00:02:39,860 --> 00:02:41,419
+termina en el índice tres.
+
+64
+00:02:41,419 --> 00:02:45,300
+Así que vamos a ver si se pasa esta cadena a 
+una
+
+65
+00:02:45,300 --> 00:02:46,599
+función que tiene que imprimir esta cadena 
+john o averiguar la longitud
+
+66
+00:02:46,599 --> 00:02:50,530
+de la cadena que hemos almacenado en la 
+matriz, entonces, ¿cómo sería
+
+67
+00:02:50,530 --> 00:02:54,699
+la función de saber que la cadena es sólo 
+hasta que el índice 3? A pesar de que no
+
+68
+00:02:54,699 --> 00:02:57,069
+hemos llenado nada en estos
+
+69
+00:02:57,069 --> 00:02:58,349
+índices, a las cuatro, cinco,
+
+70
+00:02:58,349 --> 00:03:00,120
+seis y siete, que habría
+
+71
+00:03:00,120 --> 00:03:02,219
+algún valor de basura allí,
+
+72
+00:03:02,219 --> 00:03:04,620
+así que o bien se
+
+73
+00:03:04,620 --> 00:03:06,729
+pasa esta información adicional o hacemos 
+otra cosa.
+
+74
+00:03:06,729 --> 00:03:10,399
+Para almacenar esta información que este es 
+el
+
+75
+00:03:10,399 --> 00:03:10,979
+final de la cadena en la matriz de
+
+76
+00:03:10,979 --> 00:03:13,319
+caracteres; esta es la parte utilizada de la
+
+77
+00:03:13,319 --> 00:03:15,339
+cuerda y esta es la parte no utilizada;
+
+78
+00:03:15,339 --> 00:03:17,239
+utilizamos el diseño simple y al final de
+
+79
+00:03:17,239 --> 00:03:22,159
+la cadena en la siguiente posición ponemos 
+un carácter nulo.
+
+80
+00:03:22,159 --> 00:03:25,199
+Un carácter nulo tiene un
+
+81
+00:03:25,199 --> 00:03:26,529
+valor ASCII cero, y podemos
+
+82
+00:03:26,529 --> 00:03:27,830
+poner un carácter nulo en
+
+83
+00:03:27,830 --> 00:03:30,789
+la posición cuatro en este ejemplo. Algo 
+como esto.
+
+84
+00:03:30,789 --> 00:03:34,509
+Dentro de las comillas simples ponemos,
+
+85
+00:03:34,509 --> 00:03:35,789
+una barra inclinada y el número cero.
+
+86
+00:03:35,789 --> 00:03:37,479
+Este es el carácter nulo.
+
+87
+00:03:37,479 --> 00:03:40,360
+Todas las funciones de manipulación de 
+cadenas en C
+
+88
+00:03:40,360 --> 00:03:43,339
+esperan que las cadenas se dará por 
+terminado nula.
+
+89
+00:03:43,339 --> 00:03:44,779
+Así que esta es una regla: una cadena en
+
+90
+00:03:44,779 --> 00:03:49,040
+C tiene que ser terminada por un carácter 
+nulo.
+
+91
+00:03:49,040 --> 00:03:52,309
+Y es por eso que necesitamos un
+
+92
+00:03:52,309 --> 00:03:54,499
+espacio adicional para almacenar este 
+carácter nulo.
+
+93
+00:03:54,499 --> 00:03:57,599
+Vamos a tratar de ver algo de código en
+
+94
+00:03:57,599 --> 00:03:59,209
+ejecución que nos ayudará a entender mejor 
+este concepto.
+
+95
+00:03:59,209 --> 00:04:00,810
+Lo que he hecho aquí es que he
+
+96
+00:04:00,810 --> 00:04:03,229
+tomado una matriz de caracteres de tamaño 
+cuatro,
+
+97
+00:04:03,229 --> 00:04:07,409
+y yo he llenado de los personajes pero
+
+98
+00:04:07,409 --> 00:04:09,159
+no he utilizado ningún espacio, en null por 
+terminado.
+
+99
+00:04:09,159 --> 00:04:13,239
+Y entonces yo estoy usando la función 
+printf. Este "% s" dice que
+
+100
+00:04:13,239 --> 00:04:14,119
+quiero imprimir una cadena y
+
+101
+00:04:14,119 --> 00:04:18,819
+luego estoy pasando esta matriz C.
+
+102
+00:04:18,819 --> 00:04:21,810
+Corramos este programa y ver qué pasa.
+
+103
+00:04:21,810 --> 00:04:22,800
+Como podemos ver, hay estos montón
+
+104
+00:04:22,800 --> 00:04:25,210
+de personajes que se están imprime
+
+105
+00:04:25,210 --> 00:04:27,870
+después de Juan, y esto está
+
+106
+00:04:27,870 --> 00:04:31,569
+sucediendo porque hemos roto el supuesto
+
+107
+00:04:31,569 --> 00:04:34,180
+de que para la función printf
+
+108
+00:04:34,180 --> 00:04:36,719
+que nuestra cadena se termine con un nulo.
+
+109
+00:04:36,719 --> 00:04:39,509
+Por eso es que este comportamiento no 
+definido está por venir.
+
+110
+00:04:39,509 --> 00:04:43,470
+Si cambiamos el tamaño de la matriz de
+
+111
+00:04:43,470 --> 00:04:46,319
+caracteres a cinco y ponemos una terminación 
+NULL. Algo parecido a esto
+
+112
+00:04:46,319 --> 00:04:47,790
+en el cuarto índice.
+
+113
+00:04:47,790 --> 00:04:49,790
+Entonces las cosas van a estar bien.
+
+114
+00:04:49,790 --> 00:04:52,939
+Ahora, incluso si cambiamos el
+
+115
+00:04:52,939 --> 00:04:54,929
+tamaño de la matriz a
+
+116
+00:04:54,929 --> 00:04:56,320
+veinte, la función printf imprimirá
+
+117
+00:04:56,320 --> 00:04:57,459
+hasta que encuentra un carácter nulo.
+
+118
+00:04:57,459 --> 00:05:00,810
+Por lo tanto, sólo imprime los cuatro 
+primeros caracteres de la matriz.
+
+119
+00:05:00,810 --> 00:05:04,229
+Y no es sólo la función de impresión. Hay un
+
+120
+00:05:04,229 --> 00:05:07,770
+montón de funciones. Ee tienen esta cadena 
+biblioteca ". h "que nos da un montón
+
+121
+00:05:07,770 --> 00:05:11,040
+de funciones de manipulación de cadenas.
+
+122
+00:05:11,040 --> 00:05:15,390
+Por lo tanto, todas estas funciones suponen 
+que
+
+123
+00:05:15,390 --> 00:05:16,379
+la función se termine con un nulo, por
+
+124
+00:05:16,379 --> 00:05:18,560
+lo que, este es un contrato que tenemos que 
+seguir.
+
+125
+00:05:18,560 --> 00:05:23,639
+Digamos que queremos utilizar la función
+
+126
+00:05:23,639 --> 00:05:24,770
+strlen, longitud de la cadena, para
+
+127
+00:05:24,770 --> 00:05:26,300
+averiguar la longitud de la cadena.
+
+128
+00:05:26,300 --> 00:05:28,919
+Voy a imprimir algo como esto. Vamos a 
+ejecutar
+
+129
+00:05:28,919 --> 00:05:30,239
+esto y ver.
+
+130
+00:05:30,239 --> 00:05:33,120
+Como se puede ver la salida
+
+131
+00:05:33,120 --> 00:05:34,709
+es "Longitud = 4", a pesar
+
+132
+00:05:34,709 --> 00:05:36,610
+de que la matriz es de tamaño 20.
+
+133
+00:05:36,610 --> 00:05:41,620
+Por lo tanto, la función de longitud de 
+serie también cuenta hasta que ve un 
+carácter nulo.
+
+134
+00:05:41,620 --> 00:05:46,899
+En nuestro programa en lugar de escribir
+
+135
+00:05:46,899 --> 00:05:48,219
+estos caracteres de forma individual en estas
+
+136
+00:05:48,219 --> 00:05:49,999
+posiciones que podríamos tener literales de 
+cadena utilizados.
+
+137
+00:05:49,999 --> 00:05:51,590
+Los literales de cadena son un grupo
+
+138
+00:05:51,590 --> 00:05:53,729
+de caracteres entre comillas dobles, por lo
+
+139
+00:05:53,729 --> 00:05:57,699
+que podría haber escrito algo como esto.
+
+140
+00:05:57,699 --> 00:06:00,539
+Y esto hubiera inicializado C como
+
+141
+00:06:00,539 --> 00:06:04,090
+esta cadena y la terminación nula
+
+142
+00:06:04,090 --> 00:06:06,830
+de cadena literal que está implícito.
+
+143
+00:06:06,830 --> 00:06:10,750
+Siempre se almacena con una terminación nula 
+en la memoria.
+
+144
+00:06:10,750 --> 00:06:15,550
+Recordemos que al declarar e inicializar una 
+matriz de
+
+145
+00:06:15,550 --> 00:06:19,120
+caracteres como este, esto tiene que suceder 
+en una línea. No podemos hacer algo como 
+esto que nos declaramos en una línea
+
+146
+00:06:19,120 --> 00:06:22,499
+y luego nos vamos de este y modificamos en 
+la siguiente línea. Esto no
+
+147
+00:06:22,499 --> 00:06:24,279
+será válida.
+
+148
+00:06:24,279 --> 00:06:27,419
+También podríamos evitar tener que escribir
+
+149
+00:06:27,419 --> 00:06:29,550
+esto aquí, y esto habría estado bien.
+
+150
+00:06:29,550 --> 00:06:33,029
+En este caso el tamaño de C será de cinco 
+unidades.
+
+151
+00:06:33,029 --> 00:06:36,830
+Cinco bytes, donde una almacena un byte de 
+un carácter.
+
+152
+00:06:36,830 --> 00:06:40,849
+Por lo tanto, sería suficiente para 
+almacenar la cadena 'JOHN'.
+
+153
+00:06:40,849 --> 00:06:46,629
+Así que si tratamos de imprimir el tamaño en 
+bytes de C
+
+154
+00:06:46,629 --> 00:06:50,999
+utilizando esta función sizeof a 
+continuación, el tamaño en bytes es de 
+cinco. Uno de los personajes se almacena en 
+un byte,
+
+155
+00:06:50,999 --> 00:06:53,169
+por lo que se ha asignado espacio para cinco
+
+156
+00:06:53,169 --> 00:06:55,019
+personajes, pero la duración es de cuatro 
+debido a
+
+157
+00:06:55,019 --> 00:06:58,319
+que el conector nulo no cuenta en la 
+longitud.
+
+158
+00:06:58,319 --> 00:07:01,879
+Si escribimos algo como [4] C
+
+159
+00:07:01,879 --> 00:07:04,529
+= esta cadena en particular literal,
+
+160
+00:07:04,529 --> 00:07:07,749
+con cuatro caracteres, esto nos dará
+
+161
+00:07:07,749 --> 00:07:09,229
+error de compilación, porque el compilador
+
+162
+00:07:09,229 --> 00:07:10,640
+obligará a esta matriz particular, para
+
+163
+00:07:10,640 --> 00:07:13,009
+tener un tamaño mínimo de cinco.
+
+164
+00:07:13,009 --> 00:07:16,170
+Hay otra sintaxis de inicialización. Podemos 
+poner todos estos
+
+165
+00:07:16,170 --> 00:07:18,319
+personajes como una lista
+
+166
+00:07:18,319 --> 00:07:21,080
+separada por comas dentro
+
+167
+00:07:21,080 --> 00:07:22,879
+de estos apoyos, pero
+
+168
+00:07:22,879 --> 00:07:26,509
+en este caso la
+
+169
+00:07:26,509 --> 00:07:29,210
+terminación nula no estará implícito. Vamos 
+a tener que hacerlo de forma explícita y el 
+tamaño de
+
+170
+00:07:29,210 --> 00:07:32,659
+la matriz tiene que ser mayor o igual que el 
+número de
+
+171
+00:07:32,659 --> 00:07:35,639
+caracteres que aquí lo que debe ser mayor o 
+igual a cinco.
+
+172
+00:07:35,639 --> 00:07:38,889
+Bueno por lo que estas son algunas de las 
+formas de inicializar las matrices de 
+caracteres.
+
+173
+00:07:38,889 --> 00:07:42,279
+La siguiente cosa que necesitamos entender 
+es arrays y
+
+174
+00:07:42,279 --> 00:07:46,859
+punteros de diferentes tipos, que se 
+utilizan de manera similar.
+
+175
+00:07:46,859 --> 00:07:48,600
+Ahora, ¿qué significa realmente?
+
+176
+00:07:48,600 --> 00:07:52,409
+Digamos que declaramos un array de 
+caracteres C1 del tamaño
+
+177
+00:07:52,409 --> 00:07:54,970
+6, e inicializar con esta cadena literal, y 
+digamos que
+
+178
+00:07:54,970 --> 00:07:57,960
+esto es la forma en que se almacena en la 
+memoria.
+
+179
+00:07:57,960 --> 00:08:01,330
+Matriz se almacena en un bloque contiguo de 
+memoria. Así que digamos que el primer 
+carácter se
+
+180
+00:08:01,330 --> 00:08:03,840
+almacena en la dirección 200, un carácter es
+
+181
+00:08:03,840 --> 00:08:07,210
+del tamaño de un byte, por lo que
+
+182
+00:08:07,210 --> 00:08:08,259
+el siguiente carácter será en la dirección 
+201
+
+183
+00:08:08,259 --> 00:08:11,009
+y la próxima será en 202 y así sucesivamente.
+
+184
+00:08:11,009 --> 00:08:14,849
+Ahora, C1 es el nombre de la variable para 
+toda esta matriz.
+
+185
+00:08:14,849 --> 00:08:16,719
+Ahora lo que voy a hacer es, voy a
+
+186
+00:08:16,719 --> 00:08:20,840
+declarar una variable que es un puntero a 
+carácter. Vamos a nombrar
+
+187
+00:08:20,840 --> 00:08:25,110
+este C [2]. Por lo tanto, digamos que 
+tenemos esta variable C2 en algún lugar de 
+la memoria.
+
+188
+00:08:25,110 --> 00:08:28,999
+Una variable de puntero en una arquitectura 
+típica se almacena
+
+189
+00:08:28,999 --> 00:08:32,139
+en cuatro bytes Así que esta variable 
+también tendrá una
+
+190
+00:08:32,139 --> 00:08:36,459
+dirección en, digamos esta variable está en 
+la dirección cuatrocientos. Estoy recogiendo 
+estos números, por ejemplo, el amor. Ahora, 
+lo que podemos hacer es que podemos escribir
+
+191
+00:08:36,459 --> 00:08:40,680
+una declaración como esta C2 a C1 es igual
+
+192
+00:08:40,680 --> 00:08:42,880
+a pesar de que no se C1 es una
+
+193
+00:08:42,880 --> 00:08:45,959
+matriz de caracteres, es un nombre de 
+variable de
+
+194
+00:08:45,959 --> 00:08:49,170
+una matriz de caracteres y C2 es variable, 
+que es puntero a carácter. Esta expresión
+
+195
+00:08:49,170 --> 00:08:50,910
+particular es válido.
+
+196
+00:08:50,910 --> 00:08:53,060
+Sólo mediante el nombre de la
+
+197
+00:08:53,060 --> 00:08:56,250
+matriz, en realidad devuelve la dirección
+
+198
+00:08:56,250 --> 00:08:59,250
+del primer elemento de la matriz. Por lo 
+tanto, lo que esta expresión, lo que esta 
+declaración va
+
+199
+00:08:59,250 --> 00:09:03,570
+a hacer es, que se complete la dirección de 
+doscientas en C2.
+
+200
+00:09:03,570 --> 00:09:05,610
+Por lo tanto, C2 ahora apunta
+
+201
+00:09:05,610 --> 00:09:09,170
+al primer elemento de la matriz. Ahora, 
+podemos utilizar esta
+
+202
+00:09:09,170 --> 00:09:12,690
+variable de C2, que
+
+203
+00:09:12,690 --> 00:09:14,430
+es un puntero de
+
+204
+00:09:14,430 --> 00:09:15,889
+caracteres igual C1, para
+
+205
+00:09:15,889 --> 00:09:19,300
+leer y escribir en la matriz. Por lo tanto, 
+si escribo
+
+206
+00:09:19,300 --> 00:09:21,020
+algo así como la impresión
+
+207
+00:09:21,020 --> 00:09:24,400
+C2 [i] digamos que queremos
+
+208
+00:09:24,400 --> 00:09:26,170
+imprimir C2 [1], la salida
+
+209
+00:09:26,170 --> 00:09:28,710
+será 'e' y que incluso puede modificar la 
+matriz.
+
+210
+00:09:28,710 --> 00:09:33,960
+Digamos que queremos modificar el carácter 
+del índice 0th a 'A'.
+
+211
+00:09:33,960 --> 00:09:36,360
+Por lo tanto, la cadena se
+
+212
+00:09:36,360 --> 00:09:40,050
+modifica y se convertirá en esto. Cuando 
+escribimos C2 [i] para
+
+213
+00:09:40,050 --> 00:09:43,020
+cualquier posición i, no es
+
+214
+00:09:43,020 --> 00:09:44,680
+más que * (C2 + i).
+
+215
+00:09:44,680 --> 00:09:46,910
+Así, C2 es la dirección base (C2 +
+
+216
+00:09:46,910 --> 00:09:51,300
+i) le llevará a la dirección del elemento 
+"i". Por lo tanto, en este caso, digamos
+
+217
+00:09:51,300 --> 00:09:53,959
+C2 + 2 será 202 y si
+
+218
+00:09:53,959 --> 00:09:57,299
+ponemos este operador asterisco, estamos 
+básicamente la
+
+219
+00:09:57,299 --> 00:10:01,649
+eliminación de referencias y averiguar el 
+valor. Por lo tanto, estos
+
+220
+00:10:01,649 --> 00:10:02,840
+dos sintaxis sintaxis son suplentes. Y, aun 
+si se
+
+221
+00:10:02,840 --> 00:10:04,870
+trata de un nombre
+
+222
+00:10:04,870 --> 00:10:06,120
+de matriz, podemos escribir
+
+223
+00:10:06,120 --> 00:10:09,690
+estos dos como sustitutos entre sí.
+
+224
+00:10:09,690 --> 00:10:12,290
+Por lo tanto, todo esto era la
+
+225
+00:10:12,290 --> 00:10:14,370
+similitud en la forma en que realmente 
+usamos.
+
+226
+00:10:14,370 --> 00:10:15,700
+Utilizar matrices
+
+227
+00:10:15,700 --> 00:10:17,440
+y punteros
+
+228
+00:10:17,440 --> 00:10:22,680
+para leer Veamos ahora las diferencias. No 
+podemos modificar una matriz
+
+229
+00:10:22,680 --> 00:10:25,100
+con una sentencia como esta.
+
+230
+00:10:25,100 --> 00:10:28,030
+C2 = C1 es válido, pero
+
+231
+00:10:28,030 --> 00:10:30,760
+C1 = C2 no es válido.
+
+232
+00:10:30,760 --> 00:10:33,380
+No tiene sentido, esto le dará error de 
+compilación.
+
+233
+00:10:33,380 --> 00:10:35,429
+Ni siquiera podemos decir C1
+
+234
+00:10:35,429 --> 00:10:36,850
+es igual a C1 más uno.
+
+235
+00:10:36,850 --> 00:10:39,200
+No podemos aumentar o
+
+236
+00:10:39,200 --> 00:10:40,700
+disminuir esta variable C1.
+
+237
+00:10:40,700 --> 00:10:44,040
+Podemos hacerlo para C2, que es una variable 
+puntero. Podemos decir C2 ++.
+
+238
+00:10:44,040 --> 00:10:48,340
+Por lo tanto, C2 ahora apunta hacia el 
+siguiente elemento. Con esta declaración aquí
+
+239
+00:10:48,340 --> 00:10:50,460
+todo lo que sucederá
+
+240
+00:10:50,460 --> 00:10:54,720
+es C2 se convertirá en 201. Así, en lugar de 
+señalar aquí que está
+
+241
+00:10:54,720 --> 00:10:58,560
+ahora apuntando a este elemento en 
+particular 'e'. Para recorrer una matriz 
+corremos un bucle
+
+242
+00:10:58,560 --> 00:11:00,390
+y se utiliza una variable local, vamos
+
+243
+00:11:00,390 --> 00:11:03,980
+a decir que ay se incrementará en el bucle. 
+Si tenemos una variable puntero
+
+244
+00:11:03,980 --> 00:11:07,540
+que sólo podemos seguir incrementando
+
+245
+00:11:07,540 --> 00:11:09,240
+el puntero y podemos recorrer la lista.
+
+246
+00:11:09,240 --> 00:11:13,000
+Podemos atravesar la matriz, vamos a seguir 
+haciendo esto C2 ++.
+
+247
+00:11:13,000 --> 00:11:16,630
+Por lo tanto, hay que entender que tenemos 
+una matriz y en el que tenemos un puntero.
+
+248
+00:11:16,630 --> 00:11:17,750
+Lo que podemos hacer
+
+249
+00:11:17,750 --> 00:11:20,040
+con los que uno!
+
+250
+00:11:20,040 --> 00:11:23,760
+Y ahora, lo siguiente que tenemos
+
+251
+00:11:23,760 --> 00:11:25,460
+que entender es que las matrices
+
+252
+00:11:25,460 --> 00:11:28,100
+se pasan siempre a las funciones por 
+referencia.
+
+253
+00:11:28,100 --> 00:11:32,090
+Ahora bien, cuando se pasa matrices de 
+funciones que sólo
+
+254
+00:11:32,090 --> 00:11:36,790
+pasa la dirección base de la matriz en una 
+variable
+
+255
+00:11:36,790 --> 00:11:37,630
+de puntero, y no pasamos una copia entera de 
+la matriz.
+
+256
+00:11:37,630 --> 00:11:40,029
+El compilador no le permite hacer eso.
+
+257
+00:11:40,029 --> 00:11:43,320
+Hemos hablado de esto en detalle en nuestros
+
+258
+00:11:43,320 --> 00:11:45,450
+"matrices como argumentos de la función" 
+lecciones anteriores.
+
+259
+00:11:45,450 --> 00:11:49,580
+Vamos a tratar de mirar a través de un 
+código y tratar de entender esto mejor.
+
+260
+00:11:49,580 --> 00:11:53,560
+En mi código He declarado una matriz de 
+caracteres de tamaño 20, y
+
+261
+00:11:53,560 --> 00:11:58,170
+he guardado una cuerda de longitud y cinco 
+en este array de caracteres.
+
+262
+00:11:58,170 --> 00:12:02,119
+La terminación nula es implícita si estamos 
+usando cadena literal.
+
+263
+00:12:02,119 --> 00:12:02,990
+Ahora quiero imprimir esta cadena,
+
+264
+00:12:02,990 --> 00:12:04,580
+pero no quiero utilizar la
+
+265
+00:12:04,580 --> 00:12:07,700
+función printf de la biblioteca.
+
+266
+00:12:07,700 --> 00:12:08,759
+Quiero escribir mi propia impresión función 
+que
+
+267
+00:12:08,759 --> 00:12:13,330
+quiero pasar esta matriz a la función.
+
+268
+00:12:13,330 --> 00:12:14,910
+Y esta función debe imprimir la
+
+269
+00:12:14,910 --> 00:12:17,830
+parte cadena de la matriz de caracteres.
+
+270
+00:12:17,830 --> 00:12:19,690
+El argumento de la función, hemos
+
+271
+00:12:19,690 --> 00:12:23,390
+hablado de esto antes, puede ser
+
+272
+00:12:23,390 --> 00:12:25,500
+algo como esto para decir que
+
+273
+00:12:25,500 --> 00:12:26,850
+estamos recibiendo una gran variedad aquí,
+
+274
+00:12:26,850 --> 00:12:30,500
+pero en realidad el compilador interpreta 
+esto como esto.
+
+275
+00:12:30,500 --> 00:12:34,610
+Por lo tanto, las fuerzas del compilador
+
+276
+00:12:34,610 --> 00:12:36,610
+que sólo la dirección de la matriz
+
+277
+00:12:36,610 --> 00:12:37,950
+de caracteres o la dirección de cualquier
+
+278
+00:12:37,950 --> 00:12:39,750
+matriz de ser recibido como argumento de
+
+279
+00:12:39,750 --> 00:12:44,090
+la función, ya que las matrices son
+
+280
+00:12:44,090 --> 00:12:45,030
+de tamaño grande por lo que es
+
+281
+00:12:45,030 --> 00:12:47,460
+ineficaz para crear una copia de la misma 
+matriz para cada función.
+
+282
+00:12:47,460 --> 00:12:49,770
+OK, así que vamos a escribir la lógica ahora.
+
+283
+00:12:49,770 --> 00:12:53,650
+Ahora bien, esta función de impresión no 
+tiene ninguna
+
+284
+00:12:53,650 --> 00:12:55,260
+idea de que este arreglo particular es de 
+tamaño 20.
+
+285
+00:12:55,260 --> 00:12:57,030
+Sólo se conoce la dirección base.
+
+286
+00:12:57,030 --> 00:12:59,050
+Por lo tanto, lo que podemos hacer
+
+287
+00:12:59,050 --> 00:13:02,430
+es que podemos tener una variable i,
+
+288
+00:13:02,430 --> 00:13:03,340
+inicializar a cero y podemos ver algo como 
+esto.
+
+289
+00:13:03,340 --> 00:13:06,760
+Mientras que C [i] no
+
+290
+00:13:06,760 --> 00:13:09,070
+es igual a null carácter,
+
+291
+00:13:09,070 --> 00:13:11,900
+podemos imprimir el carácter C [i].
+
+292
+00:13:11,900 --> 00:13:14,490
+Y a continuación, vamos a incrementar i.
+
+293
+00:13:14,490 --> 00:13:16,100
+Y cuando nos encontramos con un
+
+294
+00:13:16,100 --> 00:13:18,990
+carácter nulo, podemos salir de este
+
+295
+00:13:18,990 --> 00:13:20,710
+bucle e imprimir un fin de línea.
+
+296
+00:13:20,710 --> 00:13:21,680
+Una vez más esta función de impresión no sabe
+
+297
+00:13:21,680 --> 00:13:25,360
+que esta matriz de caracteres es de tamaño 
+20. Sólo se conoce
+
+298
+00:13:25,360 --> 00:13:26,890
+la dirección base.
+
+299
+00:13:26,890 --> 00:13:28,140
+Y por eso en la
+
+300
+00:13:28,140 --> 00:13:29,940
+función printf cuando no estábamos
+
+301
+00:13:29,940 --> 00:13:32,950
+nulo final una matriz, estábamos
+
+302
+00:13:32,950 --> 00:13:35,009
+imprimiendo todo el valor de
+
+303
+00:13:35,009 --> 00:13:36,890
+la basura, incluso después de finalizada la 
+matriz.
+
+304
+00:13:36,890 --> 00:13:39,930
+Porque, hasta que consigamos un carácter 
+nulo,
+
+305
+00:13:39,930 --> 00:13:43,040
+no sabemos cuándo parar y seguir adelante
+
+306
+00:13:43,040 --> 00:13:44,680
+en las posiciones de memoria no deseados.
+
+307
+00:13:44,680 --> 00:13:48,820
+Ahora, este código debería funcionar! Sí, 
+esto está muy bien!
+
+308
+00:13:48,820 --> 00:13:53,050
+En mi código aquí, yo estoy usando% c aquí,
+
+309
+00:13:53,050 --> 00:13:54,150
+para decir que queremos imprimir carácter y 
+C [i],
+
+310
+00:13:54,150 --> 00:13:56,570
+también podemos escribir "y (C + i)" como 
+sustituto
+
+311
+00:13:56,570 --> 00:14:01,880
+de C [i] y que también significará ¡lo mismo!
+
+312
+00:14:01,880 --> 00:14:03,570
+A veces se ve este tipo de
+
+313
+00:14:03,570 --> 00:14:06,740
+sintaxis que hemos hablado anteriormente, 
+ambas sintaxis,
+
+314
+00:14:06,740 --> 00:14:09,750
+* (C + i) y C [i] es válida.
+
+315
+00:14:09,750 --> 00:14:13,770
+¡Ellos son lo mismo! Hay una cosa más en 
+nuestro código que podemos hacer!
+
+316
+00:14:13,770 --> 00:14:14,590
+Es posible que
+
+317
+00:14:14,590 --> 00:14:16,279
+no eligió tener
+
+318
+00:14:16,279 --> 00:14:17,560
+esta variable particular, i.
+
+319
+00:14:17,560 --> 00:14:21,520
+simplemente podríamos decir que, si bien * C
+
+320
+00:14:21,520 --> 00:14:24,060
+no es igual a null, imprimir * C
+
+321
+00:14:24,060 --> 00:14:27,780
+y después de la subasta C en sí.
+
+322
+00:14:27,780 --> 00:14:29,760
+Y, este código también funcionará.
+
+323
+00:14:29,760 --> 00:14:33,670
+¿Por qué este código funcionará? Lo dejo 
+como ejercicio para que piensen.
+
+324
+00:14:33,670 --> 00:14:36,000
+En las próximas lecciones, vamos a 
+implementar
+
+325
+00:14:36,000 --> 00:14:37,650
+más funciones para la manipulación de 
+cadenas.
+
+326
+00:14:37,650 --> 00:14:39,020
+¡Esto es todo por ahora! ¡Gracias por ver!
+
