@@ -78,7 +78,7 @@ stored. Sometimes we also show the
 memory
 
 00:01:14.630 --> 00:01:18.590
-horizontally something like this from 
+horizontally. Something like this from 
 left to right.
 
 00:01:18.590 --> 00:01:21.979
@@ -126,7 +126,7 @@ then the value and P would be 300 so
 this statement will print
 
 00:02:03.689 --> 00:02:07.680
-300 and if we dereference P
+300. And if we dereference P
 
 00:02:07.680 --> 00:02:12.980
 and try to bring the address stored in, try 
@@ -137,7 +137,7 @@ in this location P in the value would
 be
 
 00:02:16.690 --> 00:02:21.150
-Five this is fine. Nut we also know that
+Five. This is fine. Now we also know that
 we can do
 
 00:02:21.150 --> 00:02:24.430
@@ -153,10 +153,10 @@ the address of the next integer.
 
 00:02:32.920 --> 00:02:37.950
 And because integer is four bytes so 
-now P would be 304
+now P would be 304.
 
 00:02:37.950 --> 00:02:43.120
-so if I want to print p now then the 
+So if I want to print p now then the 
 output should be 304, but
 
 00:02:43.120 --> 00:02:46.319
@@ -186,7 +186,7 @@ writing this same integer array in the
 right here
 
 00:03:08.099 --> 00:03:13.459
-which is located at address 200 if I declare a pointer to integer
+which is located at address 200. If I declare a pointer to integer
 
 00:03:13.459 --> 00:03:18.579
 P and store the address of the first
