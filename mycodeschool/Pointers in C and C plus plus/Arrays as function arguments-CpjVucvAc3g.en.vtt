@@ -235,10 +235,10 @@ and finally we will write a
 print statement.
 
 00:02:48.949 --> 00:02:50.889
-Something like this.
+Something like this
 
 00:02:50.889 --> 00:02:53.799
-To print the sum of all the elements in the array.
+to print the sum of all the elements in the array.
 
 00:02:53.799 --> 00:02:55.519
 Let us now run this program and
@@ -609,7 +609,7 @@ but actually this doesn't happen.
 When compiler sees
 
 00:07:23.129 --> 00:07:26.249
-and array as function argument
+an array as function argument
 
 00:07:26.249 --> 00:07:28.349
 it does not copy the whole array.
@@ -987,10 +987,10 @@ OK let us now run this and see what
 happens.
 
 00:12:03.600 --> 00:12:06.420
-Oops! I forgot to call the function double
+Oops! I forgot to call the function double.
 
 00:12:06.420 --> 00:12:09.270a
-and I must make a call before I print
+And I must make a call before I print
 the elements.
 
 00:12:09.270 --> 00:12:11.030
