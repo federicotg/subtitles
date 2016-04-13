@@ -396,7 +396,7 @@ And it's not just the print function.
 There are a bunch of
 
 00:05:04.229 --> 00:05:07.770
-functions. Ee have this library "string.h"
+functions. We have this library "string.h"
 
 00:05:07.770 --> 00:05:11.040
 that gives us a bunch of functions
@@ -801,7 +801,7 @@ element 'e'. To traverse an array
 we run a loop and we use
 
 00:11:00.390 --> 00:11:03.980
-a local variable, let's say I and
+a local variable, let's say 'i' and
 increment it in the loop. If we have a
 
 00:11:03.980 --> 00:11:07.540
