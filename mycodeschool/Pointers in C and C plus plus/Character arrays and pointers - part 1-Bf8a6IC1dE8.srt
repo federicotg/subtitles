@@ -182,7 +182,7 @@ necesitamos espacio para un carácter extra?
 
 42
 00:01:44,170 --> 00:01:45,540
-declaramos un array de
+declaramos una matriz de
 
 43
 00:01:45,540 --> 00:01:47,730
