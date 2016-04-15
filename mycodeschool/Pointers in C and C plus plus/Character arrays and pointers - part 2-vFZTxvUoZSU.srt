@@ -21,7 +21,7 @@ básicos.
 
 4
 00:00:13,259 --> 00:00:17,359
-Siempre que estamos trabajando con los 
+Siempre que estamos trabajando con 
 punteros que es muy
 
 5
@@ -49,11 +49,11 @@ de una cadena y ver lo que
 
 10
 00:00:34,280 --> 00:00:37,440
-pasa cuando en la memoria y también
+pasa en la memoria y también
 
 11
 00:00:37,440 --> 00:00:42,120
-vamos a mirar en el concepto de cadena 
+vamos a mirar el concepto de cadenas 
 constantes y punteros constantes. Así que 
 esto es donde habíamos dejado en nuestra 
 lección anterior.
@@ -65,27 +65,27 @@ imprimir los caracteres de una cadena.
 
 13
 00:00:46,960 --> 00:00:50,190
-En el método principal que tenemos una 
+En el método principal tenemos una 
 matriz de caracteres de tamaño
 
 14
 00:00:50,190 --> 00:00:53,579
-veinte, pero hemos almacenado una cuerda de 
-longitud y cinco en ella.
+veinte, pero hemos almacenado una cadena de 
+longitud cinco en ella.
 
 15
 00:00:53,579 --> 00:00:56,920
-Hemos utilizado un cierre que
+Hemos utilizado un cadena literal
 
 16
 00:00:56,920 --> 00:01:00,550
-se nula cadena literal es implícita. Hemos 
+cuyo carácter nulo es implícito. Hemos 
 hablado de esto antes.
 
 17
 00:01:00,550 --> 00:01:04,659
 Así que demos un paso a través de este 
-código y ver cómo está funcionando.
+código y veamos cómo está funcionando.
 
 18
 00:01:04,659 --> 00:01:08,680
@@ -118,23 +118,20 @@ Y la pila es donde está toda la
 
 24
 00:01:30,960 --> 00:01:32,540
-información con respecto a la función de 
-establecimiento
+información con respecto al llamado a función
 
 25
 00:01:32,540 --> 00:01:36,229
-de llamada y todas las variables locales 
-van. Cada vez que se introduce un programa. 
+y todas las variables locales.
 Siempre que estamos ejecutando un programa 
-que siempre
 
 26
 00:01:36,229 --> 00:01:38,040
-debe visualizar lo que ocurre con la variable
+se debe visualizar lo que ocurre con las variables,
 
 27
 00:01:38,040 --> 00:01:43,180
-de dónde o qué datos va a donde
+de dónde o qué datos va a donde,
 
 28
 00:01:43,180 --> 00:01:47,200
@@ -153,11 +150,11 @@ ejecutar. En primer lugar se invocará
 
 31
 00:01:54,180 --> 00:01:57,259
-la principal función principal método.
+la función principal.
 
 32
 00:01:57,259 --> 00:02:02,500
-Siempre que una función se llama una cierta 
+Siempre que una función se llama, una cierta 
 cantidad de memoria
 
 33
@@ -175,7 +172,7 @@ Así que digamos que este marco
 
 36
 00:02:12,250 --> 00:02:15,270
-de pila de dirección de 100
+de pila que está entre las direcciones 100
 
 37
 00:02:15,270 --> 00:02:18,590
@@ -183,13 +180,13 @@ a 150 se asigna a la
 
 38
 00:02:18,590 --> 00:02:21,920
-pila principal función es un bloque contiguo 
-de memoria. Así que digamos en este apilar 
+pila función principal. Es un bloque contiguo 
+de memoria. Así que digamos la pila crece 
 los
 
 39
 00:02:21,920 --> 00:02:26,360
-aumentos de memoria de abajo hacia arriba. 
+en memoria de abajo hacia arriba. 
 Todas las variables locales de una función 
 entran en el marco
 
@@ -200,8 +197,8 @@ se
 
 41
 00:02:30,020 --> 00:02:34,230
-declara un array de caracteres de 20 bytes 
-desde el marco
+declara una matriz de caracteres, 20 bytes 
+en el marco
 
 42
 00:02:34,230 --> 00:02:36,349
@@ -225,7 +222,7 @@ caracteres de tamaño 20.
 
 46
 00:02:46,970 --> 00:02:51,670
-Aparte de las variables locales que puede 
+Aparte de las variables locales puede 
 haber algo más de información en el marco
 
 47
@@ -250,7 +247,7 @@ particular
 
 51
 00:03:03,129 --> 00:03:08,060
-se detuvo en esa línea en particular y la
+se detiene en esa línea en particular y la
 
 52
 00:03:08,060 --> 00:03:12,230
@@ -267,11 +264,11 @@ llamada de impresión se asignará como marco
 00:03:17,360 --> 00:03:21,110
 de la pila en la parte superior de la 
 función principal. Sea cual sea la función 
-es en la parte
+que está en la parte
 
 55
 00:03:21,110 --> 00:03:25,150
-superior de la pila en cualquier punto está 
+superior de la pila, es la que se está 
 ejecutando. Es decir que habrá que esperar 
 para esta función hasta el final.
 
@@ -282,7 +279,7 @@ de
 
 57
 00:03:29,640 --> 00:03:32,769
-150 a la 170 Main está en pausa y
+150 a la 170. La función principal está en pausa y
 
 58
 00:03:32,769 --> 00:03:37,370
@@ -316,22 +313,22 @@ particular.
 
 64
 00:03:54,170 --> 00:03:57,200
-Por lo que esta en C principal no
+Por lo que esta C principal no
 
 65
 00:03:57,200 --> 00:04:01,700
 es en realidad la misma C en la impresión. 
-El C en la impresión principal y C son 
+C en la impresión principal y C son 
 diferentes.
 
 66
 00:04:01,700 --> 00:04:06,390
-Ellos tienen diferentes alcances que podría 
-haber llamaron a esta variable de un
+Ellos tienen diferentes alcances y podría 
+haber llamado a esta variable 
 
 67
 00:04:06,390 --> 00:04:11,439
-particular o de PTR o lo que sea, pero todo 
+PTR o lo que sea, pero todo 
 lo que sucede
 
 68
@@ -404,28 +401,28 @@ El sexto carácter es un carácter nulo y los
 82
 00:05:02,960 --> 00:05:08,130
 primeros cinco caracteres son los caracteres 
-de la palabra hola. Y ahora tenemos este 
+de la palabra hello. Y ahora tenemos este 
 otro chico que es
 
 83
 00:05:08,130 --> 00:05:11,740
-c impresión de que es un puntero de
+la c de impresión de que es un puntero de
 
 84
 00:05:11,740 --> 00:05:16,130
 caracteres en la dirección 154 que almacena 
-frente
+la dirección
 
 85
 00:05:16,130 --> 00:05:21,490
-a 100 para que apunte al primer elemento de 
-la matriz. Ahora vamos a volver a nuestro 
+100 para que apunte al primer elemento de 
+la matriz. Ahora vamos a volver a nuestra 
 ejecución
 
 86
 00:05:21,490 --> 00:05:25,289
-del programa digamos que estamos aquí al 
-principio. Voy a señalar la afirmación que 
+del programa. Sigamos que estamos aquí al 
+principio. Voy a señalar la instrucción que 
 se está ejecutando
 
 87
@@ -435,7 +432,7 @@ dos chicos. Este tipo es C, pero este chico
 
 88
 00:05:30,259 --> 00:05:30,660
-es un array local de principal y
+es una matriz local de principal y
 
 89
 00:05:30,660 --> 00:05:36,120
@@ -453,7 +450,7 @@ diciendo es
 
 92
 00:05:42,240 --> 00:05:43,070
-que mientras que C * no es igual al carácter 
+que mientras que *C no es igual al carácter 
 nulo.
 
 93
@@ -473,7 +470,7 @@ dirección base
 
 96
 00:05:54,400 --> 00:05:58,810
-C * H es por lo que esta condición no es 
+*C es 'H' por lo que esta condición no es 
 cierta.
 
 97
@@ -482,7 +479,7 @@ Vamos a ir a esta línea printf
 
 98
 00:06:02,509 --> 00:06:06,819
-que simplemente imprimir * C que es H. Vamos 
+que simplemente imprime que *C que es 'H'. Vamos 
 a escribir abajo de la salida de aquí.
 
 99
@@ -491,7 +488,7 @@ Así que hemos impreso H hasta el momento y
 
 100
 00:06:12,910 --> 00:06:16,380
-luego diremos c ++; si entendemos la 
+luego diremos c++; si entendemos la 
 aritmética de
 
 101
@@ -526,13 +523,13 @@ que ahora
 
 107
 00:06:38,240 --> 00:06:42,220
-los puntos C en el segundo carácter de la 
+C apunta al segundo carácter de la 
 matriz y una
 
 108
 00:06:42,220 --> 00:06:46,270
 vez más llegamos a donde nos encontramos con 
-esta condición en el bucle while. * C es E 
+esta condición en el bucle while. *C es 'E' 
 aquí no es nulo, una
 
 109
@@ -555,8 +552,8 @@ particulares es carácter
 
 113
 00:07:02,870 --> 00:07:05,890
-nulo por lo que el bucle no se ejecutará 
-vamos
+nulo por lo que el bucle no se ejecutará. 
+Vamos
 
 114
 00:07:05,890 --> 00:07:09,920
@@ -579,12 +576,12 @@ pila. Será cancela la asignación y
 
 118
 00:07:20,530 --> 00:07:24,130
-ahora principal se reanudará y acabado. Así 
-que con punteros que siempre debe saber
+ahora principal se reanudará y terminara. Así 
+que con punteros siempre debe saber
 
 119
 00:07:24,130 --> 00:07:27,350
-lo que está pasando en donde en la memoria.
+lo que está pasando con la memoria.
 
 120
 00:07:27,350 --> 00:07:31,040
@@ -605,7 +602,7 @@ una matriz de caracteres de tamaño 20
 
 124
 00:07:40,560 --> 00:07:44,050
-Voy a crear un puntero personaje llamado
+Voy a crear un puntero a caracter llamado
 
 125
 00:07:44,050 --> 00:07:47,800
@@ -613,7 +610,7 @@ C y los comparo contra un literal
 
 126
 00:07:47,800 --> 00:07:52,570
-de cadena en un comunicado de esta
+de cadena en un sentencia de esta
 
 127
 00:07:52,570 --> 00:07:56,350
@@ -661,7 +658,7 @@ pasar una cadena literal a una función, a
 136
 00:08:25,360 --> 00:08:28,570
 continuación, en estos casos, la cadena se 
-almacenan
+almacena
 
 137
 00:08:28,570 --> 00:08:32,600
@@ -670,7 +667,7 @@ compilación
 
 138
 00:08:32,600 --> 00:08:34,420
-y muy probablemente lo hará se almacena en
+y muy probablemente se almacena en
 
 139
 00:08:34,420 --> 00:08:38,820
@@ -694,7 +691,7 @@ error.
 
 143
 00:08:46,840 --> 00:08:50,390
-Esto causará un accidente. Aceptar volviendo 
+Esto causará un error. Volviendo 
 a tener
 
 144
@@ -709,7 +706,7 @@ una
 
 146
 00:08:58,500 --> 00:09:01,510
-función que recibe funcionar en un puntero 
+función la recibe en un puntero 
 de carácter.
 
 147
@@ -724,13 +721,13 @@ esto: en primer
 
 149
 00:09:12,280 --> 00:09:15,700
-lugar para cambiar el primer carácter de "A" 
+lugar cambio el primer carácter a "A" 
 y luego estamos
 
 150
 00:09:15,700 --> 00:09:19,950
 imprimiendo los caracteres y como se puede 
-ver que es posible hacer asi que. Ahora, a 
+ver que es posible hacerlo. Ahora, a 
 veces es posible que queramos una función
 
 151
@@ -740,7 +737,7 @@ sólo para leer una cadena y no escribir nada.
 152
 00:09:23,110 --> 00:09:26,980
 Para forzar este tipo de comportamiento que 
-podemos cambiar nuestro argumento de puntero 
+podemos cambiar nuestro argumento a puntero 
 de
 
 153
@@ -764,14 +761,14 @@ Este código funciona bien, los punteros son
 
 157
 00:09:44,050 --> 00:09:47,580
-realmente complicado e incluso los 
+realmente complicados e incluso los 
 programadores más
 
 158
 00:09:47,580 --> 00:09:51,110
 experimentados escriben código erróneo 
 cuando se está utilizando punteros. Le 
-recomiendo que ensuciarse las manos
+recomiendo ensuciarse las manos
 
 159
 00:09:51,110 --> 00:09:54,810
