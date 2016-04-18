@@ -49,7 +49,7 @@ sólo para almacenar la dirección.
 
 10
 00:00:35,490 --> 00:00:40,160
-Podemos eliminar la referencia y obtener el
+Podemos desreferenciar y obtener el
 
 11
 00:00:40,160 --> 00:00:40,560
@@ -72,22 +72,22 @@ en otras palabras puede apuntar a funciones.
 
 15
 00:00:48,640 --> 00:00:52,520
-Y podemos usar un puntero a funcionar
+Y podemos usar un puntero a función
 
 16
 00:00:52,520 --> 00:00:56,500
-para eliminar la referencia y ejecutar la 
+para desreferenciar y ejecutar la 
 función. Y esto es realmente interesante.
 
 17
 00:00:56,500 --> 00:01:00,250
-Algunas preguntas básicas serían pop-up. Lo 
-que realmente sería
+Algunas preguntas básicas. 
+¿Qué sería
 
 18
 00:01:00,250 --> 00:01:05,030
 la dirección de una función? E incluso si 
-podemos tener punteros a funciones, cuáles 
+podemos tener punteros a funciones, ¿cuáles 
 son
 
 19
@@ -101,13 +101,13 @@ Hay casos de uso muy interesantes de
 
 21
 00:01:12,670 --> 00:01:13,450
-los punteros de función que hablaremos más 
+punteros a función que hablaremos más 
 adelante.
 
 22
 00:01:13,450 --> 00:01:18,240
 Primero vamos a tratar de entender la lógica 
-de la base aquí. Una vez más, he
+base aquí. Una vez más, he
 
 23
 00:01:18,240 --> 00:01:19,530
@@ -148,17 +148,17 @@ lenguaje
 
 31
 00:01:43,320 --> 00:01:46,720
-de alto nivel como C o C
+de alto nivel como C o C++,
 
 32
 00:01:46,720 --> 00:01:50,400
-++, pero en su nivel más bajo
+pero en su nivel más bajo
 
 33
 00:01:50,400 --> 00:01:55,810
 en su arquitectura informática entiende y 
 ejecuta solamente binario. Cualquier 
-instrucción que ha de ser ejecutado por
+instrucción que ha de ser ejecutada por
 
 34
 00:01:55,810 --> 00:01:59,369
@@ -177,11 +177,11 @@ en un
 
 37
 00:02:08,329 --> 00:02:11,620
-lenguaje de alto nivel como C o C
+lenguaje de alto nivel como C o C++
 
 38
 00:02:11,620 --> 00:02:14,849
-++ y se pasa a un programa llamado 
+y se pasa a un programa llamado 
 compilador como entrada. Y que corresponde 
 al código fuente del compilador
 
@@ -191,7 +191,7 @@ genera lo que llamamos código de máquina o
 
 40
 00:02:18,980 --> 00:02:22,540
-código ejecutable que es algo instrucciones 
+código ejecutable que son instrucciones 
 codificadas en
 
 41
@@ -211,13 +211,13 @@ es en
 
 44
 00:02:34,569 --> 00:02:38,859
-un archivo con el nombre de puntos del 
-programa c. Ahora, un compilador de lenguaje 
+un archivo con el nombre programa.c. 
+Ahora, un compilador de lenguaje 
 C se llevará
 
 45
 00:02:38,859 --> 00:02:41,969
-a este archivo como entrada y crear un
+a este archivo como entrada y creará un
 
 46
 00:02:41,969 --> 00:02:45,059
@@ -241,18 +241,17 @@ almacenamiento secundario.
 
 50
 00:02:56,459 --> 00:03:00,689
-Siempre que decimos memoria, sino sólo en la 
-memoria contexto de
+Siempre que decimos memoria, en contexto de
 
 51
 00:03:00,689 --> 00:03:05,579
-la programación que significa que la memoria 
+la programación significa memoria 
 de acceso aleatorio o RAM. También llamamos 
 a la
 
 52
 00:03:05,579 --> 00:03:10,010
-memoria principal primaria memoria. Así que 
+memoria principal memoria primaria. Así que 
 cualquier cosa de memoria
 
 53
