@@ -6,7 +6,7 @@ aprendimos sobre
 
 1
 00:00:06,370 --> 00:00:11,900
-la pila y el montón en el contexto de la 
+la pila y el heap en el contexto de la 
 memoria de la aplicación. En esta lección 
 vamos a estar buscando en varias funciones
 
@@ -24,20 +24,20 @@ funciones que asignan bloque de
 
 4
 00:00:24,750 --> 00:00:31,750
-memoria en el montón y estas funciones son 
+memoria en la heap y estas funciones son 
 malloc, realloc y calloc.
 
 5
 00:00:33,649 --> 00:00:39,690
-Y, también vamos a estar hablando de uno 
-funciones que desasigna
+Y también vamos a estar hablando de una 
+función que desasigna
 
 6
 00:00:39,690 --> 00:00:46,690
-un bloque de memoria en el montón y esta 
-función es gratuita. Vamos a hablar primero 
+un bloque de memoria en la heap y esta 
+función es free. Vamos a hablar primero 
 de malloc. Esta es la función de la 
-biblioteca más utilizado
+biblioteca más utilizada
 
 7
 00:00:46,770 --> 00:00:53,239
@@ -47,17 +47,16 @@ firma
 8
 00:00:53,239 --> 00:01:00,239
 o la definición de esta función es algo como 
-esto. Esta función como argumento le 
-pregunte por
+esto. Esta función como argumento recibe
 
 9
 00:01:00,500 --> 00:01:07,500
 el tamaño del bloque de memoria en bytes. 
-Este tipo de datos size_t, si usted no
+Este tipo de datos size_t
 
 10
 00:01:09,500 --> 00:01:16,500
-es consciente de que almacena sólo valores 
+almacena sólo valores 
 enteros positivos. Por lo tanto, se puede 
 pensar en este tipo de datos en particular 
 como tipo de datos entero sin signo.
@@ -66,7 +65,7 @@ como tipo de datos entero sin signo.
 00:01:17,770 --> 00:01:23,650
 El tamaño no puede ser un valor negativo. 
 Puede ser o bien un cero o un valor 
-positivo. Y, para obligar a este tipo
+positivo. Y para obligar a este tipo
 
 12
 00:01:23,650 --> 00:01:28,680
@@ -75,9 +74,9 @@ particular. Y esta función malloc
 
 13
 00:01:28,680 --> 00:01:34,710
-devuelve un puntero nulo. Hemos hablado de 
-punteros void en nuestras lecciones 
-anteriores. Malloc devuelve un puntero vacío 
+devuelve un puntero a void. Hemos hablado de 
+punteros a void en nuestras lecciones 
+anteriores. Malloc devuelve un puntero a void 
 que nos
 
 14
@@ -87,14 +86,13 @@ da la dirección del primer byte en
 15
 00:01:41,560 --> 00:01:46,720
 este bloque, el bloque de memoria que se 
-asigna. Por lo tanto, el uso de malloc que 
-tipo de decir
+asigna. Por lo tanto, malloc dice
 
 16
 00:01:46,720 --> 00:01:52,360
-que oye, dame un bloque de memoria con estos 
-muchos bytes. Digamos que lo que tenemos 
-aquí en la derecha está
+oye, dame un bloque de memoria con estos bytes.
+Digamos que lo que tenemos aquí en la derecha 
+está
 
 17
 00:01:52,360 --> 00:01:58,969
@@ -122,32 +120,31 @@ llamada a malloc algo como esto,
 
 21
 00:02:17,950 --> 00:02:24,950
-que oye dame un bloque de memoria que es de 
+oye, dame un bloque de memoria de 
 4 bytes, digamos
 
 22
 00:02:25,900 --> 00:02:32,069
 que almacenamos la dirección devuelta por 
-malloc en una variable de puntero nulo. 
-Ahora vamos a suponer que este bloque 
-rectangular particular, estamos mostrando 
-aquí
+malloc en una variable de puntero a void. 
+Supongamos que este bloque rectangular 
+particular estamos mostrando aquí
 
 23
 00:02:32,069 --> 00:02:37,260
-en rojo, lo que es conseguir asignó contra 
-de esta llamada a malloc. Estos son 4 bytes y
+en rojo, es lo que asignó esta llamada a malloc.
+Estos son 4 bytes y
 
 24
 00:02:37,260 --> 00:02:43,090
 la dirección inicial es 208. Así que, ¿cuál 
-será la dirección en la pág. Si queremos 
+será la dirección en p? Si queremos 
 imprimir la dirección en
 
 25
 00:02:43,090 --> 00:02:50,090
-p, entonces cuál será la salida. La salida 
-será 208. Esto es genial. El uso de malloc 
+p, entonces ¿cuál será la salida? La salida 
+será 208. Esto es genial. Con malloc 
 somos capaces de asignar una
 
 26
@@ -158,7 +155,7 @@ cantidad de memoria. Pero, ¿por qué
 27
 00:02:54,459 --> 00:02:59,060
 nos reservamos la memoria? Nos reservamos o 
-asignar memoria
+asignamos memoria
 
 28
 00:02:59,060 --> 00:03:04,810
@@ -169,33 +166,31 @@ tanto, si bien es
 
 29
 00:03:04,810 --> 00:03:09,340
-cierto que escribir una declaración como 
-esta. En la práctica, no podríamos hacerlo. 
+correcto escribir una declaración como 
+esta, en la práctica, no podríamos hacerlo. 
 En la práctica, tendríamos primero calcular 
-la cantidad de
 
 30
 00:03:09,340 --> 00:03:14,480
-cantidad de memoria que necesitamos para 
+la cantidad de memoria que necesitamos para 
 almacenar nuestros datos. Por lo tanto, 
 digamos que
 
 31
 00:03:14,480 --> 00:03:21,480
 queremos almacenar un número entero. Sólo un 
-número entero. Por lo tanto, necesito bloque 
-de
+número entero. Por lo tanto, necesito un bloque 
 
 32
 00:03:22,120 --> 00:03:28,849
-memoria igual al tamaño de un entero. 
+de memoria igual al tamaño de un entero. 
 normalmente usamos la función sizeof que nos
 
 33
 00:03:28,849 --> 00:03:35,209
 devuelve el tamaño de la variable en bytes. 
 Para determinar el tamaño del tipo de datos, 
-y luego normalmente multiplicar
+y luego normalmente multiplicamos
 
 34
 00:03:35,209 --> 00:03:41,209
@@ -207,18 +202,17 @@ entero, si
 35
 00:03:41,209 --> 00:03:47,209
 necesitamos la memoria para un solo número 
-entero, esto es bueno. Si necesitamos 
+entero, esto esta bien. Si necesitamos 
 memoria para 10 enteros, escribiríamos
 
 36
 00:03:47,209 --> 00:03:54,189
-algo como esto: dame 10 entero X sizeof. 
+algo como esto: dame 10 * sizeof(int). 
 Entero es un
 
 37
 00:03:54,189 --> 00:03:58,040
-tipo de datos primitivo. A veces, es posible 
-saber que, sé que
+tipo de datos primitivo. Sé que
 
 38
 00:03:58,040 --> 00:04:03,900
@@ -229,7 +223,7 @@ hacerlo.
 
 39
 00:04:03,900 --> 00:04:08,739
-Tamaño de una variable depende del 
+El tamaño de una variable depende del 
 compilador y también sería el
 
 40
@@ -264,20 +258,20 @@ bytes normalmente. Por lo tanto, la
 45
 00:04:40,060 --> 00:04:47,060
 dirección de partida sería 201. Ahora, ¿cómo 
-rellenar los datos aquí. Si ve malloc 
-devuelve un puntero nulo y sin
+rellenar los datos aquí? Si ve malloc 
+devuelve un puntero a void y
 
 46
 00:04:48,020 --> 00:04:52,720
-efecto puntero como tal no puede dejar de 
-hacer referencia. No se puede escribir una 
+como tal no se puede desreferenciar.
+No se puede escribir una 
 declaración algo así como * p =
 
 47
 00:04:52,720 --> 00:04:59,720
 2, esto es incorrecto, no se puede 
-referencia a un puntero nulo. Un puntero 
-nulo, de hecho, sólo se utiliza como un tipo
+referenciar a un puntero void. Un puntero 
+void, de hecho, sólo se utiliza como un tipo
 
 48
 00:05:00,440 --> 00:05:05,590
@@ -286,15 +280,15 @@ tipo fundido en un
 
 49
 00:05:05,590 --> 00:05:10,800
-tipo de puntero de un tipo de datos de datos 
+tipo de puntero de un tipo de datos 
 en particular. Y luego se utiliza. Debido a 
 malloc en sí es una función genérica para 
 asignar
 
 50
 00:05:10,800 --> 00:05:17,000
-un número de bytes en la memoria, en el 
-montón, que
+un número de bytes en la memoria, en la 
+heap, que
 
 51
 00:05:17,000 --> 00:05:22,100
@@ -311,7 +305,7 @@ bloque de memoria,
 
 53
 00:05:26,930 --> 00:05:32,990
-primero tenemos que encasillado este puntero 
+primero tenemos que castear este puntero 
 nulo
 
 54
@@ -322,37 +316,35 @@ int * p en lugar de
 
 55
 00:05:40,009 --> 00:05:45,710
-recoger un puntero nulo, recogemos un 
+un puntero void, un 
 puntero a entero porque queremos operar con 
-números enteros. Por lo tanto, eliminar la 
-referencia
+números enteros. Por lo tanto, 
+para desreferenciar
 
 56
 00:05:45,710 --> 00:05:52,400
-que necesitamos un tipo de puntero entero. 
-Por lo tanto, hacemos la conversión de tipos 
-de
+necesitamos un tipo de puntero entero. 
+Por lo tanto, hacemos la conversión de tipos.
 
 57
 00:05:52,400 --> 00:05:58,560
-aquí el puntero nulo y ahora esta afirmación 
+Aquí el puntero void y ahora esta sentencia 
 es válida. Si queremos asignar un valor al 
-segundo elemento, segundo entero en esta 
-lista,
+segundo entero en esta lista,
 
 58
 00:05:58,560 --> 00:06:03,750
 a continuación, vamos a hacer algo que vamos 
-a eliminar la referencia de
+a desreferenciar
 
 59
 00:06:03,750 --> 00:06:10,750
-esa dirección de p + 1, digamos, se escribe 
+esa dirección p + 1, digamos, se escribe 
 el valor 4 aquí
 
 60
 00:06:10,819 --> 00:06:16,620
-y si queremos acceder a la tercera entero, 
+y si queremos acceder al tercer entero, 
 entonces vamos a escribir algo como esto. 
 Digamos que el valor 6 aquí. Al pedir el 
 bloque de memoria de 3 enteros,
@@ -361,16 +353,16 @@ bloque de memoria de 3 enteros,
 00:06:16,620 --> 00:06:23,030
 básicamente estamos creando una matriz de 
 enteros con 3 elementos. Podríamos también 
-escribir esta asterisco p como P [0] y
+escribir *p como p[0] y
 
 62
 00:06:23,030 --> 00:06:30,030
-también podríamos escribir * (p + 1) como P 
-[1]
+también podríamos escribir *(p+1) como 
+p[1]
 
 63
 00:06:30,270 --> 00:06:37,270
-y de manera similar * (p + 2) como P [2]. 
+y de manera similar *(p+2) como p[2]. 
 Que significan lo mismo. Toda la 
 manipulación de la memoria
 
@@ -395,14 +387,13 @@ ahora sobre calloc.
 67
 00:06:56,370 --> 00:07:03,009
 La firma de definición de calloc es algo 
-como esto. calloc también hace la misma 
-materia
+como esto. calloc también hace lo mismo
 
 68
 00:07:03,009 --> 00:07:09,740
 que malloc, es sólo ligeramente diferente. 
-callod también devuelve un puntero nulo, 
-pero calloc tarda 2
+calloc también devuelve un puntero a void, 
+pero calloc recibe 2
 
 69
 00:07:09,740 --> 00:07:14,849
@@ -440,18 +431,17 @@ otra diferencia
 75
 00:07:42,830 --> 00:07:48,020
 entre malloc y calloc. Cuando malloc asigna 
-cierta cantidad de memoria, no inicializar 
+cierta cantidad de memoria, no inicializa
 los bytes con
 
 76
 00:07:48,020 --> 00:07:54,629
-cualquier valor, por lo que si no 
-cumplimentación de cualquier valor en
+un valor, por lo que 
 
 77
 00:07:54,629 --> 00:07:59,919
-estas direcciones asignadas por malloc, que 
-tendría un poco de basura allí. Pero si 
+estas direcciones asignadas por malloc 
+tendrán basura allí. Pero si 
 asigna memoria a través de calloc, calloc
 
 78
@@ -491,26 +481,24 @@ dirección inicial del bloque existente y el
 84
 00:08:39,930 --> 00:08:46,040
 segundo argumento es el tamaño del nuevo 
-bloque. No puede haber un par de casos en 
+bloque. Puede haber un par de casos en 
 realloc, el tamaño del
 
 85
 00:08:46,040 --> 00:08:52,130
 nuevo bloque que queremos puede ser mayor 
 que el tamaño del bloque anterior. En ese 
-caso, puede crear una nueva máquina de 
-bloques
+caso, la máquina puede crear bloques
 
 86
 00:08:52,130 --> 00:08:57,680
-totalmente nuevo y copiar los datos 
-anteriores lo bytes que
+totalmente nuevos y copiar los datos 
+anteriores
 
 87
 00:08:57,680 --> 00:09:03,130
-fue escrito en el bloque anterior en el 
-nuevo bloque. Si la memoria contigua o 
-consecutiva ya está disponible con
+en el nuevo bloque. Si hay memoria  
+consecutiva ya disponible con
 
 88
 00:09:03,130 --> 00:09:08,600
@@ -525,15 +513,15 @@ discutiremos
 
 90
 00:09:14,260 --> 00:09:21,100
-la función de forma gratuita en nuestro 
+la función free en nuestro 
 propio código. Voy a escribir algo de código 
-C y miro a algunos de
+C y miro algunos de
 
 91
 00:09:21,100 --> 00:09:27,330
 los casos de uso en los que podemos utilizar 
 asignación dinámica de memoria. El primer 
-caso es el uso digamos, queremos declarar 
+caso es, queremos declarar 
 una matriz y
 
 92
@@ -551,11 +539,11 @@ tengo una variable n
 94
 00:09:38,440 --> 00:09:44,670
 y escribo una declaración de impresión como 
-introducir el tamaño de
+"introducir el tamaño de
 
 95
 00:09:44,670 --> 00:09:51,350
-la matriz y luego introducir este número n 
+la matriz" y luego introducir este número n 
 de la consola. Ahora, quiero declarar una 
 matriz de tamaño n solamente. Por lo tanto, 
 puedo
@@ -563,7 +551,7 @@ puedo
 96
 00:09:51,350 --> 00:09:58,350
 hacer algo como esto? ¡Bueno no! Este valor 
-particular en los apoyos no puede
+particular en los corchetes no puede
 
 97
 00:09:58,510 --> 00:10:03,100
@@ -590,12 +578,12 @@ asignar un bloque de memoria igual al tamaño
 101
 00:10:23,440 --> 00:10:29,760
 de n enteros, siendo este una vez más dar un 
-error de compilación a menos que
+error de compilación a menos que haga
 
 102
 00:10:29,760 --> 00:10:35,829
-Typecast este retorno particular de malloc a 
-entero puntero y ahora tenemos una matriz de 
+typecast del retorno de malloc a 
+puntero a entero y ahora tenemos una matriz de 
 tamaño n. Y podemos completar algunos datos 
 en éstos de forma
 
@@ -642,7 +630,7 @@ calloc aquí y que tendría
 
 110
 00:11:19,930 --> 00:11:25,149
-2 argumentos - n separaría a cabo como 
+2 argumentos - separaría a n como 
 primer argumento y segundo
 
 111
@@ -670,7 +658,7 @@ valor
 
 115
 00:11:52,019 --> 00:11:57,389
-a la basura estos de estos índices de la 
+basura en estos de estos índices de la 
 matriz. Por lo tanto, esta es una diferencia 
 entre malloc y calloc. calloc inicializa, 
 llena el valor cero en cada
@@ -685,7 +673,7 @@ bucle de inicialización
 00:12:03,889 --> 00:12:09,399
 de nuevo y ahora, vamos a hablar de forma 
 gratuita. Cualquier memoria que se asigna 
-dinámicamente restos asignados hasta
+dinámicamente queda asignada hasta
 
 118
 00:12:09,399 --> 00:12:14,860
@@ -694,14 +682,14 @@ que el tiempo de vida del programa, hasta el
 119
 00:12:14,860 --> 00:12:21,860
 momento el programa se está ejecutando a 
-menos de desasignar explícitamente. Y 
-desasignar memoria asignada utilizando 
+menos que se desasigne explícitamente. Y 
+para desasignar memoria asignada utilizando 
 malloc y
 
 120
 00:12:22,290 --> 00:12:27,959
 realloc y calloc, tenemos la función 
-gratuita. Para la función de conexión, se 
+free. A la función free, se 
 pasa a la
 
 121
@@ -711,9 +699,9 @@ como argumento. Ahora, ¿qué pasará si
 
 122
 00:12:34,160 --> 00:12:39,800
-voy a liberar A. Si nos liberamos A, 
+voy a liberar A? Si nos liberamos A, 
 entonces los datos de esa memoria se borran. 
-Puede que no pueda o no ser borrado, lo que
+Puede que no pueda o no sea borrado, lo que
 
 123
 00:12:39,800 --> 00:12:45,010
@@ -722,8 +710,8 @@ máquina, pero que la
 
 124
 00:12:45,010 --> 00:12:50,389
-memoria estará disponible para la dotación 
-de la otra llamada a malloc. Vamos a ver lo 
+memoria estará disponible para 
+otra llamada a malloc. Vamos a ver lo 
 que sucede en este caso cuando
 
 125
@@ -736,13 +724,12 @@ los
 126
 00:12:55,149 --> 00:12:59,850
 elementos están imprimiendo aquí, hay algo 
-de valor de la basura que se está 
-imprimiendo.
+de valor basura que se está imprimiendo.
 
 127
 00:12:59,850 --> 00:13:06,389
-si esta libre no estaba allí, habríamos 
-impresa elementos 1, 2, 3, 4, 5 como 
+si este free no estaba allí, hubiéramos
+impreso elementos 1, 2, 3, 4, 5 como 
 inicializado.
 
 128
@@ -758,7 +745,7 @@ valor en esa posición de memoria particular
 130
 00:13:15,740 --> 00:13:21,149
 a través de esta declaración, cuando estamos 
-usando A [i], el elemento en el índice i. 
+usando A[i], el elemento en el índice i. 
 Bueno, eso es una cosa peligrosa sobre los 
 punteros.
 
@@ -788,11 +775,11 @@ depende del
 00:13:39,470 --> 00:13:45,070
 compilador y la máquina. En mi caso, digamos 
 que después de liberar, tratamos de acceder 
-al tercer elemento A [2] y
+al tercer elemento A[2] y
 
 136
 00:13:45,070 --> 00:13:50,190
-tratar de empujar algún valor allí, vamos a 
+tratar de poner algún valor allí, vamos a 
 ver lo que sucede si se ejecuta este 
 programa.
 
@@ -800,13 +787,13 @@ programa.
 00:13:50,190 --> 00:13:54,490
 Vamos a dar a las dimensiones de la matriz 
 como 5 de nuevo. Si usted ve, incluso 
-después de libres, somos capaces de 
+después de liberar, somos capaces de 
 modificar el
 
 138
 00:13:54,490 --> 00:14:00,820
-valor en esta dirección en particular - A 
-[2], pero en algunas
+valor en esta dirección en particular - A[2],
+pero en algunas
 
 139
 00:14:00,820 --> 00:14:06,380
@@ -817,7 +804,7 @@ memoria que se asigna, de lo
 
 140
 00:14:06,380 --> 00:14:11,930
-contrario su disparo, como en la oscuridad, 
+contrario es como disparar en la oscuridad, 
 no sabemos qué va a pasar. Ahora vamos a
 
 141
@@ -856,7 +843,7 @@ por lo que el nuevo bloque es 2 * n *
 147
 00:14:47,779 --> 00:14:53,130
 sizeof (int) y vamos a hacer, por supuesto, 
-el encasillamiento aquí. Ok, así que ahora 
+el casting aquí. Ok, así que ahora 
 lo que esta llamada va a hacer es que va a
 
 148
@@ -950,13 +937,12 @@ primeros elementos se copian - 1 y 2,
 163
 00:16:16,600 --> 00:16:22,459
 no se copian de hecho, ya están allí. El 
-resto 3 están desasignar. Al dividir por 2, 
-se toma sólo la parte integrante, así que
+resto 3 están desasignados. Al dividir por 2, 
+se toma sólo la parte entera, así que
 
 164
 00:16:22,459 --> 00:16:27,410
-tipo de anular la planificación de este 
-espacio por 3 elementos de aquí. De hecho, 
+desasigna espacio por 3 elementos de aquí. De hecho, 
 si nos damos el tamaño sea cero aquí, todo lo
 
 165
@@ -967,7 +953,7 @@ se cancela la asignación.
 166
 00:16:34,149 --> 00:16:41,149
 Por lo tanto, esta declaración será 
-equivalente a usar gratis bajo A. En la 
+equivalente a usar free(A). En la 
 mayoría de los casos, vamos a poner la
 
 167
@@ -998,22 +984,22 @@ almacenado en B, entonces si
 00:17:06,319 --> 00:17:13,319
 el primer argumento es NULL, entonces esto 
 es equivalente a llamar a un malloc . Esto 
-sólo baúles un nuevo bloque, no
+sólo crea un nuevo bloque, no
 
 172
 00:17:13,880 --> 00:17:19,780
-copiar cualquier cosa, desde el bloque 
+copiar nada, desde el bloque 
 anterior. Así, realloc se puede utilizar con 
 los argumentos adecuados
 
 173
 00:17:19,780 --> 00:17:26,510
-como sustituto de forma gratuita, así como 
+como sustituto de free, así como 
 sustituto de malloc. Esto fue todo sobre
 
 174
 00:17:26,510 --> 00:17:31,870
-malloc, calloc y libre. Veremos más código 
+malloc, calloc y free. Veremos más código 
 de asignación de
 
 175
