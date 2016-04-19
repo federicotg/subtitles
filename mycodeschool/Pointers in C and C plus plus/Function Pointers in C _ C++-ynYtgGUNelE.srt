@@ -19,7 +19,7 @@ como punteros
 
 4
 00:00:14,740 --> 00:00:19,220
-variables que almacenar la dirección de 
+variables que almacenan la dirección de 
 otras variables. Básicamente punteros son 
 los tipos de datos que
 
@@ -31,7 +31,7 @@ dirección de
 6
 00:00:19,780 --> 00:00:24,640
 algunos datos almacenados en la memoria del 
-ordenador. O en otras palabras, para señalar
+ordenador. O en otras palabras, para apuntar
 
 7
 00:00:24,640 --> 00:00:29,850
@@ -41,7 +41,7 @@ siempre tiene que ser una variable.
 8
 00:00:29,850 --> 00:00:34,010
 Los datos podrían ser almacenados como 
-constantes. También y usamos punteros no
+constantes. También usamos punteros no
 
 9
 00:00:34,010 --> 00:00:35,490
@@ -53,8 +53,8 @@ Podemos desreferenciar y obtener el
 
 11
 00:00:40,160 --> 00:00:40,560
-valor en cualquier dirección el puntero está 
-apuntando.
+valor en cualquier dirección que el puntero 
+está apuntando.
 
 12
 00:00:40,560 --> 00:00:43,690
@@ -222,7 +222,7 @@ a este archivo como entrada y creará un
 46
 00:02:41,969 --> 00:02:45,059
 archivo ejecutable que tendrá el código de 
-la máquina.
+máquina.
 
 47
 00:02:45,059 --> 00:02:48,569
@@ -252,7 +252,7 @@ a la
 52
 00:03:05,579 --> 00:03:10,010
 memoria principal memoria primaria. Así que 
-cualquier cosa de memoria
+cualquier memoria
 
 53
 00:03:10,010 --> 00:03:10,829
@@ -261,32 +261,30 @@ de la aplicación que estamos hablando
 54
 00:03:10,829 --> 00:03:14,299
 aquí será una parte de la memoria principal. 
-Es un programa o aplicación para crear una 
-parte
+Cuando un programa se inicia
 
 55
 00:03:14,299 --> 00:03:18,829
-de la memoria sólo cuando se inicia la 
-ejecución.
+se le asigna una porción de la memoria. 
 
 56
 00:03:18,829 --> 00:03:23,090
 Cuando la aplicación finaliza la ejecución, 
-esta memoria se afirma de nuevo.
+esta memoria se libera.
 
 57
 00:03:23,090 --> 00:03:27,379
 Lo que realmente sucede es que cuando se 
-ejecuta un programa, cuando
+ejecuta un programa,
 
 58
 00:03:27,379 --> 00:03:31,870
-un programa se inició la ejecución, una 
-cierta cantidad de memoria asignada
+una cierta cantidad de memoria
+es asignada
 
 59
 00:03:31,870 --> 00:03:35,629
-a la misma y que es lo que llamamos memoria 
+al mismo y es lo que llamamos memoria 
 de la aplicación aquí. El segmento de código 
 o texto de
 
@@ -296,7 +294,7 @@ la memoria de aplicación es básicamente el
 
 61
 00:03:38,829 --> 00:03:43,419
-código máquina o instrucciones de copiado 
+código máquina o instrucciones copiados 
 del archivo ejecutable.
 
 62
@@ -311,11 +309,11 @@ Se copian primero en la memoria
 
 64
 00:03:51,939 --> 00:03:52,650
-principal y sólo pueden ser ejecutados.
+principal.
 
 65
 00:03:52,650 --> 00:03:57,089
-Durante la ejecución del programa que 
+Durante la ejecución del programa 
 necesitamos no sólo la
 
 66
@@ -326,17 +324,17 @@ ser ejecutadas, sino también para
 67
 00:04:00,489 --> 00:04:04,519
 almacenar una gran cantidad de datos que 
-trabajaríamos sobre en un programa.
+trabajaríamos en un programa.
 
 68
 00:04:04,519 --> 00:04:09,370
 Estos otros segmentos son en su mayoría 
-sobre el almacenamiento y gestión de datos.
+para el almacenamiento y gestión de datos.
 
 69
 00:04:09,370 --> 00:04:14,129
 Lo que voy a hacer ahora es que voy a 
-acercar al segmento de código o texto.
+enfocarme en el segmento de código o texto.
 
 70
 00:04:14,129 --> 00:04:17,190
@@ -385,7 +383,7 @@ instrucción en sí va a decir
 
 79
 00:04:45,100 --> 00:04:48,740
-que, "ir a la o saltar a esta otra 
+"ir a la o saltar a esta otra 
 instrucción en esta
 
 80
@@ -410,7 +408,7 @@ en la dirección 204.
 
 84
 00:05:04,790 --> 00:05:08,570
-A menos que la instrucción 01 es en sí mismo
+A menos que la instrucción 01 fuera en sí misma
 
 85
 00:05:08,570 --> 00:05:12,810
@@ -493,17 +491,17 @@ entender los punteros de función.
 
 101
 00:06:11,230 --> 00:06:15,150
-Cuando decimos dirección de la tienda 
-punteros de función de
+Cuando decimos que los punteros a función
+almacenan direcciones de
 
 102
 00:06:15,150 --> 00:06:18,440
-las funciones que básicamente quiere decir 
-que los punteros de
+funciones básicamente quiere decir 
+que los punteros a
 
 103
 00:06:18,440 --> 00:06:21,500
-función almacenar la dirección o punto de 
+función almacenan la dirección o punto de 
 entrada a partir
 
 104
@@ -518,8 +516,8 @@ utilizar
 
 106
 00:06:30,310 --> 00:06:31,320
-los punteros de función en un programa C o C 
-++.
+los punteros de función en un 
+programa C o C++.
 
 107
 00:06:31,320 --> 00:06:34,490
@@ -531,7 +529,7 @@ Lo primero que voy a hacer es que voy a
 
 109
 00:06:38,420 --> 00:06:41,770
-escribir una función llamada "Añadir" que 
+escribir una función llamada "Add" que 
 tendrá dos enteros como
 
 110
@@ -541,12 +539,12 @@ números enteros.
 
 111
 00:06:45,090 --> 00:06:48,390
-Y ahora voy a crear un puntero de
+Y ahora voy a crear un puntero a
 
 112
 00:06:48,390 --> 00:06:54,020
 función que deberá apuntar a esta función 
-Add. La sintaxis para crear puntero de 
+Add. La sintaxis para crear puntero a 
 función es
 
 113
@@ -556,16 +554,16 @@ primer tipo en el tipo de retorno de
 114
 00:06:57,080 --> 00:07:00,900
 la función a la que apuntará este puntero. 
-Añadir
+Add
 
 115
 00:07:00,900 --> 00:07:05,790
-volverá Por lo tanto, he escrito en Int 
+devolverá int, por lo tanto, he escrito int 
 entonces después de espacio dentro
 
 116
 00:07:05,790 --> 00:07:09,930
-de paréntesis tipo de asterisco y luego el 
+de paréntesis un asterisco y luego el 
 nombre de la variable.
 
 117
@@ -575,7 +573,7 @@ y ahora, una
 
 118
 00:07:15,450 --> 00:07:19,340
-vez más dentro del tipo de paréntesis en 
+vez más dentro de paréntesis  
 todos los tipos
 
 119
@@ -585,54 +583,54 @@ apuntará este puntero.
 
 120
 00:07:20,650 --> 00:07:24,040
-tipos de argumentos en declaración de 
-función debe
+Los tipos de argumentos en la declaración 
+de la función debe
 
 121
 00:07:24,040 --> 00:07:28,220
-ser exactamente igual que en la función a
+ser exactamente iguales a la función a
 
 122
 00:07:28,220 --> 00:07:31,360
-la que apuntará este puntero porque tanto los
+la que apuntará este puntero. Los
 
 123
 00:07:31,360 --> 00:07:34,550
-argumentos en función de complementos son 
-Int tenemos
+argumentos son int entonces
 
 124
 00:07:34,550 --> 00:07:37,670
-dos enteros en la declaración de puntero de 
-función también. Para inicializar puntero de 
-función y rellene la dirección
+tenemos dos enteros en la declaración de puntero a 
+función también. Para inicializar puntero a 
+función 
 
 125
 00:07:37,670 --> 00:07:42,270
-de una función, se puede utilizar una 
+se puede utilizar una 
 sentencia como esta.
 
 126
 00:07:42,270 --> 00:07:45,930
-Como sabemos operador de signo nos da la
+Como sabemos el operador ampersand 
+nos da la
 
 127
 00:07:45,930 --> 00:07:49,820
-dirección de algo esta declaración p = &
+dirección de algo; esta declaración 
 
 128
 00:07:49,820 --> 00:07:52,900
-Agregar nos dará la dirección de Añadir en 
+p = &Add nos dará la dirección de Add en 
 'p'.
 
 129
 00:07:52,900 --> 00:07:56,560
-Así 'p' ahora apunta a Agregar y el
+Así 'p' ahora apunta a Add y el
 
 130
 00:07:56,560 --> 00:08:00,930
 uso de 'p' podemos ejecutar esta función 
-Añadir. Lo que voy a hacer aquí
+Add. Lo que voy a hacer aquí
 
 131
 00:08:00,930 --> 00:08:01,700
@@ -645,7 +643,7 @@ variable entera llamada 'c' y ahora
 133
 00:08:05,050 --> 00:08:08,710
 voy a escribir una declaración como esta. Lo 
-que he hecho es de primera calidad, he
+que he hecho es primero, he
 
 134
 00:08:08,710 --> 00:08:14,010
@@ -676,7 +674,7 @@ es lo que me pasa.
 139
 00:08:31,820 --> 00:08:37,120
 Así que esto es realmente genial. Sólo 
-utilizamos un puntero de función para hacer
+utilizamos un puntero a función para hacer
 
 140
 00:08:37,120 --> 00:08:41,439
@@ -685,7 +683,7 @@ función. Una cosa acerca de la sintaxis
 
 141
 00:08:41,439 --> 00:08:42,550
-de declaración de puntero de función.
+de declaración de puntero a función.
 
 142
 00:08:42,550 --> 00:08:47,730
@@ -713,7 +711,7 @@ gustaría escribir una declaración.
 
 147
 00:09:02,569 --> 00:09:07,759
-Algo como esto. Entonces este es declarar una
+Algo como esto. Entonces esto es declarar una
 
 148
 00:09:07,759 --> 00:09:12,389
@@ -728,16 +726,16 @@ después de int.
 
 150
 00:09:15,800 --> 00:09:20,279
-Estos 2 sintaxis son los mismos, pero si
+Estas 2 sintaxis son los mismo, pero si
 
 151
 00:09:20,279 --> 00:09:23,980
-me volvería a poner esto dentro de 
+me volviera a poner esto dentro de 
 paréntesis,
 
 152
 00:09:23,980 --> 00:09:27,870
-entonces este es declarar un puntero de 
+entonces esto es declarar un puntero a 
 función. Está bien, algunas cosas más.
 
 153
@@ -747,23 +745,23 @@ utilizando este
 
 154
 00:09:31,680 --> 00:09:35,379
-operador Y comercial, incluso si no 
+operador ampersand, incluso si no 
 utilizamos
 
 155
 00:09:35,379 --> 00:09:40,050
-este operador Y comercial que significará lo 
+este operador ampersand significará lo 
 mismo. Simplemente usando el nombre de la 
-función también nos volverá
+función también nos devolverá
 
 156
 00:09:40,050 --> 00:09:44,339
-dirección de la función o en otras palabras, 
+la dirección de la función o en otras palabras, 
 un puntero apropiado.
 
 157
 00:09:44,339 --> 00:09:48,589
-Para eliminar la referencia, en lugar de 
+Para desreferenciar, en lugar de 
 utilizar este
 
 158
@@ -773,19 +771,18 @@ nombre de
 
 159
 00:09:53,009 --> 00:09:53,980
-puntero de función, podemos utilizar 
+puntero a función, podemos utilizar 
 simplemente el nombre de
 
 160
 00:09:53,980 --> 00:09:58,509
-puntero de función y esto es lo 
-suficientemente bueno. Por lo tanto, podemos 
-utilizar la función de puntero
+puntero a función y esto es
+suficiente. Por lo tanto, podemos 
+utilizar el puntero a función
 
 161
 00:09:58,509 --> 00:10:00,430
-nombre o identificador como nombre de la 
-función como
+como nombre de la función. Como
 
 162
 00:10:00,430 --> 00:10:03,689
@@ -795,12 +792,12 @@ esperaba.
 163
 00:10:03,689 --> 00:10:08,220
 Así que tenemos dos posibles sintaxis para 
-ambas referencias
+ambas referenciar
 
 164
 00:10:08,220 --> 00:10:11,860
-y eliminación de referencias puede utilizar 
-cualquiera usted tiene gusto. La segunda es 
+y desreferenciar. Puede utilizar 
+cualquiera. La segunda es 
 la más famosa.
 
 165
@@ -810,7 +807,7 @@ un
 
 166
 00:10:15,279 --> 00:10:19,699
-tipo de función del puntero de función debe 
+tipo de función del puntero a función debe 
 ser apropiado. Así que en esta declaración
 
 167
@@ -823,7 +820,7 @@ lo cambiaría algo como esto.
 
 169
 00:10:23,189 --> 00:10:27,079
-A continuación, este puntero de función está 
+A continuación, este puntero a función está 
 destinado a señalar a una
 
 170
@@ -834,8 +831,8 @@ vacío.
 
 171
 00:10:32,189 --> 00:10:36,809
-Añadir función se entero de retorno por lo 
-que 'p' no puede apuntar a añadir. Esto me 
+La función Add devuelve entero por lo 
+que 'p' no puede apuntar a Add. Esto me 
 dará
 
 172
@@ -853,8 +850,8 @@ declaración de
 
 175
 00:10:46,149 --> 00:10:51,189
-un puntero de función, entonces P no puede 
-apuntar a Agregar. Bien, ahora vamos a 
+un puntero a función, entonces P no puede 
+apuntar a Add. Bien, ahora vamos a 
 utilizar algunas funciones
 
 176
@@ -877,12 +874,12 @@ que declarar
 
 180
 00:11:02,129 --> 00:11:05,410
-un puntero de función como esta.
+un puntero a función como este.
 
 181
 00:11:05,410 --> 00:11:11,389
-y entonces podemos inicializar el puntero y 
-rellene la dirección
+Entonces podemos inicializar el puntero y 
+asignar la dirección
 
 182
 00:11:11,389 --> 00:11:14,899
@@ -891,7 +888,7 @@ función a
 
 183
 00:11:14,899 --> 00:11:18,999
-través de este puntero Veamos lo que la 
+través de este puntero. Veamos lo que la 
 salida es. Esto se ve bien.
 
 184
@@ -908,12 +905,12 @@ de PrintHello Para tomar una cadena como
 
 187
 00:11:28,930 --> 00:11:31,999
-argumento, la declaración de puntero de 
+argumento, la declaración de puntero a 
 función también cambiará.
 
 188
 00:11:31,999 --> 00:11:35,569
-Y mientras que llama tendremos que pasar una 
+Y al llamar tendremos que pasar una 
 cadena después de ejecutar
 
 189
@@ -928,8 +925,8 @@ crear
 
 191
 00:11:43,939 --> 00:11:48,119
-y utilizar los punteros de función en C o C 
-++. punteros de función se utilizan en un 
+y utilizar los punteros de función en C o 
+C++. Punteros a función se utilizan en un 
 programa
 
 192
