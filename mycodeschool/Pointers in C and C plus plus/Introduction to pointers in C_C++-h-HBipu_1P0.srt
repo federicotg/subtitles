@@ -4,7 +4,8 @@ Punteros es un concepto muy importante y
 
 1
 00:00:05,790 --> 00:00:08,050
-fundamental en la programación, pero una gran
+fundamental en la programación, 
+pero a una gran
 
 2
 00:00:08,050 --> 00:00:10,269
@@ -22,11 +23,11 @@ Y todo lo que necesita saber para
 
 5
 00:00:17,909 --> 00:00:21,680
-entender esta lección es cómo escribir un
+entender esta lección es saber escribir un
 
 6
 00:00:21,680 --> 00:00:23,019
-programa en C básica, cómo declarar una
+programa en C básico, cómo declarar una
 
 7
 00:00:23,019 --> 00:00:25,650
@@ -55,8 +56,7 @@ almacenan en la memoria de los ordenadores.
 
 13
 00:00:37,280 --> 00:00:38,959
-De acuerdo. Así que digamos, esta cifra en 
-el aquí,
+Así que digamos, esta diagrama aquí,
 
 14
 00:00:38,959 --> 00:00:41,320
@@ -68,11 +68,11 @@ de la memoria del ordenador en el contexto
 
 16
 00:00:42,780 --> 00:00:46,350
-de la ejecución del programa, que en su
+de la ejecución del programa, 
 
 17
 00:00:46,350 --> 00:00:51,530
-mayoría hablan de la memoria de acceso 
+se habla de la memoria de acceso 
 aleatorio o RAM.
 
 18
@@ -87,11 +87,11 @@ segmentos o particiones que
 
 20
 00:00:58,990 --> 00:01:01,799
-nos estamos mostrando aquí en un banco de
+estamos mostrando aquí son
 
 21
 00:01:01,799 --> 00:01:04,340
-memoria de cada uno de bytes de memoria.
+cada uno de un byte de memoria.
 
 22
 00:01:04,340 --> 00:01:06,280
@@ -103,11 +103,11 @@ típica, en una arquitectura típica de
 
 24
 00:01:10,820 --> 00:01:13,940
-ordenador de la memoria de cada
+ordenador, cada byte 
 
 25
 00:01:13,940 --> 00:01:16,310
-byte de la memoria tiene una dirección. Por 
+de la memoria tiene una dirección. Por 
 lo tanto, digamos que el
 
 26
@@ -196,7 +196,7 @@ tipo de datos y
 
 45
 00:02:07,610 --> 00:02:12,190
-también sobre el compilador. Así que en un 
+también del compilador. Así que en un 
 típico compilador de hoy en día
 
 46
@@ -206,7 +206,7 @@ de memoria.
 
 47
 00:02:14,149 --> 00:02:15,890
-Una variable de carácter se
+A una variable carácter se
 
 48
 00:02:15,890 --> 00:02:18,239
@@ -214,7 +214,7 @@ asigna de 1 byte de memoria.
 
 49
 00:02:18,239 --> 00:02:20,389
-Un flotador está asignado en 4 bytes
+A un float, 4 bytes
 
 50
 00:02:20,389 --> 00:02:23,669
@@ -265,19 +265,19 @@ El equipo tiene una estructura interna, una
 
 61
 00:02:46,339 --> 00:02:47,640
-tabla de búsqueda, donde sus almacena la
+tabla de búsqueda, donde almacena la
 
 62
 00:02:47,640 --> 00:02:50,900
-información de que no es una variable
+información de la variable
 
 63
 00:02:50,900 --> 00:02:53,859
-'a', que es del tipo entero, y
+'a', que es de tipo entero, y
 
 64
 00:02:53,859 --> 00:02:55,969
-se encuentra en la dirección 204, que
+que se encuentra en la dirección 204, que
 
 65
 00:02:55,969 --> 00:02:59,109
@@ -319,7 +319,7 @@ en este caso se asigna
 
 73
 00:03:22,689 --> 00:03:25,669
-la dirección 209 de 'c',
+la dirección 209 a 'c',
 
 74
 00:03:25,669 --> 00:03:27,289
@@ -339,7 +339,7 @@ de consulta, que la 'c'
 
 78
 00:03:32,069 --> 00:03:33,590
-es un personaje y su dirección es 209.
+es un carácter y su dirección es 209.
 
 79
 00:03:33,590 --> 00:03:37,760
@@ -347,7 +347,7 @@ Ahora, cuando se realiza alguna operación con
 
 80
 00:03:37,760 --> 00:03:39,399
-estas variables, como Digamos que si 
+estas variables, como si 
 inicializamos
 
 81
@@ -356,19 +356,22 @@ a = 5, y nuestra máquina o
 
 82
 00:03:42,279 --> 00:03:44,379
-computadora ve tal declaración, se ve en
+computadora ve tal declaración, se 
+busca en
 
 83
 00:03:44,379 --> 00:03:45,500
-la tabla de consulta para esta variable 'a'.
+la tabla de consulta esta variable 'a'.
 
 84
 00:03:45,500 --> 00:03:49,810
-Se cree que esta variable 'a' que es un 
+Se sabe que esta variable 'a' que es un 
 número entero y es en la dirección 204.
 
 85
 00:03:49,810 --> 00:03:51,689
+
+
 00:03:51. 689 -> 00:03:55. 450 Por lo tanto, 
 va en la
 
@@ -408,7 +411,7 @@ vez después
 94
 00:04:12,499 --> 00:04:15,499
 de estas declaraciones tenemos otra 
-declaración que incrementos 'a'.
+declaración que incrementa 'a'.
 
 95
 00:04:15,499 --> 00:04:17,829
@@ -420,7 +423,7 @@ tiene que ser incrementado, de nuevo
 
 97
 00:04:20,600 --> 00:04:23,529
-se ve de esta dirección de
+se busca esta dirección de
 
 98
 00:04:23,529 --> 00:04:25,869
@@ -439,11 +442,11 @@ esto
 
 101
 00:04:32,639 --> 00:04:34,270
-es muy fresco,
+está bien,
 
 102
 00:04:34,270 --> 00:04:36,539
-pero podemos conocer
+pero ¿podemos conocer
 
 103
 00:04:36,539 --> 00:04:37,930
@@ -455,7 +458,7 @@ una variable en nuestro programa?
 
 105
 00:04:38,860 --> 00:04:43,060
-O podemos operar en estas direcciones de 
+¿O podemos operar en estas direcciones de 
 memoria en nuestro programa?
 
 106
@@ -464,7 +467,7 @@ Sí, puede hacerlo en un
 
 107
 00:04:46,520 --> 00:04:47,760
-programa C o C ++,
+programa C o C++,
 
 108
 00:04:47,760 --> 00:04:48,880
@@ -576,7 +579,7 @@ la dirección en 'p' del 204
 
 134
 00:05:54,249 --> 00:05:57,169
-al 208 y luego 'p 'ahora apunta a' b '.
+al 208 y luego 'p' ahora apunta a 'b'.
 
 135
 00:05:57,169 --> 00:06:00,330
@@ -585,8 +588,8 @@ puntero en
 
 136
 00:06:00,330 --> 00:06:02,919
-C, una variable normal se declaró por 
-escrito el tipo
+C. Una variable normal se declaró con
+el tipo
 
 137
 00:06:02,919 --> 00:06:05,039
@@ -594,7 +597,7 @@ de datos y el nombre de la variable de modo
 
 138
 00:06:05,039 --> 00:06:10,830
-int 'a' significa que tenemos una variable 
+int a significa que tenemos una variable 
 'a' de tipo int.
 
 139
@@ -638,7 +641,7 @@ Ahora para almacenar la
 
 148
 00:06:34,889 --> 00:06:36,300
-dirección de la "a"
+dirección de "a"
 
 149
 00:06:36,300 --> 00:06:37,129
@@ -650,7 +653,7 @@ utilizar una declaración como
 
 151
 00:06:38,379 --> 00:06:41,580
-p = & a (signo 'a').
+p = & a (ampersand 'a').
 
 152
 00:06:41,580 --> 00:06:44,689
@@ -672,7 +675,7 @@ un puntero
 
 156
 00:06:49,849 --> 00:06:51,369
-a la
+a la variable.
 
 157
 00:06:51,369 --> 00:06:53,520
@@ -706,11 +709,11 @@ Digamos que se asignó la dirección 64.
 164
 00:07:06,509 --> 00:07:08,939
 Ahora, cuando escribimos una declaración 
-como p =
+como
 
 165
 00:07:08,939 --> 00:07:11,729
-& a = p & a, a continuación,
+p=&a, a continuación,
 
 166
 00:07:11,729 --> 00:07:14,239
@@ -740,7 +743,7 @@ será el resultado?
 
 172
 00:07:31,069 --> 00:07:33,479
-Cualquier conjetura?
+¿Cualquier conjetura?
 
 173
 00:07:33,479 --> 00:07:35,469
@@ -748,7 +751,7 @@ Piénsalo.
 
 174
 00:07:35,469 --> 00:07:39,249
-Bueno por lo que si tratamos de imprimir 
+Bueno si tratamos de imprimir 
 'p', la
 
 175
@@ -762,21 +765,20 @@ salida será 204 porque 'p' tiene un valor de
 
 177
 00:07:45,579 --> 00:07:46,959
-imprimir y escribir una (signo de a)?
+imprimir y escribir &a (ampersand a)?
 
 178
 00:07:46,959 --> 00:07:50,819
-& A también nos da la dirección de la "a". 
+&a también nos da la dirección de "a". 
 Así que este
 
 179
 00:07:50,819 --> 00:07:52,500
-será también 204 00:07:52. 500 -> 00:07:55. 
-009 ¿Qué pasa si
+será también 204. ¿Qué pasa si
 
 180
 00:07:55,009 --> 00:07:57,469
-queremos imprimir & P?
+queremos imprimir &P?
 
 181
 00:07:57,469 --> 00:08:00,649
@@ -785,15 +787,15 @@ se almacena en la memoria.
 
 182
 00:08:00,649 --> 00:08:06,309
-Así símbolo de unión, ya que imprime el,
+Así que como ampersand
 
 183
 00:08:06,309 --> 00:08:08,369
-le da la dirección de dicha variable, por
+da la dirección de dicha variable, por
 
 184
 00:08:08,369 --> 00:08:09,669
-lo que la impresión y p nos debe
+lo que la imprimir &p nos debe
 
 185
 00:08:09,669 --> 00:08:11,229
@@ -810,16 +812,16 @@ Si ponemos un signo de asterisco (*)
 
 188
 00:08:15,550 --> 00:08:18,299
-delante del puntero, lo que nos da
+delante del puntero, nos da
 
 189
 00:08:18,299 --> 00:08:23,180
-el valor en el lugar al que apunta. 
+el valor al que apunta. 
 Entonces, ¿qué va a pasar si tratamos
 
 190
 00:08:23,180 --> 00:08:27,560
-de imprimir p * (asterisco de p). Pues bien, 
+de imprimir *p (asterisco de p)? Pues bien, 
 nos
 
 191
@@ -828,11 +830,11 @@ va a dar 5.
 
 192
 00:08:30,339 --> 00:08:34,020
-Este concepto se llama como
+Este concepto se llama
 
 193
 00:08:34,020 --> 00:08:36,160
-la eliminación de referencias, porque
+desreferenciación, porque
 
 194
 00:08:36,160 --> 00:08:37,360
@@ -840,12 +842,12 @@ tenemos una referencia o que
 
 195
 00:08:37,360 --> 00:08:40,180
-han almacenado una dirección en 'p'. Y que 
-tipo de conseguir el valor en
+han almacenado una dirección en 'p'. Y e 
+para conseguir el valor en
 
 196
 00:08:40,180 --> 00:08:44,150
-esta dirección particular, el uso de este 
+esta dirección particular, uso este 
 operador.
 
 197
@@ -858,11 +860,11 @@ este lugar en particular, diciendo algo como:
 
 199
 00:08:49,470 --> 00:08:52,900
-* p es ahora 8 (* p = 8).
+*p es ahora 8 (*p = 8).
 
 200
 00:08:52,900 --> 00:08:55,170
-* P significa el valor a
+*p significa el valor de
 
 201
 00:08:55,170 --> 00:08:56,240
@@ -870,7 +872,7 @@ este lugar en particular, diciendo algo como:
 
 202
 00:08:56,240 --> 00:08:59,150
-en 'p' está modificado para 8.
+en 'p' está asignado a 8.
 
 203
 00:08:59,150 --> 00:09:00,680
@@ -878,7 +880,7 @@ Entonces, ¿qué va a pasar si
 
 204
 00:09:00,680 --> 00:09:04,650
-imprime * p o imprimir 'un'
+imprime * p o imprimir 'a'
 
 205
 00:09:04,650 --> 00:09:08,090
@@ -886,7 +888,7 @@ ahora, la salida será de 8.
 
 206
 00:09:08,090 --> 00:09:11,730
-Por valor de "p" me refiero valor en la 
+Por valor de 'p' me refiero valor en la 
 dirección 'p'.
 
 207
@@ -949,7 +951,7 @@ delante
 
 220
 00:09:43,110 --> 00:09:45,839
-de la variable puntero, y operar sobre ella
+de la variable puntero, y operamos sobre ella
 
 221
 00:09:45,839 --> 00:09:47,900
