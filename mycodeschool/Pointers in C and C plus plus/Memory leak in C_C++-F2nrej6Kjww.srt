@@ -10,21 +10,21 @@ Hemos comprendido lo que es y lo
 
 2
 00:00:08,309 --> 00:00:12,000
-que es pila pila en la memoria aplicaciones. 
+que es la pila en la memoria. 
 Ahora, en esta lección, vamos a hablar de
 
 3
 00:00:12,000 --> 00:00:13,969
-una situación que ha causado por el uso
+una situación que causada por el uso
 
 4
 00:00:13,969 --> 00:00:17,050
-indebido de la memoria dinámica o la memoria
+indebido de memoria dinámica o 
 
 5
 00:00:17,050 --> 00:00:20,900
-en el montón y esta situación es pérdida de 
-memoria.
+heap y esta situación es la pérdida
+de memoria.
 
 6
 00:00:20,900 --> 00:00:24,750
@@ -52,18 +52,17 @@ cuatro segmentos o estas cuatro secciones.
 
 11
 00:00:37,879 --> 00:00:41,690
-Una sección almacenar instrucciones cosas en 
-el programa que necesitan
+Una sección almacenar instrucciones.
 
 12
 00:00:41,690 --> 00:00:46,050
-ser ejecutados esta sección se llama el 
+Esta sección se llama el 
 segmento de código
 
 13
 00:00:46,050 --> 00:00:51,280
-o el segmento de texto, otra sección es el 
-que
+o el segmento de texto. Otra sección es 
+donde
 
 14
 00:00:51,280 --> 00:00:52,180
@@ -83,7 +82,7 @@ ejecutar las llamadas a
 17
 00:01:01,920 --> 00:01:05,920
 funciones y almacenar todas las variables 
-locales esta sección se denomina pila.
+locales. Esta sección se denomina pila.
 
 18
 00:01:05,920 --> 00:01:10,040
@@ -97,27 +96,26 @@ pila son fijos y
 
 20
 00:01:11,360 --> 00:01:15,509
-decidió cuando el programa está recopilando 
-y que es que el
+se decidió cuando el programa fue compilado,
 
 21
 00:01:15,509 --> 00:01:19,640
-tiempo de compilación, y la cuarta sección, 
-que es el montón
+en tiempo de compilación. La cuarta sección, 
+que es la heap
 
 22
 00:01:19,640 --> 00:01:24,880
-bastante o memoria dinámica no lo hace 
-tienen un tamaño fijo.
+o memoria dinámica por el contrario
+no tiene un tamaño fijo.
 
 23
 00:01:24,880 --> 00:01:28,810
-Montón puede crecer según nuestra necesidad.
+La heap puede crecer según nuestra necesidad.
 
 24
 00:01:28,810 --> 00:01:33,920
-Como sabemos que obtenemos memoria del 
-montón al hacer la
+Como sabemos obtenemos memoria de 
+la heap al hacer la
 
 25
 00:01:33,920 --> 00:01:34,600
@@ -126,17 +124,17 @@ hayamos
 
 26
 00:01:34,600 --> 00:01:38,110
-terminado con esa memoria en el montón, 
+terminado con esa memoria, 
 hacemos una llamada
 
 27
 00:01:38,110 --> 00:01:42,650
-a la función libre para desasignar o libre 
-que de memoria en particular.
+a la función free para desasignar 
+esa memoria en particular.
 
 28
 00:01:42,650 --> 00:01:46,180
-En C ++, aparte de malloc y libre, también
+En C++, aparte de malloc y libre, también
 
 29
 00:01:46,180 --> 00:01:50,600
@@ -146,41 +144,38 @@ conseguir un poco
 30
 00:01:50,600 --> 00:01:54,280
 de memoria y el operador delete para liberar 
-esa memoria. Fuga es una situación en la que
+esa memoria. Una fuga de memoria es 
+una situación en la que
 
 31
 00:01:54,280 --> 00:01:58,200
-llegamos a la memoria en el montón
+asignamos memoria en la heap
 
 32
 00:01:58,200 --> 00:02:01,790
-y no liberamos cuando hayamos terminado de 
-usarlo. Así que nuestra aplicación es en 
-realidad aferrando a
+y no la liberamos cuando hemos terminado de 
+usarla. Así que nuestra aplicación en 
+realidad se está aferrando a
 
 33
 00:02:01,790 --> 00:02:06,570
-algo de memoria no utilizada en el montón, 
+algo de memoria no utilizada en la heap, 
 pero
 
 34
 00:02:06,570 --> 00:02:08,390
-¿por qué llamamos a la pérdida de memoria 
-situación
+¿por qué la llamamos a fuga de memoria 
 
 35
 00:02:08,390 --> 00:02:11,700
-y por qué se produce debido a un uso
+y por qué se produce?
 
 36
 00:02:11,700 --> 00:02:15,840
-incorrecto de memoria de sólo dinámico, 
-debido al uso
+
 
 37
 00:02:15,840 --> 00:02:19,830
-incorrecto de la pila solamente y no algunas 
-otras secciones de memoria aplicaciones. 
 Vamos a tratar de entender esto a través de 
 un programa simple de
 
@@ -209,7 +204,7 @@ tarjetas de
 
 43
 00:02:41,480 --> 00:02:45,560
-Jack, reina y rey ​​Inicialmente gato está 
+Jack, reina y rey. ​​Inicialmente el Jack está 
 en la primera posición. Reina se encuentra 
 en la segunda posición
 
@@ -241,68 +236,66 @@ dinero.
 
 50
 00:03:05,030 --> 00:03:10,030
-Digamos que es un dinero virtual y si gana 
-ver si
+Digamos que es un dinero virtual y gana 
+ si
 
 51
 00:03:10,030 --> 00:03:13,700
-él predice la posición si supongo 
-correctamente la posición de la
+predice la posición de la
 
 52
 00:03:13,700 --> 00:03:15,970
-reina, que se hace cargo de ella tres veces 
+reina. Se lleva tres veces 
 la cantidad
 
 53
 00:03:15,970 --> 00:03:19,130
-que tenía apuesta y si pierde, simplemente 
+que tenía en la apuesta y si pierde, simplemente 
 pierde la cantidad apostada.
 
 54
 00:03:19,130 --> 00:03:23,700
-Digamos que el jugador tiene un principio de 
+Digamos que el jugador tiene al principio
 cien
 
 55
 00:03:23,700 --> 00:03:27,410
-dólares de dinero virtual y me puede tantas 
-veces
+dólares de dinero virtual y puede
+apostar
 
 56
 00:03:27,410 --> 00:03:31,530
-como quiera y hasta que se queda sin dinero 
-en efectivo. Así que sepamos poner en 
-práctica este juego lo
+como quiera y hasta que se queda sin dinero.
+Así que sepamos poner en práctica este juego.
 
 57
 00:03:31,530 --> 00:03:35,440
-primero que quiero hacer es que quería 
+Lo primero que quiero hacer es ç 
 declarar una
 
 58
 00:03:35,440 --> 00:03:38,660
-variable denominada efectivo global que en 
+variable global denominada efectivo que en 
 cualquier momento va
 
 59
 00:03:38,660 --> 00:03:42,570
-a guardar el dinero virtual disponible con 
-el jugador. Inicialmente, tiene cientos de 
+a guardar el dinero virtual disponible del 
+jugador. Inicialmente, tiene 100
 dólares de dinero virtual
 
 60
 00:03:42,570 --> 00:03:46,680
-y luego en el método principal por la
+y luego en el método principal 
 
 61
 00:03:46,680 --> 00:03:47,690
-que declarará una apuesta nombre de la 
-variable
+declararé una variable llamada
+bet
 
 62
 00:03:47,690 --> 00:03:51,579
-y tienen un gran código de algo como esto. 
+y tienen un código de algo como esto. 
 Mientras que el efectivo es mayor que cero,
 
 63
@@ -316,11 +309,11 @@ Le pediremos a apostar algo y
 
 65
 00:03:59,120 --> 00:04:03,290
-vamos a tener que esta entrada
+vamos a realizar la entrada
 
 66
 00:04:03,290 --> 00:04:07,480
-en esta apuesta variable usando scanf. Para 
+en bet usando scanf. Para 
 los escenarios negativos como la apuesta es 
 igual a cero, es
 
@@ -341,25 +334,25 @@ que hará una llamada a la función de
 70
 00:04:17,410 --> 00:04:21,959
 jugar, y por supuesto, ahora vamos a tener 
-que escribir la función de reproducción. 
-Estaremos pasando apuesta para la
+que escribir la función de jugar. 
+Estaremos pasando bet a la
 
 71
 00:04:21,959 --> 00:04:22,640
-función de reproducción, por lo
+función de play, por lo
 
 72
 00:04:22,640 --> 00:04:26,280
-que apuesta a ser un argumento.
+que bet va a ser un argumento.
 
 73
 00:04:26,280 --> 00:04:29,570
-Ahora, en una función de reproducción, voy a 
+Ahora, en una función play, voy a 
 declarar
 
 74
 00:04:29,570 --> 00:04:32,770
-una matriz de caracteres de tamaño J 3 y
+una matriz de caracteres J de tamaño 3 y
 
 75
 00:04:32,770 --> 00:04:37,610
@@ -367,8 +360,8 @@ en un principio, vamos a tener el carácter en
 
 76
 00:04:37,610 --> 00:04:40,800
-la primera posición de decir que hay gato en 
-la primera posición. J para el gato y del 
+la primera posición para decir que hay un jack en 
+la primera posición. J para el jack y del 
 mismo modo Q
 
 77
@@ -378,17 +371,17 @@ es para la Reina y K es para el
 78
 00:04:44,660 --> 00:04:48,040
 rey y ahora el equipo debe realizar una 
-redistribución aleatorio.
+redistribución aleatoria.
 
 79
 00:04:48,040 --> 00:04:51,920
 Así que vamos a escribir una declaración de 
 impresión como esta. Ahora tenemos que 
-encontrar una lógica de hacer
+encontrar una lógica para hacer
 
 80
 00:04:51,920 --> 00:04:53,639
-una reproducción aleatoria al azar de las 
+una mezcla al azar de las 
 tarjetas. Uno de estos es la lógica que
 
 81
@@ -410,7 +403,7 @@ vamos a hacer una llamada a la función
 
 85
 00:05:05,780 --> 00:05:09,590
-srand y pasarlo un argumento algo como esto. 
+srand y pasarle un argumento algo como esto. 
 Voy a volver a lo que estoy haciendo aquí en
 
 86
@@ -430,7 +423,7 @@ azar entre 0,
 
 89
 00:05:20,160 --> 00:05:23,300
-1 y 2 y cambie el dijo más tarde estas 
+1 y 2 e intercambiar estas 
 posiciones en la matriz.
 
 90
@@ -440,16 +433,16 @@ que, hacemos una llamada a la
 
 91
 00:05:27,360 --> 00:05:28,190
-función rand obtendremos en el número al
+función rand obtendremos el número al
 
 92
 00:05:28,190 --> 00:05:32,200
-azar, sino que queremos un número entre
+azar, pero queremos un número entre
 
 93
 00:05:32,200 --> 00:05:35,360
 cero y 2, O y 2 incluidos. Así que vamos a 
-tomar por módulo 3, de
+hacer módulo 3, de
 
 94
 00:05:35,360 --> 00:05:38,720
@@ -477,28 +470,27 @@ el
 
 99
 00:05:52,130 --> 00:05:55,950
-carácter que la posición X en la
+el carácter de la posición X en la
 
 100
 00:05:55,950 --> 00:05:59,740
-temperatura y luego vamos a hacer algo como 
+temp y luego vamos a hacer algo como 
 esto.
 
 101
 00:05:59,740 --> 00:06:04,580
-Estoy corto espacio aquí. Estoy escribiendo 
+Estoy corto de espacio aquí. Estoy escribiendo 
 tres declaraciones en la misma línea.
 
 102
 00:06:04,580 --> 00:06:08,710
 Bueno por lo que ahora se hace intercambio. 
-104 00: 06: 08,710 - & gt; 00: 06: 11,770 
-Así que estamos intercambiando o arrastrando 
+Así que estamos intercambiando 
 los
 
 103
 00:06:11,770 --> 00:06:17,310
-personajes en dos posiciones, cinco veces 
+caracteres en dos posiciones, cinco veces 
 cada vez que se están recuperando dos 
 posiciones X e Y
 
@@ -513,7 +505,7 @@ Así que esto nos garantiza que X e Y
 
 106
 00:06:26,900 --> 00:06:32,110
-es entre 0 y 2, que será posiciones válidas. 
+está entre 0 y 2, que serán posiciones válidas. 
 Al hacer una llamada a la función
 
 107
@@ -522,15 +514,15 @@ rand, vamos a obtener los números al
 
 108
 00:06:32,350 --> 00:06:35,950
-azar, sino que también se utiliza este
+azar, sino que también se utiliza
 
 109
 00:06:35,950 --> 00:06:39,690
-srand de una vez transcurrido este tiempo
+este valor 
 
 110
 00:06:39,690 --> 00:06:44,390
-nula la recuperación de la función de tiempo.
+nulo en la función de tiempo.
 
 111
 00:06:44,390 --> 00:06:47,440
@@ -560,12 +552,11 @@ reproducción es
 
 116
 00:07:00,370 --> 00:07:04,080
-que voy a tener una variable jugadores 
-nombrados adivinar y
+que voy a tener una variable players guess y
 
 117
 00:07:04,080 --> 00:07:08,680
-voy a pedir al jugador que adivinar la 
+voy a pedir al jugador que adivine la 
 posición de
 
 118
@@ -575,7 +566,7 @@ la entrada.
 
 119
 00:07:12,010 --> 00:07:15,160
-Ahora bien, si el jugador es correcta, 
+Ahora bien, si el jugador acierta, 
 entonces el carácter
 
 120
@@ -594,18 +585,18 @@ insertando 1, 2 ó
 
 123
 00:07:27,070 --> 00:07:31,290
-3, que se asignarán a 0, 1 y 2 de la matriz 
-. Así que si el personaje
+3, que se asignarán a 0, 1 y 2 de la matriz.
+Así que si el caracter
 
 124
 00:07:31,290 --> 00:07:34,680
-es la reina que ha ganado. Así que su caja 
+es la reina, ha ganado. Así que su dinero 
 global se incrementa en tres veces la
 
 125
 00:07:34,680 --> 00:07:38,190
-cantidad de la apuesta otra cosa que ha 
-perdido y su
+cantidad de la apuesta y si ha  
+perdido, su
 
 126
 00:07:38,190 --> 00:07:43,870
@@ -645,8 +636,7 @@ algo como esto y también se han
 00:08:06,390 --> 00:08:10,600
 trasladado esta variable de caja en la parte 
 superior. En el procedimiento principal, he 
-añadido dos más instrucción print 
-inicialmente.
+añadido dos print.
 
 134
 00:08:10,600 --> 00:08:14,970
@@ -659,7 +649,7 @@ que he compilado el código
 
 136
 00:08:18,910 --> 00:08:22,630
-y creó un juego llamado ejecutable. exe y 
+y creó un juego llamado ejecutable.exe y 
 ahora voy a correr ese ejecutable.
 
 137
@@ -673,12 +663,12 @@ en la posición 1 y pierdo
 
 139
 00:08:31,390 --> 00:08:34,849
-el equilibrio ahora es noventa y cinco 
+el saldo ahora es noventa y cinco 
 dólares. Apostemos nuevo, esta vez de nuevo
 
 140
 00:08:34,849 --> 00:08:40,450
-que perder y puede seguir jugando. Así que 
+perdí y puedo seguir jugando. Así que 
 estoy perdiendo una y otra vez.
 
 141
@@ -701,13 +691,12 @@ Windows y aquí como se puede ver
 
 145
 00:08:55,400 --> 00:08:58,780
-y esto es resaltado fila para el juego. exe. 
+y esto es resaltado fila para el juego.exe. 
 La tercera columna aquí es la
 
 146
 00:08:58,780 --> 00:09:02,150
-memoria consumida por este juego ejecutable. 
-exe.
+memoria consumida por este juego ejecutable.exe.
 
 147
 00:09:02,150 --> 00:09:05,500
@@ -746,20 +735,20 @@ se crea
 00:09:28,710 --> 00:09:33,650
 como una variable local, por lo que van a la 
 pila. Quiero crear una matriz de caracteres 
-en el montón.
+en la heap.
 
 155
 00:09:33,650 --> 00:09:34,830
-Entonces, ¿qué voy a hacer es que voy a la
+Entonces, voy a la
 
 156
 00:09:34,830 --> 00:09:38,900
-derecha declaración como esta, voy a 
-declarar un puntero personaje
+declaración como esta, voy a 
+declarar un puntero a caracter
 
 157
 00:09:38,900 --> 00:09:42,150
-llamado C y luego voy a utilizar malloc se ha
+llamado C y luego voy a utilizar malloc. Se ha
 
 158
 00:09:42,150 --> 00:09:45,760
@@ -768,7 +757,7 @@ variables de caracteres.
 
 159
 00:09:45,760 --> 00:09:49,660
-En C ++, podríamos haber dicho
+En C++, podríamos haber dicho
 
 160
 00:09:49,660 --> 00:09:52,950
@@ -776,7 +765,7 @@ algo así, podríamos haber utilizado el
 
 161
 00:09:52,950 --> 00:09:56,770
-nuevo operador y ahora va a
+operador new y ahora va a
 
 162
 00:09:56,770 --> 00:10:00,100
@@ -789,7 +778,7 @@ ello hemos creado una matriz en
 
 164
 00:10:03,380 --> 00:10:06,630
-el montón y C es un puntero
+la heap y C es un puntero
 
 165
 00:10:06,630 --> 00:10:11,700
@@ -808,7 +797,7 @@ bien. Corramos este código
 
 168
 00:10:19,130 --> 00:10:20,110
-y ver qué pasa.
+y veamos qué pasa.
 
 169
 00:10:20,110 --> 00:10:23,970
@@ -817,8 +806,7 @@ estoy ejecutando el ejecutable.
 
 170
 00:10:23,970 --> 00:10:27,320
-Reloj para el consumo de memoria de juego. 
-exe.
+Reloj para el consumo de memoria de juego.exe.
 
 171
 00:10:27,320 --> 00:10:34,320
@@ -836,7 +824,7 @@ el consumo de memoria es de 488 K.
 
 174
 00:10:40,320 --> 00:10:44,870
-Se ha disparado y si va a mantener este 
+Se ha disparado y si va a mantengo este 
 juego aún
 
 175
@@ -857,7 +845,7 @@ caracteres C
 
 178
 00:10:55,190 --> 00:10:58,580
-no estaba en no en el montón y fue bajo la 
+no estaba en la heap y sí en la 
 pila. Vamos a
 
 179
@@ -887,7 +875,7 @@ ejecución
 184
 00:11:12,380 --> 00:11:16,290
 pasa a la sección de pila de la memoria. En 
-cualquier momento se llama la función son 
+cualquier momento se llama la función 
 una cierta
 
 185
@@ -898,8 +886,7 @@ para su ejecución.
 186
 00:11:20,370 --> 00:11:24,950
 Cuando el programa comienza a ejecutar por 
-primera vez el principal método se invoca o 
-llama.
+primera vez el principal.
 
 187
 00:11:24,950 --> 00:11:28,260
@@ -924,7 +911,7 @@ sentará dentro de este
 191
 00:11:40,280 --> 00:11:40,820
 marco de pila en nuestro código tuvimos una 
-variable local llamada apuesta.
+variable local llamada bet.
 
 192
 00:11:40,820 --> 00:11:44,190
@@ -933,12 +920,12 @@ Por lo que se ve aquí
 193
 00:11:44,190 --> 00:11:48,250
 y tuvimos una variable global llamada 
-efectivo. Inicialmente digamos función 
+efectivo. Inicialmente digamos 
 principal está ejecutando.
 
 194
 00:11:48,250 --> 00:11:51,770
-Cuando jugamos un juego principal función 
+Cuando jugamos un juego principal 
 hace
 
 195
@@ -948,7 +935,7 @@ que realmente sucede cuando una función
 
 196
 00:11:56,030 --> 00:11:59,610
-realiza llamadas a otra función que es. Esa 
+realiza llamadas a otra función es que esa 
 función en particular está en
 
 197
@@ -958,50 +945,48 @@ pausa y se asigna memoria para
 198
 00:12:00,680 --> 00:12:05,540
 la ejecución de la función llamada. Así 
-principal hará una pausa y reproducir 
-incluso comenzar a ejecutar
+principal hará una pausa y play 
+comienza a ejecutar
 
 199
 00:12:05,540 --> 00:12:08,010
-y jugar saldrá a la parte superior de la 
-pila principal.
+y play irá a la parte superior de la 
+pila.
 
 200
 00:12:08,010 --> 00:12:12,170
 Tuvimos un par de variables locales en juego 
-todo irá en este marco de pila.
+todo irá a este marco de pila.
 
 201
 00:12:12,170 --> 00:12:15,190
-I X Y adivinen jugadores y para el caso de
+I, X, Y, guess, etc. 
 
 202
 00:12:15,190 --> 00:12:18,220
-que uno cuando tuvimos el array de 
-caracteres C en
+están en la pila
 
 203
 00:12:18,220 --> 00:12:21,250
-la pila en sí, por lo que no se ha
+en sí, por lo que no se han
 
 204
 00:12:21,250 --> 00:12:24,690
-creado usando una llamada a malloc por el 
-array de
+creado usando una llamada a malloc.
 
 205
 00:12:24,690 --> 00:12:27,740
-caracteres C también se sentará en este 
+Igual que C, también se sentará en este 
 marco de pila.
 
 206
 00:12:27,740 --> 00:12:30,760
 Ahora, cuando la ejecución de la función de 
-reproducción terminará,
+play terminará,
 
 207
 00:12:30,760 --> 00:12:34,110
-el control volverá al principal y una 
+el control volverá al principal y la 
 memoria que se
 
 208
@@ -1011,8 +996,8 @@ reproducción será recuperada.
 
 209
 00:12:37,339 --> 00:12:40,950
-Cualquier llamada a la función de tiempo 
-termina la
+Toda vez que una llamada a función  
+termina, la
 
 210
 00:12:40,950 --> 00:12:42,470
@@ -1025,17 +1010,17 @@ a cada
 
 212
 00:12:45,520 --> 00:12:48,589
-convocatoria, y en cuanto esa llamada 
-finishers que la memoria
+llamada, y en cuanto esa llamada 
+termina la memoria
 
 213
 00:12:48,589 --> 00:12:52,810
-se afirma de nuevo y ahora principal va a 
+se recupera y ahora principal va a 
 realizar
 
 214
 00:12:52,810 --> 00:12:53,860
-otra llamada a jugar porque vamos a jugar 
+otra llamada a play porque vamos a jugar 
 varias rondas.
 
 215
@@ -1047,31 +1032,31 @@ termina.
 216
 00:12:58,720 --> 00:13:02,530
 Como se puede ver todas las variables 
-locales de ser
+locales son
 
 217
 00:13:02,530 --> 00:13:03,310
-anulado cada vez que termina la llamada a la 
+anuladas cada vez que termina la llamada a la 
 función.
 
 218
 00:13:03,310 --> 00:13:07,270
-Para cualquier cosa en la pila que no 
+Para cualquier cosa en la pila no 
 tenemos que preocuparnos de
 
 219
 00:13:07,270 --> 00:13:10,579
-que es desasignación se hace automáticamente 
-cuando termina la función de llamada. Ahora 
+la desasignación. Se hace automáticamente 
+cuando termina la función llamada. Ahora 
 vamos a hablar sobre el segundo caso
 
 220
 00:13:10,579 --> 00:13:13,790
-cuando se crea matriz de caracteres en el
+cuando se crea matriz de caracteres en
 
 221
 00:13:13,790 --> 00:13:16,800
-montón mediante una llamada a la función 
+la heap mediante una llamada a la función 
 malloc.
 
 222
@@ -1086,11 +1071,11 @@ Ahora lo que sucederá esta vez es que
 224
 00:13:23,610 --> 00:13:27,330
 no vamos a crear la matriz en la pila. 
-Todavía tendremos que son C variable
+Todavía tendremos la variable C,
 
 225
 00:13:27,330 --> 00:13:30,390
-llamada, una variable local llamada C.
+una variable local llamada C.
 
 226
 00:13:30,390 --> 00:13:34,250
@@ -1109,69 +1094,68 @@ crear la matriz
 
 229
 00:13:41,540 --> 00:13:45,500
-en el montón y esta variable local, que es 
+en la heap y esta variable local, que es 
 un puntero
 
 230
 00:13:45,500 --> 00:13:47,100
-al personaje únicos puntos a este bloque de 
+a caracter apunta a este bloque de 
 memoria en particular.
 
 231
 00:13:47,100 --> 00:13:51,510
-Todo lo que es en el montón se tiene que 
+Todo lo que está en la heap se tiene que 
 acceder a través de una variable de puntero.
 
 232
 00:13:51,510 --> 00:13:56,270
-Así que aquí hemos creado la matriz en el 
-montón
+Así que aquí hemos creado la matriz en  
+la heap
 
 233
 00:13:56,270 --> 00:13:57,580
 y hemos mantenido solamente una variable 
-puntero de la pila.
+puntero en la pila.
 
 234
 00:13:57,580 --> 00:14:01,970
-Ahora, cuando la llamada a la función de 
-reproducción terminará la
+Ahora, cuando la llamada a la función
+play termina la
 
 235
 00:14:01,970 --> 00:14:04,200
 memoria asignada para la ejecución de la 
-llamada a desempeñar la
+llamada a función play
 
 236
 00:14:04,200 --> 00:14:07,670
-función será reclamado por lo que todas las 
+será reclamada por lo que todas las 
 variables locales se irán.
 
 237
 00:14:07,670 --> 00:14:12,640
-Pero esta memoria en el montón de la mentira
+Pero esta memoria en la heap queda
 
 238
 00:14:12,640 --> 00:14:16,090
-sin usar y poco referenciada y que no 
-conseguirá desasignado. Cualquier cosa en el 
-montón tiene que cancelar la asignación 
-explícita
+sin usar y no referenciada y que no 
+será desasignada. Cualquier cosa en 
+la heap tiene que desasignarse 
+explícitamente
 
 239
 00:14:16,090 --> 00:14:19,800
-al hacer la llamada a la función de forma 
-gratuita o
+llamando a free
 
 240
 00:14:19,800 --> 00:14:23,560
-mediante el uso de un operador de 
-eliminación y pensar en ello. Vamos a hacer 
-causa múltiple para la función
+mediante el uso de un operador 
+delete. Vamos a hacer 
+múltiples llamadas a la función
 
 241
 00:14:23,560 --> 00:14:25,070
-jugar como jugamos múltiples rondas de 
+play jugando múltiples rondas de 
 nuestro juego
 
 242
@@ -1180,17 +1164,16 @@ y cada vez en cada llamada, vamos a
 
 243
 00:14:28,620 --> 00:14:33,110
-crear un tal bloque de memoria en el
+crear un bloque de memoria en
 
 244
 00:14:33,110 --> 00:14:37,060
-montón que se encuentran sin referencias y 
+la heap que se encuentran sin referencias y 
 sin
 
 245
 00:14:37,060 --> 00:14:39,130
-usar llamada cuando la función que 
-desempeñar terminará.
+usar cuando la función termina.
 
 246
 00:14:39,130 --> 00:14:42,100
@@ -1198,22 +1181,22 @@ Si vamos a jugar un juego de 100 rondas
 
 247
 00:14:42,100 --> 00:14:46,870
-entonces tendrán que 100 de estos bloques de 
+entonces habrá 100 de estos bloques de 
 memoria
 
 248
 00:14:46,870 --> 00:14:48,110
 sin referencias y sin uso de 3 caracteres en 
-el montón.
+la heap.
 
 249
 00:14:48,110 --> 00:14:51,860
-de pila no es un tamaño fijo y nuestra 
+La heap no es de tamaño fijo y nuestra 
 aplicación puede
 
 250
 00:14:51,860 --> 00:14:55,510
-reclamar puede obtener más memoria en la 
+obtener más memoria en la 
 sección de almacenamiento dinámico,
 
 251
@@ -1223,24 +1206,24 @@ está quedando
 
 252
 00:14:58,750 --> 00:15:02,570
-sin memoria y si no estamos asignaremos y 
+sin memoria y si no desasignaremos 
 esta memoria no
 
 253
 00:15:02,570 --> 00:15:06,620
-utilizada en el montón, estamos agotando y 
-perder la memoria, que es un recurso 
+de la heap, estamos agotando y 
+perdiéndola, y es un recurso 
 importante.
 
 254
 00:15:06,620 --> 00:15:10,100
-Nuestro consumo de memoria aplicaciones
+Nuestro consumo de memoria
 
 255
 00:15:10,100 --> 00:15:14,250
 sólo seguirá creciendo con el tiempo. Las 
-pérdidas de memoria son insectos muy 
-desagradables al tener en su programa.
+pérdidas de memoria son errores muy 
+desagradables de tener en su programa.
 
 256
 00:15:14,250 --> 00:15:18,000
@@ -1248,24 +1231,24 @@ Cualquier cosa sin usar y sin
 
 257
 00:15:18,000 --> 00:15:21,360
-referencias bajo el montón de basura es. En 
-C o C ++ hay que asegurarse de que los
+referencias bajo en la heap es basura. En 
+C o C++ hay que asegurarse de que los
 
 258
 00:15:21,360 --> 00:15:24,620
 programadores de que la basura no se crea en 
-el montón.
+la heap.
 
 259
 00:15:24,620 --> 00:15:28,580
 pérdida de memoria no es más que el 
-crecimiento de la basura en el montón. En 
-lenguajes como Java y C
+crecimiento de la basura en la heap. En 
+lenguajes como Java y C#
 
 260
 00:15:28,580 --> 00:15:33,270
-#, basura borra automáticamente del montón. 
-Así programador no tiene que preocuparse de 
+la basura se borra automáticamente de la heap. 
+Así el programador no tiene que preocuparse de 
 liberar
 
 261
@@ -1274,8 +1257,7 @@ o cancelar la asignación de la memoria en
 
 262
 00:15:34,130 --> 00:15:38,420
-el montón que es una característica genial 
-tener.
+la heap que es una característica genial.
 
 263
 00:15:38,420 --> 00:15:42,240
@@ -1293,12 +1275,12 @@ caracteres y
 
 266
 00:15:47,399 --> 00:15:51,040
-no liberar la memoria después nos hecho de 
-usarlo. Al final de la función del
+no liberar la memoria después terminar de 
+usarla? Al final de la función el
 
 267
 00:15:51,040 --> 00:15:54,839
-consumo de memoria habría disparado a nada. 
+consumo de memoria se habría disparado. 
 Volviendo a mi código aquí, lo
 
 268
@@ -1321,7 +1303,7 @@ matriz. Sólo estoy tratando de mostrarle algo
 
 272
 00:16:08,990 --> 00:16:13,050
-y al final ta de esta
+y al final de esta
 
 273
 00:16:13,050 --> 00:16:13,990
@@ -1329,8 +1311,8 @@ función en particular cuando se realizan
 
 274
 00:16:13,990 --> 00:16:19,420
-con la matriz en el montón. Estamos haciendo 
-llamada a la función libre, pasándole la
+con la matriz en la heap. Estamos haciendo 
+llamada a la función free, pasándole la
 
 275
 00:16:19,420 --> 00:16:23,500
@@ -1356,11 +1338,11 @@ administrador de
 00:16:33,089 --> 00:16:38,459
 tareas y estoy jugando el juego vamos a 
 hacer algunas apuestas. Ahora cuidado con el 
-consumo de memoria del juego. exe.
+consumo de memoria del juego.exe.
 
 280
 00:16:38,459 --> 00:16:42,579
-Para comoquiera tiempo va a jugar el juego
+Al jugar el juego
 
 281
 00:16:42,579 --> 00:16:46,910
@@ -1369,7 +1351,7 @@ arriba. Como se puede ver que es 356 K
 
 282
 00:16:46,910 --> 00:16:50,620
-y no está disparando para mí, incluso después
+y no está disparando, incluso después
 
 283
 00:16:50,620 --> 00:16:55,480
@@ -1377,7 +1359,7 @@ de jugar durante mucho tiempo, y no se
 
 284
 00:16:55,480 --> 00:16:58,800
-dispara porque habíamos usado libre para 
+dispara porque habíamos usado free para 
 desasignar la
 
 285
@@ -1395,18 +1377,18 @@ tamaño diez mil y si no estábamos
 
 288
 00:17:11,850 --> 00:17:15,040
-usando libre entonces la memoria habría 
-disparado a nada. El consumo de memoria 
-habría disparado a nada.
+usando free entonces la memoria se habría 
+disparado. El consumo de memoria 
+habría disparado.
 
 289
 00:17:15,040 --> 00:17:18,449
-sino porque estamos liberando al final de la 
+Como estamos liberando al final de la 
 función
 
 290
 00:17:18,449 --> 00:17:23,559
-no va hasta que no hay pérdida de memoria. 
+no hay pérdida de memoria. 
 Así que finalmente resumirlo, pérdida de 
 memoria
 
@@ -1416,7 +1398,7 @@ es el uso incorrecto de la memoria
 
 292
 00:17:27,010 --> 00:17:31,090
-dinámica o la sección montón de memoria
+dinámica o la sección heap de memoria
 
 293
 00:17:31,090 --> 00:17:31,800
@@ -1424,7 +1406,7 @@ que hace que el consumo de memoria
 
 294
 00:17:31,800 --> 00:17:36,120
-de nuestro programa para aumentar en un 
+de nuestro programa aumente en un 
 período de tiempo. Recuerde pérdida de 
 memoria siempre sucede
 
@@ -1434,13 +1416,13 @@ debido a bloques de memoria sin
 
 296
 00:17:37,050 --> 00:17:41,400
-utilizar y sin referencias en el montón. 
+utilizar y sin referencias en la heap. 
 Cualquier cosa en la pila se cancela la 
 asignación
 
 297
 00:17:41,400 --> 00:17:45,559
-automática y la pila es todo se fija en 
+automáticamente y la pila es fija en 
 tamaño.
 
 298
@@ -1450,8 +1432,7 @@ pila.
 
 299
 00:17:49,130 --> 00:17:52,300
-Así que esto era pérdida de memoria en C C 
-++.
+Así que esto era pérdida de memoria en C y C++.
 
 300
 00:17:52,300 --> 00:17:53,070
