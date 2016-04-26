@@ -1266,7 +1266,7 @@ ejemplo, estábamos creando un conjunto de
 
 264
 00:15:42,240 --> 00:15:43,380
-tres caracteres en el montón, ¿Qué pasa si
+tres caracteres en la heap, ¿Qué pasa si
 
 265
 00:15:43,380 --> 00:15:47,399

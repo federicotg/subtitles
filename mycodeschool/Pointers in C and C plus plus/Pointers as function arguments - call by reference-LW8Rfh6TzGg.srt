@@ -581,7 +581,7 @@ Y la cuarta parte
 
 136
 00:05:52,819 --> 00:05:55,069
-es del montón y
+es de la heap y
 
 137
 00:05:55,069 --> 00:05:56,479
@@ -626,7 +626,7 @@ pidiendo más memoria para
 
 147
 00:06:17,729 --> 00:06:20,999
-su segmento montón durante su ejecución.
+su segmento heap durante su ejecución.
 
 148
 00:06:20,999 --> 00:06:24,319

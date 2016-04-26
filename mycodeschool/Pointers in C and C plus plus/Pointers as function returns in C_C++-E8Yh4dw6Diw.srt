@@ -703,7 +703,7 @@ Así que ahora la pregunta obvia sería -
 de uso en las que podemos desear para 
 devolver punteros de funciones. Bueno, si 
 tenemos la dirección de algún bloque de 
-memoria en la sección montón o
+memoria en la sección heap o
 
 124
 00:12:56,449 --> 00:13:01,269
@@ -713,8 +713,8 @@ seguridad la dirección
 
 125
 00:13:01,269 --> 00:13:07,279
-de estos bloques porque cualquier cosa en el 
-montón tiene que cancelar la asignación 
+de estos bloques porque cualquier cosa en la
+heap tiene que cancelar la asignación 
 explícita. Tenemos el control de su 
 cancelación
 
@@ -727,11 +727,11 @@ todo lo que está en la sección global,
 00:13:14,029 --> 00:13:21,069
 una variable global, vive para toda la 
 duración del programa. Puedo usar malloc o 
-nuevo operador en C
+nuevo operador en C++
 
 128
 00:13:21,069 --> 00:13:22,790
-++ para obtener algo de memoria en el montón.
+para obtener algo de memoria en la heap.
 
 129
 00:13:22,790 --> 00:13:29,519
@@ -741,14 +741,14 @@ esto, lo declararía c como un puntero
 130
 00:13:29,519 --> 00:13:37,910
 a un entero y conseguir algo de espacio 
-asignado en el montón mediante una llamada a 
+asignado en la heap mediante una llamada a 
 malloc. malloc es una función de biblioteca 
 que devuelve puntero, pero
 
 131
 00:13:37,910 --> 00:13:45,179
-devuelve puntero a una dirección que es en 
-el montón. Así se obtiene un bloque de 
+devuelve puntero a una dirección de
+la heap. Así se obtiene un bloque de 
 memoria y el uso de
 
 132
@@ -770,7 +770,7 @@ dirección
 
 135
 00:14:03,259 --> 00:14:10,559
-de un bloque que se encuentra en el montón y 
+de un bloque que se encuentra en la heap y 
 no en la pila. Y esto va a funcionar ahora.
 
 136
@@ -780,8 +780,8 @@ llamada a malloc
 
 137
 00:14:15,790 --> 00:14:21,490
-nos da este bloque en la dirección 500 en el 
-montón. c ahora solo está apuntando a este 
+nos da este bloque en la dirección 500 en la 
+heap. c ahora solo está apuntando a este 
 bloque y el
 
 138
@@ -799,7 +799,7 @@ asignación.
 
 140
 00:14:34,459 --> 00:14:39,740
-Cualquier cosa en el montón tiene que 
+Cualquier cosa en la heap tiene que 
 cancelar la asignación explícita. Así, 
 mientras que devolver punteros de funciones, 
 tenemos
@@ -818,11 +818,11 @@ borran de esa dirección.
 143
 00:14:50,689 --> 00:14:56,970
 En la mayoría de los casos que volveremos 
-punteros a memoria que se asigna en el
+punteros a memoria que se asigna en la
 
 144
 00:14:56,970 --> 00:15:01,759
-montón, o la memoria que se encuentra en la 
+heap, o la memoria que se encuentra en la 
 sección global, la sección de variables 
 globales. En nuestras próximas lecciones, un 
 lugar en el que va

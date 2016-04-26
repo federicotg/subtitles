@@ -497,8 +497,8 @@ de la variable
 94
 00:07:44,800 --> 00:07:53,310
 en la memoria hasta el momento en que 
-queremos tenemos el montón. A diferencia de 
-la pila, montón de la aplicación no es fijo. 
+queremos tenemos la heap. A diferencia de 
+la pila, la heap de la aplicación no es fija. 
 Su tamaño puede variar durante el tiempo de 
 vida
 
@@ -515,13 +515,13 @@ memoria que
 
 97
 00:08:01,990 --> 00:08:07,200
-desea utilizar desde el montón, y hasta 
+desea utilizar en la heap, y hasta 
 cuándo guardar los
 
 98
 00:08:07,200 --> 00:08:12,230
 datos en la memoria durante la vida de la 
-aplicación. El montón puede crecer, siempre 
+aplicación. La heap puede crecer, siempre 
 y cuando que
 
 99
@@ -535,7 +535,7 @@ y tenemos que tener mucho cuidado
 
 101
 00:08:21,790 --> 00:08:27,240
-con el uso del montón por esta razón. 
+con el uso de la heap por esta razón. 
 También llamamos a veces amontonar una 
 piscina libre de
 
@@ -559,7 +559,7 @@ lenguaje, es algo
 00:08:42,569 --> 00:08:47,170
 que puede variar, que es una cosa de la 
 arquitectura de computadores. Pero una forma 
-abstracta de mirar el montón como programador
+abstracta de mirar la heap como programador
 
 106
 00:08:47,170 --> 00:08:52,470
@@ -570,7 +570,7 @@ memoria
 00:08:52,470 --> 00:08:59,339
 disponible para nosotros que podemos 
 utilizar de forma flexible según nuestra 
-necesidad. El montón es también llamada 
+necesidad. La heap es también llamada 
 memoria dinámica y el uso
 
 108
@@ -580,8 +580,8 @@ memoria dinámica.
 
 109
 00:09:05,470 --> 00:09:11,569
-Veamos ahora cómo utilizar el montón en el 
-programa C ++ o C a cabo. Voy a borrar el 
+Veamos ahora cómo utilizar la heap en  
+C++ o C. Voy a borrar el 
 código
 
 110
@@ -590,19 +590,19 @@ de la izquierda y sacaré
 
 111
 00:09:17,629 --> 00:09:21,660
-otro bloque rectangular aquí por montón. Hay 
+otro bloque rectangular aquí por la heap. Hay 
 una cosa más que
 
 112
 00:09:21,660 --> 00:09:26,670
-debo señalar antes de seguir adelante. El 
-montón es también una estructura de datos y 
+debo señalar antes de seguir adelante. La 
+heap es también una estructura de datos y 
 si usted
 
 113
 00:09:26,670 --> 00:09:30,089
-no sabe acerca de esta estructura de datos 
-del montón, sin
+no sabe acerca de esta estructura de datos,
+sin
 
 114
 00:09:30,089 --> 00:09:34,620
@@ -612,35 +612,35 @@ nomenclatura aquí no tiene nada que
 
 115
 00:09:34,620 --> 00:09:40,879
-ver con la estructura de datos del montón. 
-El término "montón" se utiliza sólo
+ver con la estructura de datos de la heap. 
+El término "heap" se utiliza sólo
 
 116
 00:09:40,879 --> 00:09:44,589
 para la gran piscina de memoria libre. La 
-estructura de datos del montón no
+estructura de datos heap no
 
 117
 00:09:44,589 --> 00:09:49,029
-viene en cualquier lugar en este contexto. 
+aparece nunca en este contexto. 
 Este término a menudo confunde a mucha gente 
 cuando
 
 118
 00:09:49,029 --> 00:09:53,269
-saben acerca de la estructura de datos del 
-montón. Stack es también una estructura de 
+saben acerca de la estructura de datos 
+heap. Pila es también una estructura de 
 datos, pero el segmento de pila de la
 
 119
 00:09:53,269 --> 00:09:56,860
 memoria es en realidad una aplicación de la 
-estructura de datos de la pila,
+estructura de datos pila,
 
 120
 00:09:56,860 --> 00:10:00,410
-pero el montón no es una implementación de 
-la estructura de datos del montón.
+pero la heap no es una implementación de 
+la estructura de datos heap.
 
 121
 00:10:00,410 --> 00:10:06,019
@@ -719,12 +719,12 @@ principal. Digamos que queremos almacenar un
 
 135
 00:11:16,809 --> 00:11:21,209
-número entero en el montón. Para reservar u 
+número entero en la heap. Para reservar u 
 obtener algo de espacio
 
 136
 00:11:21,209 --> 00:11:25,220
-asignado en el montón, tenemos que llamar
+asignado en la heap, tenemos que llamar
 
 137
 00:11:25,220 --> 00:11:29,709
@@ -733,7 +733,7 @@ función malloc pregunta por la cantidad de
 
 138
 00:11:29,709 --> 00:11:35,740
-memoria para asignar en el montón en bytes. 
+memoria para asignar en la heap en bytes. 
 Cuando decimos malloc y pasamos como 
 argumento el tamaño
 
@@ -750,13 +750,13 @@ entero. Por lo tanto, a una cuadra de 4 bytes
 
 141
 00:11:44,920 --> 00:11:49,059
-será reservado o asignado en el montón y 
+será reservado o asignado en la heap y 
 malloc
 
 142
 00:11:49,059 --> 00:11:53,699
 devolverá un puntero a la dirección inicial 
-de este bloque. Y, malloc devuelve
+de este bloque. Y malloc devuelve
 
 143
 00:11:53,699 --> 00:11:58,860
@@ -792,11 +792,11 @@ almacena la dirección de
 149
 00:12:22,029 --> 00:12:27,670
 este bloque de memoria que es 200. Por lo 
-tanto, tenemos unas bloque de memoria en el
+tanto, tenemos unas bloque de memoria en la
 
 150
 00:12:27,670 --> 00:12:32,420
-montón que se quiere utilizar para almacenar 
+heap que se quiere utilizar para almacenar 
 un número entero. En este momento, no 
 sabemos lo que
 
@@ -817,13 +817,13 @@ hecho, la única forma de utilizar la
 
 154
 00:12:47,199 --> 00:12:51,129
-memoria en el montón es a través de 
+memoria en la heap es a través de 
 referencias. Toda la función malloc lo hace, 
-busca algo de espacio libre en el
+busca algo de espacio libre en la
 
 155
 00:12:51,129 --> 00:12:55,499
-montón, los libros de TI o reservas por 
+heap, los libros de TI o reservas por 
 usted y devolver el puntero. Y la única 
 forma en que puede tener
 
@@ -850,7 +850,7 @@ malloc, uno más
 
 160
 00:13:15,100 --> 00:13:19,790
-bloques de 4 bytes se asigna en el montón
+bloques de 4 bytes se asigna en la heap
 
 161
 00:13:19,790 --> 00:13:24,189
@@ -880,7 +880,7 @@ El bloque anterior todavía
 
 166
 00:13:43,300 --> 00:13:47,600
-se sentará en el montón. Esta memoria 
+se sentará en la heap. Esta memoria 
 todavía estamos
 
 167
@@ -933,21 +933,21 @@ de este primer bloque de memoria
 00:14:25,769 --> 00:14:30,589
 en primer lugar se borra y luego estará 
 apuntando a otra dirección de memoria. Es 
-responsabilidad del programador para borrar
+responsabilidad del programador borrar
 
 177
 00:14:30,589 --> 00:14:34,759
-nada en el montón si se
+de la heap si se
 
 178
 00:14:34,759 --> 00:14:39,429
-ha asignado y que no lo necesita más. Por lo 
+ha asignado y no lo necesita más. Por lo 
 tanto, se ve, en términos del alcance de
 
 179
 00:14:39,429 --> 00:14:43,230
-la variable, lo que sea asignada en el 
-montón no
+la variable, lo que sea asignada en la 
+heap no
 
 180
 00:14:43,230 --> 00:14:47,999
@@ -962,18 +962,18 @@ Y, lo que no necesita vivir para toda la
 00:14:52,639 --> 00:14:57,170
 vida útil de la aplicación como una variable 
 global. Podemos controlar cuándo liberar 
-nada en el
+nada en la
 
 183
 00:14:57,170 --> 00:15:01,589
-montón, cuándo desasignar nada en el montón. 
-Si quisiéramos almacenar una matriz en el 
-montón, como digamos que
+heap, cuándo desasignar nada en la heap. 
+Si quisiéramos almacenar una matriz en la 
+heap, como digamos que
 
 184
 00:15:01,589 --> 00:15:04,850
 queríamos para almacenar una matriz de 
-enteros en el montón, entonces
+enteros en la heap, entonces
 
 185
 00:15:04,850 --> 00:15:09,119
@@ -1004,7 +1004,7 @@ enteros se asignará en
 
 190
 00:15:31,170 --> 00:15:34,910
-el montón y nos pondremos la dirección 
+la heap y nos pondremos la dirección 
 inicial de la pila.
 
 191
@@ -1042,7 +1042,7 @@ asignar parte
 
 197
 00:16:08,720 --> 00:16:13,970
-de la memoria en el montón, se devuelve un 
+de la memoria en le heap, se devuelve un 
 valor nulo. Por lo tanto, para el 
 tratamiento de errores, lo que necesitamos
 
