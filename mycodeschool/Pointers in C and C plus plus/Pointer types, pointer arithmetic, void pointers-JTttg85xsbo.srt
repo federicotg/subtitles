@@ -6,17 +6,17 @@ variables de puntero.
 
 1
 00:00:05,200 --> 00:00:10,190
-Por lo que entendemos más o menos lo básico, 
-en
+Por lo que entendemos más o menos lo básico.
+
 
 2
 00:00:10,190 --> 00:00:11,580
-esta lección vamos a escribir algo de código 
-más el
+En esta lección vamos a escribir algo
+más de código 
 
 3
 00:00:11,580 --> 00:00:14,630
-uso de punteros y vamos a mirar a través de
+y vamos a mirar a través de
 
 4
 00:00:14,630 --> 00:00:19,480
@@ -26,13 +26,13 @@ quiero señalar es que
 
 5
 00:00:19,480 --> 00:00:22,160
-las variables de puntero son fuertemente 
-tipados.
+las variables puntero son fuertemente 
+tipadas.
 
 6
 00:00:22,160 --> 00:00:27,039
 Lo que significa es que se necesita una 
-variable de puntero de
+variable puntero de
 
 7
 00:00:27,039 --> 00:00:30,800
@@ -41,17 +41,17 @@ dirección del tipo particular de la variable.
 
 8
 00:00:30,800 --> 00:00:35,020
-Se necesitará por lo int * o un puntero a 
+Se necesitará int * o un puntero a 
 entero para
 
 9
 00:00:35,020 --> 00:00:38,770
 almacenar la dirección de un número entero, 
-se necesitará puntero del carácter
+se necesitará puntero a caracter
 
 10
 00:00:38,770 --> 00:00:42,070
-para almacenar la dirección de un personaje 
+para almacenar la dirección de un caracter 
 y de manera similar si
 
 11
@@ -61,15 +61,15 @@ el usuario entonces necesitamos un
 
 12
 00:00:45,530 --> 00:00:48,829
-puntero de ese particular, Sólo el tipo, 
-pero ¿por qué necesitamos estos tipos 
+puntero de ese tipo particular.
+Pero ¿por qué necesitamos estos tipos 
 fuertes.
 
 13
 00:00:48,829 --> 00:00:53,199
-¿No es que las variables de puntero 
-simplemente almacenar la dirección de la 
-variable.
+¿No es que las variables puntero 
+simplemente almacenan la dirección de la 
+variable?
 
 14
 00:00:53,199 --> 00:00:55,250
@@ -77,12 +77,12 @@ Así que ¿por qué no tenemos un solo tipo que
 
 15
 00:00:55,250 --> 00:00:58,969
-va a haber algún tipo genérico para 
+va a ser algún tipo genérico para 
 almacenar la dirección
 
 16
 00:00:58,969 --> 00:01:04,180
-de todo tipo de variables y la respuesta es 
+de todo tipo de variables? La respuesta es 
 que
 
 17
@@ -92,23 +92,23 @@ para almacenar direcciones
 
 18
 00:01:07,630 --> 00:01:11,560
-de memoria, pero también utilizamos ellos 
-para eliminar la referencia
+de memoria, sino que también los utilizamos 
+para desreferenciarlos
 
 19
 00:01:11,560 --> 00:01:15,390
-de estos direcciones para que puedan acceder 
+y para que acceder 
 y modificar los valores de estas direcciones.
 
 20
 00:01:15,390 --> 00:01:19,229
-Ahora, como usted saber los tipos de datos 
+Ahora, como usted sabe los tipos de datos 
 tienen
 
 21
 00:01:19,229 --> 00:01:22,470
 diferentes tamaños, como en un típico 
-compilador día moderno
+compilador moderno
 
 22
 00:01:22,470 --> 00:01:26,360
@@ -117,12 +117,12 @@ bytes, una
 
 23
 00:01:26,360 --> 00:01:30,079
-variable de carácter se almacena en un byte, 
+variable carácter se almacena en un byte, 
 una
 
 24
 00:01:30,079 --> 00:01:34,850
-variable flotador se almacena en cuatro 
+una variable float se almacena en cuatro 
 bytes y estas
 
 25
@@ -137,7 +137,7 @@ información en
 
 27
 00:01:42,920 --> 00:01:43,380
-cualquier bytes están disponibles para estas 
+bytes para estas 
 variables o tipos de datos.
 
 28
@@ -146,12 +146,12 @@ Digamos que tenemos un número entero A y
 
 29
 00:01:46,570 --> 00:01:49,630
-su valor es de 1025 y esta es
+su valor es 1025 y esta es
 
 30
 00:01:49,630 --> 00:01:54,490
 la forma en que se presenta en la memoria. 
-Cada soporte aquí es un byte.
+Cada corchete aquí es un byte.
 
 31
 00:01:54,490 --> 00:01:58,740
@@ -192,36 +192,36 @@ número entero está representado en la
 
 39
 00:02:24,040 --> 00:02:27,550
-memoria, se almacena en la memoria de los
+memoria, el bit más
 
 40
 00:02:27,550 --> 00:02:31,140
-que dejan la mayoría de las tiendas de
+a la izquierda
 
 41
 00:02:31,140 --> 00:02:34,910
-bits de información que el número entero si
+tiene la información de si el número entero
 
 42
 00:02:34,910 --> 00:02:35,330
-esta es positiva o negativa por lo que
+es positivo o negativo por lo que
 
 43
 00:02:35,330 --> 00:02:38,840
-también se denomina bit de signo y descanso
+también se denomina bit de signo y
 
 44
 00:02:38,840 --> 00:02:43,900
-31 bits se utilizan para almacenar el valor. 
-Así que si ves que tenemos un uno a
+los otros 31 bits se utilizan para almacenar 
+el valor. Así que si ves que tenemos un uno a
 
 45
 00:02:43,900 --> 00:02:46,920
-la derecha más bits con el valor de posición
+la derecha con el valor de posición
 
 46
 00:02:46,920 --> 00:02:50,900
-2 a la potencia cero y en este fragmento
+2 a la potencia cero y en este bit
 
 47
 00:02:50,900 --> 00:02:54,170
@@ -242,7 +242,7 @@ a un entero P y almacenar la dirección
 
 51
 00:03:05,650 --> 00:03:09,830
-de A en P mediante el operador Y comercial.
+de A en P mediante el operador &.
 
 52
 00:03:09,830 --> 00:03:12,849
@@ -255,7 +255,7 @@ El valor de P o la dirección almacenada
 54
 00:03:16,310 --> 00:03:21,400
 en P será 200 la dirección del byte 0. Así 
-que estamos tipo de decir que tenemos la 
+que podemos decir que tenemos la 
 dirección
 
 55
@@ -265,8 +265,8 @@ dirección 200.
 
 56
 00:03:25,560 --> 00:03:28,620
-Si nos eliminar la referencia de esta 
-dirección y tratar de
+Si desreferenciamos esta 
+dirección y tratamos de
 
 57
 00:03:28,620 --> 00:03:32,459
@@ -299,49 +299,48 @@ recupera el valor
 
 63
 00:03:49,959 --> 00:03:53,360
-de 1,025 de
+de 1025 de
 
 64
 00:03:53,360 --> 00:03:56,860
 estos cuatro bytes. Ahora bien, si P es un 
-puntero de
+puntero a
 
 65
 00:03:56,860 --> 00:04:00,209
-caracteres a continuación, mientras que la 
+caracteres, mientras que la 
 máquina de
 
 66
 00:04:00,209 --> 00:04:01,780
-eliminación de referencias se habría visto 
+desreferencia se habría visto 
 en un
 
 67
 00:04:01,780 --> 00:04:05,019
 solo byte, porque una variable de carácter 
-sólo es un byte. Si P es un puntero a flotar 
-a continuación, a
+sólo es un byte. Si P es un puntero a float,
 
 68
 00:04:05,019 --> 00:04:09,489
-pesar de flotación también se almacena en 
+también se almacena en 
 cuatro bytes, aunque
 
 69
 00:04:09,489 --> 00:04:13,200
-la información forma en que se ha escrito 
-para el
+la forma en que se ha escrito 
+la información para el
 
 70
 00:04:13,200 --> 00:04:16,540
-flotador en estos cuatro bytes es diferente 
+float en estos cuatro bytes es diferente 
 de la forma
 
 71
 00:04:16,540 --> 00:04:20,540
 en que la información se escribe para un 
 tipo de datos entero. Por lo que el valor 
-impreso hubiera sido otra cosa.
+hubiera sido otra cosa.
 
 72
 00:04:20,540 --> 00:04:24,350
@@ -368,17 +367,17 @@ dirección
 
 77
 00:04:39,009 --> 00:04:42,900
-de la 'a' en 'p' usando el operador de 
-signo. Ahora voy a escribir una declaración 
+de 'a' en 'p' usando el operador &.
+Ahora voy a escribir una sentencia 
 de impresión
 
 78
 00:04:42,900 --> 00:04:45,979
-como este tamaño de número entero es y
+con sizeof int.
 
 79
 00:04:45,979 --> 00:04:49,810
-tenemos una función sizeof en C que nos
+Tenemos una función sizeof en C que nos
 
 80
 00:04:49,810 --> 00:04:53,440
@@ -390,12 +389,12 @@ particular, en bytes, y ahora voy a escribir
 
 82
 00:04:57,660 --> 00:05:00,910
-una declaración de impresión de este tipo, la
+una sentencia de impresión de este tipo, la
 
 83
 00:05:00,910 --> 00:05:04,300
 dirección es igual a 'p 'y el valor es igual 
-a' * p '. Nos dereference 'p'
+a' * p '. Desreferenciamos 'p'
 
 84
 00:05:04,300 --> 00:05:07,900
@@ -404,8 +403,8 @@ que es la salida de este
 
 85
 00:05:07,900 --> 00:05:11,720
-programa no hay puntos por adivinar esto es 
-bastante sencillo el
+programa. No hay puntos por adivinar esto es 
+bastante sencillo. El
 
 86
 00:05:11,720 --> 00:05:15,590
@@ -449,17 +448,17 @@ un entero.
 
 94
 00:05:40,919 --> 00:05:44,600
-Entonces, ¿qué vamos a hacer aquí es 
-encasillado 'p'
+Entonces, lo qué vamos a hacer aquí es 
+typecasting de 'p'
 
 95
 00:05:44,600 --> 00:05:47,669
-al puntero del personaje y luego asignar el 
+al puntero a caracter y luego asignar el 
 valor
 
 96
 00:05:47,669 --> 00:05:52,169
-y ahora va a escribir dos más sentencias de 
+y ahora escribir dos más sentencias de 
 impresión.
 
 97
@@ -479,28 +478,27 @@ es '* P0'
 
 100
 00:06:04,919 --> 00:06:06,910
-por lo que eliminar la referencia de que 
-tratamos de eliminar la
+por lo que 
+tratamos  desreferenciar
 
 101
 00:06:06,910 --> 00:06:11,580
-referencia 'p0' ahora y veamos lo que es 
-ahora la salida de
+'p0' ahora y veamos lo que es 
+la salida de
 
 102
 00:06:11,580 --> 00:06:12,910
-la primera línea de salida es el tamaño del 
+la primera línea de salida. El tamaño del 
 número entero de
 
 103
 00:06:12,910 --> 00:06:16,289
-4 bytes de dirección, porque nos estamos 
-quedando el programa fresca esta
+4 bytes, la dirección, porque nos estamos 
+ejecutando el programa de nuevo
 
 104
 00:06:16,289 --> 00:06:19,650
-dirección no será la dirección anterior, la 
-dirección de la ejecución anterior.
+la dirección no será la dirección anterior.
 
 105
 00:06:19,650 --> 00:06:23,490
@@ -509,7 +507,7 @@ desreferenciando el puntero
 
 106
 00:06:23,490 --> 00:06:25,240
-número entero que estamos recibiendo el 
+a entero estamos recibiendo el 
 valor 1025.
 
 107
@@ -543,7 +541,7 @@ cuando hacemos
 
 113
 00:06:48,400 --> 00:06:51,970
-este tipo de colada aquí tratando de 
+este tipo de casting aquí tratando de 
 almacenar la
 
 114
@@ -553,17 +551,17 @@ dirección de
 
 115
 00:06:55,199 --> 00:06:58,310
-este particular, byte del byte de la derecha 
+este particular, el byte más a la derecha 
 se almacena en 'p0'.
 
 116
 00:06:58,310 --> 00:07:02,810
-Pero cuando desreferenciar 'p0' porque 'p0' 
+Pero cuando desreferenciamos 'p0' porque 'p0' 
 es un puntero al carácter
 
 117
 00:07:02,810 --> 00:07:05,280
-de las máquinas decir que bueno esto es un 
+la máquina dice que bueno esto es un 
 puntero a
 
 118
@@ -573,7 +571,7 @@ byte por lo
 
 119
 00:07:10,460 --> 00:07:14,009
-que se verá en un solo byte para ver el valor
+que verá un solo byte para ver el valor
 
 120
 00:07:14,009 --> 00:07:17,030
@@ -583,8 +581,8 @@ sistema binario
 121
 00:07:17,030 --> 00:07:21,930
 es 1 y es por eso que esta salida aquí es 
-uno. OK, voy a escribir dos más sentencias 
-de impresión ahora uno para imprimir la
+uno. OK, voy a escribir dos sentencias 
+de impresión más ahora. Uno para imprimir la
 
 122
 00:07:21,930 --> 00:07:27,139
@@ -612,7 +610,7 @@ de punteros que se permite es la adición
 
 127
 00:07:41,449 --> 00:07:46,330
-o sustracción de un valor constante entera 
+o sustracción de un valor constante 
 al puntero. p + 1 nos llevará a la dirección 
 del siguiente número entero,
 
@@ -641,12 +639,12 @@ es 4456036 eso
 
 133
 00:08:01,990 --> 00:08:06,000
-es lo que se asigna para "a" en esta carrera 
+es lo que se asigna para "a" en esta ejecución 
 en particular.
 
 134
 00:08:06,000 --> 00:08:12,470
-El valor es de 1025 p 445 más uno es 6040, 
+El valor es 1025, p más uno es 4456040, 
 si usted ve
 
 135
@@ -666,7 +664,7 @@ cuatro bytes
 
 138
 00:08:22,090 --> 00:08:26,319
-adelante y este valor es un valor de la
+adelante y este valor es un valor 
 
 139
 00:08:26,319 --> 00:08:29,889
@@ -679,9 +677,9 @@ en particular por lo que hay un poco de
 
 141
 00:08:30,590 --> 00:08:36,399
-basura en la memoria de la que estamos 
-recogiendo. Ahora abordar en 'p0' es también 
-4.456.036 que
+basura en la memoria que estamos
+leyendo. Ahora 'p0' es también 
+4456036 que
 
 142
 00:08:36,399 --> 00:08:40,019
@@ -693,7 +691,7 @@ menos significativo de la "a" el valor es 1.
 
 144
 00:08:43,190 --> 00:08:47,620
-Ahora p0 más uno es 4.456.037 aquí tenemos
+Ahora p0 más uno es 4456037 aquí tenemos
 
 145
 00:08:47,620 --> 00:08:51,140
@@ -701,8 +699,8 @@ un valor que es un byte más y
 
 146
 00:08:51,140 --> 00:08:54,410
-esto es porque el personaje se almacena en 
-uno bytes. Ahora el valor aquí es de cuatro, 
+esto es porque el caracter se almacena en 
+un byte. Ahora el valor aquí es de cuatro, 
 si
 
 147
@@ -725,7 +723,7 @@ en la
 
 151
 00:09:07,820 --> 00:09:11,090
-memoria cuando eliminar la referencia de una 
+memoria cuando desreferenciamos una 
 variable puntero usando
 
 152
@@ -740,7 +738,7 @@ de puntero en particular.
 
 154
 00:09:17,380 --> 00:09:20,780
-Este tipo de fundición de variable de 
+Este tipo de casting de variable de 
 puntero de
 
 155
@@ -751,11 +749,11 @@ uso. Vamos a discutir más adelante.
 156
 00:09:24,810 --> 00:09:29,400
 Ahora vamos a hablar de un tipo de puntero 
-genérico que es un tipo de puntero.
+genérico que es un tipo de puntero
 
 157
 00:09:29,400 --> 00:09:33,950
-Que no se corresponde con un tipo de datos
+que no se corresponde con un tipo de datos
 
 158
 00:09:33,950 --> 00:09:34,560
@@ -764,12 +762,12 @@ puntero
 
 159
 00:09:34,560 --> 00:09:37,840
-nulo y declarar este tipo de puntero en 
+a void y declarar este tipo de puntero en 
 particular
 
 160
 00:09:37,840 --> 00:09:41,910
-mediante el uso de la palabra clave vacío y
+mediante el uso de la palabra clave void y
 
 161
 00:09:41,910 --> 00:09:45,940
@@ -803,25 +801,24 @@ podemos
 
 167
 00:10:03,790 --> 00:10:08,130
-eliminar la referencia de esta variable 
+desreferenciar de esta variable 
 puntero en particular. Así que si
 
 168
 00:10:08,130 --> 00:10:08,770
-intenta imprimir estrella
+intenta imprimir 
 
 169
 00:10:08,770 --> 00:10:11,870
-'p0' o 'p0'
+*p0
 
 170
 00:10:11,870 --> 00:10:16,020
-asterisco esto le Estamos recibiendo un 
-error de compilación.
+esto le da un error de compilación.
 
 171
 00:10:16,020 --> 00:10:21,470
-sólo podemos imprimir la dirección y como 
+Sólo podemos imprimir la dirección y como 
 podemos ver aquí
 
 172
