@@ -10,12 +10,12 @@ visto en nuestras lecciones anteriores.
 
 2
 00:00:07,590 --> 00:00:12,099
-Los conceptos de apuntadores y arreglos van 
+Los conceptos de punteros y arreglos van 
 de la mano. Ya hemos hablado de los punteros
 
 3
 00:00:12,099 --> 00:00:14,839
-en el contexto de matrices unidimensionales
+en el contexto de matrices unidimensionales,
 
 4
 00:00:14,839 --> 00:00:19,030
@@ -33,7 +33,7 @@ bidimensional o una imagen tridimensional
 
 7
 00:00:23,250 --> 00:00:27,100
-o una matriz multi-dimensional en generales 
+o una matriz multi-dimensional en general 
 utilizando punteros.
 
 8
@@ -47,8 +47,8 @@ matrices
 
 10
 00:00:32,660 --> 00:00:37,499
-multidimensionales se organizan en memoria 
-de computadoras. Primero vamos a volver a la
+multidimensionales se organizan en memoria.
+Primero vamos a volver a la
 
 11
 00:00:37,499 --> 00:00:40,760
@@ -58,8 +58,8 @@ unidimensional algo como esto,
 
 12
 00:00:40,760 --> 00:00:45,329
-digamos que estamos declarando un número 
-entero matriz "A"
+digamos que estamos declarando una 
+matriz de enteros "A"
 
 13
 00:00:45,329 --> 00:00:51,199
@@ -73,12 +73,12 @@ cinco variables enteras
 
 15
 00:00:54,749 --> 00:00:58,059
-diferentes que nosotros puede nombrar a [0], 
-A [1],
+diferentes que nosotros podemos nombrar A[0], 
+A[1],
 
 16
 00:00:58,059 --> 00:01:01,229
-A [2], A [3] y A [4] como un bloque contiguo 
+A[2], A[3] y A[4] como un bloque contiguo 
 de memoria.
 
 17
@@ -87,12 +87,12 @@ Lo que estoy mostrando aquí es una sección
 
 18
 00:01:04,780 --> 00:01:07,869
-de la matriz de memoria ordenadores "A" 
-digamos
+de la memoria de la matriz  "A". 
+Digamos
 
 19
 00:01:07,869 --> 00:01:10,869
-que está almacenada en la sección de la
+que está almacenada en esta sección de la
 
 20
 00:01:10,869 --> 00:01:14,110
@@ -112,7 +112,7 @@ que es
 
 23
 00:01:21,770 --> 00:01:25,899
-lo que se necesita en un compilador típica 
+lo que se necesita en un compilador típico 
 entonces
 
 24
@@ -122,18 +122,18 @@ dirección 200
 
 25
 00:01:28,920 --> 00:01:33,549
-será A [0] como yo "m mostrando aquí, bloque
+será A[0] como yo estoy mostrando aquí, bloque
 
 26
 00:01:33,549 --> 00:01:36,829
 de cuatro bytes que comienzan dirección 204 
-será a
+será A[1]
 
 27
 00:01:36,829 --> 00:01:42,570
-[1] siguiente bloque de cuatro bytes que 
-comienzan dirección 208 será un [2] y así 
-sucesivamente. Voy a llenar en algunos 
+el siguiente bloque de cuatro bytes que 
+comienzan dirección 208 será A[2] y así 
+sucesivamente. Voy a llenar algunos 
 valores aquí.
 
 28
@@ -149,7 +149,7 @@ entonces esto está bien si
 30
 00:01:47,359 --> 00:01:51,850
 sólo utiliza un nombre de variable "A" a 
-continuación, nombre
+continuación, el nombre
 
 31
 00:01:51,850 --> 00:01:55,590
@@ -175,11 +175,11 @@ una
 35
 00:02:09,379 --> 00:02:14,670
 declaración como int * p igual A. Puedo usar 
-la aritmética de punteros y eliminación de
+la aritmética de punteros y desreferenciar
 
 36
 00:02:14,670 --> 00:02:18,050
-referencias para acceder a todos los 
+para acceder a todos los 
 elementos de la matriz. Si yo sólo trato de 
 imprimir
 
@@ -189,25 +189,25 @@ la dirección almacenada en 'P' y
 
 38
 00:02:21,310 --> 00:02:22,970
-no estoy usando sentencia printf completo
+no estoy usando sentencia printf completa
 
 39
 00:02:22,970 --> 00:02:25,989
-aquí mi salida será de 200,
+aquí, mi salida será 200,
 
 40
 00:02:25,989 --> 00:02:29,769
-si yo simplemente trato de eliminar
+si yo simplemente trato de
 
 41
 00:02:29,769 --> 00:02:33,140
-la referencia "P" entonces la salida será de 
-2. Si me gustaría tratar de imprimir algo 
+dedreferenciar "P" entonces la salida será 
+2. Si quisiera tratar de imprimir algo 
 así como
 
 42
 00:02:33,140 --> 00:02:36,519
-* (p + 2), entonces la salida será de
+*(p+2), entonces la salida será
 
 43
 00:02:36,519 --> 00:02:39,670
@@ -227,21 +227,20 @@ nos llevará
 46
 00:02:48,459 --> 00:02:49,030
 a la dirección del lado siguiente, que será 
-de
 
 47
 00:02:49,030 --> 00:02:53,629
-8 bytes por delante si queremos ser de 
-impresión
+8 bytes por delante si queremos 
+imprimir
 
 48
 00:02:53,629 --> 00:02:58,090
-(P + 2) será 208 y si quisiéramos eliminar
+(P + 2) será 208 y si quisiéramos 
 
 49
 00:02:58,090 --> 00:03:01,200
-la referencia y nos gustaría imprimir * (p + 
-2), entonces será el valor 6.
+desreferenciar e imprimir 
+*(p+2), entonces será el valor 6.
 
 50
 00:03:01,200 --> 00:03:05,120
@@ -256,11 +255,10 @@ podemos utilizar el nombre
 52
 00:03:08,799 --> 00:03:12,530
 de la matriz como un puntero para toda la 
-eliminación de
 
 53
 00:03:12,530 --> 00:03:18,060
-referencias a lo que en lugar de hacer todo 
+desreferenciacion a lo que en lugar de hacer todo 
 esto de
 
 54
@@ -270,15 +268,15 @@ con "A" seguirá siendo la mismo.
 
 55
 00:03:22,060 --> 00:03:25,310
-De hecho * (A + i) es igual a
+De hecho * (A + i) es igual
 
 56
 00:03:25,310 --> 00:03:29,040
-[i], se trata de sintaxis alternativa y (A +
+A[i], se trata de sintaxis alternativa (A+i)
 
 57
 00:03:29,040 --> 00:03:32,420
-i) es igual a & a [i] tanto nos
+es igual a &A[i] tanto nos
 
 58
 00:03:32,420 --> 00:03:36,220
@@ -297,7 +295,7 @@ desreferenciar y la aritmética.
 
 61
 00:03:44,040 --> 00:03:47,769
-No es parecer como una variable de puntero 
+No es una variable de puntero 
 para que podamos
 
 62
@@ -349,12 +347,12 @@ Estamos creando dos matrices unidimensionales
 
 72
 00:04:24,100 --> 00:04:27,330
-de tres elementos cada uno. Esta vez B [0] y 
-B
+de tres elementos cada uno. Esta vez B[0] y 
+B[1]
 
 73
 00:04:27,330 --> 00:04:31,470
-[1] son ​​ambas matrices unidimensionales de
+son ambas matrices unidimensionales de
 
 74
 00:04:31,470 --> 00:04:34,680
@@ -379,12 +377,12 @@ de 12 bytes que comienzan dirección 400 será
 
 79
 00:04:51,060 --> 00:04:55,050
-b [0] y el siguiente bloque de 12
+B[0] y el siguiente bloque de 12
 
 80
 00:04:55,050 --> 00:04:58,440
-bytes que comienzan dirección 412 será de B 
-[1]. Como habíamos fijado nombre de la 
+bytes que comienzan dirección 412 será de B[1].
+Como habíamos fijado nombre de la 
 matriz devuelve un
 
 81
@@ -404,12 +402,12 @@ por lo que
 
 84
 00:05:09,930 --> 00:05:13,810
-si me gustaría escribir una declaración como 
-esta int
+si quisiera escribir una declaración como 
+esta int * P igual B,
 
 85
 00:05:13,810 --> 00:05:17,380
-* P igual B, entonces esto me dará un
+entonces esto me dará un
 
 86
 00:05:17,380 --> 00:05:21,600
@@ -422,11 +420,11 @@ array 1-D de 3 enteros y no sólo un
 
 88
 00:05:25,620 --> 00:05:29,490
-puntero a un entero, el tipo de una materia
+puntero a un entero, el tipo del
 
 89
 00:05:29,490 --> 00:05:32,960
-puntero no cuando usted tiene que leer la 
+puntero importa cuando usted tiene que leer la 
 dirección,
 
 90
@@ -453,7 +451,7 @@ voy a equiparar esto con "P" esto es
 
 95
 00:05:48,789 --> 00:05:53,139
-todo Equate derecho 'B' por 'P', esta vez
+todo igualar 'B' y 'P', esta vez
 
 96
 00:05:53,139 --> 00:05:56,400
@@ -461,16 +459,16 @@ si me acaba de imprimir 'B' que es
 
 97
 00:05:56,400 --> 00:06:00,590
-igual que la impresión de la dirección de B 
-[0] esto será 400.
+igual que la impresión de la dirección de 
+B[0] esto será 400.
 
 98
 00:06:00,590 --> 00:06:04,550
-Si se imprimirá * B que será igual que
+Si se imprimiera *B que será igual que
 
 99
 00:06:04,550 --> 00:06:08,060
-la B [0], entonces B [0] en esta ocasión
+la B[0], entonces B[0] en esta ocasión
 
 100
 00:06:08,060 --> 00:06:12,030
@@ -484,26 +482,26 @@ nombre
 
 102
 00:06:15,410 --> 00:06:19,910
-de B [0] devolverá nos puntero a la primer
+de B[0] devolverá nos puntero a la primer
 
 103
 00:06:19,910 --> 00:06:23,759
-entero en B [0], que se convierte en B
+entero en B[0], que se convierte en B
 
 104
 00:06:23,759 --> 00:06:25,310
-[0] [0], así que estoy poniendo esto 'y' 
-firmar aquí, delante de B [0] [0].
+[0][0], así que estoy poniendo este '&' 
+aquí, delante de B[0][0].
 
 105
 00:06:25,310 --> 00:06:29,770
-En primer número entero en B [0] será este 
+El primer número entero en B[0] será este 
 bloque
 
 106
 00:06:29,770 --> 00:06:33,860
 de cuatro bytes su dirección una vez más es 
-de 400.
+400.
 
 107
 00:06:33,860 --> 00:06:37,400
@@ -512,16 +510,16 @@ de
 
 108
 00:06:37,400 --> 00:06:40,470
-cuatro bytes cada uno, tanto en B [0]
+cuatro bytes cada uno, tanto en B[0]
 
 109
 00:06:40,470 --> 00:06:43,910
-y B [1], y también lleno en algunos valores. 
+y B[1], y también lleno en algunos valores. 
 Ahora voy a escribir algunas declaraciones
 
 110
 00:06:43,910 --> 00:06:47,910
-grabados y quiero que adivine la salida.
+y quiero que adivine la salida.
 
 111
 00:06:47,910 --> 00:06:50,910
@@ -529,7 +527,7 @@ grabados y quiero que adivine la salida.
 
 112
 00:06:50,910 --> 00:06:56,610
-a tratar de impresión B + 1. Voy a escribir 
+a tratar de imprimir B+1. Voy a escribir 
 la dirección de cada bloque de cuatro
 
 113
@@ -543,7 +541,7 @@ bloque.
 
 115
 00:07:02,550 --> 00:07:05,830
-Bueno por lo cuál será el valor de B + 1.
+Bueno por lo cuál será el valor de B+1.
 
 116
 00:07:05,830 --> 00:07:09,060
@@ -583,21 +581,21 @@ en bytes, por lo que la salida será 412
 
 124
 00:07:33,039 --> 00:07:36,419
-que tiene sentido porque B + 1 es igual
+que tiene sentido porque B+1 es igual
 
 125
 00:07:36,419 --> 00:07:38,330
-a & B [1], o dirección de B [1] y la 
-dirección de B [1] es 412.
+a &B[1], o dirección de B[1] y la 
+dirección de B[1] es 412.
 
 126
 00:07:38,330 --> 00:07:42,340
-Bueno, ahora lo que si imprimo * (B + 1), 
+Bueno, ahora si imprimo *(B+1), 
 cuando
 
 127
 00:07:42,340 --> 00:07:46,670
-estamos poniendo muestras del asterisco 
+estamos poniendo el asterisco 
 cuando estamos tratando de eliminar la
 
 128
@@ -609,16 +607,16 @@ tres
 
 129
 00:07:51,280 --> 00:07:52,440
-números enteros, por lo que B + 1 también es
+números enteros, por lo que B+1 también es
 
 130
 00:07:52,440 --> 00:07:56,800
-un puntero a una sola dimensión gama de 3 
+un puntero a un arreglo de 3 
 enteros
 
 131
 00:07:56,800 --> 00:08:01,150
-y cuando vamos a eliminar la referencia 
+y cuando vamos a desreferenciar
 obtendremos toda esta
 
 132
@@ -628,23 +626,23 @@ enteros a partir de direcciones 412.
 
 133
 00:08:03,630 --> 00:08:07,910
-* (B + 1) es igual a B [1] por lo que 
-obtendrá B [1].
+*(B+1) es igual a B[1] por lo que 
+obtendrá B[1].
 
 134
 00:08:07,910 --> 00:08:11,860
-Ahora B imprimir [1] que consiste en 
+Ahora imprimo B[1] que consiste en 
 utilizar el
 
 135
 00:08:11,860 --> 00:08:16,560
-nombre de esta matriz unidimensional B [1] 
+nombre de esta matriz unidimensional B[1] 
 lo que
 
 136
 00:08:16,560 --> 00:08:22,240
 nos debe devolver el puntero al primer 
-entero en B [1]. Así * (B + 1) es básicamente
+entero en B[1]. Así *(B+1) es básicamente
 
 137
 00:08:22,240 --> 00:08:28,190
@@ -653,15 +651,15 @@ Una vez más, esta salida será 412.
 
 138
 00:08:28,190 --> 00:08:32,080
-Todas estas expresiones * (B + 1)
+Todas estas expresiones *(B+1)
 
 139
 00:08:32,080 --> 00:08:35,170
-o B [1] o & B [1]
+o B[1] o &B[1][0]
 
 140
 00:08:35,170 --> 00:08:40,440
-[0] están regresando nos puntero a entero. 
+están retornandonos puntero a entero. 
 Está bien ahora tiene que prepararse porque
 
 141
@@ -671,15 +669,15 @@ voy a darle algunos difíciles de descifrar.
 
 142
 00:08:44,590 --> 00:08:47,730
-a imprimir * (B + 1)
+a imprimir *(B+1)+2
 
 143
 00:08:47,730 --> 00:08:50,960
-+2 tomar algún tiempo y pensar en ello.
+tomar algún tiempo y pensar en ello.
 
 144
 00:08:50,960 --> 00:08:54,430
-* (B + 1) como vimos arriba,
+*(B+1) como vimos arriba,
 
 145
 00:08:54,430 --> 00:08:59,060
@@ -687,16 +685,16 @@ devolverá un puntero entero en primer entero
 
 146
 00:08:59,060 --> 00:09:02,540
-en B [1], al entero en la dirección 412. La 
+en B[1], al entero en la dirección 412. La 
 adición de 2 aquí se realiza la aritmética de
 
 147
 00:09:02,540 --> 00:09:05,610
-punteros porque * (B + 1) es un puntero a
+punteros porque *(B+1) es un puntero a
 
 148
 00:09:05,610 --> 00:09:11,030
-un entero almacenar esta dirección 412 
+un entero almacenado en la dirección 412 
 añadiendo 2 que está
 
 149
@@ -710,22 +708,21 @@ que significa saltarse 8 bytes y e ir a la
 
 151
 00:09:19,520 --> 00:09:23,780
-referencia entero en la dirección 420 * (B + 
-1)
+referencia entero en la dirección 420 *(B+1)
 
 152
 00:09:23,780 --> 00:09:29,080
-en esta expresión se puede escribir como B 
-[1] simplemente
+en esta expresión se puede escribir como B[1]
+simplemente
 
 153
 00:09:29,080 --> 00:09:32,640
-B [1], ya que son sustitutos entre sí existe 
+B[1], ya que son sustitutos entre sí existe 
 la sintaxis, se alternan.
 
 154
 00:09:32,640 --> 00:09:36,610
-Así que este es un igual que la B [1]
+Así que este es un igual que la B[1]
 
 155
 00:09:36,610 --> 00:09:39,950
@@ -739,8 +736,7 @@ este elemento
 
 157
 00:09:43,570 --> 00:09:46,980
-B [1] [2] y por eso también podemos & B [1] 
-[2].
+B[1][2] y por eso también podemos &B[1][2].
 
 158
 00:09:46,980 --> 00:09:51,280
@@ -749,7 +745,7 @@ Vamos a hacer una copia de impresión más.
 
 159
 00:09:51,280 --> 00:09:54,740
-Si usted puede conseguir este derecho, puedo
+Si usted puede conseguir este, puedo
 
 160
 00:09:54,740 --> 00:09:58,440
@@ -762,7 +758,7 @@ que será
 
 162
 00:10:02,350 --> 00:10:06,410
-la salida para esta expresión * (* B + 1).
+la salida para esta expresión *(*B+1).
 
 163
 00:10:06,410 --> 00:10:10,860
@@ -848,7 +844,7 @@ básicamente
 
 181
 00:11:13,480 --> 00:11:18,470
-& B [0] [1] y con
+&B[0][1] y con
 
 182
 00:11:18,470 --> 00:11:22,290
@@ -857,12 +853,12 @@ deshacerse
 
 183
 00:11:22,290 --> 00:11:25,600
-de este "y" expresión por lo
+de este "&" por lo
 
 184
 00:11:25,600 --> 00:11:29,160
-general será de B [0] [1], que es de tres. 
-Para una matriz bidimensional B [i] [j],
+general será de B[0][1], que es de tres. 
+Para una matriz bidimensional B[i][j],
 
 185
 00:11:29,160 --> 00:11:33,750
@@ -870,7 +866,7 @@ donde "B" es el nombre de mi
 
 186
 00:11:33,750 --> 00:11:37,220
-matriz bidimensional y 'I' y 'j' son
+matriz bidimensional y 'i' y 'j' son
 
 187
 00:11:37,220 --> 00:11:40,410
@@ -882,11 +878,11 @@ algunos índices pueden escribirse como * (B
 
 189
 00:11:43,750 --> 00:11:47,510
-B [i] se puede escribir como *
+B[i] se puede escribir como
 
 190
 00:11:47,510 --> 00:11:50,610
-(B + i), por lo que estas tres expresiones 
+*(B+i), por lo que estas tres expresiones 
 son iguales.
 
 191
