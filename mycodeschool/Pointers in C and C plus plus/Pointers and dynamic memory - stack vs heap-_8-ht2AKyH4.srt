@@ -1101,9 +1101,9 @@ castings, como malloc retorna void
 
 209
 00:17:03,550 --> 00:17:07,829
-y tenemos que castearlo de nuevo a pountero a
-entero. Operadores new y delete typesafe.
-Lo que significa es, que se
+y tenemos que castearlo de nuevo a puntero a
+entero. Los operadores new y delete son tipados.
+Lo que significa es que se
 
 210
 00:17:07,829 --> 00:17:12,720
