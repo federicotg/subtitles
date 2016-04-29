@@ -36,13 +36,13 @@ Supongamos que los incrementos de dirección a
 00:00:38,769 --> 00:00:44,440
 medida que van de izquierda a derecha. Así 
 que si este byte está en la dirección 200, 
-el siguiente byte sería en
+el siguiente byte está en
 
 7
 00:00:44,440 --> 00:00:52,489
-la dirección 201 y el siguiente byte sería 
+la dirección 201 y el siguiente byte 
 en la dirección 202 y así sucesivamente. 
-Ahora digamos que en mi programa que he 
+Ahora digamos que en mi programa he 
 declarado una
 
 8
@@ -53,17 +53,17 @@ programa se
 
 9
 00:01:02,969 --> 00:01:07,509
-ejecutará, cierta cantidad de memoria
+ejecuta, cierta cantidad de memoria
 
 10
 00:01:07,509 --> 00:01:14,780
 se asignará para esta variable x. En una 
-arquitectura típica de un compilador típica, 
-número entero se almacena
+arquitectura típica y compilador típico, 
+un número entero se almacena
 
 11
 00:01:14,780 --> 00:01:22,619
-en 4 bytes, por lo tanto 4 bytes se asignará 
+en 4 bytes, por lo tanto 4 bytes se asignarán 
 para x. Por lo tanto, digamos que estos 4 
 bytes en la dirección 225,
 
