@@ -1,7 +1,7 @@
 0
 00:00:00,480 --> 00:00:07,899
 En esta lección vamos a hablar de punteros 
-como el tipo de cambio de funciones. Puntero 
+como tipo de retorno de funciones. Un puntero 
 es simplemente
 
 1
@@ -30,23 +30,22 @@ Voy a empezar por escribir algo de código.
 00:00:28,429 --> 00:00:34,079
 Ahora quiero escribir un programa en C muy 
 simple al principio. Quiero escribir una 
-función de complementos, que tendrá dos 
-enteros
+función Add, que recibe dos enteros
 
 6
 00:00:34,079 --> 00:00:40,300
-como argumentos y resumir estos dos números 
-y devolver la suma.
+como argumentos, los suma 
+y devuelve la suma.
 
 7
 00:00:40,300 --> 00:00:46,129
-Así que digamos que declaramos otra variable 
-es igual a
+Así que digamos que declaramos una variable 
+c y c es igual a
 
 8
 00:00:46,129 --> 00:00:52,440
-C y C a + b y la función devuelve c. Ahora 
-en el principal método que voy a inicializar 
+a + b y la función devuelve c. Ahora 
+en el principal voy a inicializar 
 dos variables. Vamos a nombrar estas
 
 9
@@ -61,7 +60,7 @@ retorno de esta
 
 11
 00:01:06,070 --> 00:01:14,660
-función Añadir y vamos a pasar x e y como 
+función Add y vamos a pasar x e y como 
 argumentos para esta función. Por último, 
 voy a imprimir algo como suma es igual a z. 
 No es difícil
@@ -79,19 +78,19 @@ y, z son variables locales
 
 14
 00:01:30,080 --> 00:01:36,360
-a la función principal y a, b, y c son local 
-para agregar la función. Lo que realmente 
+a la función principal y a, b, y c son 
+locales a Add. Lo que realmente 
 sucede cuando llamamos a la función Add es 
 que el valor
 
 15
 00:01:36,360 --> 00:01:44,860
 de esta variable x del principal se copia a 
-la variable A de Agregar. Y el valor de a de
+la variable A de Add. Y el valor de a de
 
 16
 00:01:44,860 --> 00:01:51,780
-principal se copia en B del complemento. ¿Y 
+principal se copia en B de Add. ¿Y 
 si llamamos a estas variables en el principal
 
 17
@@ -102,35 +101,35 @@ vez lo que diremos es que el valor de a
 
 18
 00:01:58,710 --> 00:02:05,480
-en la principal se copia en una de Add y el
+en la principal se copia en a de Add y el
 
 19
 00:02:05,480 --> 00:02:07,100
-valor de b en el principal se copia a B de 
-Agregar.
+valor de b en el principal se copia a b de 
+Add.
 
 20
 00:02:07,100 --> 00:02:13,500
-Este es un principal y en esto una en 
-Agregar. No son lo mismo. Esto se puede 
+Este es a de principal y esto a en 
+Add. No son lo mismo. Esto se puede 
 comprobar mediante
 
 21
 00:02:13,500 --> 00:02:20,209
 la impresión de algo como esto. Estoy 
-imprimiendo las direcciones de estos dos 'de 
-una en mi código y como se puede
+imprimiendo las direcciones de estos dos 
+y como se puede
 
 22
 00:02:20,209 --> 00:02:28,750
 ver en la dirección de un principal es algo 
-así como 2.883.032 y en Agregar Es 
+así como 2.883.032 y en Add Es 
 2.882.792. Así que no
 
 23
 00:02:28,750 --> 00:02:33,480
 son lo mismo. Esto significa que estas 
-variables no son los mismos. Están en 
+variables no son la misma. Están en 
 diferentes
 
 24
@@ -142,27 +141,27 @@ direcciones de memoria.
 Los nombres de las variables son locales o 
 específicos de una función en particular. En 
 nuestro ejemplo, el método o la principal 
-función puede ser
+puede ser
 
 26
 00:02:40,749 --> 00:02:46,840
-llamada función de "llamada" y la función de 
-complementos que puede
+llamada función llamadora y la función 
+Add puede
 
 27
 00:02:46,840 --> 00:02:52,930
-llamarse "llamada" función en esta llamada 
+llamarse llamada en esta llamada 
 particular, cuando estamos diciendo que
 
 28
 00:02:52,930 --> 00:02:59,030
-c es igual a Agregar y pasando a y b . Y 
+c es igual a Add y pasando a y b . Y 
 esta llamada donde a y b en el principal 
 están siendo copiados
 
 29
 00:02:59,030 --> 00:03:06,579
-a a y b en complemento, esto se llama una 
+a a y b en Add, esto se llama una 
 llamada por valor.
 
 30
@@ -178,12 +177,12 @@ que quiero pasar la dirección de
 
 32
 00:03:18,260 --> 00:03:24,689
-una y la dirección de b para la función Add. 
+a y la dirección de b a la función Add. 
 Por lo que la firma de función Add
 
 33
 00:03:24,689 --> 00:03:31,060
-debe ser tal que deben recibir las 
+debe ser tal que debe recibir las 
 direcciones. Así que voy a decir que, de 
 acuerdo, se necesitan 2 punteros a enteros a 
 y b. Y ahora podemos acceder a los valores 
@@ -204,14 +203,14 @@ principal y
 
 36
 00:03:46,430 --> 00:03:52,439
-en la función de añadir, a y b no son 
+en la función Add, a y b no son 
 variables enteras. a y b son variables
 
 37
 00:03:52,439 --> 00:04:01,650
 de puntero, el puntero a enteros. Por lo que 
 su tipo es diferente. No están int, son int 
-* Pero,
+*. Pero,
 
 38
 00:04:01,650 --> 00:04:07,159
@@ -222,7 +221,7 @@ al fin y al cabo, también son
 variables que son locales a la función add. 
 Es sólo que no son números enteros. Y ahora 
 que estoy usando estas dos variables que son 
-números enteros puntero para
+punteros a int para
 
 40
 00:04:12,749 --> 00:04:19,570
@@ -243,37 +242,37 @@ tratado de imprimir una y he tratado de
 
 43
 00:04:30,550 --> 00:04:37,800
-imprimir un * e inicialmente estaba imprimir 
-y escribir una. Así que ahora & a nosotros 
+imprimir un * e inicialmente  imprimo
+a. Así que ahora &a nos 
 debe
 
 44
 00:04:37,800 --> 00:04:43,120
-dar la dirección de la variable puntero. un 
-debe nos da la dirección de una de 
+dar la dirección de la variable puntero. a
+nos da la dirección de a de 
 principal, porque eso es lo que
 
 45
 00:04:43,120 --> 00:04:50,440
-esta variable almacena y un * deben darnos 
+esta variable almacena y un * debe darnos 
 el valor de a en la principal. Veamos en
 
 46
 00:04:50,440 --> 00:04:59,020
 la salida. Ahora bien, como se puede ver 
-aquí, la dirección de un principal es en 
+aquí, la dirección de a principal es 
 3.537.612
 
 47
 00:04:59,020 --> 00:05:05,110
-y la dirección de una de Agregar es otra 
+y la dirección de a de Add es otra 
 cosa, pero el valor de a
 
 48
 00:05:05,110 --> 00:05:11,310
-en Añadir, que es la dirección de una de las 
-principales es igual a 3.537.612. Así que la 
-primera y la tercera líneas son iguales Y
+en Add, que es la dirección de a principal
+es igual a 3.537.612. Así que la 
+primera y la tercera líneas son iguales. Y
 
 49
 00:05:11,310 --> 00:05:17,540
@@ -284,30 +283,29 @@ valor que es igual a 2.
 00:05:17,540 --> 00:05:23,130
 Ahora voy a limpiar algunas de estas 
 declaraciones de impresión. Volviendo a 
-nuestra función suma,
+nuestra función Add,
 
 51
 00:05:23,130 --> 00:05:29,580
 estamos volviendo este valor c. Y una vez 
-más en el método principal, estamos 
+más en el principal, estamos 
 recogiendo
 
 52
 00:05:29,580 --> 00:05:37,140
 este valor c en otra variable que es de c 
 principal. Ahora ¿por qué no hacer algo como 
-pasar la dirección de esta c en función de 
-complementos.
+pasar la dirección de esta c a la función Add?
 
 53
 00:05:37,140 --> 00:05:41,130
-Entonces, ¿qué vamos a hacer ahora es 
-diremos que queremos volver puntero
+Entonces, lo que vamos a hacer ahora es 
+que queremos devolver puntero
 
 54
 00:05:41,130 --> 00:05:47,240
-al número entero de esta función y aquí 
-vamos a volver & c. Ahora y cuando se pone 
+al número entero en esta función y aquí 
+vamos a volver &c. Ahora y cuando se pone 
 delante de
 
 55
@@ -331,7 +329,7 @@ hacer es modificamos esta
 
 58
 00:06:07,470 --> 00:06:13,910
-Añadir función para devolver un puntero a un 
+Add para devolver un puntero a un 
 entero. Hay dos sintaxis Podemos decir int y 
 luego poner este signo
 
@@ -342,8 +340,8 @@ signo delante
 
 60
 00:06:21,020 --> 00:06:28,470
-del nombre de la función Añadir y ambos son 
-estas sintaxis válida. Ahora bien, esta 
+del nombre de la función Add y ambas son 
+válidas. Ahora bien, esta 
 función devuelve
 
 61
@@ -359,8 +357,8 @@ así que la salida parece estar bien.
 
 63
 00:06:42,940 --> 00:06:48,820
-Ahora has cogido algún error lógico con este 
-código ya? Si no ha quedarse
+Ahora ¿hay algún error lógico con este 
+código ya? Si lo ves quedarte
 
 64
 00:06:48,820 --> 00:06:54,430
@@ -377,12 +375,12 @@ nombrar esta función PrintHelloWorld y en
 00:06:59,270 --> 00:07:05,050
 esta función que voy a escribir una 
 declaración de impresión sencilla. Ahora, 
-antes de imprimir esta suma, lo que haré es 
+antes de imprimir esta suma, lo que haré es.
 Voy a
 
 67
 00:07:05,050 --> 00:07:12,580
-llamar a esta función PrintHelloWorld () Y 
+llamar a esta función PrintHelloWorld. Y 
 vamos a ver qué pasa ahora. Vaya -
 
 68
@@ -467,59 +465,59 @@ está en la dirección 100 y b es
 00:08:36,399 --> 00:08:42,969
 en la dirección 112 y PTR es en la dirección 
 120. Sólo estoy haciendo estas suposiciones. 
-Ahora, cuando el principal método vendrá en 
+Ahora, cuando el principal vendrá en 
 esta línea en
 
 83
 00:08:42,969 --> 00:08:49,680
-la que se está llamando Añadir función, su 
+la que se está llamando a Add, su 
 ejecución se
 
 84
 00:08:49,680 --> 00:08:56,490
-detendrá y ahora la memoria será asignado 
-para la ejecución de Agregar. En cualquier 
-momento cualquier función es en la parte 
+detendrá y ahora la memoria será asignada 
+para la ejecución de Add. En cualquier 
+momento cualquier función que esté en la parte 
 superior de la pila se está ejecutando.
 
 85
 00:08:56,490 --> 00:09:03,610
-principal método esperará función de 
-complementos para completar y devolver. Aquí 
+Principal esperará que Add  termine
+y devuelva. Aquí 
 debo decir que a es igual a 2, b es
 
 86
 00:09:03,610 --> 00:09:09,430
-igual a 4 y ahora Añadir viene aquí en la 
-pila. Digamos Agregar consigue memoria desde 
+igual a 4 y ahora Add viene aquí en la 
+pila. Digamos Add consigue memoria en 
 130 a la 160 y
 
 87
 00:09:09,430 --> 00:09:18,040
-también tiene 3 Añadir variables locales - 
+también tiene 3 variables locales - 
 a, b y c. a y b son punteros a enteros.
 
 88
 00:09:18,040 --> 00:09:26,639
-El valor de una será 100 y el valor de b 
+El valor de a será 100 y el valor de b 
 será 112. Digamos que sus direcciones
 
 89
 00:09:26,639 --> 00:09:37,699
 son 130, 140 y 144. Una vez más, estos son 
 supuestos simplemente al azar. Ahora se 
-calcula como c
+calcula como c =
 
 90
 00:09:37,699 --> 00:09:45,699
-* a * b +. un apunte a esta ubicación y b 
-apunte a esta ubicación. * Un valor en la 
-dirección es almacenada en una y
+* a + * b. A apunta a esta ubicación y b 
+apunta a esta ubicación. * a es el valor de la 
+dirección almacenada en a y
 
 91
 00:09:45,699 --> 00:09:53,350
-b * es el valor en la dirección almacenada 
-en b. Por lo que este será el 6 c aquí.
+*b es el valor de la dirección almacenada 
+en b. Por lo que c será 6 aquí.
 
 92
 00:09:53,350 --> 00:09:59,360
@@ -536,7 +534,7 @@ ahora será
 94
 00:10:06,769 --> 00:10:13,319
 desasignado la memoria que se asigna a la 
-función Añadir. Ahora bien, esta memoria por 
+función Add. Ahora bien, esta memoria por 
 encima de dirección
 
 95
@@ -547,12 +545,11 @@ ptr almacena la dirección 144, la dirección
 
 96
 00:10:22,309 --> 00:10:27,699
-de este bloque en particular (que tipo de 
-puntos a este bloque en particular),
+de este bloque en particular,
 
 97
 00:10:27,699 --> 00:10:33,029
-la fecha que aquí no está garantizada, ya 
+el valor aquí no está garantizado, ya 
 que esta memoria ha sido desasignado. Ahora 
 llegamos aquí, a este PrintHelloWorld y ahora
 
@@ -587,12 +584,12 @@ PHW
 
 103
 00:11:03,309 --> 00:11:09,649
-- acceso directo para PrintHelloWorld. Y ha 
-sido sobre-escrito. Así que este bloque a
+- para PrintHelloWorld. Y ha 
+sido sobre-escrito. Así que este bloque
 
 104
 00:11:09,649 --> 00:11:16,199
-las 144 tiendas más valor 6. Así que cuando 
+en 144 almacenaba el valor 6. Así que cuando 
 llegamos aquí, en esta sentencia de 
 impresión, para imprimir
 
@@ -616,15 +613,15 @@ cualquier otra función después
 
 108
 00:11:32,490 --> 00:11:37,779
-de hacer una llamada a Añadir, mi máquina no 
-sobreescribir
+de hacer una llamada a Add, mi máquina no 
+sobreescribió
 
 109
 00:11:37,779 --> 00:11:45,360
-o borrar los datos en esa ubicación de 
+o borró los datos en esa ubicación de 
 memoria particular. Pero cuando tenía que 
-hacer una llamada a PrintHelloWorld que se 
-acostumbró memoria. Si ve, hemos pasado las 
+hacer una llamada a PrintHelloWorld sí se 
+usó memoria. Si ve, hemos pasado las 
 direcciones de estas dos
 
 110
@@ -647,30 +644,30 @@ Agregar, principal
 
 113
 00:12:01,399 --> 00:12:06,680
-se garantiza que sea en la memoria. Así 
+se garantiza que esté en la memoria. Así 
 direcciones de variables en
 
 114
 00:12:06,680 --> 00:12:11,540
-principal serán accesibles para Agregar. 
+principal serán accesibles para Add. 
 Pero si tratamos de devolver una variable 
-local de la llamada functionback a
+local de la función llamada a
 
 115
 00:12:11,540 --> 00:12:16,119
-la función de llamada - al igual que si 
-queremos volver una variable
+la función llamadora - al igual que si 
+queremos devolver una variable
 
 116
 00:12:16,119 --> 00:12:21,850
-local desde Añadir a la principal, cuando 
-ese acabados de función y el
+local desde Add a la principal, cuando 
+retorne la función y el
 
 117
 00:12:21,850 --> 00:12:27,730
-control vuelve de nuevo a la función de 
-llamada que la memoria ya ha sido 
-desasignado. Por lo que está bien para pasar 
+control vuelve de nuevo a la función
+llamadora la memoria ya ha sido 
+desasignada. Por lo que está bien pasar 
 algo de abajo hacia arriba en esta pila de
 
 118
@@ -685,7 +682,7 @@ hacia arriba en la pila pero no es buena
 
 120
 00:12:40,089 --> 00:12:45,139
-idea volver la dirección de una variable 
+idea devolver la dirección de una variable 
 local de arriba a abajo en la pila de 
 llamadas. Espero que
 
@@ -700,8 +697,8 @@ Así que ahora la pregunta obvia sería -
 
 123
 00:12:50,089 --> 00:12:56,449
-de uso en las que podemos desear para 
-devolver punteros de funciones. Bueno, si 
+de uso en las que podemos desear
+devolver punteros desde funciones. Bueno, si 
 tenemos la dirección de algún bloque de 
 memoria en la sección heap o
 
@@ -714,9 +711,9 @@ seguridad la dirección
 125
 00:13:01,269 --> 00:13:07,279
 de estos bloques porque cualquier cosa en la
-heap tiene que cancelar la asignación 
+heap tiene que liberarse en forma
 explícita. Tenemos el control de su 
-cancelación
+liberación
 
 126
 00:13:07,279 --> 00:13:14,029
@@ -725,9 +722,9 @@ todo lo que está en la sección global,
 
 127
 00:13:14,029 --> 00:13:21,069
-una variable global, vive para toda la 
+Una variable global, vive para toda la 
 duración del programa. Puedo usar malloc o 
-nuevo operador en C++
+new en C++
 
 128
 00:13:21,069 --> 00:13:22,790
@@ -754,18 +751,18 @@ memoria y el uso de
 132
 00:13:45,179 --> 00:13:51,129
 esta variable puntero ahora, podemos 
-escribir este valor - * a
+escribir este valor *a + *b
 
 133
 00:13:51,129 --> 00:13:57,759
-* b + - en ese bloque de memoria en 
+en ese bloque de memoria en 
 particular. Y luego podemos volver esta 
 dirección c, que es la misma dirección que
 
 134
 00:13:57,759 --> 00:14:03,259
 malloc nos devolverá, sino que estamos a 
-salvo porque ahora estamos volviendo 
+salvo porque ahora estamos devolviendo 
 dirección
 
 135
@@ -787,12 +784,12 @@ bloque y el
 138
 00:14:21,490 --> 00:14:26,949
 uso de c hemos escrito estos datos aquí, 
-este valor 6. Y ahora, cuando añadir 
-acabados, la dirección devuelta por la
+este valor 6. Y ahora, cuando Add 
+termina, la dirección devuelta por la
 
 139
 00:14:26,949 --> 00:14:34,459
-función de complementos que es la dirección 
+función de Add que es la dirección 
 500 sigue siendo válida. Todavía tenemos los 
 datos allí y que no vamos a cancelar la 
 asignación.
@@ -800,7 +797,7 @@ asignación.
 140
 00:14:34,459 --> 00:14:39,740
 Cualquier cosa en la heap tiene que 
-cancelar la asignación explícita. Así, 
+cancelar la asignación explícitamente. Así, 
 mientras que devolver punteros de funciones, 
 tenemos
 
@@ -808,28 +805,28 @@ tenemos
 00:14:39,740 --> 00:14:45,149
 que tener cuidado con el ámbito de 
 aplicación. Debemos estar seguros de que la 
-dirección no se vuelve a utilizar para
+dirección no se vuelva a utilizar para
 
 142
 00:14:45,149 --> 00:14:50,689
 almacenar otra cosa o que los datos no se 
-borran de esa dirección.
+borren de esa dirección.
 
 143
 00:14:50,689 --> 00:14:56,970
-En la mayoría de los casos que volveremos 
+En la mayoría de los casos devolveremos 
 punteros a memoria que se asigna en la
 
 144
 00:14:56,970 --> 00:15:01,759
-heap, o la memoria que se encuentra en la 
+heap, o memoria que se encuentra en la 
 sección global, la sección de variables 
 globales. En nuestras próximas lecciones, un 
 lugar en el que va
 
 145
 00:15:01,759 --> 00:15:07,100
-a utilizar como punteros devuelve la función 
+a utilizar como punteros retornados de función 
 en nuestro código
 
 146
@@ -839,6 +836,6 @@ datos de lista enlazada.
 
 147
 00:15:09,050 --> 00:15:12,540
-Así que esto era como punteros devuelve la 
-función. Gracias por ver.
+Así que esto era como devolver punteros desde 
+funciones. Gracias por ver.
 
