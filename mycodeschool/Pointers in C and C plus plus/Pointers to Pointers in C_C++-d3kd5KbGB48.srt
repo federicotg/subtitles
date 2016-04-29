@@ -6,11 +6,11 @@ cómo podemos trabajar con punteros en
 1
 00:00:08,170 --> 00:00:13,880
 algunos de los escenarios básicos, pero hay 
-algunos escenarios en los punteros puede
+algunos escenarios en que los punteros pueden
 
 2
 00:00:13,880 --> 00:00:20,830
-ser muy desconcertante y un tal escenario es 
+ser muy desconcertantes por ejemplo 
 cuando queremos usar punteros a punteros. En 
 esta lección vamos a ver
 
