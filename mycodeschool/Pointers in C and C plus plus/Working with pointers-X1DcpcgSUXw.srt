@@ -18,7 +18,7 @@ trabajar con punteros en algunos ejemplos de
 
 4
 00:00:12,219 --> 00:00:15,459
-código reales, pero antes de que un resumen 
+código reales, pero antes un resumen 
 rápido.
 
 5
@@ -95,7 +95,7 @@ puntero a
 21
 00:01:02,480 --> 00:01:07,200
 carácter y de manera similar, que puede 
-tener un puntero a duplicar.
+tener un puntero a double.
 
 22
 00:01:07,200 --> 00:01:11,300
@@ -117,12 +117,12 @@ una variable, se escribe una declaración
 
 26
 00:01:19,410 --> 00:01:23,170
-como, P & A (ampersand 'a'). Ahora, este 
+como, P= &A (ampersand 'a'). Ahora, este 
 signo funciona como un operador que
 
 27
 00:01:23,170 --> 00:01:26,950
-nos da la dirección de la 'a', y
+nos da la dirección de 'a', y
 
 28
 00:01:26,950 --> 00:01:30,230
@@ -130,7 +130,7 @@ lo que sucede en la memoria es algo
 
 29
 00:01:30,230 --> 00:01:33,720
-como esto, variable almacena 'P' la 
+como esto, la variable almacena 'P' la 
 dirección de la variable 'a'.
 
 30
@@ -147,11 +147,11 @@ que es la dirección de la
 
 33
 00:01:39,730 --> 00:01:41,729
-"a", por lo que los puntos
+"a", por lo que p apunta a
 
 34
 00:01:41,729 --> 00:01:45,430
-de 'P' a 'A', y el
+'A', y usando
 
 35
 00:01:45,430 --> 00:01:47,660
@@ -164,15 +164,15 @@ de "a". Así que digamos que si
 
 37
 00:01:48,830 --> 00:01:49,860
-utiliza un operador estrella (*)
+utiliza un operador asterisco (*)
 
 38
 00:01:49,860 --> 00:01:52,810
-delante de 'P', entonces P
+delante de 'P', entonces *P
 
 39
 00:01:52,810 --> 00:01:55,110
-* nos da 8, que
+nos da 8, que
 
 40
 00:01:55,110 --> 00:01:57,359
@@ -207,11 +207,11 @@ de impresión y hay que
 
 47
 00:02:15,379 --> 00:02:17,879
-adivinar, lo que será la salida?
+adivinar, lo que será la salida.
 
 48
 00:02:17,879 --> 00:02:21,769
-Así que lo primero que haré es Anunciaré una
+Así que lo primero que haré es declararé una
 
 49
 00:02:21,769 --> 00:02:25,180
@@ -271,23 +271,23 @@ está fallando.
 
 62
 00:02:54,650 --> 00:02:56,989
-Así que ahora voy a escribir un comunicado.
+Así que ahora voy a escribir una sentencia.
 
 63
 00:02:56,989 --> 00:02:59,509
-p = & a (signo
+p = &a
 
 64
 00:02:59,509 --> 00:03:00,689
-'a') Ahora signo de un
+Ahora &a
 
 65
 00:03:00,689 --> 00:03:02,859
-(& a) no es más
+no es más
 
 66
 00:03:02,859 --> 00:03:04,279
-que la dirección de un.
+que la dirección de a.
 
 67
 00:03:04,279 --> 00:03:06,609
@@ -356,7 +356,7 @@ reserva, pero
 
 81
 00:03:45,979 --> 00:03:48,319
-el valor a 'p 'es un valor de basura, es
+el valor a 'p' es un valor de basura, es
 
 82
 00:03:48,319 --> 00:03:53,209
@@ -373,11 +373,11 @@ inicializado 'a' y aunque los recuerdos
 
 85
 00:03:59,700 --> 00:04:00,979
-se asignan para 'a', hay algo
+se asignan para 'a', hay algún
 
 86
 00:04:00,979 --> 00:04:03,729
-de valor de basura allí que no sé acerca.
+valor basura allí.
 
 87
 00:04:03,729 --> 00:04:07,449
@@ -394,7 +394,7 @@ el valor de "a", y ahora
 
 90
 00:04:15,659 --> 00:04:17,089
-va a escribir otra sentencia de
+voy a escribir otra sentencia de
 
 91
 00:04:17,089 --> 00:04:19,409
@@ -402,11 +402,11 @@ impresión, y esta vez voy a
 
 92
 00:04:19,409 --> 00:04:21,579
-imprimir y escribir una (ampersand 'a').
+imprimir y escribir &a (ampersand 'a').
 
 93
 00:04:21,579 --> 00:04:24,510
-Ahora lo que debe ser el
+Ahora ¿qué debe ser el
 
 94
 00:04:24,510 --> 00:04:26,120
@@ -420,7 +420,7 @@ adivinar.
 
 96
 00:04:28,520 --> 00:04:31,059
-operador comercial (&) nos da la
+operador ampersand (&) nos da la
 
 97
 00:04:31,059 --> 00:04:32,280
@@ -428,17 +428,17 @@ dirección y por eso la tercera
 
 98
 00:04:32,280 --> 00:04:36,620
-línea es también la dirección de la "a".
+línea es también la dirección de "a".
 
 99
 00:04:36,620 --> 00:04:40,259
-Dentro de hecho eso es lo que hemos hecho 
-aquí. Hemos asignado 'p'
+Eso es lo que hemos hecho 
+aquí. Hemos asignado a 'p'
 
 100
 00:04:40,259 --> 00:04:44,009
-de la dirección "a". Hemos utilizado el 
-signo del operador.
+la dirección "a". Hemos utilizado el 
+signo &.
 
 101
 00:04:44,009 --> 00:04:48,110
@@ -455,11 +455,11 @@ Y, para ello voy a
 
 104
 00:04:51,949 --> 00:04:54,309
-escribir una declaración como *
+escribir una declaración como
 
 105
 00:04:54,309 --> 00:04:55,550
-p = 12 y esto
+*p = 12 y esto
 
 106
 00:04:55,550 --> 00:04:59,590
@@ -468,7 +468,7 @@ en la dirección que se señaló
 
 107
 00:04:59,590 --> 00:05:00,650
-por 'p' es ahora de 12 años.
+por 'p' es ahora 12.
 
 108
 00:05:00,650 --> 00:05:01,870
@@ -476,7 +476,7 @@ Este concepto se
 
 109
 00:05:01,870 --> 00:05:03,389
-denomina eliminación de referencias.
+denomina desreferenciación.
 
 110
 00:05:03,389 --> 00:05:06,779
@@ -518,11 +518,12 @@ la segunda nos da
 
 119
 00:05:24,319 --> 00:05:26,529
-a = 12 a
+a = 12.
 
 120
 00:05:26,529 --> 00:05:28,449
-= 12, porque hemos
+a= 12, porque hemos modificado el
+valor usando el puntero.
 
 121
 00:05:28,449 --> 00:05:30,390
@@ -531,19 +532,19 @@ hacer aquí ahora.
 
 122
 00:05:30,390 --> 00:05:32,469
-Voy a tener otro 'b' variables,
+Voy a tener otra' variable b,
 
 123
 00:05:32,469 --> 00:05:33,990
-que tienen un valor de 20.
+que tiene un valor 20.
 
 124
 00:05:33,990 --> 00:05:36,050
-y ahora lo que voy a
+Y ahora lo que voy a
 
 125
 00:05:36,050 --> 00:05:36,789
-decir es p * o valor
+decir es *p o valor
 
 126
 00:05:36,789 --> 00:05:40,330
@@ -555,11 +556,11 @@ Y la pregunta ahora es que,
 
 128
 00:05:41,990 --> 00:05:43,630
-será la dirección en el cambio
+la dirección
 
 129
 00:05:43,630 --> 00:05:46,839
-'p' ahora para que apunte a "b"?
+'p' apuntará a "b"?
 
 130
 00:05:46,839 --> 00:05:50,360
@@ -567,7 +568,7 @@ No, a menos que se escribe de manera
 
 131
 00:05:50,360 --> 00:05:52,849
-explícita una declaración como, p = & b.
+explícita una declaración como, p = &b.
 
 132
 00:05:52,849 --> 00:05:56,939
@@ -584,7 +585,7 @@ de la "a", el valor que 'b'
 
 135
 00:06:00,989 --> 00:06:02,550
-tiene, pero no están apuntando a 'b'.
+tiene, pero no está apuntando a 'b'.
 
 136
 00:06:02,550 --> 00:06:04,309
@@ -596,8 +597,8 @@ poner en claro, sólo
 
 138
 00:06:05,470 --> 00:06:07,490
-si escribimos algunas declaraciones más 
-printf.
+si escribimos algunas sentencias 
+printf más.
 
 139
 00:06:07,490 --> 00:06:10,630
@@ -616,7 +617,7 @@ Y después escribimos la declaración, voy a
 
 142
 00:06:14,779 --> 00:06:17,809
-escribir dos más sentencias de impresión que
+escribir dos sentencias de impresión más  que
 
 143
 00:06:17,809 --> 00:06:20,300
@@ -625,8 +626,8 @@ nuevo.
 
 144
 00:06:20,300 --> 00:06:24,669
-Ao nos deja ver lo que la salida es ahora. 
-Aceptar, por lo que la dirección de
+Veamos lo que la salida es ahora. 
+La dirección de
 
 145
 00:06:24,669 --> 00:06:28,330
@@ -638,17 +639,16 @@ cinco, siete y seis, y el valor es 10.
 
 147
 00:06:29,659 --> 00:06:33,670
-Y después de la estrella p comunicado igual 
-a b,
+Y después de la *p = b,
 
 148
 00:06:33,670 --> 00:06:35,789
-único valor es modificado y el puntero sigue 
+sólo valor es modificado y el puntero sigue 
 apuntando a 'A'.
 
 149
 00:06:35,789 --> 00:06:39,539
-Por lo que una se convierte ahora en veinte, 
+Por lo que a se convierte ahora en veinte, 
 pero la dirección no cambia.
 
 150
@@ -662,13 +662,12 @@ en la misma instrucción
 
 152
 00:06:45,110 --> 00:06:49,550
-así que en vez de escribir esto un 
-equivalente al diez
+así que en vez de escribir esto a = 10
 
 153
 00:06:49,550 --> 00:06:50,580
 por aquí simplemente podríamos decir que un 
-int es igual a 10.
+int a = 10.
 
 154
 00:06:52,199 --> 00:06:56,150
@@ -685,12 +684,11 @@ afirmaciones una declaración simple como la
 
 157
 00:07:01,199 --> 00:07:03,309
-estrella int p es igual al
+int* p es igual al
 
 158
 00:07:03,309 --> 00:07:05,529
-signo 'a' y que no necesitaremos el 
-comunicado.
+&a.
 
 159
 00:07:05,529 --> 00:07:09,579
@@ -703,12 +701,12 @@ La sintaxis de declaración de puntero
 
 161
 00:07:13,139 --> 00:07:14,939
-algunas personas escribir este signo 
+algunas personas escriben este signo 
 asterisco
 
 162
 00:07:14,939 --> 00:07:16,989
-después int y no escriba en
+después int y no en
 
 163
 00:07:16,989 --> 00:07:18,839
@@ -721,7 +719,7 @@ bien
 
 165
 00:07:21,119 --> 00:07:22,680
-para que pueda escribir estrellas int que 
+para que pueda escribir int* que 
 significa
 
 166
@@ -731,11 +729,11 @@ puntero a entero y luego se puede escribir
 167
 00:07:26,639 --> 00:07:28,619
 el nombre de la variable y esto también va a 
-trabajar.
+funcionar.
 
 168
 00:07:28,619 --> 00:07:30,599
-Aceptar lo que ahora vamos a apuntar.
+Bueno, ahora...
 
 169
 00:07:30,599 --> 00:07:32,080
@@ -759,16 +757,16 @@ aritmética de punteros, pero
 
 174
 00:07:41,409 --> 00:07:43,389
-antes de que voy a escribir esto. Reescribir 
+antes voy a escribir esto. Reescribir 
 esta declaración e inicialización
 
 175
 00:07:43,389 --> 00:07:48,360
-como antes en dos estados.
+como antes en dos sentencias.
 
 176
 00:07:48,360 --> 00:07:50,979
-Me gusta lo mejor de esta manera. Es menos 
+Me gusta mejor de esta manera. Es menos 
 confuso.
 
 177
@@ -782,7 +780,7 @@ En la primera
 
 179
 00:07:55,030 --> 00:07:56,550
-declaración Imprimiré p
+declaración imprimiré p
 
 180
 00:07:56,550 --> 00:07:59,250
@@ -790,7 +788,7 @@ y en otro
 
 181
 00:07:59,250 --> 00:08:00,740
-comunicado Imprimiré p más uno.
+imprimiré p más uno.
 
 182
 00:08:00,740 --> 00:08:03,499
@@ -822,11 +820,11 @@ en p es algo así como 2.002.
 
 189
 00:08:16,489 --> 00:08:18,430
-Por lo que cualquier conjeturas
+Alguna conjetura acerca de
 
 190
 00:08:18,430 --> 00:08:20,729
-lo p más uno serán?
+lo que será p más uno?
 
 191
 00:08:20,729 --> 00:08:23,110
@@ -865,7 +863,7 @@ dirección
 199
 00:08:41,180 --> 00:08:46,790
 de número entero que necesitamos para saltar 
-4 bytes. Por lo tanto, p, más incrementos de 
+4 bytes. Por lo tanto, p+1 incrementa 
 p por 4 bytes.
 
 200
@@ -902,11 +900,11 @@ nos dará el tamaño del número entero.
 
 208
 00:09:07,770 --> 00:09:10,740
-Vamos a escribir en el
+Vamos a escribir en las
 
 209
 00:09:10,740 --> 00:09:13,560
-primer y tercer declaraciones de
+primera y tercera declaraciones de
 
 210
 00:09:13,560 --> 00:09:15,050
@@ -931,7 +929,7 @@ Por lo que la salida es la dirección p
 
 215
 00:09:25,350 --> 00:09:26,720
-es 4 586 052, que es un poco de
+es 4 586 052, que es una
 
 216
 00:09:26,720 --> 00:09:30,190
@@ -958,7 +956,7 @@ puntero de carácter o
 
 221
 00:09:43,010 --> 00:09:45,100
-un puntero doble o un puntero para algún 
+un puntero a double o un puntero para algún 
 otro tipo de datos.
 
 222
@@ -1078,11 +1076,11 @@ y el valor en la dirección p +
 
 249
 00:10:52,490 --> 00:10:53,630
-1 es un valor entero que yo no sepa.
+1 es un valor entero que no conozco.
 
 250
 00:10:53,630 --> 00:10:56,140
-De hecho, este es un valor de la
+De hecho, este es un valor 
 
 251
 00:10:56,140 --> 00:10:59,290
@@ -1100,7 +1098,7 @@ utilizando la aritmética de punteros.
 
 254
 00:11:05,650 --> 00:11:07,440
-El uso de manipulación de punteros se
+Con el uso de manipulación de punteros se
 
 255
 00:11:07,440 --> 00:11:08,860
@@ -1129,8 +1127,8 @@ tipos de datos como caracteres
 
 261
 00:11:20,819 --> 00:11:24,220
-o flotador y los resultados serán similares. 
-Por lo tanto, se trataba de alguna
+o float y los resultados serán similares. 
+Por lo tanto, se trataba 
 
 262
 00:11:24,220 --> 00:11:25,879

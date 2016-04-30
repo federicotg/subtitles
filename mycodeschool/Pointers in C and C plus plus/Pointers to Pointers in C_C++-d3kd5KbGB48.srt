@@ -98,12 +98,12 @@ es que una cierta cantidad de
 17
 00:01:53,799 --> 00:01:59,539
 memoria queda reservada para esta variable p 
-en una arquitectura típica. Pointer también 
+en una arquitectura típica. El puntero también 
 se
 
 18
 00:01:59,539 --> 00:02:07,229
-almacena en 4 bytes. Así que digamos que 
+se almacena en 4 bytes. Así que digamos que 
 tenemos este bloque de 4 bytes en la
 
 19
@@ -130,7 +130,7 @@ o puntero a alguna otra alguna otra variable,
 
 23
 00:02:34,689 --> 00:02:41,250
-esta declaración p = & x no habrían sido 
+esta declaración p = &x no habrían sido 
 válidas. Así que si tengo que anotar los 
 tipos de estas dos variables,
 
@@ -156,11 +156,11 @@ almacenar la
 00:03:02,890 --> 00:03:10,430
 dirección de una variable en una variable 
 puntero. También utilizamos la variable 
-puntero a eliminar la
+puntero para
 
 28
 00:03:10,430 --> 00:03:15,709
-referencia de la dirección y escribimos 
+desreferenciar la dirección y escribir
 algún valor allí. Así que si escribo una 
 declaración como esta. Este valor aquí
 
@@ -211,7 +211,7 @@ diciendo que q va a almacenar la dirección
 
 37
 00:04:12,049 --> 00:04:25,450
-de P, de manera que los puntos q p y el tipo 
+de p, de manera que q apunta a p y el tipo 
 de q es de tipo int **. Pusimos dos *. Una 
 manera sencilla de leer esto es que el tipo 
 de variable x es un número
@@ -220,11 +220,11 @@ de variable x es un número
 00:04:25,450 --> 00:04:30,860
 entero por lo que para almacenar la 
 dirección de x, necesitaremos un puntero de 
-tipo int
+tipo int*
 
 39
 00:04:30,860 --> 00:04:38,740
-* así que vamos a poner una estrella que 
+así que vamos a poner una estrella, es
 decir que este es un puntero a
 
 40
@@ -258,7 +258,7 @@ hemos hecho en el caso de q aquí.
 
 45
 00:05:09,220 --> 00:05:16,670
-Supongamos que definimos como int r *** así 
+Supongamos que definimos como int ***r así 
 que digamos r consigue esta dirección 230 en 
 la memoria. Ahora r es de tipo int *** por 
 lo que
@@ -271,7 +271,7 @@ lo que
 47
 00:05:27,800 --> 00:05:38,050
 no se puede almacenar la dirección de x o p. 
-La sentencia como r = & q será válida ahora 
+La sentencia como r = &q será válida ahora 
 he
 
 48
@@ -305,7 +305,7 @@ que voy a escribir es esto. Quiero imprimir
 
 53
 00:06:11,260 --> 00:06:18,710
-éste debería ser simple para usted. * P 
+éste debería ser simple para usted. * p
 sería el valor almacenado en la dirección en 
 la p por lo que este será el 6. Ahora la 
 siguiente declaración que
@@ -324,9 +324,9 @@ será 225. Y ahora quiero
 
 56
 00:06:36,030 --> 00:06:44,910
-imprimir ** q. Así que quiero hacer 
-dereferencing dos veces. En primer lugar 
-quiero ir a * q. * Q es
+imprimir ** q. Así que quiero  
+desreferenciar dos veces. En primer lugar 
+quiero ir a * q. * q es
 
 57
 00:06:44,910 --> 00:06:53,800
@@ -337,7 +337,7 @@ de 6. Podríamos haber evitado
 58
 00:06:53,800 --> 00:07:01,400
 escribir este paréntesis aquí. Podríamos 
-haber dicho ** única q y que habría 
+haber dicho ** q y que habría 
 significado el mismo, pero
 
 59
@@ -360,14 +360,14 @@ evitar comportamientos no deseados.
 62
 00:07:23,020 --> 00:07:31,540
 Ahora ¿qué pasa con estas dos declaraciones 
-de impresión. ** *** R y r, r * significa el 
+de impresión. **r y ***r, *r significa el 
 valor de q que será 215
 
 63
 00:07:31,540 --> 00:07:40,020
-y luego además uno desreferenciar más nos 
-llevará a valorar en p, que es de 225. Y uno 
-más desreferenciar nos llevará
+y luego además una desreferenciar más nos 
+llevará al valor de p, que es de 225. Y una
+desreferenciación más nos llevará
 
 64
 00:07:40,020 --> 00:07:45,530
@@ -375,7 +375,7 @@ al valor de x que será 6. Si ves que
 
 65
 00:07:45,530 --> 00:07:52,940
-esto es realmente interesante. De r estamos 
+esto es realmente interesante. En r estamos 
 utilizando un operador de asterisco y somos 
 capaces de ir a continuación, q estamos 
 usando el
@@ -399,13 +399,13 @@ voy a escribir una declaración como esta y
 69
 00:08:14,220 --> 00:08:25,350
 luego después de esta declaración Imprimiré 
-el valor de x. Si ejecuta este ahora como se 
-puede ver p *, ** y *** r q todos estos 
+el valor de x. Si ejecuta esto ahora como se 
+puede ver *p, **q y ***r todos estos 
 valores
 
 70
 00:08:25,350 --> 00:08:32,479
-son 3 6 la dirección no será el mismo que 
+son 6. La dirección no será la misma que 
 habíamos mostrado en el ejemplo por razones 
 obvias
 
@@ -414,24 +414,24 @@ obvias
 y como se puede ver que somos capaces 
 modificar x haciendo esta cadena de 
 referenciación de utilizar esta variable r. 
-Si queremos escribir algo como **
+Si queremos escribir algo como
 
 72
 00:08:40,779 --> 00:08:53,240
-= q digamos algo como esto. Ahora p * 
+**q= digamos algo como esto. Ahora *p 
 También hace referencia a
 
 73
 00:08:53,240 --> 00:08:59,939
-X y Q ** También se dereferencing x. En este 
-momento, estamos eliminación de referencias 
-aquí. Así que ninguna aproximación cuál será 
+x y **q También se dereferencia x. En este 
+momento, estamos edesreferenciando
+aquí. Así que ¿alguna aproximación cuál será 
 el
 
 74
 00:08:59,939 --> 00:09:06,800
-resultado de esta sentencia de impresión 
-pasada? Bueno, si usted ve, x se incrementa 
+resultado de esta sentencia de impresión?
+Bueno, si usted ve, x se incrementa 
 en
 
 75
@@ -445,8 +445,5 @@ usted mismo y jugar un poco.
 En las próximas lecciones vamos a utilizar 
 puntero a puntero en algunos escenarios 
 verdadero problema.
-
-77
-00:09:18,779 --> 00:09:19,680
 
 
