@@ -33,3 +33,21 @@ done
 25/4 1h
 28/4 2h
 29/4 3h
+
+		
+Working with pointers
+Pointer types, pointer arithmetic, void pointers
+Pointers to Pointers in C/C++
+Pointers as function arguments - call by reference
+Pointers and arrays
+Arrays as function arguments
+Character arrays and pointers - part 1
+Character arrays and pointers - part 2
+Pointers and 2-D arrays
+Pointers and multidimensional arrays
+Pointers and dynamic memory - stack vs heap
+Dynamic memory allocation in C - malloc calloc realloc free
+Pointers as function returns in C/C++
+Function Pointers in C / C++
+Function pointers and callbacks
+Memory leak in C/C++
