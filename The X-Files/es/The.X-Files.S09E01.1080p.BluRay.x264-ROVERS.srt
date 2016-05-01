@@ -283,7 +283,7 @@ Te tengo algo.
 65
 00:09:10,320 --> 00:09:16,589
 No tuve que investigar mucho
-para saber por que estabas en Washington.
+para saber por qué estabas en Washington.
 
 66
 00:09:17,640 --> 00:09:20,108
@@ -769,7 +769,7 @@ Es lo único que te puedo decir.
 171
 00:21:27,640 --> 00:21:30,757
 Entonces, dime
-por que no confías en mí.
+por qué no confías en mí.
 
 172
 00:21:31,880 --> 00:21:35,555

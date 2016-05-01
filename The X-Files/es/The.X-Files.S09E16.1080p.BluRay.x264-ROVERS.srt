@@ -1156,7 +1156,7 @@ caso es total.
 
 264
 00:29:16,840 --> 00:29:19,638
-Te preguntas por que querría huir.
+Te preguntas por qué querría huir.
 
 265
 00:29:19,720 --> 00:29:24,555
@@ -1470,7 +1470,7 @@ acercarte a William.
 
 334
 00:38:04,640 --> 00:38:10,476
-Lo que darías por que este muerto.
+Lo que darías por que esté muerto.
 Ya te daré esa alegría.
 
 335

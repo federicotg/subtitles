@@ -298,7 +298,7 @@ el cuerpo de un enemigo muerto.
 67
 00:07:51,480 --> 00:07:54,472
 Pero sigue sin explicar
-por que desapareció.
+por qué desapareció.
 
 68
 00:07:54,560 --> 00:07:57,233

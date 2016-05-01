@@ -1572,7 +1572,7 @@ funcionó... estupendamente.
 
 345
 00:24:52,400 --> 00:24:54,356
-Quiere saber por que les mentí.
+Quiere saber por qué les mentí.
 
 346
 00:24:54,440 --> 00:24:57,079
@@ -2221,7 +2221,7 @@ Oh... ¡Ayúdenme!
 489
 00:36:30,280 --> 00:36:34,796
 - Se están quedando sin oxígeno.
-- No tienen por que morir.
+- No tienen por qué morir.
 
 490
 00:36:35,280 --> 00:36:39,193

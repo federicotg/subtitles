@@ -532,7 +532,7 @@ cuanto menos sepa, mejor.
 
 118
 00:20:10,800 --> 00:20:13,519
-Necesito saber por que murió ese hombre.
+Necesito saber por qué murió ese hombre.
 
 119
 00:20:13,600 --> 00:20:15,591

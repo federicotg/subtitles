@@ -334,7 +334,7 @@ Mira esto.
 77
 00:08:46,280 --> 00:08:50,671
 Si esto estaba en la plataforma,
-eso explicaría por que las ruedas están así.
+eso explicaría por qué las ruedas están así.
 
 78
 00:08:50,800 --> 00:08:53,792
@@ -997,7 +997,7 @@ Se habrá sentido culpable por sobrevivir.
 
 226
 00:23:04,440 --> 00:23:07,910
-No veo por que se borró del mapa
+No veo por qué se borró del mapa
 
 227
 00:23:08,000 --> 00:23:10,195
@@ -1005,11 +1005,11 @@ sólo por convertirse en un afortunado.
 
 228
 00:23:10,320 --> 00:23:13,198
-Y no entiendo por que resurgió,
+Y no entiendo por qué resurgió,
 
 229
 00:23:13,320 --> 00:23:17,313
-por que de pronto decidió
+por qué de pronto decidió
 usar la suerte en su beneficio.
 
 230

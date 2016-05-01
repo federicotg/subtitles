@@ -516,7 +516,7 @@ puede estar con él ahora.
 112
 00:11:16,240 --> 00:11:18,959
 Eso explicaría
-por que no la encontramos.
+por qué no la encontramos.
 
 113
 00:11:19,400 --> 00:11:22,039

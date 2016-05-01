@@ -1294,7 +1294,7 @@ centros especiales del cerebro.
 287
 00:29:26,160 --> 00:29:31,109
 Este chico es algo raro.
-Díganme por que alguien quiere matarlo.
+Díganme por qué alguien quiere matarlo.
 
 288
 00:29:31,200 --> 00:29:34,829
@@ -1723,7 +1723,7 @@ Hola, joven.
 
 382
 00:38:55,080 --> 00:38:58,117
-No hay por que temer.
+No hay por qué temer.
 
 383
 00:38:58,760 --> 00:39:00,830

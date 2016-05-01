@@ -266,11 +266,11 @@ hablado con el que este a cargo.
 
 60
 00:08:53,560 --> 00:08:56,279
-O sabría por que nos llamaron.
+O sabría por qué nos llamaron.
 
 61
 00:08:56,360 --> 00:08:59,079
-No sabemos por que nos llamaron.
+No sabemos por qué nos llamaron.
 Si hay alguien...
 
 62
@@ -1282,7 +1282,7 @@ Creo que lo sabe.
 
 282
 00:30:33,200 --> 00:30:36,112
-Y creo que sabe por que está aquí.
+Y creo que sabe por qué está aquí.
 
 283
 00:30:37,920 --> 00:30:40,992

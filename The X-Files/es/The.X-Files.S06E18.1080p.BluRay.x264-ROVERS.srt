@@ -215,7 +215,7 @@ Tiene que haber algo.
 
 47
 00:09:01,680 --> 00:09:05,878
-Algo acerca de por que escoge
+Algo acerca de por qué escoge
 a sus víctimas, un patrón.
 
 48
@@ -1619,7 +1619,7 @@ Estoy horrorizado.
 
 351
 00:38:59,680 --> 00:39:04,117
-- Sólo quiero saber por que lo hago.
+- Sólo quiero saber por qué lo hago.
 - Para que yo pudiera conocerla.
 
 352

@@ -395,7 +395,7 @@ de una intervención delicada.
 86
 00:09:01,400 --> 00:09:05,632
 Busque lo que busque,
-no tiene por que venir sin avisar.
+no tiene por qué venir sin avisar.
 
 87
 00:09:05,720 --> 00:09:10,953
@@ -597,7 +597,7 @@ Quieto. Ya casi termino.
 
 131
 00:16:54,880 --> 00:17:02,275
-Ya veo por que cambiaste la medicina
+Ya veo por qué cambiaste la medicina
 por el FBI. Tienes manos de piedra.
 
 132

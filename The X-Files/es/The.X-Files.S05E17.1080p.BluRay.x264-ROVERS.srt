@@ -379,7 +379,7 @@ En una forma muy personal.
 87
 00:09:42,840 --> 00:09:47,197
 Estaba decidida a ayudarlos a entender
-por que se habían llevado a su hija.
+por qué se habían llevado a su hija.
 
 88
 00:09:47,320 --> 00:09:49,151
@@ -405,7 +405,7 @@ no el porqué.
 93
 00:10:09,240 --> 00:10:14,439
 Me atendré a mi informe si es necesario,
-pero no es tan obvio por que murió.
+pero no es tan obvio por qué murió.
 
 94
 00:10:14,520 --> 00:10:18,354
@@ -1327,7 +1327,7 @@ No le interesa la verdad.
 
 292
 00:28:41,640 --> 00:28:47,510
-Me gustaría saber por que les hizo
+Me gustaría saber por qué les hizo
 lo que les hizo a esas tres niñas indefensas.
 
 293

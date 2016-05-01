@@ -218,7 +218,7 @@ Dígannos la hora y el medio de transporte.
 
 51
 00:05:26,440 --> 00:05:30,319
-Nos permitirá determinar por que
+Nos permitirá determinar por qué
 no se han enfriado los cuerpos.
 
 52

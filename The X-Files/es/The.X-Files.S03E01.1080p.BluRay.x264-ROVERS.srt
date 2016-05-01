@@ -2045,7 +2045,7 @@ Dése vuelta y siéntese sobre las manos.
 462
 00:41:59,800 --> 00:42:03,873
 - ¿Puedo decirle por qué estoy aquí?
-- Yo sé por que está aquí.
+- Yo sé por qué está aquí.
 
 463
 00:42:04,400 --> 00:42:07,790

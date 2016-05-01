@@ -398,7 +398,7 @@ regresen a casa para mirar Supervivientes.
 
 86
 00:09:19,840 --> 00:09:21,796
-Me pregunto por que cerraron
+Me pregunto por qué cerraron
 la ventilación
 
 87
@@ -930,7 +930,7 @@ Hace un tiempo que trabajamos juntos.
 
 205
 00:19:27,600 --> 00:19:31,070
-Me pregunto por que lo envió a usted
+Me pregunto por qué lo envió a usted
 en vez de venir ella misma.
 
 206

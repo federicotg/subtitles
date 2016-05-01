@@ -481,7 +481,7 @@ Está bien.
 107
 00:11:07,960 --> 00:11:12,715
 - No te lo estás tomando en serio.
-- No entiendo por que estamos aquí.
+- No entiendo por qué estamos aquí.
 
 108
 00:11:12,800 --> 00:11:15,792

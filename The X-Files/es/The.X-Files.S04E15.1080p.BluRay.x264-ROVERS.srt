@@ -13,7 +13,7 @@ Agarra la cinta. Está ahí atrás.
 
 4
 00:01:36,240 --> 00:01:39,152
-Está bien. No tienes por que hacer esto.
+Está bien. No tienes por qué hacer esto.
 
 5
 00:01:39,240 --> 00:01:41,231
@@ -1321,7 +1321,7 @@ Lo que me interesa es el golem.
 
 298
 00:30:36,080 --> 00:30:39,834
-Me interesa saber por que
+Me interesa saber por qué
 un agente del FBI se interesa tanto.
 
 299
@@ -1755,7 +1755,7 @@ No oí lo que ella decía.
 
 398
 00:38:11,240 --> 00:38:13,390
-No tenía por que hacerlo.
+No tenía por qué hacerlo.
 
 399
 00:38:13,520 --> 00:38:16,239

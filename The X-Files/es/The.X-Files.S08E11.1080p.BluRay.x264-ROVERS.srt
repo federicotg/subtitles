@@ -914,7 +914,7 @@ Sólo podemos hacer conjeturas, agente.
 
 198
 00:27:08,640 --> 00:27:10,551
-No sabemos por que Mulder fue allí.
+No sabemos por qué Mulder fue allí.
 
 199
 00:27:10,640 --> 00:27:15,191
@@ -1273,7 +1273,7 @@ Entendiste su pensamiento.
 
 277
 00:42:24,040 --> 00:42:30,479
-Entendiste por que Mulder
+Entendiste por qué Mulder
 hizo algo de lo que no lo creería capaz.
 
 278

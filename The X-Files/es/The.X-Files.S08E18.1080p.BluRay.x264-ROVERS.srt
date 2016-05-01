@@ -873,7 +873,7 @@ Kersh no lo tolerará.
 
 191
 00:20:00,600 --> 00:20:03,398
-Kersh no tiene por que enterarse.
+Kersh no tiene por qué enterarse.
 
 192
 00:20:03,480 --> 00:20:06,631
@@ -1846,7 +1846,7 @@ Solicito permiso para aterrizar. Adelante.
 403
 00:40:03,520 --> 00:40:06,910
 Agente Doggett, creo que sé
-por que nos dejan ir.
+por qué nos dejan ir.
 
 404
 00:40:07,000 --> 00:40:10,959

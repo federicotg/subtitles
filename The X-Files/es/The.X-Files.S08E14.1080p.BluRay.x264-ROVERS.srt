@@ -540,7 +540,7 @@ Espera.
 120
 00:14:53,280 --> 00:14:58,832
 ¿Alguien le preguntó al médico
-por que o dónde?
+por qué o dónde?
 
 121
 00:14:59,000 --> 00:15:01,070

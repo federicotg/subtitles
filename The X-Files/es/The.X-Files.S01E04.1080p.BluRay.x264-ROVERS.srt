@@ -832,7 +832,7 @@ y acabará ante un tribunal D6.
 
 189
 00:18:17,520 --> 00:18:21,149
-Podrá explicarles a ellos por que
+Podrá explicarles a ellos por qué
 está obstruyendo a la justicia.
 
 190
@@ -1852,7 +1852,7 @@ Ruby, ¿quién te lo dijo?
 
 421
 00:40:19,800 --> 00:40:23,634
-Querida, no tienes por que decir nada.
+Querida, no tienes por qué decir nada.
 
 422
 00:40:24,800 --> 00:40:29,316
@@ -1935,7 +1935,7 @@ No quiero que a ella le ocurra lo mismo.
 
 439
 00:41:36,320 --> 00:41:38,914
-No tiene por que ser igual para Ruby.
+No tiene por qué ser igual para Ruby.
 
 440
 00:41:40,680 --> 00:41:45,549
