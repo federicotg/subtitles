@@ -1475,7 +1475,7 @@ Necesito trabajar ahora mismo.
 331
 00:28:46,423 --> 00:28:47,946
 Descompuse las muestras de
-pintura que removieron..
+pintura que removieron...
 
 332
 00:28:48,059 --> 00:28:49,586
