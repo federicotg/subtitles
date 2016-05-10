@@ -791,7 +791,7 @@ Quizás ya lo sepan.
 
 176
 00:17:59,280 --> 00:18:02,795
-Dime con quien puedo hablar
+Dime con quién puedo hablar
 para descifrar los textos.
 
 177
@@ -1041,7 +1041,7 @@ Inmediatamente.
 234
 00:25:14,840 --> 00:25:19,277
 No puedo dejar la escena del crimen.
-Pareceré que huyo.
+Parecerá que huyo.
 
 235
 00:25:19,400 --> 00:25:22,358
@@ -1162,7 +1162,7 @@ Lo sabremos enseguida.
 261
 00:28:02,840 --> 00:28:07,516
 - ¿Crees que yo lo mate, verdad?
-- Balística probó que no fuiste tú.
+- Balística está probando que no fuiste tú.
 
 262
 00:28:07,840 --> 00:28:11,355
