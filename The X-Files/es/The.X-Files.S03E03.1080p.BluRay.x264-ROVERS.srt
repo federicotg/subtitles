@@ -200,7 +200,7 @@ poco convincente.
 
 46
 00:06:22,080 --> 00:06:23,798
-Sí, se un poquito.
+Sí, sé un poquito.
 
 47
 00:06:23,960 --> 00:06:25,871
@@ -220,7 +220,7 @@ bailando sobre la tierra?
 50
 00:06:32,200 --> 00:06:36,478
 Los científicos dirán que no saben
-que hace que se produzcan rayos.
+qué hace que se produzcan rayos.
 
 51
 00:06:36,560 --> 00:06:38,039
@@ -1402,7 +1402,7 @@ Por favor, debo ver a mi marido.
 
 311
 00:26:39,360 --> 00:26:42,193
-Hable con uno de los médicos.
+Hablé con uno de los médicos.
 Estaba desconcertado.
 
 312
@@ -1456,7 +1456,7 @@ Su sangre mostró hipocalemia aguda.
 
 322
 00:27:22,720 --> 00:27:24,392
-SI, ¿qué es eso?
+Sí, ¿qué es eso?
 
 323
 00:27:24,480 --> 00:27:28,393

@@ -1426,7 +1426,7 @@ La compararon con la de Cokely.
 320
 00:29:03,480 --> 00:29:06,472
 EL PGM coincide.
-El DQ Alfa y D1SSO son iguales.
+El DQ Alfa y D1S8O son iguales.
 
 321
 00:29:06,560 --> 00:29:10,394
