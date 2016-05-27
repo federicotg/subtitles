@@ -511,7 +511,7 @@ Permiso. Debo sacarle sangre.
 114
 00:13:24,220 --> 00:13:28,589
 - Presión arterial 80/60, cayendo.
-- Necesita un desfibrilador. 200julios.
+- Necesita un desfibrilador. 200 jules.
 
 115
 00:13:28,683 --> 00:13:30,969

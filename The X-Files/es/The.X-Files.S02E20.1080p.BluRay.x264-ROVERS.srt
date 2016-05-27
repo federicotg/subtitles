@@ -1010,7 +1010,7 @@ Todos tienen un tío mago aficionado.
 223
 00:21:16,640 --> 00:21:20,189
 MUSEO DE CURIOSIDADES GIBSONTON
-3.14PM
+3:14 PM
 
 224
 00:21:20,280 --> 00:21:23,192

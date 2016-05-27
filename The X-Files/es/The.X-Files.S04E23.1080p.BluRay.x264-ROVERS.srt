@@ -704,7 +704,7 @@ indica la edad de 62 años.
 
 161
 00:16:43,680 --> 00:16:47,593
-Pesa 75 kilos y mide 1,70m.
+Pesa 75 kilos y mide 1,70 m.
 
 162
 00:16:48,240 --> 00:16:52,153
@@ -714,7 +714,7 @@ por disparo de arma de fuego en el tórax.
 163
 00:16:52,280 --> 00:16:55,989
 Los restos de pólvora en el orificio
-de entrada 10cm debajo de la clavícula
+de entrada 10 cm debajo de la clavícula
 
 164
 00:16:56,080 --> 00:16:59,311

@@ -638,7 +638,7 @@ de su motor.
 143
 00:13:35,815 --> 00:13:40,058
 Se supone que tenga una salida
-de 168 caballos de fuerza a 6200rpm.
+de 168 caballos de fuerza a 6200 rpm.
 
 144
 00:13:41,571 --> 00:13:43,607
