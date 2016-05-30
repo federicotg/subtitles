@@ -543,7 +543,7 @@ lo convirtiera en un dios.
 118
 00:10:46,720 --> 00:10:49,996
 - ¿Quién cree que mató al guardia?
-- No se quien lo mató.
+- No sé quién lo mató.
 
 119
 00:10:50,080 --> 00:10:52,640
@@ -874,7 +874,7 @@ Aquí hay una conspiración.
 
 190
 00:17:45,480 --> 00:17:49,996
-No se quién es parte de ella,
+No sé quién es parte de ella,
 pero lo voy a descubrir. Para eso estoy.
 
 191

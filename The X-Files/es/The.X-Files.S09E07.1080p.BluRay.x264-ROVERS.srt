@@ -811,7 +811,7 @@ Nos vemos en el infierno, FBI.
 183
 00:29:00,200 --> 00:29:04,113
 - Dime quién soy.
-- No se quién eres.
+- No sé quién eres.
 
 184
 00:29:04,200 --> 00:29:05,997
@@ -1040,7 +1040,7 @@ todo lo que tengo, mi identidad.
 
 235
 00:40:49,880 --> 00:40:55,637
-No se quién te ha estado
+No sé quién te ha estado
 diciendo esas cosas.
 
 236
