@@ -50,7 +50,7 @@ Garantizada auténtica.
 12
 00:05:18,920 --> 00:05:23,675
 - ¿Pagaste por esto?
-- 529,95. Más flete.
+- $29,95. Más flete.
 
 13
 00:05:25,760 --> 00:05:28,877
@@ -103,7 +103,7 @@ lo que me sorprende es la falta de detalle.
 
 23
 00:06:02,960 --> 00:06:07,317
-- ¿Qué pretendes por 529,95?
+- ¿Qué pretendes por $29,95?
 - La autopsia que viste en la tele era falsa
 
 24
@@ -737,7 +737,7 @@ lo único que se recuerda es la luz.
 158
 00:22:33,080 --> 00:22:38,393
 Y luego, a veces, las caras
-de los hombres que le hicieron las ensayos.
+de los hombres que le hicieron los ensayos.
 
 159
 00:22:53,600 --> 00:22:57,752
@@ -1255,7 +1255,7 @@ Necesito más que tú. Necesito pruebas.
 
 268
 00:34:01,960 --> 00:34:06,988
-Tenemos pruebas. Identifique
+Tenemos pruebas. Identifiqué
 lo que rastreaban esas cinco fotos.
 
 269
