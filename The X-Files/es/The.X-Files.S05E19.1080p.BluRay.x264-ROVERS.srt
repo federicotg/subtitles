@@ -850,7 +850,7 @@ Agente Scully, no tengo muchas opciones.
 
 188
 00:16:00,160 --> 00:16:05,029
-- Es mi celular. Dejeme contestar.
+- Es mi celular. Déjeme contestar.
 - Ponga las manos detrás de la cabeza.
 
 189
