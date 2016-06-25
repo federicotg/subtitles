@@ -1326,7 +1326,7 @@ Intento salir de esta habitación.
 
 292
 00:27:43,840 --> 00:27:47,719
-No se a quién llama adefesio,
+No sé a quién llama adefesio,
 pero no me agrada
 
 293
