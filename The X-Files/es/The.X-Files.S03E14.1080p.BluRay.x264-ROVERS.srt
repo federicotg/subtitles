@@ -1070,7 +1070,7 @@ Mulder, ¿dónde vas?
 230
 00:25:53,880 --> 00:25:56,792
 Quiero saber
-que está haciendo en cuanto a Mulder.
+qué está haciendo en cuanto a Mulder.
 
 231
 00:25:56,920 --> 00:26:00,595
@@ -1178,7 +1178,7 @@ mente como se metió
 
 254
 00:28:59,800 --> 00:29:02,598
-en la suya y descubrir que quiere.
+en la suya y descubrir qué quiere.
 
 255
 00:29:02,680 --> 00:29:07,754
@@ -1466,7 +1466,7 @@ El de Mostow fue sustraído de Evidencia.
 318
 00:37:40,560 --> 00:37:45,236
 Esperaba que pudieras decírmelo tú.
-En el encontraron tus huellas.
+En él encontraron tus huellas.
 
 319
 00:37:46,680 --> 00:37:50,593
@@ -1658,7 +1658,7 @@ Yo no fui. No lo hice yo.
 
 360
 00:43:26,640 --> 00:43:28,949
-Yo no lo mate.
+Yo no lo maté.
 
 361
 00:43:29,040 --> 00:43:31,156

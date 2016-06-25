@@ -367,7 +367,7 @@ desde el Pacífico Norte.
 
 87
 00:08:15,640 --> 00:08:19,599
-Longitud 171 este, latitud norte.
+Longitud 171 este, latitud 42 norte.
 
 88
 00:08:19,920 --> 00:08:23,674
