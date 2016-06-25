@@ -1093,7 +1093,7 @@ el futuro de nuestro proyecto.
 
 242
 00:23:15,160 --> 00:23:17,196
-NOS encargaremos.
+Nos encargaremos.
 
 243
 00:23:21,680 --> 00:23:24,399
