@@ -1813,7 +1813,7 @@ Lo siento, señor. No sé que más decir.
 405
 00:39:52,480 --> 00:39:58,669
 Diga que me pagará
-los 51.75 que se tragó el teléfono.
+los $1,75 que se tragó el teléfono.
 
 406
 00:39:59,040 --> 00:40:04,637
