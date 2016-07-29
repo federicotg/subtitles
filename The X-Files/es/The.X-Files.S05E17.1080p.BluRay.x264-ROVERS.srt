@@ -638,7 +638,7 @@ De acuerdo. Hablamos después.
 142
 00:14:40,680 --> 00:14:44,434
 HOSPITAL PSIQUIÁTRICO
-1.04 A.M.
+1:04 A.M.
 
 143
 00:15:36,760 --> 00:15:38,716
@@ -1670,7 +1670,7 @@ pero yo seguiría cobrando el subsidio.
 368
 00:35:15,360 --> 00:35:19,194
 COMISARÍA DEL DISTRITO
-9.52 P.M.
+9:52 P.M.
 
 369
 00:35:39,240 --> 00:35:41,629

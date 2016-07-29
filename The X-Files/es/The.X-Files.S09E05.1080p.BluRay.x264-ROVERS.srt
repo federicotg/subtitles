@@ -663,7 +663,7 @@ No tengo hambre.
 145
 00:14:31,000 --> 00:14:34,436
 Te quedarás sentado
-hasta que te de hambre.
+hasta que te dé hambre.
 
 146
 00:14:34,560 --> 00:14:36,232

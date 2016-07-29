@@ -4,7 +4,7 @@ CARNE DE VACUNO JASD
 
 2
 00:00:43,460 --> 00:00:45,576
-- 7.30.
+- 7:30.
 - ¡Qué bien!
 
 3
@@ -1262,7 +1262,7 @@ Tú estás lista.
 272
 00:27:23,058 --> 00:27:27,176
 - Entonces, te veo por la mañana.
-- Sí. 8.30 en punto.
+- Sí. 8:30 en punto.
 
 273
 00:28:06,727 --> 00:28:08,888
