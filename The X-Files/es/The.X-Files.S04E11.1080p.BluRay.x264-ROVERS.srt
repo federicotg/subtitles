@@ -166,7 +166,7 @@ a nadie. Calma. Todo está bien.
 37
 00:06:36,560 --> 00:06:39,552
 Queremos saber
-que le pasó a María Dorantes.
+qué le pasó a María Dorantes.
 
 38
 00:06:41,640 --> 00:06:46,077
@@ -298,7 +298,7 @@ A mí me interesa,
 
 65
 00:08:27,440 --> 00:08:30,512
-Descubrir que mató a María Dorantes.
+Descubrir qué mató a María Dorantes.
 Examina su cuerpo.
 
 66
@@ -599,7 +599,7 @@ probablemente estará de regreso.
 
 132
 00:14:08,440 --> 00:14:10,431
-Póngan adelante.
+Pónganlo adelante.
 
 133
 00:14:10,600 --> 00:14:12,591
@@ -634,7 +634,7 @@ No exactamente. No.
 140
 00:14:41,800 --> 00:14:46,316
 Él no la mató, Mulder.
-Examine el cuerpo de María Dorantes,
+Examiné el cuerpo de María Dorantes,
 
 141
 00:14:46,400 --> 00:14:50,678
@@ -735,12 +735,12 @@ producido por una infección de hongos.
 161
 00:16:48,960 --> 00:16:53,158
 - ¿El mismo que mató a María Dorantes?
-- No, no sé que es esto.
+- No, no sé qué es esto.
 
 162
 00:16:53,280 --> 00:16:55,840
 Pero su velocidad
-y su agresividad son asustadoras.
+y su agresividad asustan.
 
 163
 00:16:55,960 --> 00:16:59,669
@@ -754,7 +754,7 @@ a través de las dos capas de piel.
 165
 00:17:01,760 --> 00:17:06,276
 Reunimos a la mayoría de los fugitivos.
-Eladio Buente no está entre ellos
+Eladio Buente no está entre ellos.
 
 166
 00:17:06,360 --> 00:17:08,555
@@ -999,7 +999,7 @@ No, están seguros de ello.
 218
 00:22:43,640 --> 00:22:47,428
 Sólo les interesa saber
-que se hizo de Eladio Buente.
+qué se hizo de Eladio Buente.
 
 219
 00:22:47,520 --> 00:22:50,353
@@ -1444,7 +1444,7 @@ Desapareció.
 315
 00:36:53,720 --> 00:36:57,349
 - Donde podrá esconder su terrible rostro.
-- ¿Cómo llegará a Mexico?
+- ¿Cómo llegará a México?
 
 316
 00:36:57,480 --> 00:37:01,359
@@ -1539,7 +1539,7 @@ venían a salvar a Eladio.
 
 336
 00:39:27,320 --> 00:39:33,316
-Cerré la puerta y rece...
+Cerré la puerta y recé...
 para que no me mataran también.
 
 337
@@ -1619,7 +1619,7 @@ Pero Soledad se echó a llorar.
 353
 00:40:48,240 --> 00:40:54,236
 "No puedo dispararle a mi hermano.
-El es mi hermano. Mi carne, mi sangre".
+Él es mi hermano. Mi carne, mi sangre".
 
 354
 00:40:54,480 --> 00:40:57,472
