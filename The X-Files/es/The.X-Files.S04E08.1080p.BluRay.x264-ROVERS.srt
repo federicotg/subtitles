@@ -799,7 +799,7 @@ Esto es el comienzo.
 
 181
 00:16:29,320 --> 00:16:30,912
-Déme las llaves.
+Deme las llaves.
 
 182
 00:16:44,600 --> 00:16:47,956

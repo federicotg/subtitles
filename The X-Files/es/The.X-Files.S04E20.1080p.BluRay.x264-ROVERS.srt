@@ -42,7 +42,7 @@ Amanda Nelligan. 545020809.
 10
 00:00:31,240 --> 00:00:34,277
 - No sé cómo encontrarlo.
-- Déme su nombre. Lo intentaré.
+- Deme su nombre. Lo intentaré.
 
 11
 00:00:34,400 --> 00:00:36,789
@@ -777,7 +777,7 @@ Martinsburg, 25401.
 172
 00:12:49,320 --> 00:12:53,472
 De acuerdo, Sr. Van Blund-ht.
-Déme su número de teléfono.
+Deme su número de teléfono.
 
 173
 00:13:03,800 --> 00:13:05,358

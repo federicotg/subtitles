@@ -1309,7 +1309,7 @@ que ha recuperado el juicio.
 
 286
 00:28:21,800 --> 00:28:25,918
-- Déme su arma.
+- Deme su arma.
 - ¿A quién teme que se la apunte?
 
 287

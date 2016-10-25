@@ -1531,7 +1531,7 @@ No seguí mi propio consejo.
 
 340
 00:39:44,640 --> 00:39:47,029
-Déme el arma.
+Deme el arma.
 
 341
 00:40:02,480 --> 00:40:06,792

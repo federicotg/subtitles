@@ -1740,7 +1740,7 @@ la misma persona.
 
 389
 00:39:51,520 --> 00:39:54,432
-Ahora déme el disquete y salga de ahí.
+Ahora deme el disquete y salga de ahí.
 
 390
 00:39:58,160 --> 00:40:02,153
