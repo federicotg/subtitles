@@ -681,7 +681,7 @@ de su cajero automático.
 
 157
 00:14:03,440 --> 00:14:05,749
-¿Puede decirnos que ocurrió esa noche?
+¿Puede decirnos qué ocurrió esa noche?
 
 158
 00:14:08,960 --> 00:14:12,475

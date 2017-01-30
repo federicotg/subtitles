@@ -513,7 +513,7 @@ Pregúntele si mató a María Dorantes.
 
 112
 00:11:59,200 --> 00:12:01,316
-Pregúntele que pasó.
+Pregúntele qué pasó.
 
 113
 00:12:08,640 --> 00:12:12,792

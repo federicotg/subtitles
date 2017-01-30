@@ -838,7 +838,7 @@ Sí, durante cuatro años.
 
 184
 00:18:47,000 --> 00:18:49,355
-¿Le preguntó que pasó?
+¿Le preguntó qué pasó?
 
 185
 00:18:55,200 --> 00:18:57,873
@@ -1523,7 +1523,7 @@ en presentarme a delegado de mi clase.
 
 333
 00:34:56,160 --> 00:34:58,833
-¿Por qué no me dices que pasó esa noche?
+¿Por qué no me dices qué pasó esa noche?
 
 334
 00:34:58,920 --> 00:35:01,673

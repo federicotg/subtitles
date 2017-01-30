@@ -192,7 +192,7 @@ alguna otra parte del coche?
 
 44
 00:05:16,280 --> 00:05:19,829
-- ¿Tiene idea de que pasó aquí?
+- ¿Tiene idea de qué pasó aquí?
 - No. Aún no.
 
 45

@@ -154,7 +154,7 @@ El teléfono está descolgado.
 
 35
 00:03:20,280 --> 00:03:23,113
-¿Me puede decir que pasó aquí?
+¿Me puede decir qué pasó aquí?
 
 36
 00:03:44,480 --> 00:03:46,755

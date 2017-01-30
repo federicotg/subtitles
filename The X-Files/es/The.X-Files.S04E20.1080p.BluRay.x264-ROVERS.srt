@@ -506,7 +506,7 @@ Soy el agente especial Mulder del FBI.
 
 113
 00:07:53,800 --> 00:07:57,713
-- Estamos acá para saber que ocurrió.
+- Estamos acá para saber qué ocurrió.
 - Alton no usó mi esperma.
 
 114

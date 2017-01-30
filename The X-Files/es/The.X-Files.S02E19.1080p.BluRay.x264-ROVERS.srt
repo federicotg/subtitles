@@ -1343,7 +1343,7 @@ Me quedé dormido.
 
 301
 00:29:09,680 --> 00:29:13,355
-- Quiero saber que pasó.
+- Quiero saber qué pasó.
 - Lo mismo digo. Usted lo amarró.
 
 302

@@ -1262,7 +1262,7 @@ de salvar la de ella.
 278
 00:25:09,520 --> 00:25:13,274
 Si sabe lo que hace,
-¿por qué no ha descubierto que pasa?
+¿por qué no ha descubierto qué pasa?
 
 279
 00:25:13,360 --> 00:25:15,351

@@ -849,7 +849,7 @@ Soy el agente especial Mulder, del FBI.
 
 190
 00:15:51,320 --> 00:15:55,279
-- ¿Puede contarnos que pasó en el bar?
+- ¿Puede contarnos qué pasó en el bar?
 - Había un tipo.
 
 191

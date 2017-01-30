@@ -1150,7 +1150,7 @@ o citar un hecho, o hacer una suposición.
 255
 00:25:52,360 --> 00:25:57,115
 En este momento soy incapaz de hacerlo.
-Necesito saber que pasó.
+Necesito saber qué pasó.
 
 256
 00:25:57,440 --> 00:25:59,271

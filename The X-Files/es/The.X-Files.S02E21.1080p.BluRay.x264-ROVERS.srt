@@ -1331,7 +1331,7 @@ Es sólo un niño.
 292
 00:29:28,960 --> 00:29:34,796
 Deberíamos hablar con Charlie para ver
-que pasó en el dormitorio de su abuela.
+qué pasó en el dormitorio de su abuela.
 
 293
 00:29:39,640 --> 00:29:42,473

@@ -793,7 +793,7 @@ Nos llaman cuando hay problemas.
 177
 00:17:03,320 --> 00:17:06,232
 - Estamos bien.
-- ¿Pueden decirnos que ocurrió?
+- ¿Pueden decirnos qué ocurrió?
 
 178
 00:17:06,320 --> 00:17:10,711

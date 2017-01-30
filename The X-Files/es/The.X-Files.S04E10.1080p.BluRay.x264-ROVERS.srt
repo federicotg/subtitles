@@ -378,7 +378,7 @@ era peor que una muerte, porque
 
 84
 00:08:33,440 --> 00:08:36,352
-nunca se sabe que ocurrió.
+nunca se sabe qué ocurrió.
 
 85
 00:08:36,440 --> 00:08:38,749
@@ -888,7 +888,7 @@ Entonces, ¿qué crees que le pasó?
 
 200
 00:19:32,080 --> 00:19:35,993
-No lo sé. No sé que pasó. No sé que creer.
+No lo sé. No sé qué pasó. No sé que creer.
 
 201
 00:19:36,080 --> 00:19:39,038
