@@ -302,7 +302,7 @@ Contesta el teléfono.
 
 67
 00:07:25,680 --> 00:07:31,232
-No sé que te dijo esa perra.
+No sé qué te dijo esa perra.
 Soy confiable. Ella te miente.
 
 68
@@ -870,7 +870,7 @@ cerca de donde fue asesinado.
 
 193
 00:21:08,560 --> 00:21:11,028
-No sé que decirles.
+No sé qué decirles.
 
 194
 00:21:11,200 --> 00:21:16,399

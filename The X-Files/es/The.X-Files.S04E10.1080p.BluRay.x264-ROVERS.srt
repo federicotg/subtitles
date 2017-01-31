@@ -888,7 +888,7 @@ Entonces, ¿qué crees que le pasó?
 
 200
 00:19:32,080 --> 00:19:35,993
-No lo sé. No sé qué pasó. No sé que creer.
+No lo sé. No sé qué pasó. No sé qué creer.
 
 201
 00:19:36,080 --> 00:19:39,038
@@ -935,7 +935,7 @@ Tan sólo échales una ojeada.
 210
 00:20:23,800 --> 00:20:27,475
 - ¿Las viste antes?
-- No sé que es lo que quieres que diga.
+- No sé qué es lo que quieres que diga.
 
 211
 00:20:27,560 --> 00:20:30,996

@@ -19,7 +19,7 @@ hasta que se demuestre lo contrario.
 
 5
 00:01:13,680 --> 00:01:19,391
-No sé que tiene la luna llena.
+No sé qué tiene la luna llena.
 La gente se trastorna por completo.
 
 6
@@ -1962,7 +1962,7 @@ Pero no tenías miedo.
 441
 00:37:29,680 --> 00:37:32,558
 Claro que no.
-No sé que está ocurriendo.
+No sé qué está ocurriendo.
 
 442
 00:37:32,680 --> 00:37:37,879

@@ -1550,7 +1550,7 @@ Moriría en la operación.
 
 346
 00:36:58,840 --> 00:37:01,877
-No sé que otras opciones tenemos.
+No sé qué otras opciones tenemos.
 
 347
 00:37:03,800 --> 00:37:06,951

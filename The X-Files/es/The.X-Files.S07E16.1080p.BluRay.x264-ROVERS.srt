@@ -173,7 +173,7 @@ y no tener que pasar otra noche aquí.
 
 38
 00:05:14,240 --> 00:05:18,153
-No sé que pensarás tú,
+No sé qué pensarás tú,
 pero esto me parece muy deprimente.
 
 39
@@ -1045,7 +1045,7 @@ Tengo que volver al trabajo.
 
 227
 00:21:15,200 --> 00:21:17,794
-No sé que opina, pero yo le creo.
+No sé qué opina, pero yo le creo.
 
 228
 00:21:17,920 --> 00:21:21,629

@@ -391,7 +391,7 @@ Que mi suegro me disparó.
 
 87
 00:09:46,840 --> 00:09:49,832
-No sé que fue lo que viví.
+No sé qué fue lo que viví.
 
 88
 00:09:51,000 --> 00:09:54,595
@@ -929,7 +929,7 @@ Tiene que haber una razón.
 
 207
 00:23:17,640 --> 00:23:20,757
-Aunque no sé que podría ser.
+Aunque no sé qué podría ser.
 
 208
 00:23:22,240 --> 00:23:26,199

@@ -740,7 +740,7 @@ Se los mostraré.
 166
 00:19:24,600 --> 00:19:29,594
 - ¿Qué ocurre? Luces enferma.
-- No sé que me pasa.
+- No sé qué me pasa.
 
 167
 00:19:34,440 --> 00:19:37,591

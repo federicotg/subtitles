@@ -963,7 +963,7 @@ que abandonaras la investigación.
 214
 00:28:45,760 --> 00:28:51,756
 No lo hice. Encontramos algo.
-No sé que es, pero estamos investigando.
+No sé qué es, pero estamos investigando.
 
 215
 00:28:51,880 --> 00:28:55,031
@@ -1343,7 +1343,7 @@ para contarle.
 
 298
 00:36:06,840 --> 00:36:10,833
-No sé que decir. Buena suerte.
+No sé qué decir. Buena suerte.
 
 299
 00:36:10,920 --> 00:36:13,878

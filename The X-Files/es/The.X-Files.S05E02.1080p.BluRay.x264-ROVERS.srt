@@ -1272,7 +1272,7 @@ mucho tiempo que estudié medicina,
 
 281
 00:25:51,520 --> 00:25:54,478
-pero no sé que me está inyectando.
+pero no sé qué me está inyectando.
 
 282
 00:25:54,560 --> 00:25:56,630

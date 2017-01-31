@@ -1405,7 +1405,7 @@ crean la palabra "emet".
 
 317
 00:31:47,320 --> 00:31:49,550
-No sé que significa.
+No sé qué significa.
 
 318
 00:31:49,640 --> 00:31:51,073
