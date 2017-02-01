@@ -689,7 +689,7 @@ Me parecen marcas de garras.
 
 153
 00:17:18,160 --> 00:17:23,029
-No me importa que clase de bestia es.
+No me importa qué clase de bestia es.
 Esto no lo hizo un humano.
 
 154

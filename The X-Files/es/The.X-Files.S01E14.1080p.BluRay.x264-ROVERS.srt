@@ -834,7 +834,7 @@ responder a sus preguntas.
 
 187
 00:21:23,880 --> 00:21:25,598
-¿Sabes que es verdaderamente extraño?
+¿Sabes qué es verdaderamente extraño?
 
 188
 00:21:25,720 --> 00:21:30,748
