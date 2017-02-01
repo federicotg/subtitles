@@ -892,7 +892,7 @@ Este es el análisis.
 197
 00:14:49,800 --> 00:14:52,712
 - ¿De qué se trata?
-- Nadie en el laboratorio sabe que es.
+- Nadie en el laboratorio sabe qué es.
 
 198
 00:14:52,800 --> 00:14:56,156

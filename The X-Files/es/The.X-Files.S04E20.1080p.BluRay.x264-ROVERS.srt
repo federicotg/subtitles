@@ -240,7 +240,7 @@ que el padre del bebé era de otro planeta.
 54
 00:03:55,480 --> 00:04:00,270
 - ¿A qué se refería exactamente?
-- El no es de este planeta.
+- Él no es de este planeta.
 
 55
 00:04:02,160 --> 00:04:04,435
@@ -549,7 +549,7 @@ Parece que funcionó en los cuatro casos.
 
 122
 00:08:23,200 --> 00:08:25,191
-Quiero entender que quiere decir.
+Quiero entender qué quiere decir.
 
 123
 00:08:25,280 --> 00:08:29,637
@@ -692,7 +692,7 @@ hipotéticamente, ¿cuál es el crimen?
 154
 00:11:21,920 --> 00:11:25,913
 Si esperas oír mi teoría sobre
-que está ocurriendo, no la tengo.
+qué está ocurriendo, no la tengo.
 
 155
 00:11:26,000 --> 00:11:30,118
@@ -2092,7 +2092,7 @@ que era ahora o nunca.
 
 467
 00:39:58,600 --> 00:40:01,751
-I - Y yo pensé...
+- Y yo pensé...
 - ¿En qué pensabas?
 
 468
