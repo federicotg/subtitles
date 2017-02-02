@@ -1186,7 +1186,7 @@ Qué tipo de vampiro o, si lo prefieren,
 
 263
 00:23:11,280 --> 00:23:14,352
-que tipo de vampiro
+qué tipo de vampiro
 el asesino desearía ser.
 
 264
@@ -1351,7 +1351,7 @@ pero te puedes arreglar con lo que tengas.
 298
 00:26:10,040 --> 00:26:14,670
 ¿Recuerdas cuando dije que no sabíamos
-que tipo de vampiro estamos buscando?
+qué tipo de vampiro estamos buscando?
 
 299
 00:26:14,800 --> 00:26:17,758

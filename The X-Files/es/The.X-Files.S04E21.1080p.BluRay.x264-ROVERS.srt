@@ -625,7 +625,7 @@ Hemos tenido problemas de seguridad.
 
 139
 00:22:24,000 --> 00:22:29,313
-- ¿Sabe que tipo de abeja hace esto?
+- ¿Sabe qué tipo de abeja hace esto?
 - Tal vez puedo darle una respuesta.
 
 140

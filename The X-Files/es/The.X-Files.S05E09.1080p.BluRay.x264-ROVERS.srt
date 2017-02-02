@@ -1162,7 +1162,7 @@ Los árboles se están muriendo.
 
 255
 00:25:55,920 --> 00:25:58,992
-¿Sabe de que tipo de árbol vino esto?
+¿Sabe de qué tipo de árbol vino esto?
 
 256
 00:26:04,360 --> 00:26:06,351
@@ -1388,7 +1388,7 @@ y que hay una conexión.
 304
 00:33:05,080 --> 00:33:07,719
 Tengo miedo de preguntar
-que tipo de conexión.
+qué tipo de conexión.
 
 305
 00:33:07,800 --> 00:33:11,349
