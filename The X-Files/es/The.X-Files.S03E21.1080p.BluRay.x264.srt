@@ -1001,7 +1001,7 @@ todo lo que no debe hacer.
 
 218
 00:16:00,300 --> 00:16:02,800
-¿Por qué? El sabe que se está perjudicando.
+¿Por qué? Él sabe que se está perjudicando.
 
 219
 00:16:02,800 --> 00:16:06,000
