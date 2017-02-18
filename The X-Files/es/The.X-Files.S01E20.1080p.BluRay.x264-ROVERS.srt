@@ -986,7 +986,7 @@ Debería sacar una muestra.
 220
 00:18:55,040 --> 00:18:59,431
 ¿Hemos acabado la clase de biología?
-Quiero saber que les pasó a los leñadores.
+Quiero saber qué les pasó a los leñadores.
 
 221
 00:18:59,520 --> 00:19:03,115

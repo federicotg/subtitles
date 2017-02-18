@@ -806,7 +806,7 @@ tienen que encontrarlo.
 178
 00:17:31,600 --> 00:17:35,275
 Encontraron tres cadáveres.
-Quiero saber que les sucedió.
+Quiero saber qué les sucedió.
 
 179
 00:17:35,360 --> 00:17:38,158
