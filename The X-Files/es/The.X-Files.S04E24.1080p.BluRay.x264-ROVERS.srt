@@ -410,7 +410,7 @@ Con permiso.
 
 92
 00:09:20,480 --> 00:09:23,995
-- No. ¿Es sobre el asunto?
+- No. ¿Es algo importante?
 - Necesito que me ayudes en algo.
 
 93
@@ -434,7 +434,7 @@ Veámonos en el Smithsonian.
 
 97
 00:09:36,680 --> 00:09:39,148
-- ¿Cuando?
+- ¿Cuándo?
 - Enseguida.
 
 98
