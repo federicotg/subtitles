@@ -239,7 +239,7 @@ Mulder fue engañado por esa persona.
 
 54
 00:06:16,480 --> 00:06:20,712
-LO engañaron
+Lo engañaron
 con una prestidigitación científica
 
 55
@@ -621,7 +621,7 @@ Sólo queremos los créditos.
 137
 00:12:19,840 --> 00:12:23,230
 - ¿No crees que es una idiotez?
-- En realidad no tengo Opinión.
+- En realidad no tengo opinión.
 
 138
 00:12:23,320 --> 00:12:26,710
@@ -660,7 +660,7 @@ lo cambiarían todo para siempre.
 145
 00:12:48,880 --> 00:12:54,557
 Toda la verdad se verá sacudida.
-NO hay mayor revelación imaginable.
+No hay mayor revelación imaginable.
 
 146
 00:12:54,840 --> 00:13:01,109
@@ -902,7 +902,7 @@ No lo comprendo.
 
 198
 00:19:10,480 --> 00:19:15,952
-LO combinamos.
+Lo combinamos.
 Se supone que nos llevaría a la cumbre.
 
 199
@@ -951,7 +951,7 @@ Llegué un poco tarde.
 
 209
 00:20:58,160 --> 00:20:59,991
-LO siento.
+Lo siento.
 
 210
 00:22:41,640 --> 00:22:43,835
@@ -1152,7 +1152,7 @@ hasta hacerle el examen del carbono.
 
 256
 00:28:00,720 --> 00:28:03,757
-YO preví que su fisiología
+Yo preví que su fisiología
 ya sería una revelación.
 
 257
@@ -1758,7 +1758,7 @@ También este hombre.
 
 390
 00:40:53,040 --> 00:40:56,032
-LO que teníamos aquí era una prueba.
+Lo que teníamos aquí era una prueba.
 No puede ser otra cosa.
 
 391
