@@ -305,12 +305,12 @@ No llegué a averiguarlo, señor.
 
 67
 00:05:27,840 --> 00:05:31,549
-No le conviene olvidar quienes
+No le conviene olvidar quiénes
 son sus amigos, agente Mulder,
 
 68
 00:05:31,920 --> 00:05:33,876
-ni en quien puede confiar.
+ni en quién puede confiar.
 
 69
 00:05:39,520 --> 00:05:42,114
@@ -529,7 +529,7 @@ Bien, entonces incrimíname a mí.
 115
 00:09:03,720 --> 00:09:06,678
 Debes decirles que fui yo
-quien mate a ese hombre.
+quien mató a ese hombre.
 
 116
 00:09:10,840 --> 00:09:12,592
@@ -644,7 +644,7 @@ Vaya, vaya.
 140
 00:12:12,240 --> 00:12:14,834
 Nunca sospeché
-para que era el agua sin iones.
+para qué era el agua sin iones.
 
 141
 00:12:14,960 --> 00:12:19,954
@@ -801,7 +801,7 @@ para sugerir esta ciencia-ficción.
 174
 00:14:54,160 --> 00:14:56,754
 - No es ciencia-ficción.
-- El ni ha oído hablar de eso.
+- Él ni ha oído hablar de eso.
 
 175
 00:14:56,880 --> 00:14:58,996
@@ -827,7 +827,7 @@ buenas intenciones.
 
 180
 00:15:16,720 --> 00:15:19,951
-- Pero soy yo quien debo decidir.
+- Pero soy yo quien debe decidir.
 - Dana...
 
 181
@@ -998,7 +998,7 @@ Sí, se podría decir que sí.
 
 220
 00:19:12,040 --> 00:19:17,751
-Organice una reunión
+Organicé una reunión
 a la cual querrá asistir, Sr. Mulder.
 
 221

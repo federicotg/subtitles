@@ -959,7 +959,7 @@ Soy el agente Michel.
 
 211
 00:21:36,120 --> 00:21:40,477
-- No se nada sobre eso.
+- No sé nada sobre eso.
 - ¿Entonces cómo llegaron aquí?
 
 212

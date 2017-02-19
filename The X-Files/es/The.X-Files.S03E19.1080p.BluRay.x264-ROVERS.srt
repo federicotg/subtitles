@@ -913,7 +913,7 @@ Le estoy haciendo unas preguntas.
 198
 00:24:13,000 --> 00:24:18,279
 - ¿Recuerda quién le dio el trabajo?
-- No se nada de este asunto.
+- No sé nada de este asunto.
 
 199
 00:24:18,360 --> 00:24:23,150

@@ -1152,7 +1152,7 @@ Nadie se tomó el trabajo de informarme.
 
 247
 00:22:42,040 --> 00:22:44,349
-No se nada acerca de ningún hombre.
+No sé nada acerca de ningún hombre.
 
 248
 00:22:44,440 --> 00:22:47,750
@@ -2053,7 +2053,7 @@ más y más rápido.
 439
 00:40:56,840 --> 00:41:00,833
 - Haré que Seguridad lo detenga.
-- Está bien, dejelo ir.
+- Está bien, déjelo ir.
 
 440
 00:41:08,520 --> 00:41:11,034

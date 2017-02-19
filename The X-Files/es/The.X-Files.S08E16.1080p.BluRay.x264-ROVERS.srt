@@ -858,7 +858,7 @@ La próxima, se las cobro.
 192
 00:20:21,360 --> 00:20:24,432
 - ¿Qué más sabes?
-- No se nada.
+- No sé nada.
 
 193
 00:20:24,520 --> 00:20:29,469

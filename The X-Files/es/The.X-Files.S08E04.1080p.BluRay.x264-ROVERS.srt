@@ -471,7 +471,7 @@ de que alguien no quiere que me vaya.
 
 104
 00:15:01,640 --> 00:15:06,475
-- No se nada de eso.
+- No sé nada de eso.
 - Un autobús pasó hace una hora.
 
 105
