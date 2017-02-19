@@ -46,7 +46,7 @@ Casi las 5 a.m. ¿Ocurre algo?
 
 12
 00:01:54,360 --> 00:01:56,794
-- Creo que si.
+- Creo que sí.
 - ¿Dónde estás?
 
 13
@@ -2041,7 +2041,7 @@ cómo murieron.
 
 458
 00:43:17,520 --> 00:43:23,436
-Sus frances no dejaron evidencia
+Sus trances no dejaron evidencia
 de daño cerebral permanente,
 
 459
