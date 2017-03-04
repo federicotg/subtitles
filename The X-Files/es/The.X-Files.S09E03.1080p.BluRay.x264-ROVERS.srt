@@ -326,7 +326,7 @@ Debemos establecer contacto ahora.
 
 72
 00:07:10,440 --> 00:07:12,874
-Reg resaré.
+Regresaré.
 
 73
 00:07:33,440 --> 00:07:35,795
