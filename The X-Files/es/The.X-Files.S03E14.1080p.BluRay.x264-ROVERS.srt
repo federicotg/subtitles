@@ -584,7 +584,7 @@ Mulder.
 
 127
 00:14:15,320 --> 00:14:17,788
-¿Vas a decirme que está sucediendo allí?
+¿Vas a decirme qué está sucediendo allí?
 
 128
 00:15:22,520 --> 00:15:27,674
@@ -1550,7 +1550,7 @@ Mírese las manos.
 
 336
 00:39:47,000 --> 00:39:49,878
-Ahora pregúntese que está haciendo aquí.
+Ahora pregúntese qué está haciendo aquí.
 
 337
 00:39:52,520 --> 00:39:55,239
