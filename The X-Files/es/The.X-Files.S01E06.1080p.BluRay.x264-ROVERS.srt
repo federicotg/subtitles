@@ -1502,7 +1502,7 @@ los detalles de este caso.
 
 347
 00:33:36,280 --> 00:33:38,794
-Entonces no tenemos nada de que hablar.
+Entonces no tenemos nada de qué hablar.
 
 348
 00:33:38,920 --> 00:33:40,319
