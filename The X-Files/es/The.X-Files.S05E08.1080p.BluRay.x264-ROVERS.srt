@@ -834,7 +834,7 @@ Dame tu arma.
 
 184
 00:18:56,600 --> 00:18:58,750
-¿Es mi cita de las?
+¿Es mi cita de las 12:15?
 
 185
 00:19:01,280 --> 00:19:06,354
@@ -882,7 +882,7 @@ Era el caso más importante de Nathan.
 
 195
 00:19:46,200 --> 00:19:50,796
-¿Sabe que interés
+¿Sabe qué interés
 podría tener Modell en usted?
 
 196
@@ -1120,7 +1120,7 @@ de que es tuya?
 246
 00:24:56,920 --> 00:25:00,833
 ¿En qué estamos de acuerdo?
-¿En qué Modell buscaba a Linda Bowman?
+¿En que Modell buscaba a Linda Bowman?
 
 247
 00:25:01,360 --> 00:25:03,351
