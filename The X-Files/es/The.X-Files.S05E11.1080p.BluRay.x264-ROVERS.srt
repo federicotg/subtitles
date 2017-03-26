@@ -128,7 +128,7 @@ y no puedes hacer nada al respecto.
 
 30
 00:03:56,480 --> 00:03:58,357
-PROCESAN DO
+PROCESANDO
 
 31
 00:03:59,840 --> 00:04:01,034
