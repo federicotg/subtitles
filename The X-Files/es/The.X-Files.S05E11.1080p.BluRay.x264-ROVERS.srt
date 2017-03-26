@@ -248,7 +248,7 @@ con un jefe del Cartel.
 56
 00:06:51,520 --> 00:06:57,675
 Son las 2:45 de la mañana. ¿Te importaría
-decirme que estamos buscando?
+decirme qué estamos buscando?
 
 57
 00:06:59,920 --> 00:07:01,672

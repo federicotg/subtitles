@@ -2213,7 +2213,7 @@ que no es muy tarde para cambiarlo.
 
 496
 00:29:25,799 --> 00:29:27,681
-Dime que tengo que hacer.
+Dime qué tengo que hacer.
 
 497
 00:29:27,794 --> 00:29:28,795

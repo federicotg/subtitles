@@ -1181,7 +1181,7 @@ llega a una conclusión.
 
 262
 00:23:05,920 --> 00:23:11,153
-No sabemos que estamos buscando.
+No sabemos qué estamos buscando.
 Qué tipo de vampiro o, si lo prefieren,
 
 263
