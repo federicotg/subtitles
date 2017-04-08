@@ -1,4 +1,4 @@
-1
+﻿1
 00:00:02,280 --> 00:00:05,636
 QUERIDO HIJO:
 ESPERO QUE ESTÉS BIEN.
@@ -632,7 +632,7 @@ te han traído hasta aquí.
 
 139
 00:15:54,320 --> 00:15:56,356
-Yamí.
+Y a mí.
 
 140
 00:15:57,160 --> 00:16:00,869
@@ -1271,7 +1271,7 @@ Creí que usted vino aquí por su madre.
 282
 00:28:11,400 --> 00:28:15,359
 Usted fue a verla.
-Quisiera saber de que hablaron.
+Quisiera saber de qué hablaron.
 
 283
 00:28:15,440 --> 00:28:19,035
@@ -1499,362 +1499,366 @@ Escucha con atención,
 porque lo que voy a decirte es muy serio.
 
 332
+00:31:39,360 --> 00:31:42,860
+Hay una guerra y a menos que
+saques tu cabeza de la arena
+
+333
 00:31:42,960 --> 00:31:47,795
 tú y cinco mil millones de personas
 terminarán como los dinosaurios.
 
-333
+334
 00:31:48,800 --> 00:31:51,360
 Estoy hablando de una invasión planeada.
 
-334
+335
 00:31:51,480 --> 00:31:55,871
 La colonización de este planeta
 por una raza extraterrestre.
 
-335
+336
 00:31:55,960 --> 00:31:57,791
 Pensé que estabas hablando en serio.
 
-336
+337
 00:31:57,880 --> 00:32:01,236
 Kazajstán, Skyland Mountain,
 el lugar en Pensilvania,
 
-337
+338
 00:32:01,320 --> 00:32:04,630
 son faros alienígenas
 donde comenzará la colonización,
 
-338
+339
 00:32:04,720 --> 00:32:06,870
 pero donde ahora se
 ha desatado una batalla.
 
-339
+340
 00:32:06,960 --> 00:32:09,428
 Una lucha por el cielo y la tierra,
 
-340
+341
 00:32:09,520 --> 00:32:11,670
 donde existe sólo una ley: lucha o muere.
 
-341
+342
 00:32:13,040 --> 00:32:16,476
 Y una regla: resiste o sirve.
 
-342
+343
 00:32:17,240 --> 00:32:20,710
 - ¿Servir a quién?
 - No "a quien".
 
-343
+344
 00:32:23,920 --> 00:32:26,036
 "Qué".
 
-344
+345
 00:32:29,160 --> 00:32:31,913
 Krycek, eres un asesino,
 un mentiroso y un cobarde.
 
-345
+346
 00:32:32,000 --> 00:32:37,313
 ¿Sólo porque me apuntes con un revólver,
 tengo que creer que eres mi amigo?
 
-346
+347
 00:32:42,160 --> 00:32:44,230
 Levántate.
 
-347
+348
 00:32:54,760 --> 00:32:56,830
 Un hombre me envió.
 
-348
+349
 00:32:56,920 --> 00:33:00,674
 Un hombre que sabe, como yo,
 que la resistencia está en nuestras manos.
 
-349
+350
 00:33:01,840 --> 00:33:03,876
 Y en las tuyas.
 
-350
+351
 00:33:05,440 --> 00:33:09,433
 Las incineraciones en masa
 fueron ataques de una rebelión alienígena
 
-351
+352
 00:33:10,960 --> 00:33:13,428
 para interferir con los planes de ocupación.
 
-352
+353
 00:33:16,040 --> 00:33:19,112
 Ahora, uno de esos rebeldes
 ha sido capturado.
 
-353
+354
 00:33:20,440 --> 00:33:24,035
 Y si muere, también morirá la resistencia.
 
-354
+355
 00:33:52,280 --> 00:33:54,157
 Buena suerte, amigo mío.
 
-355
+356
 00:34:19,000 --> 00:34:21,833
 BASE AÉREA WIEKAMP
 PROHIBIDO EL PASO
 
-356
+357
 00:34:48,360 --> 00:34:50,157
 Adelante.
 
-357
+358
 00:34:51,800 --> 00:34:53,870
 ¿Mulder?
 
-358
+359
 00:34:59,120 --> 00:35:01,475
 ¿Qué estás haciendo
 sentado en la oscuridad?
 
-359
+360
 00:35:01,640 --> 00:35:03,756
 Pensando.
 
-360
+361
 00:35:03,840 --> 00:35:07,230
 - ¿Pensando en qué?
 - En lo habitual.
 
-361
+362
 00:35:07,320 --> 00:35:10,676
 El destino, la suerte.
 Cómo arrojar una bola curva.
 
-362
+363
 00:35:12,480 --> 00:35:15,392
 Las inextricables relaciones
 en nuestras vidas
 
-363
+364
 00:35:15,480 --> 00:35:22,670
 que no son ni accidentales
 ni están bajo nuestro control.
 
-364
+365
 00:35:25,480 --> 00:35:27,596
 Acabo de regresar de una larga caminata.
 
-365
+366
 00:35:28,680 --> 00:35:34,915
 y he reconsiderado que tal vez me haya
 equivocado sobre lo que creía me sucedió.
 
-366
+367
 00:35:37,200 --> 00:35:40,988
 Yo también he estado reconsiderando.
 
-367
+368
 00:35:42,800 --> 00:35:44,233
 LAS COSAS ESTÁN MEJORANDO
 
-368
+369
 00:35:44,400 --> 00:35:48,359
 BASE AÉREA WIEKAMP
 
-369
+370
 00:35:49,440 --> 00:35:51,829
 - ¿Qué es esto?
 - Tal vez una respuesta
 
-370
+371
 00:35:52,920 --> 00:35:56,196
 a una pregunta que tú y yo
 al parecer estamos destinados a hacernos.
 
-371
+372
 00:36:05,840 --> 00:36:09,276
 BASE AÉREA WIEKAMP
 
-372
+373
 00:36:30,160 --> 00:36:32,151
 - ¿Sí, señor?
 - Somos agentes federales,
 
-373
+374
 00:36:32,240 --> 00:36:34,231
 y solicitamos permiso para entrar.
 
-374
+375
 00:36:34,320 --> 00:36:36,709
 ¿Tiene otros documentos, agente Muldar?
 
-375
+376
 00:36:36,840 --> 00:36:41,231
 Es Mulder. No sabía que era necesario
 traer una autorización especial.
 
-376
+377
 00:36:41,320 --> 00:36:44,471
 La naturaleza de la base
 y las sustancias peligrosas que hay aquí
 
-377
+378
 00:36:44,560 --> 00:36:47,836
 requieren que sólo deje pasar
 al personal previamente autorizado.
 
-378
+379
 00:36:48,000 --> 00:36:51,310
 ¿Sabe usted que hay contaminación
 por filtración en el laboratorio,
 
-379
+380
 00:36:51,400 --> 00:36:54,631
 y que es necesario dar
 atención médica inmediata al personal?
 
-380
+381
 00:36:54,920 --> 00:36:57,514
 - No, señor. No sabía.
 - ¿Por qué no lo verifica?
 
-381
+382
 00:36:57,600 --> 00:37:01,275
 No me perdonaría si alguien muere
 sólo porque usted no está informado.
 
-382
+383
 00:37:09,200 --> 00:37:13,990
 - Vamos a entrar, Scully.
 - Está armado y dentro de su jurisdicción.
 
-383
+384
 00:37:24,120 --> 00:37:26,429
 - Conozco a ese hombre.
 - ¿Quién?
 
-384
+385
 00:37:26,520 --> 00:37:30,433
 El conductor. Lo reconozco.
 
-385
+386
 00:37:40,800 --> 00:37:44,713
 No tienen autoridad para estar aquí.
 Deténgalos bajo arresto militar.
 
-386
+387
 00:37:44,840 --> 00:37:46,876
 Sí, señor.
 
-387
+388
 00:37:55,480 --> 00:37:57,596
 Detenga ese camión.
 
-388
+389
 00:37:57,680 --> 00:37:59,989
 Salga del auto. Está bajo arresto.
 
-389
+390
 00:38:00,080 --> 00:38:02,150
 Se ha producido violación de la seguridad
 
-390
+391
 00:38:02,240 --> 00:38:05,152
 y el posible secuestro
 de un vehículo militar.
 
-391
+392
 00:40:21,360 --> 00:40:23,316
 ¡No!
 
-392
+393
 00:41:30,920 --> 00:41:33,036
 ¿Qué sucedió?
 
-393
+394
 00:41:35,080 --> 00:41:36,957
 No lo sé.
 
-394
+395
 00:41:54,800 --> 00:41:57,872
 OFICINA CENTRAL DEL FBI
 WASHINGTON, D.C.
 
-395
+396
 00:42:04,280 --> 00:42:06,316
 Agente Spender.
 
-396
+397
 00:42:08,480 --> 00:42:10,550
 Señor
 
-397
+398
 00:42:15,320 --> 00:42:18,551
 Lo siento. No hemos tenido noticias
 sobre su madre.
 
-398
+399
 00:42:19,680 --> 00:42:21,591
 DPTO. FEDERAL DE INVESTIGACIONES
 
-399
+400
 00:42:21,680 --> 00:42:24,319
 Aprecio
 que quiera mantener esto confidencial.
 
-400
+401
 00:42:24,400 --> 00:42:26,675
 Yo haré lo mismo.
 
-401
+402
 00:42:26,760 --> 00:42:31,072
 Pero debe saber que el agente Mulder
 ha abierto un Archivo X de este caso.
 
-402
+403
 00:42:36,080 --> 00:42:39,755
 Esto no tendrá consecuencias
 sobre usted, agente Spender.
 
-403
+404
 00:42:40,840 --> 00:42:42,990
 - Gracias, señor.
 - No tendrá problemas.
 
-404
+405
 00:42:45,040 --> 00:42:49,352
 Parece que tiene un protector fuera de
 esta oficina que lo tiene en alta estima.
 
-405
+406
 00:42:49,480 --> 00:42:51,630
 - ¿Quién?
 - No lo sé.
 
-406
+407
 00:42:53,960 --> 00:42:57,475
 Alguien con gran influencia.
 
-407
+408
 00:43:14,040 --> 00:43:16,634
 Agente Spender.
 Tengo una carta para usted.
 
-408
+409
 00:43:56,360 --> 00:43:58,510
 Lo siento, señor.
 
-409
+410
 00:44:04,160 --> 00:44:07,277
 DEVOLVER AL REMITENTE,
 DIRECCION EQUIVOCADA
 
-410
+411
 00:44:53,160 --> 00:44:55,151
 Subtítulos Visiontext:
 Alejandra Guibert
-
 
