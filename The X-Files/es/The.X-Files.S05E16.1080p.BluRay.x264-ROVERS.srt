@@ -1283,7 +1283,7 @@ Creo que viste ambos asesinatos.
 285
 00:26:22,920 --> 00:26:28,677
 De alguna manera los viste, pero del otro
-lado de la ciudad. Hiciste un viaje de 560.
+lado de la ciudad. Hiciste un viaje de $60.
 
 286
 00:26:28,760 --> 00:26:31,672
@@ -1802,7 +1802,7 @@ que estarás a salvo.
 
 402
 00:37:37,800 --> 00:37:40,712
-Lleveme a casa.
+Lléveme a casa.
 
 403
 00:37:51,520 --> 00:37:54,478
@@ -1845,7 +1845,7 @@ a través de los ojos de él.
 
 411
 00:38:25,240 --> 00:38:27,356
-No estaba segura de que era lo que veía.
+No estaba segura de qué era lo que veía.
 
 412
 00:38:27,480 --> 00:38:29,789
