@@ -311,7 +311,7 @@ que usted tuvo dificultades
 72
 00:08:43,160 --> 00:08:46,232
 en que le informaran
-que le sucedió a su hija.
+qué le sucedió a su hija.
 
 73
 00:08:46,480 --> 00:08:50,678
@@ -392,7 +392,7 @@ soy científica.
 
 90
 00:09:56,760 --> 00:09:59,479
-Me formaron para vanrar pruebas.
+Me formaron para valorar pruebas.
 
 91
 00:10:02,000 --> 00:10:05,151
@@ -1772,7 +1772,7 @@ Vi a un hombre
 
 391
 00:37:31,840 --> 00:37:33,831
-COD ropas OSCU ras.
+Con ropas oscuras.
 
 392
 00:37:36,840 --> 00:37:39,479
@@ -1921,7 +1921,7 @@ Venga, yo la llevo.
 
 424
 00:40:50,840 --> 00:40:53,400
-¿No la vi aquí?
+¿No la ve aquí?
 
 425
 00:40:53,520 --> 00:40:55,556
