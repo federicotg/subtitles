@@ -577,7 +577,7 @@ Nada que un whisky no pueda curar.
 
 127
 00:13:05,480 --> 00:13:08,040
-No sabía que decirle.
+No sabía qué decirle.
 
 128
 00:13:08,120 --> 00:13:12,830
@@ -1398,7 +1398,7 @@ estos dos hombres, Gissing y Oberman.
 309
 00:30:41,480 --> 00:30:45,075
 - Quiero sus archivos. Gissing y Oberman.
-- Ya los busque.
+- Ya los busqué.
 
 310
 00:30:45,160 --> 00:30:49,392

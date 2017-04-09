@@ -951,7 +951,7 @@ el nombre que eligió.
 212
 00:21:49,240 --> 00:21:51,549
 Me resultaba conocido,
-así que lo busque.
+así que lo busqué.
 
 213
 00:21:51,720 --> 00:21:53,836
