@@ -327,7 +327,7 @@ Es decir, ¿no sólo se escapó,
 72
 00:06:46,160 --> 00:06:49,197
 sino que lo hizo con armas
-por un valor de 550.000?
+por un valor de $50.000?
 
 73
 00:06:51,480 --> 00:06:54,677
@@ -813,7 +813,7 @@ que Haley asesine y que no lo atrapen?
 175
 00:16:56,760 --> 00:17:01,356
 Lo ignoramos todo sobre el arma biológica.
-No sabemos para que la quieren usar.
+No sabemos para qué la quieren usar.
 
 176
 00:17:01,440 --> 00:17:05,956
@@ -1215,7 +1215,7 @@ Al desprenderse, hace efecto.
 261
 00:26:22,480 --> 00:26:28,032
 El contagio se activa con el contacto
-dermico. Es ingenioso, diabólico.
+dérmico. Es ingenioso, diabólico.
 
 262
 00:26:28,600 --> 00:26:30,670
@@ -1449,7 +1449,7 @@ Dénos el dinero y nos iremos.
 
 314
 00:33:10,560 --> 00:33:13,552
-Atrás. Vamos, muevase.
+Atrás. Vamos, muévase.
 
 315
 00:33:13,880 --> 00:33:17,668
@@ -1505,7 +1505,7 @@ No. Está vivo.
 
 327
 00:34:16,400 --> 00:34:18,470
-Liquídan.
+Liquídalo.
 
 328
 00:34:46,800 --> 00:34:48,916
@@ -1525,7 +1525,7 @@ Al suelo.
 
 332
 00:35:41,280 --> 00:35:44,556
-Te dije que lo quuidaras.
+Te dije que lo liquidaras.
 
 333
 00:35:51,240 --> 00:35:53,708
@@ -1654,7 +1654,7 @@ No tenemos forma de contactarlo.
 360
 00:38:34,080 --> 00:38:37,709
 Hemos puesto videos de vigilancia.
-Ha habido 27 robos
+Hubo 27 robos
 
 361
 00:38:37,840 --> 00:38:40,195
