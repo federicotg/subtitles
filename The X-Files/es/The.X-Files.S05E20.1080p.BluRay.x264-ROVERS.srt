@@ -1166,7 +1166,7 @@ En su caso. En el caso que le di.
 260
 00:27:17,880 --> 00:27:23,034
 Controle el tablero.
-Sepa que hombres sacrificar y cuándo.
+Sepa qué hombres sacrificar y cuándo.
 
 261
 00:27:23,400 --> 00:27:28,554
