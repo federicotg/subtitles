@@ -581,7 +581,7 @@ Acabo de pasar seis horas con él.
 129
 00:15:51,880 --> 00:15:55,509
 - No ha dicho nada.
-- Déjeme ver que puedo hacer yo.
+- Déjeme ver qué puedo hacer yo.
 
 130
 00:15:55,680 --> 00:15:57,750
@@ -964,7 +964,7 @@ durante mucho tiempo.
 215
 00:22:25,120 --> 00:22:27,918
 Siempre me pregunté por
-que se separaron.
+qué se separaron.
 
 216
 00:22:34,600 --> 00:22:37,672
