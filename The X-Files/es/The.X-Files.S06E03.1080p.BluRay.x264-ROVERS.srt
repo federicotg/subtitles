@@ -917,7 +917,7 @@ Correcto.
 
 200
 00:22:12,600 --> 00:22:15,592
-I -¿Hola?
+-¿Hola?
 - ¿Agente Fowley?
 
 201
