@@ -121,7 +121,7 @@ Lo siento. Jamás lo oí nombrar.
 27
 00:03:39,720 --> 00:03:44,874
 Digo que lo cortemos por la mitad
-a ver de que color sangra. Sucio Jerry.
+a ver de qué color sangra. Sucio Jerry.
 
 28
 00:03:47,880 --> 00:03:49,836
@@ -179,7 +179,7 @@ Creo que el error es mío.
 40
 00:04:36,040 --> 00:04:39,669
 - Vine en busca de este barco.
-- Sólo de la orden, capitán.
+- Sólo dé la orden, capitán.
 
 41
 00:04:39,800 --> 00:04:43,315
@@ -209,7 +209,7 @@ cerca del Bajo de Plantagenet.
 46
 00:04:57,080 --> 00:05:02,029
 100 kilómetros al sur-suroeste de
-Bermuda. ¿Cómo se si estaba en el agua?
+Bermuda. ¿Cómo sé si estaba en el agua?
 
 47
 00:05:02,120 --> 00:05:07,717
@@ -608,7 +608,7 @@ a Mulder para ayudarlo a navegar.
 133
 00:15:53,840 --> 00:15:58,436
 Alquiló un barco de motor en Bermuda.
-Lo rastreemos con el satélite.
+Lo rastreamos con el satélite.
 
 134
 00:15:58,560 --> 00:16:00,835
