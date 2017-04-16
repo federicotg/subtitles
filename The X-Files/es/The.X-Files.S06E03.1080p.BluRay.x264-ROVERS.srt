@@ -716,7 +716,7 @@ Ya no soy su superior directo.
 
 156
 00:17:15,600 --> 00:17:19,673
-- ¿No quiere saber de que se trata?
+- ¿No quiere saber de qué se trata?
 - No, no quiero saber.
 
 157

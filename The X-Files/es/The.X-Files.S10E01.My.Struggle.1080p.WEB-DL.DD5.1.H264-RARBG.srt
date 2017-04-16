@@ -1607,7 +1607,7 @@ Necesito acceso a los Expedientes X.
 
 362
 00:24:50,351 --> 00:24:52,907
-¿Puedes decirme de que se trata?
+¿Puedes decirme de qué se trata?
 
 363
 00:24:53,020 --> 00:24:55,977
