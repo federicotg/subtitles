@@ -2068,7 +2068,7 @@ cuando estoy normal.
 
 467
 00:26:12,521 --> 00:26:15,544
-Pero si, bastante parecido.
+Pero sí, bastante parecido.
 
 468
 00:26:15,657 --> 00:26:17,813
@@ -2085,11 +2085,11 @@ No sucedió hasta la mañana siguiente.
 471
 00:26:24,766 --> 00:26:28,768
 <i>Mi transformación no fue
-solo física si no también mental.</i>
+solo física sino también mental.</i>
 
 472
 00:26:30,439 --> 00:26:32,161
-<i>Escuche una voz en mi cabeza.</i>
+<i>Escuché una voz en mi cabeza.</i>
 
 473
 00:26:32,274 --> 00:26:33,929
@@ -2097,7 +2097,7 @@ solo física si no también mental.</i>
 
 474
 00:26:34,042 --> 00:26:36,932
-<i>Me volví consiente
+<i>Me volví consciente
 de mi propia conciencia...</i>
 
 475
@@ -2402,7 +2402,7 @@ ahorrando lo suficiente para mi retiro.</i>
 
 542
 00:30:48,615 --> 00:30:50,437
-¿Y qué otro cosa se
+¿Y qué otra cosa se
 supone que debería hacer?
 
 543
