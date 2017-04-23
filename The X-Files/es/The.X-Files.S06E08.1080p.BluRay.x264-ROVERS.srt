@@ -451,12 +451,12 @@ Holman, te presento a los Gunderson.
 100
 00:10:07,600 --> 00:10:11,878
 Felicitaciones. Espero que tengan
-una vacación muy romántica.
+unas vacaciones muy románticas.
 
 101
 00:10:12,000 --> 00:10:14,673
 ¿No están contentos de ver
-Eltiempo del Canal 5?
+El tiempo del Canal 5?
 
 102
 00:10:14,840 --> 00:10:18,515
@@ -1566,7 +1566,7 @@ estaré en graves problemas.
 344
 00:30:40,840 --> 00:30:43,991
 Dairy Queen me contrataría de nuevo.
-Pagan casi 56 la hora.
+Pagan casi $6 la hora.
 
 345
 00:30:44,080 --> 00:30:46,275
@@ -1620,7 +1620,7 @@ Confieso que me asombra.
 
 356
 00:31:45,400 --> 00:31:48,836
-He visto como se miran el uno al otro.
+He visto cómo se miran el uno al otro.
 
 357
 00:31:51,480 --> 00:31:54,358
@@ -1751,7 +1751,7 @@ Es inteligente, apuesto.
 
 386
 00:34:18,840 --> 00:34:22,435
-¿Apuesto? Te mostraré que es ser apuesto.
+¿Apuesto? Te mostraré qué es ser apuesto.
 
 387
 00:34:23,240 --> 00:34:25,356
@@ -1784,7 +1784,7 @@ los radares meteorológicos?
 393
 00:34:59,880 --> 00:35:03,031
 - Un poco. ¿Por qué?
-- ¿El rojo que representa?
+- ¿El rojo qué representa?
 
 394
 00:35:05,880 --> 00:35:07,871
