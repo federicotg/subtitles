@@ -1143,7 +1143,7 @@ Tengo etorfina. ¿Le sirve?
 252
 00:23:34,680 --> 00:23:36,989
 - Sí.
-- ¿Puedo preguntar para que son?
+- ¿Puedo preguntar para qué son?
 
 253
 00:23:37,080 --> 00:23:39,833
