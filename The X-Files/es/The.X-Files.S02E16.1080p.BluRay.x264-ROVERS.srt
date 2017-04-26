@@ -1791,7 +1791,7 @@ Hablaré con los presos.
 396
 00:43:07,000 --> 00:43:10,310
 - ¿Quiere que vigile?
-- No, traigame el café.
+- No, tráigame el café.
 
 397
 00:43:10,440 --> 00:43:12,510
