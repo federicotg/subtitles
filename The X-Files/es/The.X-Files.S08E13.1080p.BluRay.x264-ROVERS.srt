@@ -161,7 +161,7 @@ Ahora mi esposa está muerta.
 36
 00:04:36,160 --> 00:04:39,232
 - Mataron a mi esposa.
-- Revise los archivos.
+- Revisé los archivos.
 
 37
 00:04:39,320 --> 00:04:46,635
@@ -334,7 +334,7 @@ a mi lado cuando me enfermé, pero...
 
 74
 00:08:45,800 --> 00:08:48,234
-No me oingues a adivinar.
+No me obligues a adivinar.
 
 75
 00:08:50,560 --> 00:08:56,749
@@ -361,7 +361,7 @@ y que comprendas por qué te lo oculté.
 
 80
 00:09:26,120 --> 00:09:33,037
-Cuando investigue tu enfermedad,
+Cuando investigué tu enfermedad,
 averigüé por qué quedaste estéril.
 
 81

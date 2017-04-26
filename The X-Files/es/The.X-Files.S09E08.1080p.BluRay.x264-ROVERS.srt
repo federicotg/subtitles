@@ -1004,7 +1004,7 @@ Tengo que mostrarte algo.
 223
 00:25:17,080 --> 00:25:20,959
 - ¿Qué son?
-- Te mostre expedientes de 1960.
+- Te mostré expedientes de 1960.
 
 224
 00:25:21,120 --> 00:25:22,997
