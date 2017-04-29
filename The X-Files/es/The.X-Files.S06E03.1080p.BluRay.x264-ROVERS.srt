@@ -697,7 +697,7 @@ Te llamo en cinco minutos.
 152
 00:17:04,560 --> 00:17:06,755
 - No puedo.
-- Puede que este perdido en alta mal.
+- Puede que esté perdido en alta mal.
 
 153
 00:17:06,960 --> 00:17:08,632

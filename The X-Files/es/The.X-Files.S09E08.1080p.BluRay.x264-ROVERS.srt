@@ -267,7 +267,7 @@ enemigos capaces de esto.
 
 59
 00:05:55,560 --> 00:05:59,712
-Salvo que se me este escapando algo.
+Salvo que se me esté escapando algo.
 
 60
 00:05:59,880 --> 00:06:01,757

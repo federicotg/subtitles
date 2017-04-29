@@ -1123,8 +1123,8 @@ para empezar?
 
 248
 00:25:44,640 --> 00:25:48,599
-Puede que este protegiendo a Fassl,
-o que Fassl lo este protegiendo a él.
+Puede que esté protegiendo a Fassl,
+o que Fassl lo esté protegiendo a él.
 
 249
 00:25:48,680 --> 00:25:55,677

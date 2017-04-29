@@ -536,7 +536,7 @@ Y ahora ambos sabemos lo que le pasó.
 
 120
 00:09:53,520 --> 00:09:57,638
-- Lo más probable es que este muerta.
+- Lo más probable es que esté muerta.
 - No. Era una científica brillante.
 
 121

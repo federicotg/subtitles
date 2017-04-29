@@ -574,7 +574,7 @@ Está armada, ¿no?
 
 133
 00:16:58,000 --> 00:17:02,869
-Quiero que salga y se este alerta en la puerta.
+Quiero que salga y se esté alerta en la puerta.
 
 134
 00:17:03,000 --> 00:17:07,437

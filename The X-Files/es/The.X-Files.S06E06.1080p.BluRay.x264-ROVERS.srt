@@ -554,7 +554,7 @@ debajo del piso.
 121
 00:11:57,760 --> 00:12:01,309
 - ¿Qué vas a hacer?
-- Puede que alguien este atrapado ahí.
+- Puede que alguien esté atrapado ahí.
 
 122
 00:12:01,440 --> 00:12:04,876

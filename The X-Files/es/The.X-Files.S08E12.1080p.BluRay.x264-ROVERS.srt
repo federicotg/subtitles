@@ -1610,7 +1610,7 @@ si me quedo quieto.
 
 356
 00:32:19,440 --> 00:32:24,116
-Quizá no este sacando chispas
+Quizá no esté sacando chispas
 porque me estoy moviendo.
 
 357
@@ -1704,7 +1704,7 @@ Por favor, no me deje aquí.
 
 377
 00:34:04,000 --> 00:34:06,753
-Espero que este disfrutando el viaje.
+Espero que esté disfrutando el viaje.
 
 378
 00:34:09,880 --> 00:34:12,872

@@ -894,7 +894,7 @@ lo que necesito es el nombre del cómplice.
 
 192
 00:19:35,880 --> 00:19:39,270
-- A menos que este diciendo la verdad.
+- A menos que esté diciendo la verdad.
 - ¿Sobre estar poseído?
 
 193

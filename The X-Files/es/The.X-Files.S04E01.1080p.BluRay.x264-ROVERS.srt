@@ -1177,7 +1177,7 @@ Yo podría haberla salvado, Scully.
 
 261
 00:37:06,360 --> 00:37:09,477
-Mientras este acostada aquí,
+Mientras esté acostada aquí,
 no puedes perder la esperanza.
 
 262
@@ -1186,7 +1186,7 @@ No me importa lo que dicen los médicos.
 
 263
 00:37:16,800 --> 00:37:21,316
-Tuve una chance... y la dejé pasar.
+Tuve una oportunidad... y la dejé pasar.
 
 264
 00:37:22,840 --> 00:37:27,755
@@ -1296,7 +1296,7 @@ Soy asistente del representante especial.
 
 288
 00:39:57,200 --> 00:39:59,634
-¿Él pudo ver el material que le envie?
+¿Él pudo ver el material que le envié?
 
 289
 00:39:59,720 --> 00:40:02,712
@@ -1315,7 +1315,7 @@ por algo importante.
 
 292
 00:40:10,880 --> 00:40:15,271
-Pregunte a los representantes especiales
+Pregunté a los representantes especiales
 varias veces sobre el campo en Canadá.
 
 293

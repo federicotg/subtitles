@@ -798,7 +798,7 @@ que bloquea los canales más caros.
 174
 00:19:08,800 --> 00:19:12,031
 - ¿Qué bloquea?
-- No parece que este bloqueando nada.
+- No parece que esté bloqueando nada.
 
 175
 00:19:12,160 --> 00:19:14,833
