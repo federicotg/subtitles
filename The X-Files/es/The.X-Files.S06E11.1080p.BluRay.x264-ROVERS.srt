@@ -1154,7 +1154,7 @@ Salgan de ahí.
 256
 00:26:53,640 --> 00:26:58,589
 Apaguen la computadora. Descarguen
-o impriman la información y denmela.
+o impriman la información y dénmela.
 
 257
 00:26:58,720 --> 00:27:01,518
@@ -1237,7 +1237,7 @@ de cumplir tus responsabilidades.
 274
 00:28:35,760 --> 00:28:38,911
 Te di una responsabilidad.
-¡Te coloque en un puesto!
+¡Te coloqué en un puesto!
 
 275
 00:28:39,080 --> 00:28:42,390
@@ -1330,7 +1330,7 @@ es la madre del agente Jeffrey Spender
 
 295
 00:30:30,760 --> 00:30:33,718
-y ex esposa de C. G. B. Spender.
+y exesposa de C. G. B. Spender.
 
 296
 00:30:34,760 --> 00:30:39,276
