@@ -252,7 +252,7 @@ del Dpto. de Justicia...
 56
 00:09:00,760 --> 00:09:05,914
 estiman un descenso mayor,
-del 2% ó 3%, en la tasa de homicidios,
+del 2% o 3%, en la tasa de homicidios,
 
 57
 00:09:06,040 --> 00:09:12,912
@@ -547,7 +547,7 @@ Es decir, yo...
 
 123
 00:18:07,640 --> 00:18:10,313
-No es nadie que conozcas. Olvídan.
+No es nadie que conozcas. Olvídalo.
 
 124
 00:18:11,280 --> 00:18:13,589
@@ -671,7 +671,7 @@ Hay demasiadas variables.
 150
 00:20:21,240 --> 00:20:24,789
 Yo quise llegar temprano hoy,
-pero mi agua de cama se rompió,
+pero mi cama de agua se rompió,
 
 151
 00:20:24,960 --> 00:20:28,714
@@ -705,12 +705,12 @@ habría llegado a tiempo.
 
 157
 00:20:45,840 --> 00:20:49,469
-Quizá te habrías dedicado a la medicina
+Quizá te hubieras dedicado a la medicina
 y no pertenecerías al FBI,
 
 158
 00:20:49,600 --> 00:20:53,229
-ni nos habríamos conocido.
+ni nos hubiéramos conocido.
 Bla, bla, bla.
 
 159
@@ -1210,7 +1210,7 @@ Sólo lo sé.
 
 267
 00:32:43,080 --> 00:32:45,036
-Alegrese de que no lo sabe.
+Alégrese de que no lo sabe.
 
 268
 00:32:45,520 --> 00:32:48,080
@@ -1233,7 +1233,7 @@ se mantengan hasta el año que viene.
 272
 00:33:06,600 --> 00:33:11,310
 Otras proyecciones del Dpto. de Justicia
-estiman un descenso mayor, del 2% ó 3%,
+estiman un descenso mayor, del 2% o 3%,
 
 273
 00:33:11,400 --> 00:33:14,472
@@ -1377,7 +1377,7 @@ Tiene una bomba.
 
 304
 00:37:59,880 --> 00:38:05,591
-... estiman un descenso mayor, del 2% ó 3%,
+... estiman un descenso mayor, del 2% o 3%,
 en la tasa de homicidios,
 
 305
@@ -1398,7 +1398,7 @@ preferida por el Dpto. de Justicia.
 308
 00:38:21,760 --> 00:38:27,232
 Las variables hacen particularmente difícil
-predecir las tendencias para el año entrant
+predecir las tendencias para el año entrante
 
 309
 00:38:28,240 --> 00:38:30,754
@@ -1481,7 +1481,7 @@ no te voy a detener.
 
 326
 00:39:57,120 --> 00:40:00,510
-- Tú eres el que mandas.
+- Tú eres el que manda.
 - Ya lo creo.
 
 327
