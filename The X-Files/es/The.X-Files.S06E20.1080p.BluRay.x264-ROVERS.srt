@@ -1079,7 +1079,7 @@ Susanne es una chica muy popular.
 
 237
 00:22:51,000 --> 00:22:53,833
-Averigüemos que lo mató.
+Averigüemos qué lo mató.
 
 238
 00:22:53,960 --> 00:22:55,837
