@@ -414,7 +414,7 @@ con pruebas nucleares?
 
 97
 00:08:46,480 --> 00:08:50,632
-Lo investigue.
+Lo investigué.
 Está muy lejos de sitios de pruebas.
 
 98
@@ -565,7 +565,7 @@ que parecía no haber sido afectado.
 
 129
 00:11:03,680 --> 00:11:07,912
-Lo observé el primer día, y no detecte
+Lo observé el primer día, y no detecté
 los síntomas presentes en los otros.
 
 130
