@@ -302,7 +302,7 @@ Eso es todo lo que puedo decir.
 
 69
 00:07:02,400 --> 00:07:05,756
-M parece que no.
+Me parece que no.
 Creo que Pinker Rawls aún está vivo.
 
 70
@@ -344,7 +344,8 @@ o cualquiera, hacer esto?
 
 78
 00:07:39,560 --> 00:07:42,518
-¿Cómo entró y salió de una oficina cerrad
+¿Cómo entró y salió de una 
+oficina cerrada?
 
 79
 00:07:42,600 --> 00:07:45,592
@@ -837,7 +838,8 @@ Lo oí en el noticiero.
 
 186
 00:19:09,640 --> 00:19:14,111
-Será mejor que los llames, por si no lo est
+Será mejor que los llames, 
+por si no lo está
 
 187
 00:19:15,680 --> 00:19:17,398
@@ -887,7 +889,8 @@ dónde está su hermana.
 
 198
 00:22:06,720 --> 00:22:10,918
-Mulder, ella dice que lo vio atravesar la pa
+Mulder, ella dice que lo vio 
+atravesar la pared.
 
 199
 00:22:13,080 --> 00:22:16,197
@@ -1054,7 +1057,7 @@ Lo pensé durante una o dos semanas.
 
 236
 00:25:22,720 --> 00:25:25,109
-Pague la cuota inicial de esta casa.
+Pagué la cuota inicial de esta casa.
 
 237
 00:25:25,240 --> 00:25:31,031
@@ -1118,7 +1121,7 @@ Dame tus llaves.
 
 250
 00:27:03,400 --> 00:27:06,437
-Llevensela. Quiero que tenga
+Llévensela. Quiero que tenga
 protección permanente.
 
 251
