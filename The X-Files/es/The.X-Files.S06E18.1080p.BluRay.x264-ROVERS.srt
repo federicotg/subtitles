@@ -546,7 +546,7 @@ Debe ir al gimnasio o correr.
 
 117
 00:14:54,840 --> 00:14:59,231
-Hay un camino cerca. Quizá corre por el
+Hay un camino cerca. Quizá corre por él
 al mediodía o después de trabajar.
 
 118
@@ -589,7 +589,7 @@ que recibió esta mañana.
 
 126
 00:15:33,280 --> 00:15:37,193
-Disculpe que no le deje una nota explicativa
+Disculpe que no le dejé una nota explicativa
 pero no me conocía.
 
 127
@@ -1744,7 +1744,7 @@ si ha de ser perfecto.
 
 379
 00:41:17,840 --> 00:41:22,072
-¿Lo ves?Casi se escribe por sí solo.
+¿Lo ves? Casi se escribe por sí solo.
 
 380
 00:41:41,760 --> 00:41:43,716
@@ -1782,7 +1782,7 @@ Destruye pruebas, querrá decir.
 388
 00:42:48,800 --> 00:42:53,078
 - A ver que escribió.
-- Se lo diré. El la mata.
+- Se lo diré. Él la mata.
 
 389
 00:43:04,440 --> 00:43:07,716

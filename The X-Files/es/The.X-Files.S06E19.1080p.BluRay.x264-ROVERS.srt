@@ -1525,7 +1525,8 @@ a la izquierda de Marte.
 
 328
 00:34:19,800 --> 00:34:22,792
-Un sujeto en la jefatura está dispuesto aj
+Un sujeto en la jefatura está dispuesto 
+a jurar
 
 329
 00:34:22,880 --> 00:34:25,713
@@ -1829,7 +1830,7 @@ para un muy especial
 395
 00:42:10,360 --> 00:42:14,433
 y muy tempranero, o muy nocturno,
-regan de cumpleaños.
+regalo de cumpleaños.
 
 396
 00:42:14,600 --> 00:42:20,152
