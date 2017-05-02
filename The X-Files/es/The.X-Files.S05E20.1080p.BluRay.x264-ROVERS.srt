@@ -644,7 +644,7 @@ Permiso.
 
 143
 00:16:43,720 --> 00:16:47,076
-- Yo no mate a un niño.
+- Yo no maté a un niño.
 - No. Gracias al niño.
 
 144
