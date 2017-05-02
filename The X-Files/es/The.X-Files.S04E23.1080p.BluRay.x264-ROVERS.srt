@@ -161,7 +161,7 @@ Sigue mi dedo.
 
 38
 00:05:03,880 --> 00:05:05,552
-Hable contigo por teléfono.
+Hablé contigo por teléfono.
 
 39
 00:05:05,640 --> 00:05:07,870

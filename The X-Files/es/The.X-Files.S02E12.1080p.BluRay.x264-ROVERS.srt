@@ -457,7 +457,7 @@ En unos segundos me conectarán.
 
 102
 00:09:30,640 --> 00:09:33,950
-Hable con el mecánico.
+Hablé con el mecánico.
 El auto de BJ estaba en orden.
 
 103

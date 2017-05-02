@@ -146,7 +146,7 @@ Sólo vine a averiguar quien se lo llevó.
 
 34
 00:05:35,920 --> 00:05:39,310
-Hable con todos en la escuela.
+Hablé con todos en la escuela.
 Nadie lo vio regresar.
 
 35
@@ -463,7 +463,7 @@ HOSPITAL COMUNITARIO DE DEXTER,
 
 104
 00:11:27,760 --> 00:11:33,073
-Hable con los médicos
+Hablé con los médicos
 que trataron a Billy. Vi sus análisis.
 
 105
@@ -541,7 +541,7 @@ pero sin duda que no es normal.
 
 120
 00:12:50,440 --> 00:12:55,912
-Hable con los testigos en la escena
+Hablé con los testigos en la escena
 del crimen, con un tal Ronald Purnell.
 
 121

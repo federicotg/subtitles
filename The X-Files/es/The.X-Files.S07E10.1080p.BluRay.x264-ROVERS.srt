@@ -418,7 +418,7 @@ En Amber Lynn LaPierre.
 
 96
 00:11:34,640 --> 00:11:39,111
-- ¿Te molesta si enciendo la qu?
+- ¿Te molesta si enciendo la luz?
 - Sí, me molesta.
 
 97
@@ -668,7 +668,7 @@ Relacionas este caso con el de tu hermana.
 149
 00:16:04,720 --> 00:16:09,555
 Mi hermana fue sustraída por alienígenas.
-¿Hable de alienígenas?
+¿Hablé de alienígenas?
 
 150
 00:16:09,640 --> 00:16:13,235
