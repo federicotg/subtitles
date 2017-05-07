@@ -995,7 +995,7 @@ La trigésima parte de un segundo.
 
 226
 00:20:10,120 --> 00:20:14,796
-Tal vez el GEC nos de una imagen más nítida.
+Tal vez el GEC nos dé una imagen más nítida.
 
 227
 00:20:15,800 --> 00:20:19,190

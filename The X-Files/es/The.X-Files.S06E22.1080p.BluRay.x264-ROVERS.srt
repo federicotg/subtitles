@@ -122,7 +122,7 @@ lo que nadie puede decir con seguridad
 
 27
 00:01:54,760 --> 00:01:58,753
-es que o quién encendió
+es qué o quién encendió
 esa chispa original.
 
 28
@@ -632,7 +632,7 @@ que lo autenticara.
 
 138
 00:16:02,680 --> 00:16:06,036
-Y para que nos de su opinión profesional
+Y para que nos dé su opinión profesional
 de cómo esto te afecta.
 
 139
@@ -820,7 +820,7 @@ Deberías estar en la cama.
 177
 00:19:08,000 --> 00:19:12,118
 No me iré a casa a acostarme.
-Creo que se cuál es la causa.
+Creo que sé cuál es la causa.
 
 178
 00:19:12,760 --> 00:19:15,228
@@ -961,7 +961,7 @@ Algo que a nadie se le ocurriría buscar.
 
 207
 00:22:11,960 --> 00:22:16,875
-Scully, ¿puedes decirme que hallaste
+Scully, ¿puedes decirme qué hallaste
 en el examen médico?
 
 208
@@ -1095,7 +1095,7 @@ de urgencia.
 
 235
 00:25:28,760 --> 00:25:32,435
-- ¿Puede decirme que le pasa?
+- ¿Puede decirme qué le pasa?
 - No se me permite dar esa información.
 
 236
@@ -1207,7 +1207,7 @@ cuando decayó su salud.
 
 260
 00:31:31,480 --> 00:31:35,473
-¿Y esto que nos iba a decir?
+¿Y esto qué nos iba a decir?
 
 261
 00:31:35,560 --> 00:31:39,792
@@ -1552,7 +1552,7 @@ Gracias por venir. Preguntó por ti anoche.
 336
 00:38:18,120 --> 00:38:21,795
 No estoy seguro,
-y no sabemos que hacer por él.
+y no sabemos qué hacer por él.
 
 337
 00:38:21,880 --> 00:38:26,829
@@ -1743,7 +1743,8 @@ COSTA DE MARFIL
 
 377
 00:43:14,160 --> 00:43:17,596
-Es igual. La llevaré, pero ellos tienen mie
+Es igual. La llevaré, pero ellos 
+tienen miedo.
 
 378
 00:44:45,040 --> 00:44:47,508
