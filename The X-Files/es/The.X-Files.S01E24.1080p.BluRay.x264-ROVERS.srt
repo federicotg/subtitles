@@ -1006,7 +1006,7 @@ Extrañas.
 225
 00:16:48,840 --> 00:16:52,958
 Y tomar una sección para ver
-que hay dentro de estas cositas.
+qué hay dentro de estas cositas.
 
 226
 00:16:53,080 --> 00:16:56,311

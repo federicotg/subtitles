@@ -29,7 +29,7 @@ brillante.
 7
 00:00:35,720 --> 00:00:42,558
 ¿Qué es este hallazgo?
-¿Cómo concilio lo que veo con lo que se?
+¿Cómo concilio lo que veo con lo que sé?
 
 8
 00:00:42,680 --> 00:00:47,800
@@ -382,7 +382,7 @@ Déjame ayudarte... a leerlo.
 86
 00:13:31,440 --> 00:13:34,193
 He pasado mi vida
-buscando que hay ahí.
+buscando qué hay ahí.
 
 87
 00:13:34,280 --> 00:13:39,115
@@ -1329,7 +1329,7 @@ AEROPUERTO INTERNACIONAL DULLES
 
 296
 00:36:40,040 --> 00:36:43,430
-En el a la neuropsiquiátrica,
+En el ala neuropsiquiátrica,
 pero no servirá de nada.
 
 297

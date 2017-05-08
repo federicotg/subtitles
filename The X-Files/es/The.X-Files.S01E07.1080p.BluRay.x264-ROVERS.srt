@@ -1661,7 +1661,7 @@ Subimos 28, nos queda uno más.
 371
 00:35:21,720 --> 00:35:25,429
 Debe haber una forma de que
-puedas bajar y abrirla puerta.
+puedas bajar y abrir la puerta.
 
 372
 00:36:14,760 --> 00:36:16,637

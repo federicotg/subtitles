@@ -1665,7 +1665,7 @@ elagua.
 
 371
 00:38:58,080 --> 00:39:00,310
-No puedo abrirla puerta.
+No puedo abrir la puerta.
 
 372
 00:39:04,600 --> 00:39:06,158

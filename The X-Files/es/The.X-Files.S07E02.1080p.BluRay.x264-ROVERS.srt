@@ -590,7 +590,7 @@ Está hablando con alguien.
 
 132
 00:13:25,360 --> 00:13:27,396
-Ya se quién es.
+Ya sé quién es.
 
 133
 00:13:31,840 --> 00:13:33,751
@@ -761,7 +761,7 @@ INTERDEPARTAMENTAL
 
 171
 00:18:35,520 --> 00:18:38,910
-TODO UNA CULTURA INDÍGENA
+TODA UNA CULTURA INDÍGENA
 DESAPARECE SIN DEJAR RASTRO
 
 172
@@ -880,7 +880,7 @@ después de acostarme contigo una vez,
 
 197
 00:21:34,200 --> 00:21:40,673
-después de que me alguien me dejó aquí
+después de que alguien me dejó aquí
 para seguir con su trabajo sucio?
 
 198
@@ -1267,7 +1267,7 @@ Esta ciencia no tiene sentido para mí.
 282
 00:30:18,480 --> 00:30:23,634
 Existen otros mundos
-además del que el te cabe en la mano.
+además del que te cabe en la mano.
 
 283
 00:30:32,240 --> 00:30:34,993
@@ -1322,7 +1322,7 @@ Descansa.
 
 294
 00:32:08,040 --> 00:32:10,474
-¿Puedes abrirla cortina?
+¿Puedes abrir la cortina?
 
 295
 00:32:11,840 --> 00:32:14,229

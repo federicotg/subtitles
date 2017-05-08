@@ -1556,7 +1556,7 @@ manos en alto.
 
 343
 00:41:14,400 --> 00:41:16,436
-Voy a abrirla puerta.
+Voy a abrir la puerta.
 
 344
 00:41:16,560 --> 00:41:21,236

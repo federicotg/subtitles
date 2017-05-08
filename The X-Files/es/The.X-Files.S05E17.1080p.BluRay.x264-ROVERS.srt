@@ -1632,7 +1632,7 @@ Si sabe algo...
 
 360
 00:34:31,080 --> 00:34:34,550
-- ¿Podría abrirla puerta?
+- ¿Podría abrir la puerta?
 - No tengo la llave.
 
 361

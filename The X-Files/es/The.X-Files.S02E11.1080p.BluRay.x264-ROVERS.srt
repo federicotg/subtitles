@@ -1958,7 +1958,7 @@ Gung debe saber.
 
 432
 00:38:59,963 --> 00:39:01,919
-Siga tratando de abrirla puerta.
+Siga tratando de abrir la puerta.
 
 433
 00:39:06,594 --> 00:39:08,676

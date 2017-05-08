@@ -1751,7 +1751,7 @@ Coronel.
 
 381
 00:41:42,760 --> 00:41:45,194
-Traiga las llaves. Debemos abrirla puerta.
+Traiga las llaves. Debemos abrir la puerta.
 
 382
 00:41:45,280 --> 00:41:49,159

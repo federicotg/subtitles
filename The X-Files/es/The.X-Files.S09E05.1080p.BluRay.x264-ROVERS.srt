@@ -1484,7 +1484,7 @@ Prepara la cámara.
 328
 00:33:53,280 --> 00:33:58,354
 - ¿De qué hablas?
-- Sólo tengo que abrirla boca.
+- Sólo tengo que abrir la boca.
 
 329
 00:33:58,440 --> 00:34:02,115
