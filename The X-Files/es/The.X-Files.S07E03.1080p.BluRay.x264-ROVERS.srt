@@ -1,7 +1,7 @@
 1
 00:00:06,200 --> 00:00:10,273
 COSTA MESA, CALIFORNIA
-13:04 A.M.
+12:04 A.M.
 
 2
 00:00:27,400 --> 00:00:29,470
@@ -1016,7 +1016,7 @@ supe que le sacaste el cerebro.
 
 232
 00:24:12,720 --> 00:24:15,439
-Eres un quuito enfermo.
+Eres un poquito enfermo.
 
 233
 00:24:17,360 --> 00:24:19,430
@@ -1041,7 +1041,7 @@ Te entregaré a la policía.
 
 238
 00:24:38,480 --> 00:24:40,550
-Aleg rate.
+Alégrate.
 
 239
 00:25:16,440 --> 00:25:19,750
@@ -1136,11 +1136,11 @@ en un espejo así?
 259
 00:26:44,200 --> 00:26:49,433
 ¿Crees que refleja a una mala persona,
-a alguien de poco vanr?
+a alguien de poco valor?
 
 260
 00:26:49,720 --> 00:26:53,918
-Te diré que veo yo.
+Te diré qué veo yo.
 Veo una linda sonrisa.
 
 261
@@ -1824,7 +1824,7 @@ Cómo habrás sufrido.
 
 414
 00:42:46,240 --> 00:42:48,549
-- Alejate.
+- Aléjate.
 - Dra. Reinhart, aléjese.
 
 415
