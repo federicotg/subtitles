@@ -39,7 +39,7 @@ Tenga más cuidado.
 10
 00:03:17,560 --> 00:03:21,473
 ¿Alguien me puede decir
-que está pasando?
+qué está pasando?
 
 11
 00:04:13,360 --> 00:04:15,510
@@ -759,7 +759,7 @@ Gracias por ayudarme.
 167
 00:23:22,520 --> 00:23:30,552
 No estoy segura si lo ayude.
-De hecho, ni siquiera se qué tiene.
+De hecho, ni siquiera sé qué tiene.
 
 168
 00:23:30,640 --> 00:23:33,074
