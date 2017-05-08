@@ -537,7 +537,7 @@ del Departamento de Servicios Sociales.
 
 121
 00:12:33,240 --> 00:12:36,835
-- Lo siento, pero ha habido una confusión.
+- Lo siento, pero hubo una confusión.
 - ¿Qué dice?
 
 122

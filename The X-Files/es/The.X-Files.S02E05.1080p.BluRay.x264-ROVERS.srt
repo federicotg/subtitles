@@ -18,7 +18,7 @@ Espere.
 
 5
 00:00:53,595 --> 00:00:57,133
-Hannah, ha habido un error.
+Hannah, hubo un error.
 Consíganme a un abogado.
 
 6
@@ -1449,7 +1449,7 @@ información vital para sus negociaciones.
 316
 00:28:37,633 --> 00:28:41,546
 - ¿Qué información?
-- Ha habido una mala interpretación.
+- Hubo una mala interpretación.
 
 317
 00:28:41,637 --> 00:28:44,970

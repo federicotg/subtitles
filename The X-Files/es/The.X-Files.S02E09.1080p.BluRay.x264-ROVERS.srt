@@ -962,7 +962,7 @@ cortar del todo para detener el descenso.
 
 211
 00:20:48,748 --> 00:20:52,411
-Ha habido mucha actividad sísmica
+Hubo mucha actividad sísmica
 en la zona tectónica del noroeste.
 
 212

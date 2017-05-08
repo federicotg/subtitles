@@ -1343,7 +1343,7 @@ si logras llegar hasta ahí.
 
 299
 00:36:54,800 --> 00:36:57,633
-Ha habido problemas.
+Hubo problemas.
 
 300
 00:37:01,120 --> 00:37:05,716

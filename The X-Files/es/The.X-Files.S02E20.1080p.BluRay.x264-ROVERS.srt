@@ -802,7 +802,7 @@ El alguacil, quiere verla.
 
 178
 00:17:04,360 --> 00:17:06,828
-Ha habido otro asesinato.
+Hubo otro asesinato.
 
 179
 00:17:08,680 --> 00:17:12,958
@@ -1577,7 +1577,7 @@ Es más cómodo que un futón.
 
 349
 00:34:24,240 --> 00:34:26,310
-Miren lo que agarre.
+Miren lo que agarré.
 
 350
 00:35:03,440 --> 00:35:05,510
@@ -1616,7 +1616,7 @@ No, no creo que vaya a dormir.
 
 358
 00:35:52,400 --> 00:35:54,630
-Ha habido otro ataque.
+Hubo otro ataque.
 
 359
 00:35:54,720 --> 00:35:57,029

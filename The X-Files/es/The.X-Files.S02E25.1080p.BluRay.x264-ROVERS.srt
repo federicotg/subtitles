@@ -614,7 +614,7 @@ Hola, Bill.
 
 136
 00:14:34,440 --> 00:14:36,556
-Han habido imprevistos.
+Hubo imprevistos.
 
 137
 00:14:40,400 --> 00:14:42,709

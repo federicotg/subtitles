@@ -972,7 +972,7 @@ Está en la base de datos.
 
 219
 00:20:09,560 --> 00:20:12,632
-Si hubiera habido una coincidencia,
+Si hubiera existido una coincidencia,
 ya lo sabríamos.
 
 220

@@ -183,7 +183,7 @@ Eso dice su pulsera.
 41
 00:05:06,040 --> 00:05:11,751
 - Esos registros se han verificado.
-- Entonces creo que ha habido un error.
+- Entonces creo que hubo un error.
 
 42
 00:05:12,320 --> 00:05:15,630

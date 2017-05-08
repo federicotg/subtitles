@@ -444,7 +444,7 @@ que son alérgicas a las cucarachas.
 
 95
 00:08:14,161 --> 00:08:16,663
-Ha habido informes de casos
+Hubo informes de casos
 con reacciones fatales.
 
 96
@@ -1231,7 +1231,7 @@ atacar a un ser humano?
 
 266
 00:19:36,426 --> 00:19:40,806
-Ha habido casos en que se han metido
+Hubo casos en que se han metido
 en el oído o la nariz de alguien.
 
 267

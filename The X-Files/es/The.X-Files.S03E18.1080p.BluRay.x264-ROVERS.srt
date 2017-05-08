@@ -159,7 +159,7 @@ un animal salvaje lo atacó y se lo llevó
 
 35
 00:08:12,200 --> 00:08:15,431
-- ¿Ha habido amenazas de muerte?
+- ¿Hubo amenazas de muerte?
 - No.
 
 36

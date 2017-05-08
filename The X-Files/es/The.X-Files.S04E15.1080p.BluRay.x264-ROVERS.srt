@@ -859,7 +859,7 @@ Jacob Weiss.
 
 193
 00:19:41,560 --> 00:19:43,471
-Ha habido otro asesinato.
+Hubo otro asesinato.
 
 194
 00:19:43,560 --> 00:19:44,959

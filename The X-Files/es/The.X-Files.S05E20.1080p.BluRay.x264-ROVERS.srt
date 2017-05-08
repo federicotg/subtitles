@@ -141,7 +141,7 @@ indica que el tirador actuó solo.
 
 33
 00:07:54,400 --> 00:07:57,198
-Pudo haber habido un cómplice
+Pudo haber existido un cómplice
 o ser una conspiración.
 
 34
@@ -275,7 +275,7 @@ Ahora tienen un trabajo para mí.
 
 62
 00:10:32,120 --> 00:10:36,591
-Ha habido un incidente,
+Hubo un incidente,
 un error lamentable.
 
 63

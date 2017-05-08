@@ -1557,7 +1557,7 @@ Déjeme verificar.
 
 351
 00:41:04,837 --> 00:41:09,877
-No ha habido cambios desde
+No hubo cambios desde
 la última vez que estuvo aquí.
 
 352

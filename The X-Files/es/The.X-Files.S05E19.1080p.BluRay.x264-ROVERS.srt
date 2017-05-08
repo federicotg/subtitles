@@ -1026,7 +1026,7 @@ Usted, vaya al mostrador. Rápido.
 
 228
 00:19:43,240 --> 00:19:48,917
-Hasta ahora ha habido poca comunicación
+Hasta ahora hubo poca comunicación
 entre la policía y la gente que está adentro
 
 229

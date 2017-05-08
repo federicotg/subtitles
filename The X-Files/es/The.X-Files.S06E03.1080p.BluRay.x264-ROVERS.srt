@@ -160,7 +160,7 @@ Traigan el prisionero a mi camarote.
 
 36
 00:04:25,000 --> 00:04:27,878
-Creo que ha habido un error.
+Creo que hubo un error.
 
 37
 00:04:27,960 --> 00:04:30,599
