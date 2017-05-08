@@ -376,7 +376,7 @@ de los paramédicos?
 85
 00:09:25,480 --> 00:09:29,234
 - ¿Qué te ocurrió?
-- No se de dónde salió.
+- No sé de dónde salió.
 
 86
 00:09:29,320 --> 00:09:32,835
@@ -550,7 +550,7 @@ Que era grande y tenía garras.
 
 123
 00:12:12,200 --> 00:12:15,715
-Que le de la descripción al retratista.
+Que le dé la descripción al retratista.
 ¿Trabajarás con ella?
 
 124
