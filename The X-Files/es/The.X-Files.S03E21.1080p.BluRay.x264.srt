@@ -34,7 +34,7 @@ los documentos firmados...
 
 8
 00:00:35,100 --> 00:00:37,300
-...antes del cierre,
+... antes del cierre,
 que fue hace 10 minutos.
 
 9
@@ -305,7 +305,7 @@ Detective...
 
 67
 00:06:07,000 --> 00:06:11,600
-...le agradeceré que me llame
+... le agradeceré que me llame
 cuando termine el interrogatorio.
 
 68
@@ -450,7 +450,7 @@ una fosforescencia residual...
 
 98
 00:08:29,600 --> 00:08:32,100
-...alrededor de la boca y nariz
+... alrededor de la boca y nariz
 de la víctima.
 
 99
@@ -600,7 +600,7 @@ a alguien en un bar...
 
 131
 00:10:09,000 --> 00:10:12,300
-...que estaba interesado
+... que estaba interesado
 en una transacción.
 
 132
@@ -852,7 +852,7 @@ No que haya dicho mucho...
 
 186
 00:14:03,400 --> 00:14:07,300
-...pero por cómo habló,
+... pero por cómo habló,
 me di cuenta que lo respeta.
 
 187
@@ -1228,7 +1228,7 @@ Los residuos luminosos...
 
 266
 00:18:31,500 --> 00:18:33,900
-...se asocian con algunos encuentros
+... se asocian con algunos encuentros
 con súcubos.
 
 267
@@ -1242,7 +1242,7 @@ pero encontré algo...
 
 269
 00:18:38,600 --> 00:18:42,000
-...al realizar la autopsia
+... al realizar la autopsia
 que debo mostrarte.
 
 270
@@ -1252,7 +1252,7 @@ alrededor de boca y nariz...
 
 271
 00:18:47,600 --> 00:18:50,500
-...de un diámetro
+... de un diámetro
 de aproximadamente 11 centímetros.
 
 272
@@ -1292,7 +1292,7 @@ de algún tipo de hongo...
 
 279
 00:19:23,700 --> 00:19:27,500
-...pero la única sustancia que detectaron
+... pero la única sustancia que detectaron
 fue amilasa, un compuesto de la saliva.
 
 280
@@ -1658,25 +1658,25 @@ Ella estaba ahí conmigo...
 
 360
 00:26:55,500 --> 00:26:57,800
-...observándome...
+... observándome...
 
 361
 00:26:57,900 --> 00:27:00,200
-...mientras yo me veía morir,
+... mientras yo me veía morir,
 mi sangre brotando...
 
 362
 00:27:00,200 --> 00:27:02,100
-...de cientos de lugares...
+... de cientos de lugares...
 
 363
 00:27:05,000 --> 00:27:07,500
-...hasta que ella me cargó
+... hasta que ella me cargó
 y me llevó...
 
 364
 00:27:09,500 --> 00:27:11,800
-...lejos de la luz.
+... lejos de la luz.
 
 365
 00:27:11,900 --> 00:27:15,000
@@ -1717,7 +1717,7 @@ el capó estaba caliente...
 
 373
 00:27:48,900 --> 00:27:53,000
-...cuando llegaron al apartamento
+... cuando llegaron al apartamento
 de Skinner, aunque estaba lloviendo.
 
 374
@@ -1750,7 +1750,7 @@ No sé qué esperas encontrar, Mulder...
 
 380
 00:28:15,700 --> 00:28:19,400
-...pero la sesión para evaluar a Skinner
+... pero la sesión para evaluar a Skinner
 será dentro de media hora.
 
 381
@@ -1779,12 +1779,12 @@ La imagen latente que nos interesa...
 
 386
 00:28:36,200 --> 00:28:38,600
-...se encuentra en el subproducto
+... se encuentra en el subproducto
 de esa explosión...
 
 387
 00:28:38,600 --> 00:28:42,600
-...en el metal sódico disperso que cubre
+... en el metal sódico disperso que cubre
 el interior de la bolsa de aire.
 
 388
@@ -1794,7 +1794,7 @@ Fue creado...
 
 389
 00:28:45,400 --> 00:28:47,700
-...por quien iba al volante
+... por quien iba al volante
 cuando se activó la bolsa de aire.
 
 390
@@ -1809,7 +1809,7 @@ luego lo paso por un programa...
 
 392
 00:28:54,100 --> 00:28:59,200
-...que traduce sus distintas densidades
+... que traduce sus distintas densidades
 a una imagen dimensional.
 
 393
@@ -1861,7 +1861,7 @@ que obtuvimos...
 
 403
 00:29:41,800 --> 00:29:45,500
-...no conectan al subdirector
+... no conectan al subdirector
 con el homicidio.
 
 404
@@ -1880,7 +1880,7 @@ de una materia extraña...
 
 407
 00:29:53,000 --> 00:29:55,700
-...que resultó imposible identificar.
+... que resultó imposible identificar.
 
 408
 00:29:55,700 --> 00:29:57,200
@@ -1935,7 +1935,7 @@ por medio de la ciencia...
 
 419
 00:30:34,500 --> 00:30:37,000
-...todos los casos extremos
+... todos los casos extremos
 que he presenciado.
 
 420
@@ -1960,7 +1960,7 @@ su superior inmediato...
 
 424
 00:30:52,500 --> 00:30:54,400
-...ha sido afectado--
+... ha sido afectado--
 
 425
 00:30:54,400 --> 00:30:56,500
@@ -1978,11 +1978,11 @@ su aprobación...
 
 428
 00:31:01,900 --> 00:31:03,800
-...a los casos extremos...
+... a los casos extremos...
 
 429
 00:31:03,800 --> 00:31:07,200
-...que Ud. y el agente Mulder
+... que Ud. y el agente Mulder
 deciden investigar.
 
 430
@@ -1996,7 +1996,7 @@ por respeto al trabajo.
 
 432
 00:31:14,100 --> 00:31:17,700
-...manipulando evidencias
+... manipulando evidencias
 imposibles de identificar?
 
 433
@@ -2092,7 +2092,7 @@ vivo y deshonrado...
 
 452
 00:32:35,000 --> 00:32:37,600
-...que muerto y enterrado.
+... que muerto y enterrado.
 
 453
 00:32:37,600 --> 00:32:39,400
@@ -2144,7 +2144,7 @@ instalado en la habitación...
 
 463
 00:33:28,500 --> 00:33:33,300
-...para obtener fotografías,
+... para obtener fotografías,
 cintas, lo que fuera.
 
 464
@@ -2254,7 +2254,7 @@ Quizá no me recuerde...
 
 487
 00:34:48,300 --> 00:34:50,500
-...pero trabajo con Lorraine.
+... pero trabajo con Lorraine.
 
 488
 00:34:50,500 --> 00:34:52,500
@@ -2327,7 +2327,7 @@ la mayoría de los cuales apenas...
 
 504
 00:36:15,600 --> 00:36:18,100
-...empiezo a vislumbrar
+... empiezo a vislumbrar
 por primera vez.
 
 505
@@ -2350,12 +2350,12 @@ de creer en mi trabajo...
 
 509
 00:36:45,200 --> 00:36:48,800
-...pero había contradicciones
+... pero había contradicciones
 que no pude conciliar...
 
 510
 00:36:48,800 --> 00:36:52,800
-...por lo que tuve que apagar una parte de
+... por lo que tuve que apagar una parte de
 mí mismo para poder hacer mi trabajo.
 
 511
@@ -2370,12 +2370,12 @@ a sobrevivir cada día...
 
 513
 00:37:11,400 --> 00:37:15,200
-...era saber que dormiría
+... era saber que dormiría
 a tu lado esa noche...
 
 514
 00:37:15,300 --> 00:37:19,200
-...y saber que tenía un motivo
+... y saber que tenía un motivo
 para despertar en la mañana.
 
 515
@@ -2385,12 +2385,12 @@ de si puedes oírme ahora...
 
 516
 00:37:37,300 --> 00:37:40,300
-...o si siquiera cambia las cosas
+... o si siquiera cambia las cosas
 para ti ya...
 
 517
 00:37:45,200 --> 00:37:48,300
-...pero al menos quería
+... pero al menos quería
 que lo supieras.
 
 518
@@ -2501,12 +2501,12 @@ En cuanto al otro hombre...
 
 542
 00:41:51,100 --> 00:41:53,000
-...su número telefónico
+... su número telefónico
 fue desconectado...
 
 543
 00:41:53,100 --> 00:41:55,800
-...y no hay registros
+... y no hay registros
 de que haya tenido cuenta.
 
 544
@@ -2554,7 +2554,7 @@ que haya podido pasar...
 
 553
 00:42:35,700 --> 00:42:37,800
-...no tiene lugar
+... no tiene lugar
 en un informe oficial.
 
 554

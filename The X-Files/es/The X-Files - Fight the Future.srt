@@ -195,7 +195,7 @@ calor, tengo sed...
 
 46
 00:12:28,257 --> 00:12:31,124
-...y para ser honesta me pregunto
+... y para ser honesta me pregunto
 qué estoy haciendo aquí.
 
 47
@@ -228,12 +228,12 @@ hay un patrón de conducta típico...
 
 53
 00:12:57,286 --> 00:13:00,847
-...y si ignoramos ese dato, como
+... y si ignoramos ese dato, como
 ya hemos hecho...
 
 54
 00:13:00,923 --> 00:13:05,724
-...tendremos menos posibilidad de
+... tendremos menos posibilidad de
 encontrar la bomba si la hubiese.
 
 55
@@ -273,12 +273,12 @@ espera que pase cualquier cosa...
 
 63
 00:13:23,880 --> 00:13:29,147
-...entre muchas posibilidades,
+... entre muchas posibilidades,
 estaremos a merced de cualquier cosa...
 
 64
 00:13:29,252 --> 00:13:32,380
-...que no pueda ser categorizada.
+... que no pueda ser categorizada.
 
 65
 00:13:35,658 --> 00:13:40,061
@@ -291,7 +291,7 @@ Ya sé que te aburre, Mulder...
 
 67
 00:13:44,200 --> 00:13:48,432
-...pero estos pensamientos poco
+... pero estos pensamientos poco
 convencionales solo te traerán problemas.
 
 68
@@ -566,12 +566,12 @@ Waco y Ruby Ridge...
 
 128
 00:21:48,884 --> 00:21:53,617
-...la oficina del Ministro de Justicia
+... la oficina del Ministro de Justicia
 quiere buscar responsables...
 
 129
 00:21:53,689 --> 00:21:59,619
-...por la catastrófica destrucción y
+... por la catastrófica destrucción y
 perdidas de vidas debido al terrorismo.
 
 130
@@ -601,7 +601,7 @@ que estaba intentando desactivar la bomba...
 
 135
 00:22:23,952 --> 00:22:26,546
-...tres bomberos de Dallas y un niño.
+... tres bomberos de Dallas y un niño.
 
 136
 00:22:28,323 --> 00:22:32,919
@@ -615,7 +615,7 @@ a la sesión, podría esperar afuera...
 
 138
 00:22:38,634 --> 00:22:43,333
-...para que podamos escuchar la versión
+... para que podamos escuchar la versión
 de los hechos de la agente Scully?
 
 139
@@ -652,7 +652,7 @@ Hay 45 millones en daños materiales...
 
 146
 00:23:30,319 --> 00:23:33,379
-...gente que murió, no se nombró
+... gente que murió, no se nombró
 a ningún sospechoso.
 
 147
@@ -734,7 +734,7 @@ paranormales, pero...
 
 164
 00:24:46,728 --> 00:24:49,060
-...pero creo que hay algo más que
+... pero creo que hay algo más que
 no quieren que sepamos.
 
 165
@@ -758,7 +758,7 @@ a Cleveland, o a cualquier despacho...
 
 169
 00:25:11,954 --> 00:25:19,087
-...ya no me interesará tanto.
+... ya no me interesará tanto.
 No después de lo que he visto y hecho.
 
 170
@@ -839,12 +839,12 @@ secuestrada por extraterrestres...
 
 187
 00:27:13,909 --> 00:27:19,472
-...y que persigue a pequeños hombres verdes
+... y que persigue a pequeños hombres verdes
 gritando a cualquiera que escuche...
 
 188
 00:27:19,548 --> 00:27:27,512
-...que el cielo se cae. Y cuando caiga va a ser
+... que el cielo se cae. Y cuando caiga va a ser
 una mierda de catástrofe jamás vista.
 
 189
@@ -917,7 +917,7 @@ con futuro, antes de eso.
 
 204
 00:29:18,733 --> 00:29:20,758
-...así es.
+... así es.
 
 205
 00:29:23,271 --> 00:29:26,729
@@ -993,7 +993,7 @@ oficina de cuarentena médica...
 
 220
 00:30:32,440 --> 00:30:37,844
-...donde encontraron los cadáveres.
+... donde encontraron los cadáveres.
 Eso es lo que no sabía.
 
 221
@@ -1110,7 +1110,7 @@ receptor, el bombero...
 
 246
 00:34:51,466 --> 00:34:57,166
-...y un ambiente que subió la temperatura
+... y un ambiente que subió la temperatura
 de su cuerpo a 98,6.
 
 247
@@ -1272,7 +1272,7 @@ Tampoco una incisión y...
 
 281
 00:37:59,387 --> 00:38:01,150
-...ninguna examinación interna.
+... ninguna examinación interna.
 
 282
 00:38:01,222 --> 00:38:07,855
@@ -1442,7 +1442,7 @@ gobierno constitucional...
 
 317
 00:41:23,124 --> 00:41:25,592
-...si se declara una emergencia nacional.
+... si se declara una emergencia nacional.
 
 318
 00:41:25,660 --> 00:41:27,685
@@ -1534,7 +1534,7 @@ el gobierno estará al mando...
 
 337
 00:42:49,877 --> 00:42:53,074
-...de La Agencia Federal de
+... de La Agencia Federal de
 Control de Emergencias.
 
 338
@@ -1731,7 +1731,7 @@ Quiero una temperatura fija de -2°C...
 
 380
 00:47:55,800 --> 00:48:00,828
-...mientras se traslada el cuerpo después
+... mientras se traslada el cuerpo después
 de que le haya administrado la vacuna.
 
 381
@@ -1860,7 +1860,7 @@ nuestro rol en la colonización...
 
 409
 00:52:54,732 --> 00:52:58,293
-...por los hechos biológicos
+... por los hechos biológicos
 presentados recientemente.
 
 410
@@ -1914,7 +1914,7 @@ hemos aprendido...
 
 421
 00:53:37,675 --> 00:53:42,135
-...entregándoles un cuerpo infectado con
+... entregándoles un cuerpo infectado con
 el organismo en período de gestación.
 
 422
@@ -2446,7 +2446,7 @@ huesos fosilizados...
 
 542
 01:08:10,013 --> 01:08:14,575
-...que recogimos en el lugar de
+... que recogimos en el lugar de
 la bomba en Dallas.
 
 543
@@ -2657,7 +2657,7 @@ sido a veces...
 
 587
 01:12:14,224 --> 01:12:19,127
-...tu racionalismo estricto y tu ciencia
+... tu racionalismo estricto y tu ciencia
 me han salvado miles de veces.
 
 588
@@ -2709,7 +2709,7 @@ Mulder...
 
 599
 01:14:04,300 --> 01:14:05,927
-...algo está mal.
+... algo está mal.
 
 600
 01:14:06,236 --> 01:14:07,430
@@ -2943,7 +2943,7 @@ Sabemos muy poco sobre él...
 
 651
 01:21:32,882 --> 01:21:36,283
-...excepto que fue el primer
+... excepto que fue el primer
 habitante de la Tierra.
 
 652
@@ -2953,7 +2953,7 @@ habitante de la Tierra.
 
 653
 01:21:39,722 --> 01:21:43,920
-...sino una fuerza colonizadora
+... sino una fuerza colonizadora
 que no se puede derrotar?
 
 654
@@ -2997,16 +2997,16 @@ permanecieron latentes...
 
 662
 01:22:18,494 --> 01:22:21,793
-...en forma de patógeno evolucionado...
+... en forma de patógeno evolucionado...
 
 663
 01:22:21,897 --> 01:22:29,099
-...esperando a la raza alienígena para ser
+... esperando a la raza alienígena para ser
 reconstituidos cuando colonicen el planeta...
 
 664
 01:22:29,171 --> 01:22:30,900
-...utilizándonos como organismos receptores.
+... utilizándonos como organismos receptores.
 
 665
 01:22:30,973 --> 01:22:35,342
@@ -3077,7 +3077,7 @@ Para que ella sobreviviera...
 
 679
 01:23:40,810 --> 01:23:42,801
-...como un híbrido genético.
+... como un híbrido genético.
 
 680
 01:23:42,912 --> 01:23:46,370
@@ -3173,7 +3173,7 @@ medio alienígena...
 
 700
 01:25:55,377 --> 01:26:01,282
-...puede destruir los planes que tanto hemos
+... puede destruir los planes que tanto hemos
 protegido durante los últimos 50 años.
 
 701
@@ -3351,7 +3351,7 @@ informe oficial está incompleto...
 
 742
 01:48:08,142 --> 01:48:11,441
-...en espera de estos nuevos
+... en espera de estos nuevos
 hechos que me piden incluir.
 
 743
@@ -3521,7 +3521,7 @@ Ese virus al que estuve expuesta...
 
 778
 01:51:40,254 --> 01:51:46,159
-...sea lo que sea, tiene una cura.
+... sea lo que sea, tiene una cura.
 La tuviste en tus manos.
 
 779
@@ -3534,7 +3534,7 @@ Mira...
 
 781
 01:52:00,875 --> 01:52:04,641
-...si me voy ahora, ellos ganan.
+... si me voy ahora, ellos ganan.
 
 782
 01:52:28,335 --> 01:52:34,035
@@ -3585,7 +3585,7 @@ Ayer...
 
 792
 01:53:34,335 --> 01:53:36,394
-...recibí esto.
+... recibí esto.
 
 793
 01:53:57,458 --> 01:54:01,394

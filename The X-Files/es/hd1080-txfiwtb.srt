@@ -1,0 +1,4462 @@
+1
+00:02:16,905 --> 00:02:18,365
+¡Denles espacio!
+
+2
+00:02:18,573 --> 00:02:21,493
+¡Mantengan la línea, caballeros!
+¡Miren a izquierda y derecha!
+
+3
+00:02:21,910 --> 00:02:23,578
+¡Mantengan la línea!
+
+4
+00:02:27,436 --> 00:02:29,834
+Es aquí. Es aquí.
+
+5
+00:02:32,232 --> 00:02:34,318
+¡Oye! ¡Cálmate, amigo!
+¡Oye!
+
+6
+00:02:49,645 --> 00:02:52,460
+Déjenlo ir.
+¡Déjenlo ir! ¡Déjenlo ir!
+
+7
+00:03:24,540 --> 00:03:26,730
+¡Déjenlo ir! ¡Déjenlo ir!
+
+8
+00:03:43,204 --> 00:03:45,603
+Tranquilos. ¡Déjenlo ir!
+¡Déjenlo ir! ¡Déjenlo ir!
+
+9
+00:03:50,503 --> 00:03:51,754
+¡Aquí!
+
+10
+00:03:51,869 --> 00:03:54,180
+¡Aquí! ¡Es aquí!
+
+11
+00:03:55,380 --> 00:03:56,422
+¡Es aquí!
+
+12
+00:04:29,083 --> 00:04:30,720
+<i>He revisado los gráficos que envió...</i>
+
+13
+00:04:30,960 --> 00:04:35,026
+<i>... y lo consulté con otros neurólogos
+pediatras que trabajan conmigo.</i>
+
+14
+00:04:35,966 --> 00:04:37,883
+<i>Estamos alarmados por dos cosas.</i>
+
+15
+00:04:37,933 --> 00:04:39,716
+La deficiencia del metabolismo lípido...
+
+16
+00:04:39,766 --> 00:04:41,404
+... y la severa disminución
+de producción de enzimas.
+
+17
+00:04:41,600 --> 00:04:43,589
+<i>Correcto. Eso es correcto.</i>
+
+18
+00:04:43,681 --> 00:04:46,705
+Ambos indican enfermedades
+de depósito lisosomal.
+
+19
+00:04:46,913 --> 00:04:49,833
+<i>¿Usted es la médica tratante
+del niño, doctora...?</i>
+
+20
+00:04:50,041 --> 00:04:52,231
+Scully. Dana Scully.
+
+21
+00:04:52,544 --> 00:04:54,916
+<i>¿Y examinó su función lisosomal?</i>
+
+22
+00:04:54,966 --> 00:04:57,956
+Creo que tiene todos
+mis resultados allí, doctora.
+
+23
+00:04:58,591 --> 00:05:01,605
+Mi temor es que sea una enfermedad
+neurodegenerativa de tipo II...
+
+24
+00:05:01,655 --> 00:05:04,400
+... como la enfermedad de Sandhoff,
+que sus enzimas no estén filtrando...
+
+25
+00:05:04,450 --> 00:05:06,773
+... los lípidos de su cerebro,
+causando atrofia.
+
+26
+00:05:07,018 --> 00:05:08,587
+<i>Si sospecha que es
+la enfermedad de Sandhoff...</i>
+
+27
+00:05:09,018 --> 00:05:11,674
+<i>... debería revisar los niveles
+de hexosaminidasa del chico.</i>
+
+28
+00:05:12,042 --> 00:05:16,905
+Ya lo he hecho. Lo que busco,
+doctora, es un tratamiento.
+
+29
+00:05:17,255 --> 00:05:19,803
+<i>No hay tratamiento para Sandhoff.</i>
+
+30
+00:05:21,321 --> 00:05:23,536
+<i>Pero si lo hubiera,
+estoy segura de que me lo diría.</i>
+
+31
+00:05:50,600 --> 00:05:52,553
+Hola, Christian.
+¿Cómo te sientes?
+
+32
+00:05:52,704 --> 00:05:55,209
+Bien, Dra. Scully.
+¿Cómo está usted?
+
+33
+00:05:55,626 --> 00:05:58,441
+¿Yo? Bueno, estoy bien, gracias.
+
+34
+00:06:01,256 --> 00:06:02,936
+¿Tiene las opiniones de otros doctores?
+
+35
+00:06:04,488 --> 00:06:05,531
+Sí.
+
+36
+00:06:06,157 --> 00:06:07,929
+Haremos más pruebas.
+
+37
+00:06:08,451 --> 00:06:09,677
+¿Dana Scully?
+
+38
+00:06:11,162 --> 00:06:13,345
+Dra. Scully, busco a Fox Molder.
+
+39
+00:06:14,812 --> 00:06:16,024
+Disculpen.
+
+40
+00:06:18,877 --> 00:06:21,686
+- Agente especial Drummy, del--
+- Puedo adivinar de dónde es.
+
+41
+00:06:22,005 --> 00:06:24,585
+El FBI necesita urgentemente
+hablar con Fox Mulder.
+
+42
+00:06:24,635 --> 00:06:26,546
+Ya no trabajo con Fox Mulder.
+
+43
+00:06:26,876 --> 00:06:29,424
+- No trabajo para el FBI--
+- Bueno, si puede contactarlo...
+
+44
+00:06:30,138 --> 00:06:32,732
+... podría salvarle la vida
+a un agente del FBI.
+
+45
+00:07:27,277 --> 00:07:28,677
+¿Qué tal, doc?
+
+46
+00:07:29,050 --> 00:07:31,552
+Te has vuelto terriblemente
+confiado, Mulder...
+
+47
+00:07:31,865 --> 00:07:34,031
+... para ser un hombre
+buscado por el FBI.
+
+48
+00:07:34,426 --> 00:07:36,528
+Tengo ojos en la nuca, Scully.
+
+49
+00:07:36,911 --> 00:07:39,455
+"Auf einer Wellenlange",
+dirían los alemanes.
+
+50
+00:07:39,581 --> 00:07:42,764
+Es un estado precognoscitivo, a
+menudo confundido con la intuición...
+
+51
+00:07:42,847 --> 00:07:44,596
+... donde el cerebro
+percibe la lógica pura...
+
+52
+00:07:44,690 --> 00:07:48,474
+... subyacente a la existencia humana,
+sin ayuda de la mente consciente...
+
+53
+00:07:48,662 --> 00:07:51,073
+... materializándose del mismo modo
+en que tú acabas de hacerlo.
+
+54
+00:07:51,780 --> 00:07:54,197
+Aunque si en verdad
+te hubieses materializado...
+
+55
+00:07:54,247 --> 00:07:56,242
+... serías rápidamente desmaterializada.
+
+56
+00:07:57,185 --> 00:07:59,444
+¿Pero quién sigue creyendo
+en esa basura?
+
+57
+00:08:01,946 --> 00:08:04,730
+Bueno, lo hacen en el FBI,
+aparentemente.
+
+58
+00:08:05,846 --> 00:08:07,584
+Hoy tuve una visita, Mulder.
+
+59
+00:08:08,880 --> 00:08:11,738
+El FBI quiere tu ayuda para
+encontrar a un agente desaparecido.
+
+60
+00:08:11,904 --> 00:08:13,689
+Bueno, espero que les hayas dicho
+que se vayan al diablo.
+
+61
+00:08:13,885 --> 00:08:15,773
+Dijeron que todo está perdonado.
+
+62
+00:08:16,283 --> 00:08:20,246
+Que retirarán todos los cargos en tu
+contra si los ayudas a resolver el caso.
+
+63
+00:08:20,312 --> 00:08:22,051
+¿El FBI me perdonará?
+
+64
+00:08:22,332 --> 00:08:24,149
+Me llevaron a juicio
+con cargos falsos...
+
+65
+00:08:24,199 --> 00:08:25,887
+... e intentaron desacreditar
+una década de mi trabajo.
+
+66
+00:08:25,981 --> 00:08:28,275
+Ellos deberían pedir mi perdón, Scully.
+
+67
+00:08:28,379 --> 00:08:30,777
+Creo que lo hacen. Desesperadamente.
+
+68
+00:08:31,611 --> 00:08:33,697
+¿Cómo puedo ayudar a esa gente?
+
+69
+00:08:34,322 --> 00:08:37,103
+Alguien se acercó
+con evidencia prometedora.
+
+70
+00:08:38,180 --> 00:08:40,644
+Un psíquico, dice ser.
+
+71
+00:08:42,872 --> 00:08:45,469
+Es un truco, Scully, para hacerme salir.
+
+72
+00:08:45,583 --> 00:08:47,332
+Mulder, si el FBI quisiera
+llegar a ti...
+
+73
+00:08:47,382 --> 00:08:49,128
+... no tengo dudas de que
+podrían hacerlo.
+
+74
+00:08:49,233 --> 00:08:51,527
+Creo que estarían felices
+de tenerte lejos.
+
+75
+00:08:51,631 --> 00:08:54,759
+Bien, porque estoy igual de feliz
+de tenerlos lejos.
+
+76
+00:08:54,967 --> 00:08:57,470
+La vida de un joven agente
+está en juego.
+
+77
+00:08:59,659 --> 00:09:03,413
+Mulder, sé que no debo decir esto, pero
+alguna vez te podría haber tocado a ti.
+
+78
+00:09:03,726 --> 00:09:04,802
+O a mí.
+
+79
+00:09:05,707 --> 00:09:09,270
+Sabes, la verdad es...
+que estoy preocupada por ti...
+
+80
+00:09:10,191 --> 00:09:13,253
+... y de los efectos
+del aislamiento a largo plazo.
+
+81
+00:09:15,091 --> 00:09:16,546
+Estoy bien.
+
+82
+00:09:18,532 --> 00:09:20,424
+Estoy feliz como una almeja.
+
+83
+00:09:36,883 --> 00:09:38,574
+Les diré tu respuesta.
+
+84
+00:09:52,732 --> 00:09:54,192
+Mierda.
+
+85
+00:09:57,851 --> 00:09:59,247
+Está bien, iré...
+
+86
+00:10:00,760 --> 00:10:02,340
+... con una condición.
+
+87
+00:11:16,563 --> 00:11:18,179
+¡Gracias por el vuelo!
+
+88
+00:11:18,753 --> 00:11:21,777
+¡No me agradezca a mí!
+¡Yo no lo envié!
+
+89
+00:11:43,152 --> 00:11:44,248
+Esperen aquí.
+
+90
+00:12:11,095 --> 00:12:12,247
+Entren.
+
+91
+00:12:22,983 --> 00:12:24,755
+Disculpe. Están aquí.
+
+92
+00:12:28,926 --> 00:12:32,141
+Gracias por hacer esto posible.
+Soy la agente especial a cargo Whitney.
+
+93
+00:12:32,263 --> 00:12:34,582
+- Dana Scully.
+- Fox Mulder, supongo.
+
+94
+00:12:35,808 --> 00:12:39,325
+Sé que es extraño, pero bienvenido.
+Mi equipo y yo agradecemos su confianza.
+
+95
+00:12:40,083 --> 00:12:43,408
+Bueno, la confianza es lo que es,
+¿y si no puedo ayudarla?
+
+96
+00:12:43,532 --> 00:12:45,200
+¿O si su agente aparece muerta?
+
+97
+00:12:46,026 --> 00:12:47,504
+El pasado es el pasado.
+
+98
+00:12:47,934 --> 00:12:49,693
+Conozco el trabajo que ha hecho
+aquí con los expedientes X...
+
+99
+00:12:49,743 --> 00:12:53,023
+... y creo que es la mejor oportunidad
+que tiene Monica Bannan en este momento.
+
+100
+00:12:53,116 --> 00:12:54,680
+¿Hace cuánto que desapareció?
+
+101
+00:12:54,785 --> 00:12:56,453
+Desde la tarde del domingo.
+
+102
+00:12:56,974 --> 00:12:58,310
+Casi tres días.
+
+103
+00:12:59,060 --> 00:13:02,970
+Sé que sabe esto, pero luego de 72
+horas es poco probable que siga viva.
+
+104
+00:13:03,053 --> 00:13:05,038
+Tenemos razones para creer que lo está.
+
+105
+00:13:05,629 --> 00:13:08,186
+Hasta ahora, no tenemos evidencia
+que indique lo contrario.
+
+106
+00:13:08,236 --> 00:13:09,753
+Y los hechos nos dan esperanza.
+
+107
+00:13:10,633 --> 00:13:14,315
+Poco después de que desapareciera,
+encontramos esto. Un brazo amputado.
+
+108
+00:13:16,368 --> 00:13:18,651
+- ¿Dónde?
+- A diez millas de su casa.
+
+109
+00:13:18,975 --> 00:13:21,031
+No entiendo. Es el brazo de un hombre.
+
+110
+00:13:21,269 --> 00:13:23,726
+Coincide con evidencia encontrada
+en o cerca de la escena del crimen.
+
+111
+00:13:24,178 --> 00:13:25,844
+- ¿Sangre o tejido?
+- Sangre.
+
+112
+00:13:25,974 --> 00:13:28,709
+En su cochera y en la herramienta
+que corresponde con la herida.
+
+113
+00:13:28,969 --> 00:13:31,471
+- Entiendo que los condujeron a esto.
+- Como una aguja en un pajar.
+
+114
+00:13:31,680 --> 00:13:33,582
+Por alguien afirmando tener
+poderes psíquicos.
+
+115
+00:13:33,974 --> 00:13:35,642
+Joseph Fitzpatrick Crissman.
+
+116
+00:13:35,746 --> 00:13:39,083
+- Y cree que está mintiendo.
+- ¿Qué lo hace decir eso?
+
+117
+00:13:39,197 --> 00:13:40,939
+¡Soy psíquico!
+
+118
+00:13:41,064 --> 00:13:42,756
+- El Padre Joe era--
+- ¿Padre?
+
+119
+00:13:43,358 --> 00:13:45,920
+- ¿Era un sacerdote?
+- Católico.
+
+120
+00:13:46,382 --> 00:13:48,602
+Llamó seis horas después
+de que Monica Bannan...
+
+121
+00:13:48,652 --> 00:13:49,718
+... fuera reportada desaparecida...
+
+122
+00:13:50,031 --> 00:13:53,376
+... afirmando tener una visión de ella.
+Una conexión psíquica.
+
+123
+00:13:53,472 --> 00:13:55,950
+- ¿Y les dijo que está viva?
+- Así es.
+
+124
+00:13:56,287 --> 00:13:58,019
+¿Encontró alguna otra conexión?
+
+125
+00:13:58,268 --> 00:14:00,685
+- ¿Con Monica Bannan?
+- No. Por eso lo necesitamos a usted.
+
+126
+00:14:01,500 --> 00:14:03,328
+Necesitamos saber si estamos
+perdiendo el tiempo.
+
+127
+00:14:03,481 --> 00:14:07,965
+Bueno, es un hombre religioso.
+Claramente, un hombre educado.
+
+128
+00:14:08,278 --> 00:14:11,419
+Hizo lo correcto. No dijo nada
+que pudiera hacer dudar de él.
+
+129
+00:14:11,492 --> 00:14:13,085
+No tiene conexión material
+con el crimen.
+
+130
+00:14:13,178 --> 00:14:15,577
+Está perdiendo el tiempo,
+el mío y el de sus agentes.
+
+131
+00:14:16,202 --> 00:14:17,932
+Hay una cuestión de credibilidad.
+
+132
+00:14:17,982 --> 00:14:19,478
+Si no tiene motivos
+para dudar del hombre...
+
+133
+00:14:19,528 --> 00:14:20,686
+...¿por qué dudar de sus visiones?
+
+134
+00:14:20,894 --> 00:14:22,603
+¿Puede él llevarnos a Monica Bannan?
+
+135
+00:14:22,908 --> 00:14:24,897
+Nos dio un maldito brazo
+de hombre en la nieve.
+
+136
+00:14:24,947 --> 00:14:26,791
+Esto no es una ciencia exacta.
+
+137
+00:14:27,209 --> 00:14:29,040
+Yo, en su lugar, estaría
+sobre el tipo las 24 horas.
+
+138
+00:14:29,090 --> 00:14:31,061
+Estaría en su cama,
+besando su santo trasero.
+
+139
+00:14:35,283 --> 00:14:37,264
+El Padre Joe es un pedófilo condenado.
+
+140
+00:14:41,331 --> 00:14:43,103
+Tal vez sea fuera de su cama.
+
+141
+00:14:58,848 --> 00:15:00,026
+¿Qué es esto?
+
+142
+00:15:00,620 --> 00:15:02,914
+Dormitorios para delincuentes
+sexuales habituales.
+
+143
+00:15:03,853 --> 00:15:05,629
+- ¿Dormitorios?
+- Manejan el complejo...
+
+144
+00:15:05,762 --> 00:15:06,876
+... y se vigilan a ellos mismos.
+
+145
+00:15:08,023 --> 00:15:10,630
+El Padre Joe vive aquí voluntariamente
+con su compañero de cuarto.
+
+146
+00:15:12,924 --> 00:15:14,766
+Sólo evita la Sala de Actividades.
+
+147
+00:15:28,251 --> 00:15:29,324
+¿Joe?
+
+148
+00:15:30,408 --> 00:15:31,916
+<i>Diles que pasen.</i>
+
+149
+00:15:47,541 --> 00:15:48,614
+¿Padre Joe?
+
+150
+00:15:54,840 --> 00:15:56,977
+Disculpen el desorden.
+No he estado durmiendo.
+
+151
+00:15:59,115 --> 00:16:02,243
+- Padre Joe, él es Fox Mulder.
+- Bien.
+
+152
+00:16:02,451 --> 00:16:03,702
+Le gustaría hacerle algunas preguntas.
+
+153
+00:16:04,224 --> 00:16:05,788
+De hecho, yo quisiera preguntar algo.
+
+154
+00:16:07,560 --> 00:16:09,541
+¿Por qué estaba rezando, señor?
+
+155
+00:16:10,271 --> 00:16:12,252
+Por la salvación de mi alma inmortal.
+
+156
+00:16:12,357 --> 00:16:14,233
+¿Y cree que Dios escucha sus plegarias?
+
+157
+00:16:14,338 --> 00:16:17,883
+- ¿Cree que Él escucha las suyas?
+- Yo no abusé de 37 monaguillos.
+
+158
+00:16:20,907 --> 00:16:22,170
+Esa es una forma colorida de decirlo.
+
+159
+00:16:22,220 --> 00:16:24,876
+- Tengo otra palabra, si quieres.
+- Seguro que la tienes.
+
+160
+00:16:25,704 --> 00:16:30,187
+Tengo que creer que Él me escucha.
+¿Sino por qué enviaría estas visiones?
+
+161
+00:16:30,292 --> 00:16:32,586
+Tal vez no sea Dios el que las envía.
+
+162
+00:16:33,211 --> 00:16:34,462
+Las llama visiones.
+
+163
+00:16:34,880 --> 00:16:35,922
+¿Usted las ve?
+
+164
+00:16:36,444 --> 00:16:39,050
+Con lo que ustedes llamarían
+"el ojo de mi mente".
+
+165
+00:16:39,363 --> 00:16:40,510
+¿Qué ve?
+
+166
+00:16:53,335 --> 00:16:56,254
+Veo a la pobre chica siendo atacada.
+
+167
+00:16:58,027 --> 00:16:59,894
+La veo resistiéndose.
+
+168
+00:17:00,859 --> 00:17:03,594
+- Escucho perros ladrando.
+- ¿Dónde?
+
+169
+00:17:04,387 --> 00:17:05,743
+No sabría decirlo.
+
+170
+00:17:06,056 --> 00:17:07,724
+¿Pero la ve viva?
+
+171
+00:17:07,932 --> 00:17:09,496
+No, pero...
+
+172
+00:17:10,018 --> 00:17:11,895
+... siento que lo está.
+
+173
+00:17:13,980 --> 00:17:17,004
+¿Puede mostrarnos cómo lo hace?
+
+174
+00:17:30,454 --> 00:17:32,957
+No sé si puedo hacerlo ahora mismo.
+
+175
+00:17:35,876 --> 00:17:38,439
+Tal vez sería mejor
+si ella no estuviera aquí.
+
+176
+00:17:40,047 --> 00:17:44,635
+Tal vez lo que ve es una forma de hacer
+que la gente olvide lo que realmente es.
+
+177
+00:18:12,057 --> 00:18:13,726
+¡Por Dios, Mulder!
+
+178
+00:18:17,271 --> 00:18:19,666
+Basta de besar su santo trasero.
+
+179
+00:18:20,190 --> 00:18:21,650
+Lo siento.
+
+180
+00:18:23,214 --> 00:18:27,170
+He estado demasiado tiempo alejada
+de este negocio, o no lo suficiente.
+
+181
+00:18:27,220 --> 00:18:29,261
+No, estuviste bien ahí.
+
+182
+00:18:29,887 --> 00:18:31,265
+Todo lo que yo tenía eran preguntas.
+
+183
+00:18:31,376 --> 00:18:34,856
+Pero tú lo presionaste, lo desafiaste.
+Como en los viejos tiempos.
+
+184
+00:18:37,499 --> 00:18:39,957
+Bueno, él es desagradable y mentiroso.
+
+185
+00:18:40,314 --> 00:18:44,000
+Sabe quién hizo esto, y le están
+dando información. ¡Mira dónde vive!
+
+186
+00:18:44,589 --> 00:18:46,478
+¿Y ese brazo que encontraron?
+
+187
+00:18:46,674 --> 00:18:50,759
+No fue arrancado en una pelea.
+Fue cortado limpiamente, cercenado.
+
+188
+00:18:51,575 --> 00:18:54,944
+Y dime cómo ha podido conducirlos
+directamente hacia él...
+
+189
+00:18:54,994 --> 00:18:57,702
+... y ni siquiera aventurar una
+suposición del paradero de la víctima.
+
+190
+00:18:58,352 --> 00:19:00,333
+Y dos cosas que encontrarás
+en las próximas 24 horas:
+
+191
+00:19:00,750 --> 00:19:04,926
+Una agente muerta y que el tal
+"Padre Joe" es un grandísimo fraude.
+
+192
+00:19:05,234 --> 00:19:06,811
+Tal vez tengas razón, Scully.
+
+193
+00:19:08,115 --> 00:19:09,157
+Tal vez tengas razón.
+
+194
+00:19:10,656 --> 00:19:11,803
+¿Pero y si estás equivocada?
+
+195
+00:19:19,623 --> 00:19:21,721
+- ¿Qué estás haciendo?
+- Lo llevaré a dar un paseo.
+
+196
+00:19:21,928 --> 00:19:24,530
+Veamos qué tan psíquico
+es realmente este Padre Joe.
+
+197
+00:19:27,651 --> 00:19:30,952
+Sí, bueno, que te diviertas.
+
+198
+00:19:31,197 --> 00:19:33,808
+Scully, seré yo quien
+se siente junto a él.
+
+199
+00:19:33,908 --> 00:19:37,673
+Gracias, pero ya me llevaron de paseo.
+De todos modos, él no me quiere ahí.
+
+200
+00:19:41,206 --> 00:19:43,878
+- Yo te quiero aquí.
+- Esta ya no es mi vida, Mulder.
+
+201
+00:19:44,334 --> 00:19:46,592
+Me cansé de perseguir
+monstruos en la oscuridad.
+
+202
+00:19:46,837 --> 00:19:49,121
+Creo que tú también
+hiciste todo lo que te pidieron.
+
+203
+00:19:49,908 --> 00:19:52,323
+Nadie dice que debas quedarte aquí.
+
+204
+00:19:54,344 --> 00:19:56,156
+Esta gente necesita mi ayuda.
+
+205
+00:19:57,368 --> 00:19:59,245
+Y realmente me vendría bien la tuya.
+
+206
+00:20:26,668 --> 00:20:28,395
+¿Nos estamos acercando?
+
+207
+00:20:28,445 --> 00:20:29,630
+Usted díganos.
+
+208
+00:20:31,986 --> 00:20:34,077
+No tengo idea de dónde estamos.
+
+209
+00:20:35,218 --> 00:20:38,199
+Está bien.
+Todos trabajan de forma diferente.
+
+210
+00:20:38,763 --> 00:20:40,640
+¿Usted es el policía bueno?
+
+211
+00:20:41,370 --> 00:20:43,033
+Soy un no-policía.
+
+212
+00:20:47,626 --> 00:20:49,281
+No conozco a esta chica.
+
+213
+00:20:49,711 --> 00:20:51,514
+A esta agente Bannan.
+
+214
+00:20:51,692 --> 00:20:53,581
+No tengo idea de la conexión.
+
+215
+00:20:54,403 --> 00:20:56,903
+Siempre hay algo, aunque sea pequeño.
+
+216
+00:20:58,678 --> 00:21:00,451
+¿Y quién lo hizo a usted el experto?
+
+217
+00:21:01,911 --> 00:21:04,092
+Alguna vez investigué
+una serie de casos...
+
+218
+00:21:04,737 --> 00:21:07,854
+... relacionados con fenómenos
+inexplicables para el FBI.
+
+219
+00:21:08,271 --> 00:21:10,122
+¿Así que cree en esta clase de cosas?
+
+220
+00:21:11,920 --> 00:21:13,967
+Sólo digamos que quiero creer.
+
+221
+00:21:14,736 --> 00:21:17,366
+Y su hermana fue abducida por E.T.
+
+222
+00:21:18,802 --> 00:21:19,952
+¿Es eso cierto?
+
+223
+00:21:21,722 --> 00:21:23,078
+Fue hace mucho tiempo.
+
+224
+00:21:25,371 --> 00:21:29,712
+Está muerta, ¿no?
+Su hermana.
+
+225
+00:21:46,120 --> 00:21:47,642
+Aquí es donde se la llevaron.
+
+226
+00:21:48,310 --> 00:21:49,372
+Su agente.
+
+227
+00:21:49,770 --> 00:21:51,396
+Aquí es donde fue atacada.
+
+228
+00:21:52,168 --> 00:21:53,837
+Quiero que vea la escena del crimen.
+
+229
+00:22:18,339 --> 00:22:19,756
+No, esto...
+
+230
+00:22:20,007 --> 00:22:21,320
+... esto no está bien.
+
+231
+00:22:22,614 --> 00:22:24,545
+Me trajeron a la casa equivocada.
+
+232
+00:22:32,535 --> 00:22:34,460
+Está inventándolo todo.
+
+233
+00:23:00,568 --> 00:23:02,442
+Había equipos de noticias
+cubriendo la escena.
+
+234
+00:23:02,492 --> 00:23:05,410
+Fotos del vecindario.
+Tal vez la reconoció por TV.
+
+235
+00:23:05,460 --> 00:23:07,687
+Sí, ¿pero por qué?
+
+236
+00:23:08,283 --> 00:23:09,592
+- ¿Por qué?
+- ¿Por qué hacerlo?
+
+237
+00:23:09,642 --> 00:23:12,037
+¿Por qué ir a esos extremos
+para crear una ficción tan elaborada?
+
+238
+00:23:12,454 --> 00:23:14,733
+Expiación. El perdón de sus pecados.
+
+239
+00:23:14,783 --> 00:23:18,372
+Ha escrito docenas de cartas al Vaticano
+suplicando su reinclusión a la Iglesia.
+
+240
+00:23:18,422 --> 00:23:20,691
+Es una extraña forma de
+impresionar a la Santa Sede.
+
+241
+00:23:21,459 --> 00:23:22,927
+¿La voz de Dios hablando
+a través de un hombre?
+
+242
+00:23:22,977 --> 00:23:24,653
+Creo que ese ha sido el ganador
+un par de veces.
+
+243
+00:23:25,383 --> 00:23:26,932
+¿Así que tú crees que él
+también es culpable?
+
+244
+00:23:27,260 --> 00:23:28,800
+Tenemos que considerarlo un sospechoso.
+
+245
+00:23:28,850 --> 00:23:30,976
+Pero no han encontrado
+ninguna conexión con el crimen.
+
+246
+00:23:31,026 --> 00:23:32,444
+No creas que mis muchachos
+dejaron de buscar.
+
+247
+00:23:32,494 --> 00:23:33,906
+Y creen que van a encontrar una.
+
+248
+00:23:33,956 --> 00:23:36,120
+Sí, pero tú no, o yo no estaría aquí.
+
+249
+00:23:36,170 --> 00:23:39,849
+No soy la chica más popular del FBI
+al haberte involucrado, créeme.
+
+250
+00:23:39,899 --> 00:23:44,147
+Sí, yo tampoco era exactamente
+la Srta. Popularidad en el FBI.
+
+251
+00:23:44,569 --> 00:23:46,252
+Pero ya has lidiado con psíquicos antes.
+
+252
+00:23:47,175 --> 00:23:50,043
+Luther Lee Boggs, Clyde Bruckman,
+Gerald Schnauzer.
+
+253
+00:23:50,157 --> 00:23:54,343
+Examiné esos casos y el trabajo
+fue sumamente impresionante.
+
+254
+00:23:54,787 --> 00:23:58,000
+Sí, bueno, soy sólo la mitad del equipo.
+
+255
+00:23:58,050 --> 00:23:59,831
+Pero es tu perspicacia lo que necesito.
+
+256
+00:24:10,948 --> 00:24:13,791
+Ella corrió. Intentó escapar.
+
+257
+00:24:13,841 --> 00:24:17,830
+Hubo dos hombres. Pero no pudo.
+Él la tumbó.
+
+258
+00:24:17,934 --> 00:24:19,811
+Fue aquí. Fue justo aquí.
+
+259
+00:24:19,915 --> 00:24:22,095
+Y luego la pusieron
+en la parte de atrás.
+
+260
+00:24:22,209 --> 00:24:24,701
+- ¿Dónde?
+- En el auto. ¡No!
+
+261
+00:24:24,817 --> 00:24:27,372
+Era un camión,
+un camión con algo encima.
+
+262
+00:24:27,455 --> 00:24:28,560
+¡Debemos encontrarla!
+
+263
+00:24:28,675 --> 00:24:30,666
+Está sufriendo, sufriendo mucho.
+
+264
+00:24:30,760 --> 00:24:33,148
+- ¡Dígame dónde!
+- ¡No lo sé! ¡No puedo ver!
+
+265
+00:24:33,263 --> 00:24:36,312
+- ¡Necesitamos encontrarla!
+- ¡No puedo ver! ¡No puedo ver!
+
+266
+00:24:41,828 --> 00:24:44,186
+Porque está inventándolo todo.
+
+267
+00:24:57,052 --> 00:24:58,445
+¿Padre Joe?
+
+268
+00:25:11,023 --> 00:25:12,209
+Hola, Christian.
+
+269
+00:25:12,796 --> 00:25:14,857
+Te ves muy enérgico esta mañana.
+
+270
+00:25:15,611 --> 00:25:17,171
+Estuve pensando.
+
+271
+00:25:17,488 --> 00:25:19,156
+¿Sí? ¿En qué pensaste?
+
+272
+00:25:19,365 --> 00:25:22,024
+En cómo saldré de aquí.
+
+273
+00:25:23,744 --> 00:25:26,157
+Bueno, estoy pensando
+exactamente en lo mismo.
+
+274
+00:25:26,872 --> 00:25:29,394
+¿Podré salir de aquí pronto?
+
+275
+00:25:30,939 --> 00:25:33,190
+¿Qué sucede? ¿Algo te asusta?
+
+276
+00:25:34,275 --> 00:25:37,612
+La forma en que el hombre me mira.
+
+277
+00:25:38,550 --> 00:25:40,010
+¿Qué hombre?
+
+278
+00:25:47,622 --> 00:25:48,977
+No temas.
+
+279
+00:25:58,153 --> 00:25:59,821
+Estaba buscando esos.
+
+280
+00:26:00,342 --> 00:26:02,094
+Quise recogerlos personalmente...
+
+281
+00:26:02,144 --> 00:26:04,502
+... y los resultados de las
+nuevas pruebas que ordenó.
+
+282
+00:26:04,617 --> 00:26:08,731
+Ese no es realmente su ámbito, padre.
+Es de sus médicos tratantes.
+
+283
+00:26:08,892 --> 00:26:13,368
+Es mi trabajo asegurarme que todos mis
+médicos tomen las decisiones correctas.
+
+284
+00:26:13,584 --> 00:26:15,721
+Para sus pacientes y para el hospital.
+
+285
+00:26:15,982 --> 00:26:17,540
+¿Me da los resultados, por favor?
+
+286
+00:26:20,362 --> 00:26:22,454
+Estamos aquí para curar al enfermo...
+
+287
+00:26:22,968 --> 00:26:25,283
+... no para prolongar
+el tormento del moribundo.
+
+288
+00:26:25,575 --> 00:26:28,336
+Hay otras instalaciones
+mejores para el niño.
+
+289
+00:29:16,293 --> 00:29:17,611
+¡Oye! ¡Oye!
+
+290
+00:30:08,883 --> 00:30:10,246
+¡Estoy bien!
+
+291
+00:30:10,864 --> 00:30:12,324
+Estoy bien.
+
+292
+00:30:45,690 --> 00:30:47,475
+Puedo sentir tu pensamiento.
+
+293
+00:30:49,633 --> 00:30:52,164
+Lo siento. No puedo dormir.
+
+294
+00:30:56,117 --> 00:30:58,952
+Creo que tengo una cosita para eso.
+
+295
+00:31:01,747 --> 00:31:04,941
+- ¿Sólo una cosita?
+- Gracias.
+
+296
+00:31:06,022 --> 00:31:07,379
+¿Qué sucede?
+
+297
+00:31:12,070 --> 00:31:15,948
+Tengo un paciente. Un chico con
+una rara enfermedad cerebral.
+
+298
+00:31:16,995 --> 00:31:18,926
+Y está muy, muy enfermo.
+
+299
+00:31:20,202 --> 00:31:22,463
+¿Por qué no me lo habías contado?
+
+300
+00:31:24,895 --> 00:31:27,212
+Pensé que habría algo que pudiera hacer.
+
+301
+00:31:27,918 --> 00:31:29,228
+¿No lo hay?
+
+302
+00:31:29,899 --> 00:31:32,819
+Bueno, hay tratamientos radicales...
+
+303
+00:31:32,934 --> 00:31:35,259
+... pero nadie quiere hablar de ellos.
+
+304
+00:31:36,468 --> 00:31:38,910
+Hasta los expertos dicen
+que no hay nada que se pueda hacer.
+
+305
+00:31:39,492 --> 00:31:40,629
+Sólo--
+
+306
+00:31:42,509 --> 00:31:44,675
+Sólo dejarlo morir.
+
+307
+00:31:47,104 --> 00:31:50,873
+Y aquí estoy, maldiciendo a Dios
+por todas sus crueldades.
+
+308
+00:31:52,943 --> 00:31:55,492
+¿Crees que Dios no pueda dormir?
+
+309
+00:31:57,739 --> 00:32:00,990
+¿Para qué traer un niño al mundo
+si sólo va a sufrir?
+
+310
+00:32:04,099 --> 00:32:07,748
+No sé, Mulder.
+Tengo una conexión con ese niño.
+
+311
+00:32:10,981 --> 00:32:12,754
+¿Qué edad tiene?
+
+312
+00:32:15,047 --> 00:32:19,543
+- ¿Crees que sea por William?
+- No, yo...
+
+313
+00:32:20,157 --> 00:32:24,103
+... creo que nuestro hijo nos dejó
+un vacío que no puede ser llenado.
+
+314
+00:32:28,081 --> 00:32:30,017
+Sólo duerme.
+
+315
+00:32:31,835 --> 00:32:34,503
+Deja que yo maldiga a Dios por un rato.
+
+316
+00:32:36,944 --> 00:32:38,421
+Gracias.
+
+317
+00:32:43,513 --> 00:32:45,399
+Qué barba rasposa.
+
+318
+00:33:04,158 --> 00:33:08,341
+Había algo extraño en el informe
+toxicológico del brazo amputado.
+
+319
+00:33:08,487 --> 00:33:09,848
+¿Qué?
+
+320
+00:33:10,414 --> 00:33:13,373
+Volví a ver los reportes
+de evidencia del FBI...
+
+321
+00:33:14,793 --> 00:33:17,165
+... y en el tejido, había rastros
+de una droga...
+
+322
+00:33:17,248 --> 00:33:20,632
+... que es comúnmente dada a pacientes
+afectados por la radiación...
+
+323
+00:33:21,258 --> 00:33:24,271
+... y también rastros de una droga
+llamada Acepromacina.
+
+324
+00:33:25,115 --> 00:33:26,556
+¿Qué tiene de extraño?
+
+325
+00:33:29,390 --> 00:33:32,424
+La Acepromacina es un tranquilizante
+para animales.
+
+326
+00:33:38,775 --> 00:33:40,525
+Ahora no puedo dormir.
+
+327
+00:33:44,509 --> 00:33:45,573
+¿Mulder?
+
+328
+00:33:45,969 --> 00:33:49,824
+¿Qué hace un tranquilizante de animales
+en el tejido de un brazo amputado?
+
+329
+00:33:50,765 --> 00:33:52,504
+Ni siquiera puedo empezar a especular.
+
+330
+00:33:53,052 --> 00:33:54,904
+Él dijo haber escuchado perros ladrando.
+
+331
+00:33:56,187 --> 00:33:57,230
+¿Quién?
+
+332
+00:33:57,345 --> 00:33:58,408
+El Padre Joe.
+
+333
+00:34:00,879 --> 00:34:02,591
+Mulder, ¿qué haces?
+
+334
+00:34:03,173 --> 00:34:05,162
+¿Es un tranquilizante
+que se le daría a un perro?
+
+335
+00:34:07,240 --> 00:34:08,877
+Es un farsante, Mulder.
+
+336
+00:34:09,325 --> 00:34:13,652
+Inventó esas visiones y ahora
+te está forzando a que las conectes.
+
+337
+00:34:13,767 --> 00:34:18,136
+Cuando veo a un hombre llorar sangre
+en la escena, y la reconoce sin verla...
+
+338
+00:34:18,224 --> 00:34:20,490
+... necesito seguir otras reglas.
+¿Sabes de lo que hablo?
+
+339
+00:34:20,605 --> 00:34:22,150
+¿Lágrimas de sangre?
+
+340
+00:34:22,671 --> 00:34:25,067
+Sí, vaya truco, ¿no?
+¿Cómo falsificas eso?
+
+341
+00:34:30,909 --> 00:34:32,702
+<i>- ¿Hola?
+- Hola, ¿Dra. Scully?</i>
+
+342
+00:34:32,995 --> 00:34:34,038
+Sí.
+
+343
+00:34:34,090 --> 00:34:35,733
+Dakota Whitney quiere hablar con usted.
+
+344
+00:34:35,821 --> 00:34:37,141
+¿Puede esperar un segundo?
+
+345
+00:34:38,833 --> 00:34:40,032
+Lamento llamar a esta hora.
+
+346
+00:34:40,126 --> 00:34:42,560
+- ¿Ha habido algún avance?
+- ¿La encontraron?
+
+347
+00:34:42,691 --> 00:34:44,359
+<i>Estamos siguiendo otra pista.</i>
+
+348
+00:34:44,672 --> 00:34:46,027
+¿De la misma fuente?
+
+349
+00:34:46,236 --> 00:34:48,268
+De la misma fuente, nuevas noticias.
+
+350
+00:34:49,364 --> 00:34:50,423
+Es aquí.
+
+351
+00:34:50,719 --> 00:34:54,032
+Es aquí. Allí adelante.
+En el granero.
+
+352
+00:35:02,606 --> 00:35:05,427
+Una vez más.
+¡Diez minutos!
+
+353
+00:35:07,089 --> 00:35:08,557
+- ¿La hallaron?
+- No.
+
+354
+00:35:12,616 --> 00:35:14,354
+- ¿Qué hizo?
+- ¿Qué?
+
+355
+00:35:18,142 --> 00:35:19,613
+Dijo que había noticias.
+
+356
+00:35:20,227 --> 00:35:23,791
+La noticia es que nuestro psíquico
+nos llevó al mismo lugar que antes.
+
+357
+00:35:30,341 --> 00:35:31,580
+Vamos a hallarla.
+
+358
+00:35:32,322 --> 00:35:33,859
+Eso es lo que sigue diciendo.
+
+359
+00:35:35,033 --> 00:35:36,597
+Encontraremos el cuerpo.
+
+360
+00:35:36,806 --> 00:35:39,725
+- Sigue diciéndonos que está viva.
+- Lo está.
+
+361
+00:35:40,142 --> 00:35:41,915
+Podemos seguir así toda la noche.
+
+362
+00:35:43,479 --> 00:35:45,317
+Estos tipos ya están muy cansados.
+
+363
+00:35:47,337 --> 00:35:49,297
+Lamento haberlos hecho venir.
+
+364
+00:35:51,716 --> 00:35:53,906
+¡Oigan! ¡Vámonos compañeros!
+
+365
+00:35:54,114 --> 00:35:57,347
+¡Por aquí! ¡Vámonos!
+¡Por aquí, caballeros!
+
+366
+00:35:57,461 --> 00:35:59,015
+¡Hora de volver a casa!
+
+367
+00:35:59,745 --> 00:36:00,986
+Dígame.
+
+368
+00:36:02,117 --> 00:36:03,577
+Dígame lo que ve.
+
+369
+00:36:04,567 --> 00:36:06,517
+Veo un rostro.
+
+370
+00:36:08,738 --> 00:36:11,084
+Veo ojos mirando.
+
+371
+00:36:11,762 --> 00:36:12,823
+¿Quién?
+
+372
+00:36:14,056 --> 00:36:15,221
+¿Quién es?
+
+373
+00:36:16,037 --> 00:36:17,528
+Es difuso.
+
+374
+00:36:19,060 --> 00:36:21,112
+Como a través de un vidrio sucio.
+
+375
+00:36:24,795 --> 00:36:27,422
+Está allí. Lo sé.
+
+376
+00:36:34,701 --> 00:36:36,926
+Scully, ¿a qué se referirá con
+"como a través de un vidrio sucio"?
+
+377
+00:36:38,037 --> 00:36:39,278
+- Mulder.
+- ¿Qué?
+
+378
+00:36:39,393 --> 00:36:40,494
+¡Basta!
+
+379
+00:36:40,748 --> 00:36:43,177
+Está bien. Siéntete libre de
+rendirte como todos los demás.
+
+380
+00:36:43,651 --> 00:36:45,528
+Este ya no es mi trabajo, Mulder.
+
+381
+00:36:45,632 --> 00:36:49,641
+No, es cierto. Ahora vendrías
+a ser mi representante, ¿verdad?
+
+382
+00:36:50,028 --> 00:36:51,422
+Tienes razón.
+
+383
+00:36:52,113 --> 00:36:53,378
+Esto es culpa mía.
+
+384
+00:36:53,990 --> 00:36:57,152
+- ¿Cómo que es tu culpa?
+- Por involucrarte en esto.
+
+385
+00:36:57,222 --> 00:36:59,997
+No, no. Fue lo correcto, Scully.
+
+386
+00:37:00,047 --> 00:37:02,193
+Esto no se trata de encontrar
+a una agente del FBI.
+
+387
+00:37:02,259 --> 00:37:04,598
+Esto se trata de ti queriendo
+salvar a tu hermana.
+
+388
+00:37:09,109 --> 00:37:10,905
+Mi hermana está muerta.
+
+389
+00:37:11,507 --> 00:37:13,923
+Eso no detuvo tu búsqueda.
+
+390
+00:37:16,304 --> 00:37:18,845
+Mulder, pasé por estas cosas
+contigo durante muchos años...
+
+391
+00:37:19,561 --> 00:37:24,004
+... creyendo que podías salvarla.
+No puedes salvarla. Ni ahora, ni nunca.
+
+392
+00:37:35,280 --> 00:37:37,038
+¡Necesito que vuelvan esos hombres!
+
+393
+00:37:47,271 --> 00:37:50,310
+- ¿Qué estás haciendo?
+- Intento ignorarte.
+
+394
+00:38:09,167 --> 00:38:10,924
+¡Aquí está! ¡Es aquí!
+
+395
+00:38:15,111 --> 00:38:16,369
+¡Aquí está!
+
+396
+00:38:23,146 --> 00:38:24,495
+Necesitamos palas.
+
+397
+00:38:56,886 --> 00:38:58,252
+Es hielo sólido.
+
+398
+00:39:02,152 --> 00:39:05,314
+No. Es vidrio sucio.
+
+399
+00:39:22,769 --> 00:39:24,020
+¿Una linterna?
+
+400
+00:39:46,020 --> 00:39:47,938
+Van a necesitar elementos.
+
+401
+00:39:51,025 --> 00:39:52,095
+¡Necesitamos equipos!
+
+402
+00:39:52,145 --> 00:39:54,351
+¡Sierras para concreto
+y una retroexcavadora!
+
+403
+00:39:55,404 --> 00:39:58,177
+Ustedes dos, al teléfono.
+Ustedes dos, vengan conmigo.
+
+404
+00:40:08,229 --> 00:40:09,974
+No se rinda.
+
+405
+00:40:43,785 --> 00:40:45,263
+¡Por favor!
+
+406
+00:40:45,662 --> 00:40:48,023
+¡Sáquenme de aquí!
+
+407
+00:40:48,790 --> 00:40:50,171
+¡Ayuda!
+
+408
+00:40:50,458 --> 00:40:51,666
+¡Ayuda!
+
+409
+00:40:52,022 --> 00:40:54,506
+¡Déjenme salir de aquí!
+
+410
+00:40:55,206 --> 00:40:57,861
+Por favor, por favor.
+No se lo diré a nadie.
+
+411
+00:40:59,089 --> 00:41:00,469
+No se lo diré a nadie.
+
+412
+00:41:00,910 --> 00:41:02,654
+No se lo diré a nadie,
+pero déjeme salir.
+
+413
+00:41:02,704 --> 00:41:04,161
+Sólo quiero volver a casa.
+
+414
+00:41:04,430 --> 00:41:06,042
+No quise chocar su camión.
+
+415
+00:41:06,213 --> 00:41:08,664
+No quise hacerlo.
+No quise chocar su camión.
+
+416
+00:41:09,250 --> 00:41:10,363
+¡No quise--
+
+417
+00:41:12,563 --> 00:41:13,980
+¡Esperen, esperen!
+
+418
+00:41:14,532 --> 00:41:17,523
+¡Espere! ¿Adónde--
+¡No!
+
+419
+00:41:21,738 --> 00:41:24,720
+¿Qué es este lugar?
+¿Quiénes son ustedes?
+
+420
+00:41:46,137 --> 00:41:49,744
+Oiga, por favor.
+Sólo sáqueme de aquí.
+
+421
+00:41:50,163 --> 00:41:51,363
+Levántese.
+
+422
+00:41:52,602 --> 00:41:55,461
+Por favor, puedo ayudarlo.
+Sólo sáqueme de aquí.
+
+423
+00:41:57,502 --> 00:42:00,049
+¡Ayuda!
+
+424
+00:42:01,673 --> 00:42:03,122
+Pienso que entonces podemos resolver...
+
+425
+00:42:03,172 --> 00:42:05,437
+... sin culpas y sin objeciones...
+
+426
+00:42:05,531 --> 00:42:08,972
+... trasladar al paciente
+a instalaciones apropiadas...
+
+427
+00:42:09,074 --> 00:42:11,531
+... y humanitarias hacia sus condición.
+
+428
+00:42:14,915 --> 00:42:16,572
+Como hemos discutido, Dra. Scully...
+
+429
+00:42:16,622 --> 00:42:18,602
+... estaba informando
+al personal y a los doctores...
+
+430
+00:42:18,652 --> 00:42:21,847
+... la decisión del hospital
+para con Christian Fearon.
+
+431
+00:42:23,256 --> 00:42:24,991
+Lo siento, ¿qué decisión?
+
+432
+00:42:26,489 --> 00:42:28,635
+La de trasladar al paciente a un...
+
+433
+00:42:28,685 --> 00:42:31,598
+... hospicio que se encargue
+de su cuidado paliativo.
+
+434
+00:42:32,640 --> 00:42:34,949
+Eso fue una discusión, no una decisión.
+
+435
+00:42:34,999 --> 00:42:39,244
+Bueno, ha sido largamente discutido
+aquí sin objeciones de sus colegas.
+
+436
+00:42:39,835 --> 00:42:41,124
+Tengo una objeción.
+
+437
+00:42:41,399 --> 00:42:44,755
+Tiene, Dra. Scully, un paciente
+con una condición intratable.
+
+438
+00:42:45,674 --> 00:42:49,057
+Eso es muy triste y desgraciado,
+nadie contradice eso.
+
+439
+00:42:49,198 --> 00:42:51,578
+- Pero es mi paciente.
+- Y a menos que hoy haya venido...
+
+440
+00:42:51,628 --> 00:42:53,583
+... con la cura para la
+enfermedad de Sandhoff...
+
+441
+00:42:53,633 --> 00:42:56,575
+... todos pedimos
+que deje al niño ir en paz.
+
+442
+00:43:01,314 --> 00:43:02,515
+Gracias.
+
+443
+00:43:03,921 --> 00:43:07,222
+Ahora, quisiera cerrar esto, para
+poder empezar con las tareas de hoy.
+
+444
+00:43:07,779 --> 00:43:10,560
+Sólo nos queda el tema de un
+paciente en cuidado intensivo...
+
+445
+00:43:10,610 --> 00:43:12,520
+... paciente del Dr. Willar,
+tengo entendido.
+
+446
+00:43:12,575 --> 00:43:15,733
+Admitido luego de sufrir
+un infarto de miocardio durante--
+
+447
+00:43:15,912 --> 00:43:17,191
+Hay un tratamiento.
+
+448
+00:43:17,241 --> 00:43:19,426
+El tema está resuelto, Dra. Scully.
+
+449
+00:43:21,334 --> 00:43:22,657
+No, no lo está.
+
+450
+00:43:24,983 --> 00:43:28,375
+La enfermedad puede tratarse
+con terapia intertecal de células madre.
+
+451
+00:43:28,815 --> 00:43:32,672
+¿No habla en serio?
+No haga pasar al niño por un infierno.
+
+452
+00:43:32,907 --> 00:43:34,539
+¿Lo haría si fuese su hijo?
+
+453
+00:43:34,784 --> 00:43:36,905
+No es su hijo, ni es el suyo.
+
+454
+00:43:37,078 --> 00:43:41,305
+Y no es decisión de la administración
+del hospital, es de su médico.
+
+455
+00:43:42,291 --> 00:43:43,645
+Si quiere cambiar eso...
+
+456
+00:43:43,695 --> 00:43:46,665
+... podrá discutir el tema
+con una autoridad superior.
+
+457
+00:43:47,296 --> 00:43:51,010
+Ya lo discutí con la más alta
+de las autoridades, Dra. Scully.
+
+458
+00:43:53,865 --> 00:43:55,248
+Usted también debería hacerlo.
+
+459
+00:44:19,306 --> 00:44:20,625
+Vamos, atiende.
+
+460
+00:44:23,999 --> 00:44:25,478
+¡Vamos!
+
+461
+00:44:27,856 --> 00:44:29,320
+Vamos, responde.
+
+462
+00:44:29,398 --> 00:44:32,785
+TERAPIA DE CÉLULAS MADRE
+
+463
+00:44:41,098 --> 00:44:43,251
+<i>Habla Dana Scully.
+Por favor, deje un mensaje.</i>
+
+464
+00:44:43,392 --> 00:44:45,550
+Scully, soy yo.
+Sigo dejándote mensajes.
+
+465
+00:44:45,915 --> 00:44:47,564
+Esto es lo que quiero decirte.
+
+466
+00:44:47,667 --> 00:44:50,834
+La cabeza de mujer en el hielo, no
+es de la agente, no es de Monica Bannan.
+
+467
+00:44:50,884 --> 00:44:52,651
+No sabemos quién es
+o por qué está allí...
+
+468
+00:44:52,701 --> 00:44:55,567
+... pero hasta ahora recogimos once
+extremidades humanas del hielo...
+
+469
+00:44:55,617 --> 00:44:57,015
+... y no hemos terminado.
+
+470
+00:44:57,065 --> 00:44:58,968
+<i>Cada una con un corte limpio también.</i>
+
+471
+00:44:59,072 --> 00:45:02,214
+<i>Exactamente iguales a la
+amputación que ya viste, Scully.</i>
+
+472
+00:45:02,682 --> 00:45:05,390
+<i>Parece como si alguien hubiese
+estado tirando partes humanas...</i>
+
+473
+00:45:05,638 --> 00:45:08,580
+<i>... en el hielo por meses, tal vez años.</i>
+
+474
+00:45:08,938 --> 00:45:11,146
+<i>Y no parece haber
+un patrón entre las extremidades.</i>
+
+475
+00:45:11,474 --> 00:45:15,747
+<i>Hombres y mujeres, todas con tejido
+sano y saludable, según los forenses.</i>
+
+476
+00:45:16,550 --> 00:45:18,784
+<i>Lo que me sugiere, es que son víctimas.</i>
+
+477
+00:45:19,782 --> 00:45:23,074
+<i>Pero aquí viene lo importante.
+Lo que necesito que sepas.</i>
+
+478
+00:45:23,124 --> 00:45:25,467
+Encontramos más rastros de
+tu tranquilizador para animales.
+
+479
+00:45:25,805 --> 00:45:27,528
+Acepromacina.
+No sé qué rayos pueda significar eso...
+
+480
+00:45:27,578 --> 00:45:29,337
+... pero espero que tú
+puedas encontrarle sentido.
+
+481
+00:45:31,132 --> 00:45:32,601
+- ¿Algo?
+- No, no puedo encontrarla...
+
+482
+00:45:32,701 --> 00:45:35,602
+... pero esto cobrará sentido.
+Es un avance. Lo presiento.
+
+483
+00:45:36,882 --> 00:45:38,320
+Usted puede sentirlo,
+el Padre Joe puede sentirlo...
+
+484
+00:45:38,370 --> 00:45:40,042
+... y lo único que yo siento
+es mi cabeza dando vueltas.
+
+485
+00:45:40,092 --> 00:45:42,026
+No, lo que han descubierto
+es un caso serial.
+
+486
+00:45:42,076 --> 00:45:43,848
+Aquí se puede resolver
+una docena de homicidios.
+
+487
+00:45:44,076 --> 00:45:46,350
+Sí, pero no estoy más cerca
+de encontrar a mi agente.
+
+488
+00:45:46,474 --> 00:45:48,874
+No, la encontraremos. Lo sé.
+
+489
+00:45:49,603 --> 00:45:51,254
+Bueno, tal vez ella tenga
+que esperar su turno.
+
+490
+00:45:51,375 --> 00:45:53,285
+Veo el rostro de una mujer.
+
+491
+00:45:53,669 --> 00:45:56,365
+Otra mujer, tomada de un auto.
+
+492
+00:45:56,693 --> 00:45:58,201
+Ha sido encerrada...
+
+493
+00:45:59,091 --> 00:46:01,127
+... en una caja, supongo.
+
+494
+00:46:02,949 --> 00:46:04,517
+¿Está con Monica Bannan?
+
+495
+00:46:05,764 --> 00:46:08,703
+- No lo sé.
+- ¿Es el mismo hombre que se la llevó?
+
+496
+00:46:09,935 --> 00:46:14,161
+Creo que sí.
+Sí, es el mismo hombre.
+
+497
+00:46:16,399 --> 00:46:19,688
+¿Ve eso, o sólo le dice a esta gente
+lo que quieren escuchar?
+
+498
+00:46:20,145 --> 00:46:23,273
+- ¡No!
+- ¿No, no lo ve?
+
+499
+00:46:25,045 --> 00:46:28,382
+No, es el mismo hombre.
+
+500
+00:46:32,865 --> 00:46:34,106
+Quiero un auto preparado.
+
+501
+00:46:34,221 --> 00:46:36,171
+- ¿Para ir a dónde?
+- Aún no lo sé.
+
+502
+00:46:36,723 --> 00:46:38,403
+- No puedo creerlo.
+- Ese fue su problema...
+
+503
+00:46:38,453 --> 00:46:39,471
+... desde un principio.
+
+504
+00:46:40,268 --> 00:46:41,594
+Puedo conseguirle un auto.
+
+505
+00:46:41,644 --> 00:46:43,421
+Y una lista de las personas
+desaparecidas en los alrededores...
+
+506
+00:46:43,471 --> 00:46:45,572
+... de las últimas 48 a 72 horas.
+
+507
+00:47:09,880 --> 00:47:11,705
+- Hola.
+- Hola.
+
+508
+00:47:19,160 --> 00:47:22,211
+Cheryl Cunningham de 34 años,
+no llegó al trabajo anoche...
+
+509
+00:47:22,391 --> 00:47:23,842
+... tampoco regresó a casa.
+
+510
+00:47:25,416 --> 00:47:28,837
+No hay sangre en los airbags.
+La ventana del conductor está rota.
+
+511
+00:47:28,887 --> 00:47:30,267
+Las llaves están puestas.
+
+512
+00:47:30,345 --> 00:47:32,256
+Usando cinturón de seguridad
+el choque no era mortal.
+
+513
+00:47:32,982 --> 00:47:36,542
+Se lanza a la carretera,
+toma un atajo, se cansa...
+
+514
+00:47:36,731 --> 00:47:39,967
+... se rinde y se queda dormida.
+Sucede todo el tiempo.
+
+515
+00:47:40,017 --> 00:47:41,083
+Es un giro a la izquierda
+bastante brusco...
+
+516
+00:47:41,133 --> 00:47:43,963
+... para un tramo tan largo y recto
+de camino rural, ¿no cree?
+
+517
+00:47:44,844 --> 00:47:46,912
+Pero, ¿por qué conformarse
+con mi opinión?
+
+518
+00:48:12,665 --> 00:48:14,885
+Lo siento. No estoy sintiendo nada.
+
+519
+00:48:15,272 --> 00:48:16,523
+¡Qué sorpresa!
+
+520
+00:48:16,940 --> 00:48:18,764
+Qué sorpresa.
+
+521
+00:48:28,202 --> 00:48:30,545
+- Creo que terminamos con el Padre Joe.
+- Sí.
+
+522
+00:48:38,943 --> 00:48:40,498
+- Aún no hemos terminado.
+- ¿Qué es eso?
+
+523
+00:48:40,715 --> 00:48:44,302
+Un brazalete médico, noté que
+su agente desaparecida usaba uno.
+
+524
+00:48:44,386 --> 00:48:45,515
+- ¿Para qué?
+- ¿Qué piensa?
+
+525
+00:48:45,594 --> 00:48:47,006
+Veamos en la cajuela.
+
+526
+00:48:50,516 --> 00:48:52,199
+Esto no la hace verse mejor.
+
+527
+00:48:52,290 --> 00:48:53,541
+Su bolsa del gimnasio.
+
+528
+00:48:54,688 --> 00:48:57,404
+Es un traje de baño. Está congelado.
+
+529
+00:49:00,110 --> 00:49:02,678
+- Cloro.
+- ¿Dónde está el natatorio más cercano?
+
+530
+00:49:14,812 --> 00:49:15,855
+Hola.
+
+531
+00:49:16,585 --> 00:49:19,707
+- Tal vez pueda ayudarnos.
+- ¿Todos van a querer casilleros?
+
+532
+00:49:19,922 --> 00:49:22,963
+No, somos del FBI. Queremos mostrarle
+una fotografía, si no le molesta.
+
+533
+00:49:23,061 --> 00:49:24,373
+¿Por qué me molestaría?
+
+534
+00:49:25,241 --> 00:49:26,539
+¿Conoce a esta persona?
+
+535
+00:49:26,805 --> 00:49:28,054
+Déjeme ver.
+
+536
+00:49:29,515 --> 00:49:31,903
+Esta gente joven, se ven todos iguales.
+
+537
+00:49:32,018 --> 00:49:35,250
+- ¿Tiene un registro de entradas?
+- Sí, hago uno todos los días.
+
+538
+00:49:35,355 --> 00:49:38,692
+- Me gustaría ver el de ayer.
+- El de ayer lo tiré.
+
+539
+00:49:40,882 --> 00:49:42,096
+Disculpe, señor.
+
+540
+00:49:42,154 --> 00:49:44,369
+¿No sabe que es el sector de damas?
+
+541
+00:49:50,579 --> 00:49:52,034
+Hola, Christian.
+
+542
+00:49:53,499 --> 00:49:57,037
+Hoy tienes muchas personas
+cuidando de ti, ¿bien?
+
+543
+00:50:00,277 --> 00:50:01,528
+¿Qué?
+
+544
+00:50:02,570 --> 00:50:04,849
+Ahora usted se ve con miedo.
+
+545
+00:52:07,893 --> 00:52:09,811
+Y la gente dice que
+yo me escondí bajo tierra.
+
+546
+00:52:12,793 --> 00:52:14,572
+Lo siento, Mulder.
+
+547
+00:52:19,675 --> 00:52:21,406
+Debo mantener mi concentración aquí.
+
+548
+00:52:21,657 --> 00:52:23,137
+Es el niño, ¿cierto?
+
+549
+00:52:24,107 --> 00:52:25,196
+Sí.
+
+550
+00:52:26,766 --> 00:52:28,486
+Pensaba que no había nada
+que se pueda hacer.
+
+551
+00:52:28,852 --> 00:52:31,461
+Estoy aventurándome
+a un riesgo muy grande.
+
+552
+00:52:32,501 --> 00:52:35,776
+Un procedimiento nuevo, radical,
+y extremadamente doloroso.
+
+553
+00:52:36,151 --> 00:52:38,279
+Anoche dijiste que no era una opción.
+
+554
+00:52:38,862 --> 00:52:41,461
+No lo era, anoche.
+
+555
+00:52:42,095 --> 00:52:43,527
+¿Qué te hizo cambiar?
+
+556
+00:52:55,536 --> 00:52:57,269
+¿Cuándo sabrás si funciona?
+
+557
+00:52:57,527 --> 00:52:59,689
+Estos procedimientos
+se hacen en series...
+
+558
+00:52:59,739 --> 00:53:02,085
+... y no lo sabré hasta
+terminar el último.
+
+559
+00:53:06,690 --> 00:53:09,201
+Pero no viniste a hablar de eso.
+
+560
+00:53:10,128 --> 00:53:11,866
+Hay otra mujer perdida...
+
+561
+00:53:13,481 --> 00:53:15,421
+... y nos está dando algo para seguir.
+
+562
+00:53:15,775 --> 00:53:18,149
+Ella y la agente perdida
+nadaron en la misma piscina.
+
+563
+00:53:18,590 --> 00:53:21,170
+La agente tiene un casillero allí.
+Creemos que fueron secuestradas ahí.
+
+564
+00:53:21,252 --> 00:53:23,218
+Ambas usaban brazaletes médicos...
+
+565
+00:53:23,268 --> 00:53:26,003
+... y tienen el mismo tipo
+raro de sangre, AB negativo.
+
+566
+00:53:26,724 --> 00:53:28,764
+Los órganos que se ablacionan
+para transplantes...
+
+567
+00:53:28,814 --> 00:53:30,243
+... así es como son ubicados.
+
+568
+00:53:30,374 --> 00:53:32,630
+Los donantes y receptores
+deben tener el mismo tipo.
+
+569
+00:53:33,108 --> 00:53:34,812
+Algún habitué de la piscina lo sabe.
+
+570
+00:53:34,889 --> 00:53:37,098
+Mercado negro.
+Alguien cumpliendo con pedidos.
+
+571
+00:53:37,294 --> 00:53:38,807
+¿Tendrían acceso?
+
+572
+00:53:38,857 --> 00:53:41,579
+- ¿A receptores, a hospitales?
+- Ese es tu mundo, Scully.
+
+573
+00:53:41,629 --> 00:53:43,960
+Tu conocimiento podrá ahorrarnos
+tiempo y ése es nuestro enemigo.
+
+574
+00:53:44,034 --> 00:53:46,816
+Puedes comenzar con los transportadores.
+Llama a la fiscalía de Richmond.
+
+575
+00:53:46,866 --> 00:53:49,538
+No, no. Te necesito conmigo en esto.
+
+576
+00:53:52,063 --> 00:53:54,044
+No. No, Mulder.
+
+577
+00:53:54,159 --> 00:53:57,902
+Tú me pediste que me involucrara.
+Ahora yo te pido que sigas involucrada.
+
+578
+00:53:58,111 --> 00:53:59,466
+Mulder.
+
+579
+00:53:59,779 --> 00:54:02,441
+Ya los ayudaste. Les abriste el caso.
+
+580
+00:54:02,642 --> 00:54:04,557
+¿Por qué no dejas
+que se encargue el FBI?
+
+581
+00:54:04,607 --> 00:54:07,328
+- Estamos tan cerca.
+- Y yo te pido que lo olvides.
+
+582
+00:54:07,378 --> 00:54:08,913
+No es tan simple.
+
+583
+00:54:09,373 --> 00:54:11,552
+No. Es complicado.
+
+584
+00:54:11,771 --> 00:54:13,214
+¿A qué te refieres con eso?
+
+585
+00:54:14,065 --> 00:54:15,949
+Algo que sabía que iba a suceder...
+
+586
+00:54:16,289 --> 00:54:19,258
+... algo a lo que temía y que hasta
+ahora no tuve que enfrentar.
+
+587
+00:54:19,696 --> 00:54:22,499
+¿Qué? Sólo dilo.
+
+588
+00:54:24,388 --> 00:54:26,872
+Soy doctora, Mulder.
+
+589
+00:54:28,351 --> 00:54:31,110
+- Esa ya no es mi vida.
+- Lo sé.
+
+590
+00:54:32,521 --> 00:54:33,810
+No me entiendes.
+
+591
+00:54:34,373 --> 00:54:38,392
+Ya no puedo meterme
+en la oscuridad contigo, Mulder.
+
+592
+00:54:38,442 --> 00:54:41,301
+No puedo soportar
+lo que te hace a ti, o a mí.
+
+593
+00:54:41,594 --> 00:54:44,530
+Estoy bien con esto, Scully.
+Realmente estoy bien.
+
+594
+00:54:44,769 --> 00:54:47,175
+- Estoy bien.
+- Sí, eso es lo que me aterra.
+
+595
+00:54:47,225 --> 00:54:50,063
+¿Dónde más debo buscar si quieres
+que encuentre a esa mujer con vida?
+
+596
+00:54:51,709 --> 00:54:54,156
+Te pido que te veas a ti mismo.
+
+597
+00:54:56,505 --> 00:54:57,850
+¿Por qué?
+
+598
+00:54:58,788 --> 00:55:00,783
+No creo que yo sea el que ha cambiado.
+
+599
+00:55:01,093 --> 00:55:03,427
+Ya no estamos en el FBI, Mulder.
+
+600
+00:55:05,369 --> 00:55:08,000
+Somos dos personas
+que vuelven a casa a la noche.
+
+601
+00:55:08,601 --> 00:55:10,219
+A un hogar, ahora.
+
+602
+00:55:11,312 --> 00:55:13,512
+No quiero esa oscuridad en mi hogar.
+
+603
+00:55:13,710 --> 00:55:16,202
+Scully, este es quien soy.
+
+604
+00:55:17,328 --> 00:55:20,443
+Es quien siempre he sido.
+El que fui antes de conocerte.
+
+605
+00:55:20,588 --> 00:55:22,331
+Es lo que hago, lo único que sé hacer.
+
+606
+00:55:22,887 --> 00:55:26,301
+Escríbelo. Ponlo en un libro.
+
+607
+00:55:27,475 --> 00:55:29,277
+¿Me pides que me dé por vencido?
+
+608
+00:55:30,915 --> 00:55:31,983
+No.
+
+609
+00:55:33,314 --> 00:55:35,499
+No puedo decirte que hagas eso, Mulder.
+
+610
+00:55:39,154 --> 00:55:41,066
+Pero puedo decirte que...
+
+611
+00:55:42,386 --> 00:55:44,139
+... no volveré a casa.
+
+612
+00:55:44,471 --> 00:55:45,514
+Scully.
+
+613
+00:55:48,434 --> 00:55:50,691
+Mulder, tengo mis propias
+batallas por pelear.
+
+614
+00:55:50,810 --> 00:55:51,916
+No hagas esto.
+
+615
+00:55:52,094 --> 00:55:54,530
+- Por favor, no discutas conmigo.
+- No hagas esto ahora.
+
+616
+00:55:56,672 --> 00:55:59,164
+No sé qué más hacer.
+
+617
+00:56:23,470 --> 00:56:24,826
+Buena suerte, entonces.
+
+618
+00:56:31,082 --> 00:56:32,425
+A ti también.
+
+619
+00:56:42,969 --> 00:56:44,408
+¿Doctora Scully?
+
+620
+00:56:45,680 --> 00:56:47,985
+Quisiéramos hablar con usted,
+si nos permite.
+
+621
+00:56:48,392 --> 00:56:49,760
+Sobre Christian.
+
+622
+00:56:49,852 --> 00:56:52,669
+- ¿Lo han visto?
+- Sí. Estaba durmiendo.
+
+623
+00:56:53,606 --> 00:56:54,785
+Pero, nosotros--
+
+624
+00:56:54,835 --> 00:56:56,532
+Cambiamos de parecer...
+
+625
+00:56:56,582 --> 00:56:58,658
+... acerca de seguir adelante
+con este nuevo tratamiento.
+
+626
+00:57:00,444 --> 00:57:02,749
+Pero aún no saben si está funcionando.
+
+627
+00:57:03,573 --> 00:57:06,226
+Creemos que Christian ya
+ha pasado por lo suficiente.
+
+628
+00:57:07,296 --> 00:57:09,169
+Ahora queremos volcar
+nuestras esperanzas en Dios.
+
+629
+00:57:10,663 --> 00:57:11,706
+Ya veo.
+
+630
+00:57:11,810 --> 00:57:14,798
+- No es nada en contra suyo.
+- No.
+
+631
+00:57:14,848 --> 00:57:16,860
+Si usted fuese madre, lo entendería.
+
+632
+00:57:18,484 --> 00:57:20,673
+¿Han hablado con el Padre Ibarra?
+
+633
+00:57:24,636 --> 00:57:27,993
+Sí, pero la decisión es nuestra.
+
+634
+00:57:33,708 --> 00:57:35,465
+¿Y si funcionó?
+
+635
+00:57:38,400 --> 00:57:41,458
+¿Y si descubrimos que al parar
+hemos tomado la decisión incorrecta?
+
+636
+00:57:45,178 --> 00:57:47,052
+¿Dice que puede salvar a mi hijo?
+
+637
+00:57:51,122 --> 00:57:53,689
+Digo que no quiero rendirme ahora.
+
+638
+00:57:57,502 --> 00:58:00,333
+... y nos aproximábamos a la pista...
+
+639
+00:58:00,923 --> 00:58:05,682
+... y de repente, el avión acelera
+y estamos de nuevo en el aire.
+
+640
+00:58:05,732 --> 00:58:08,466
+Dije: "Cariño, ¿no es esto grandioso?".
+
+641
+00:58:09,000 --> 00:58:11,312
+"Vamos a morir juntos".
+
+642
+00:58:11,579 --> 00:58:14,701
+Resulta que había una avión
+en la pista...
+
+643
+00:58:14,751 --> 00:58:18,058
+... y no colisionamos con
+él por cuestión de segundos.
+
+644
+00:58:18,253 --> 00:58:21,025
+- Bueno, estaban enamorados.
+- Y fue romántico.
+
+645
+00:58:27,854 --> 00:58:29,978
+¿Señor? Disculpe, señor.
+
+646
+00:58:30,694 --> 00:58:32,082
+¿Podemos hablar un minuto con usted?
+
+647
+00:58:33,581 --> 00:58:35,573
+Estoy transportando un órgano vital.
+
+648
+00:58:35,658 --> 00:58:37,283
+De eso es de lo
+que quisiéramos hablarle.
+
+649
+00:58:37,333 --> 00:58:40,427
+Es mi trabajo. Me muevo muy rápido.
+No tengo mucho tiempo.
+
+650
+00:58:41,497 --> 00:58:43,091
+Por favor, señor.
+Venga por aquí.
+
+651
+00:58:46,190 --> 00:58:49,148
+Soy Robert Koell, trabajo
+para la fiscalía de Richmond.
+
+652
+00:58:49,556 --> 00:58:51,162
+¿Puedo ver sus papeles y licencia?
+
+653
+00:58:51,962 --> 00:58:53,688
+- Tengo residencia permanente.
+- ¿Qué está transportando?
+
+654
+00:58:53,732 --> 00:58:55,737
+Un hígado humano para ser transplantado.
+
+655
+00:58:56,477 --> 00:58:57,927
+Papeles y licencia, por favor.
+
+656
+00:58:58,249 --> 00:58:59,396
+¿Hacia dónde lo lleva?
+
+657
+00:59:01,377 --> 00:59:05,652
+Al hospital Willow's Memorial.
+Hay un paciente esperándolo.
+
+658
+00:59:05,756 --> 00:59:07,360
+¿Alguna vez facilitó
+o entregó un órgano...
+
+659
+00:59:07,410 --> 00:59:09,846
+... por fuera de los canales
+normales que marca la ley?
+
+660
+00:59:13,682 --> 00:59:14,725
+No.
+
+661
+00:59:14,829 --> 00:59:15,971
+Usted es empleado de esta compañía.
+
+662
+00:59:16,021 --> 00:59:17,816
+¿Qué respondería su
+empleador a esa pregunta?
+
+663
+00:59:18,374 --> 00:59:21,095
+Está enfermo. Tiene cáncer.
+
+664
+00:59:21,294 --> 00:59:22,792
+No es lo que le pregunté.
+
+665
+00:59:24,944 --> 00:59:27,306
+¿Estoy bajo alguna clase de sospecha?
+
+666
+00:59:48,093 --> 00:59:50,128
+Una visión, si es
+que alguna vez tuve una.
+
+667
+00:59:52,055 --> 00:59:53,797
+¿Puedo hablar con usted?
+
+668
+00:59:55,183 --> 00:59:56,659
+¿Le gustaría pasar?
+
+669
+01:00:08,427 --> 01:00:10,178
+Póngase cómoda.
+
+670
+01:00:11,556 --> 01:00:15,058
+- No estaré mucho tiempo.
+- ¿Ha venido sola?
+
+671
+01:00:15,935 --> 01:00:16,977
+Sí.
+
+672
+01:00:18,333 --> 01:00:19,376
+Tome asiento.
+
+673
+01:00:20,835 --> 01:00:22,087
+Por favor, insisto.
+
+674
+01:00:34,391 --> 01:00:36,915
+Bueno, ha venido a preguntar algo.
+
+675
+01:00:38,354 --> 01:00:41,758
+Estamos solos.
+Podemos hablar en confianza.
+
+676
+01:00:49,929 --> 01:00:53,126
+El otro día, en la nieve, me dijo algo.
+
+677
+01:00:53,176 --> 01:00:55,546
+Sí, dije "no se rinda".
+
+678
+01:00:55,872 --> 01:00:57,671
+Necesito saber por qué lo dijo.
+
+679
+01:00:58,583 --> 01:01:00,315
+No tengo la más remota idea.
+
+680
+01:01:01,087 --> 01:01:02,550
+¿Esperaba otra respuesta?
+
+681
+01:01:03,047 --> 01:01:04,507
+¿Sabe algo sobre mí?
+
+682
+01:01:04,820 --> 01:01:06,384
+¿Además de que me aborrece?
+
+683
+01:01:06,696 --> 01:01:08,337
+¿Sabe a qué me dedico?
+
+684
+01:01:08,387 --> 01:01:11,076
+No.
+Puedo notar que es una mujer de fe.
+
+685
+01:01:11,388 --> 01:01:13,254
+Pero no en las mismas
+cosas que su esposo.
+
+686
+01:01:13,304 --> 01:01:14,628
+Él no es mi esposo.
+
+687
+01:01:14,726 --> 01:01:17,438
+- ¿Quiere hablarme de usted?
+- ¡No!
+
+688
+01:01:17,541 --> 01:01:19,917
+- ¿Quieres confesarse?
+- No creo que usted--
+
+689
+01:01:19,967 --> 01:01:22,615
+¿Qué?
+¿Que esté en posición de juzgar?
+
+690
+01:01:23,341 --> 01:01:25,240
+Pero usted sí me ha juzgado, ¿verdad?
+
+691
+01:01:25,290 --> 01:01:27,000
+¡Usted merece ser juzgado!
+
+692
+01:01:27,050 --> 01:01:28,662
+¿Sabe por qué vivimos aquí?
+
+693
+01:01:28,712 --> 01:01:32,158
+¿Los hombres que llamamos "hogar"
+a esta vil caja de monstruos?
+
+694
+01:01:32,557 --> 01:01:33,658
+Porque nos odiamos
+los unos a los otros...
+
+695
+01:01:33,708 --> 01:01:35,845
+... tanto como nos odiamos
+a nosotros mismos...
+
+696
+01:01:35,895 --> 01:01:37,594
+... por nuestros apetitos repugnantes.
+
+697
+01:01:37,666 --> 01:01:39,558
+Eso no lo hace menos repugnante.
+
+698
+01:01:39,648 --> 01:01:41,819
+¿Y de dónde vienen esos... apetitos...
+
+699
+01:01:41,869 --> 01:01:44,085
+... esos impulsos incontrolables
+que tenemos?
+
+700
+01:01:44,236 --> 01:01:45,564
+¡No de Dios!
+
+701
+01:01:45,614 --> 01:01:49,604
+¡No de mí!
+Me castré cuando tenía 26.
+
+702
+01:01:50,389 --> 01:01:52,870
+Y las visiones tampoco fueron idea mía.
+
+703
+01:01:53,412 --> 01:01:56,645
+- Proverbios 25:2.
+- ¿Qué?
+
+704
+01:01:56,958 --> 01:01:59,460
+"Gloria de Dios es ocultar un asunto...
+
+705
+01:01:59,564 --> 01:02:02,535
+... y gloria de los
+reyes el investigarlo."
+
+706
+01:02:02,585 --> 01:02:04,230
+¡No me cite las escrituras!
+
+707
+01:02:04,280 --> 01:02:06,343
+¿Qué está haciendo aquí?
+¿De qué tiene miedo?
+
+708
+01:02:06,551 --> 01:02:09,561
+"No se rinda".
+¿A qué se refería?
+
+709
+01:02:09,611 --> 01:02:11,452
+- No lo sé.
+- ¡No le creo!
+
+710
+01:02:11,660 --> 01:02:12,935
+¡Estoy diciéndole la verdad!
+
+711
+01:02:12,985 --> 01:02:14,914
+- ¡Fueron sus palabras!
+- ¡No sé por qué lo dije!
+
+712
+01:02:14,964 --> 01:02:16,414
+¡Me las dijo en la cara!
+
+713
+01:02:16,464 --> 01:02:18,399
+Lo único que quise fue servirle.
+
+714
+01:02:19,374 --> 01:02:21,867
+Lo único que siempre he
+querido es servir a Dios.
+
+715
+01:02:24,382 --> 01:02:27,009
+Puede pedir piedad de parte de Dios,
+pero no espere la mía.
+
+716
+01:02:29,075 --> 01:02:31,409
+¡Puede terminar con
+el teatro cuando quiera!
+
+717
+01:02:35,435 --> 01:02:36,528
+¡Míreme!
+
+718
+01:03:56,580 --> 01:03:59,603
+Los paramédicos llevan unos
+siete minutos con él.
+
+719
+01:04:00,479 --> 01:04:03,529
+Se ha estabilizado.
+La tensión arterial es normal.
+
+720
+01:04:04,533 --> 01:04:06,219
+- Están cargándolo.
+- ¿Qué ocurrió?
+
+721
+01:04:06,477 --> 01:04:08,371
+Gracias.
+Sufrió una convulsión.
+
+722
+01:04:08,763 --> 01:04:10,758
+- ¿Quién te llamó?
+- Nadie.
+
+723
+01:04:11,190 --> 01:04:12,462
+¿Qué estás haciendo aquí?
+
+724
+01:04:15,361 --> 01:04:16,913
+Necesitamos hablar con el Padre Joe.
+
+725
+01:04:17,759 --> 01:04:19,052
+Bueno, eso no va a ocurrir.
+
+726
+01:04:19,845 --> 01:04:20,887
+Tenemos un sospechoso.
+
+727
+01:04:21,141 --> 01:04:23,618
+Un inmigrante ruso que
+trabaja transportando órganos.
+
+728
+01:04:23,668 --> 01:04:24,994
+- ¿Detenido?
+- No.
+
+729
+01:04:25,435 --> 01:04:27,386
+La fiscalía de Richmond
+lo interrogó sobre tráfico...
+
+730
+01:04:27,436 --> 01:04:30,023
+... de órganos humanos en el mercado
+negro esta tarde, pero fue liberado.
+
+731
+01:04:30,372 --> 01:04:32,192
+No tuvieron evidencia para retenerlo.
+
+732
+01:04:32,252 --> 01:04:33,286
+Tenemos un testigo bastante creíble...
+
+733
+01:04:33,336 --> 01:04:35,107
+... que dice que nadó en
+la piscina junto a la mujer.
+
+734
+01:04:35,276 --> 01:04:36,516
+¿Agente especial Whitney?
+
+735
+01:04:37,466 --> 01:04:39,238
+- Con permiso.
+- ¿Qué tiene que ver con el Padre Joe?
+
+736
+01:04:40,594 --> 01:04:42,501
+Este es el hombre
+de sus visiones, Scully.
+
+737
+01:04:42,551 --> 01:04:44,426
+- ¿Quién?
+- El sospechoso. El hombre de esta foto.
+
+738
+01:04:44,476 --> 01:04:46,133
+Mulder, ahora tú estás
+haciéndoles perder el tiempo.
+
+739
+01:04:48,414 --> 01:04:49,952
+Vuelve a decirme
+qué estás haciendo aquí.
+
+740
+01:04:50,002 --> 01:04:53,520
+Aquí hay una visión para usted.
+Mis muchachos acaban de conseguirlo.
+
+741
+01:04:54,589 --> 01:04:55,631
+¿Quién es?
+
+742
+01:04:55,817 --> 01:04:57,258
+El empleador de nuestro sospechoso.
+
+743
+01:04:57,308 --> 01:04:59,533
+Acabamos de enterarnos de que
+es un viejo amigo del Padre Joe.
+
+744
+01:04:59,779 --> 01:05:02,239
+- Lo conoce desde hace más de 20 años.
+- ¿De qué forma?
+
+745
+01:05:02,490 --> 01:05:04,784
+Es uno de sus 37 monaguillos.
+
+746
+01:05:07,599 --> 01:05:10,271
+A que no adivina con quién está
+casado en el estado de Massachusetts.
+
+747
+01:05:11,741 --> 01:05:12,905
+Con nuestro sospechoso.
+
+748
+01:05:12,955 --> 01:05:14,745
+Tenemos una orden para
+allanar sus oficinas.
+
+749
+01:05:19,903 --> 01:05:20,946
+Mulder.
+
+750
+01:05:24,595 --> 01:05:25,865
+Se terminó.
+
+751
+01:05:28,862 --> 01:05:30,744
+¿Qué?
+¡Mulder!
+
+752
+01:05:55,473 --> 01:05:56,515
+¿Por qué no se queda aquí?
+
+753
+01:05:58,079 --> 01:05:59,597
+Deje que esos hombres hagan su trabajo.
+
+754
+01:06:03,501 --> 01:06:04,964
+Revisen la planta baja.
+
+755
+01:06:06,442 --> 01:06:08,944
+Todos fuimos engañados.
+Quise creerlo como todos.
+
+756
+01:06:09,257 --> 01:06:11,029
+Mira, no necesito el engatusamiento.
+
+757
+01:06:11,134 --> 01:06:13,740
+- Tú nos guiaste aquí.
+- El Padre Joe nos guió.
+
+758
+01:06:18,015 --> 01:06:19,999
+Soy el agente especial Drummy del FBI.
+
+759
+01:06:20,049 --> 01:06:22,188
+Tenemos órdenes de registrar
+estas oficinas.
+
+760
+01:06:22,377 --> 01:06:26,093
+Si hay alguien dentro,
+identifíquese y abra la puerta ahora.
+
+761
+01:06:26,220 --> 01:06:28,522
+Te llamé porque creí
+que podrías ayudar con el caso.
+
+762
+01:06:28,572 --> 01:06:30,945
+Porque valoro tu creencia
+en estos fenómenos.
+
+763
+01:06:31,257 --> 01:06:32,404
+¿Y ahora qué crees?
+
+764
+01:06:32,853 --> 01:06:34,943
+Creo que esta es una
+conversación más larga.
+
+765
+01:06:36,575 --> 01:06:40,945
+¡Al suelo! ¡Al suelo!
+¡Quiero que todos se tiren al suelo!
+
+766
+01:07:03,997 --> 01:07:05,620
+Que alguien encuentre las luces.
+
+767
+01:07:05,979 --> 01:07:09,181
+Estábamos estancados y tú nos diste
+un empujón en un par de direcciones.
+
+768
+01:07:14,112 --> 01:07:15,155
+¡Oiga!
+
+769
+01:07:28,089 --> 01:07:29,736
+¿Están locos?
+
+770
+01:07:53,176 --> 01:07:54,389
+¡Deténganlo!
+
+771
+01:07:56,556 --> 01:07:58,113
+¡Oye! ¡No puedes ir ahí!
+
+772
+01:08:16,032 --> 01:08:17,801
+- ¿Por dónde se fueron?
+- Por allí.
+
+773
+01:08:34,592 --> 01:08:35,635
+¡Mulder!
+
+774
+01:08:35,800 --> 01:08:36,962
+¡Aquí arriba!
+
+775
+01:09:43,305 --> 01:09:44,347
+¡Mulder!
+
+776
+01:09:45,598 --> 01:09:46,963
+¡Va hacia ti!
+
+777
+01:09:47,843 --> 01:09:48,930
+¡Oye!
+
+778
+01:09:59,570 --> 01:10:00,682
+Mulder.
+
+779
+01:10:01,149 --> 01:10:02,192
+¿Sí?
+
+780
+01:10:02,281 --> 01:10:04,441
+- ¿Dónde estás?
+- Por aquí.
+
+781
+01:10:04,673 --> 01:10:05,716
+¿Dónde?
+
+782
+01:10:15,940 --> 01:10:16,983
+¿Fox?
+
+783
+01:10:18,130 --> 01:10:19,613
+¿Dónde está? ¿Lo tienes?
+
+784
+01:10:19,663 --> 01:10:21,154
+No, lo perdí.
+
+785
+01:10:24,605 --> 01:10:26,608
+- Lo vi.
+- ¿Dónde?
+
+786
+01:11:00,978 --> 01:11:02,229
+Ambas están muertas.
+
+787
+01:11:03,898 --> 01:11:07,252
+Monica Bannan y Dakota Whitney.
+
+788
+01:11:07,651 --> 01:11:08,695
+Lo oí.
+
+789
+01:11:09,633 --> 01:11:10,676
+Lo siento.
+
+790
+01:11:11,303 --> 01:11:12,450
+Sí, bueno...
+
+791
+01:11:13,804 --> 01:11:15,674
+Creí que estábamos ganando, Scully.
+
+792
+01:11:15,724 --> 01:11:17,218
+Lo sé, Mulder.
+
+793
+01:11:21,207 --> 01:11:22,805
+Estoy aquí para ver al Padre Joe.
+
+794
+01:11:24,649 --> 01:11:28,011
+Quiero enseñarle estas fotografías.
+Estos hombres.
+
+795
+01:11:30,279 --> 01:11:31,832
+Todavía quieres creerle.
+
+796
+01:11:38,518 --> 01:11:40,654
+Creo que deberías saber
+que ha sido diagnosticado...
+
+797
+01:11:40,704 --> 01:11:42,239
+... con una enfermedad terminal.
+
+798
+01:11:43,253 --> 01:11:45,383
+Cáncer de pulmón avanzado.
+
+799
+01:11:48,527 --> 01:11:50,643
+Sólo quiero asegurarme.
+
+800
+01:11:54,993 --> 01:11:56,836
+Entonces deja que le pregunte.
+
+801
+01:12:00,519 --> 01:12:02,233
+No lo va a creer...
+
+802
+01:12:03,439 --> 01:12:05,003
+... estaba pensando en usted.
+
+803
+01:12:05,628 --> 01:12:06,955
+Tuve una visión...
+
+804
+01:12:07,770 --> 01:12:09,719
+... que podría encontrar de interés.
+
+805
+01:12:10,634 --> 01:12:13,814
+De un hombre hablando
+una lengua extranjera.
+
+806
+01:12:14,179 --> 01:12:16,127
+¿Por casualidad se parecía a este?
+
+807
+01:12:20,644 --> 01:12:23,057
+Sí, ese es el tipo.
+
+808
+01:12:23,107 --> 01:12:24,648
+¿Cómo lo sabías?
+
+809
+01:12:24,711 --> 01:12:27,941
+Creemos que es el hombre
+que secuestró a la agente del FBI...
+
+810
+01:12:27,991 --> 01:12:31,893
+... y a la otra mujer que dice haber
+visto y posiblemente a muchas más.
+
+811
+01:12:32,219 --> 01:12:35,193
+Y creemos que fue ayudado...
+
+812
+01:12:35,868 --> 01:12:37,248
+... por este hombre.
+
+813
+01:12:40,457 --> 01:12:43,297
+- No sé quién es ese.
+- ¿Está seguro?
+
+814
+01:12:43,347 --> 01:12:46,915
+Estoy bastante seguro.
+No lo conozco.
+
+815
+01:12:46,965 --> 01:12:48,657
+Estoy bastante segura de que sí.
+
+816
+01:12:51,196 --> 01:12:53,752
+Y que lo conoce desde que era un niño.
+
+817
+01:13:05,482 --> 01:13:07,551
+No.
+
+818
+01:13:11,543 --> 01:13:13,346
+No puede ser cierto.
+
+819
+01:13:16,535 --> 01:13:18,375
+No puedo creerlo.
+
+820
+01:13:19,768 --> 01:13:22,187
+Él era mi conexión con la muchacha.
+
+821
+01:13:23,835 --> 01:13:26,501
+Mis visiones eran para salvarla de él.
+
+822
+01:13:28,632 --> 01:13:30,447
+Esto es obra de Dios.
+
+823
+01:13:32,223 --> 01:13:33,690
+¡Esto es obra de Dios!
+
+824
+01:13:35,366 --> 01:13:38,056
+Déjeme hacerle otra pregunta, Padre Joe.
+
+825
+01:13:39,453 --> 01:13:40,994
+La agente del FBI...
+
+826
+01:13:41,443 --> 01:13:45,413
+... la primera mujer que vio,
+Monica Bannan.
+
+827
+01:13:46,786 --> 01:13:48,352
+¿Sigue con vida?
+
+828
+01:13:54,713 --> 01:13:56,237
+Puedo sentirla.
+
+829
+01:13:58,206 --> 01:13:59,254
+Sí.
+
+830
+01:14:00,825 --> 01:14:02,967
+Sigue viva.
+
+831
+01:14:12,119 --> 01:14:14,132
+- Mulder.
+- La segunda víctima puede estar viva.
+
+832
+01:14:14,182 --> 01:14:16,409
+Todos se rindieron, pero yo no lo haré.
+
+833
+01:14:16,459 --> 01:14:19,037
+Mulder, crees que no lo entiendo,
+pero lo hago.
+
+834
+01:14:19,891 --> 01:14:21,463
+Esa obstinación tuya...
+
+835
+01:14:22,197 --> 01:14:24,153
+... es por lo que me enamoré de ti.
+
+836
+01:14:25,759 --> 01:14:26,972
+Es como dijiste.
+
+837
+01:14:29,007 --> 01:14:30,829
+Es por eso que no podemos estar juntos.
+
+838
+01:16:44,029 --> 01:16:46,124
+Aguarde. Oiga.
+
+839
+01:16:46,946 --> 01:16:49,135
+- Oiga, siento molestarlo.
+- Estamos cerrados.
+
+840
+01:16:49,239 --> 01:16:50,802
+No, sólo necesito un momento
+de su tiempo.
+
+841
+01:16:51,531 --> 01:16:54,732
+Sabe, se aproxima un mal tiempo.
+Será mejor que llegue rápido a donde va.
+
+842
+01:16:57,891 --> 01:16:59,790
+Entonces, ¿qué necesita?
+
+843
+01:16:59,867 --> 01:17:02,518
+Sí, me preguntaba si tiene
+un tranquilizante de animales...
+
+844
+01:17:02,568 --> 01:17:03,932
+... llamado Acepromacina.
+
+845
+01:17:04,765 --> 01:17:06,177
+¿Tiene una prescripción?
+
+846
+01:17:06,227 --> 01:17:07,405
+No, no tengo.
+
+847
+01:17:07,475 --> 01:17:09,101
+Bueno, entonces no puedo vendérselo.
+
+848
+01:17:09,662 --> 01:17:13,693
+¿Puede decirme si le ha vendido
+a este hombre?
+
+849
+01:17:14,664 --> 01:17:16,700
+- Nunca saldré de aquí.
+- Yo sólo--
+
+850
+01:17:20,292 --> 01:17:21,542
+Nutter's Feed.
+
+851
+01:17:26,960 --> 01:17:29,640
+Sí, estaba cerrando y voy a recogerlo.
+
+852
+01:17:29,690 --> 01:17:31,996
+Sí, adiós. Sí.
+
+853
+01:17:37,485 --> 01:17:38,747
+¿Qué pasó con el otro tipo?
+
+854
+01:17:39,152 --> 01:17:40,194
+¿Quién?
+
+855
+01:17:41,653 --> 01:17:43,355
+El tipo que estaba parado aquí.
+
+856
+01:17:45,300 --> 01:17:46,925
+Necesito una nueva dosis de esto.
+
+857
+01:17:49,260 --> 01:17:50,510
+De acuerdo.
+
+858
+01:19:42,218 --> 01:19:46,323
+SE HICIERON TRABAJOS PRELIMINARES
+EN RUSIA QUE CAUSAN ENTUSIASMO
+
+859
+01:19:46,683 --> 01:19:48,987
+UNIDO POR EL CUELLO
+
+860
+01:19:52,632 --> 01:19:56,873
+SOBREVIVIÓ POR PERÍODOS
+DE VARIAS SEMANAS
+
+861
+01:19:59,081 --> 01:20:00,878
+IMPRESIÓN DETENIDA
+POR FAVOR REVISE LA IMPRESORA
+
+862
+01:20:37,758 --> 01:20:39,242
+<i>- Sí, soy yo.
+- ¡Mierda!</i>
+
+863
+01:20:39,321 --> 01:20:41,300
+<i>Debo estar ocupado.
+Deja un mensaje.</i>
+
+864
+01:20:42,447 --> 01:20:44,956
+<i>Mulder, acabo de encontrar algo
+en mi investigación de células madre.</i>
+
+865
+01:20:45,364 --> 01:20:48,566
+<i>Experimentos hechos en Rusia,
+con perros, Mulder.</i>
+
+866
+01:20:48,957 --> 01:20:52,264
+<i>Creo que eso es lo que tu sospechoso
+ha estado haciendo, pero en humanos.</i>
+
+867
+01:20:52,554 --> 01:20:56,200
+<i>En esas mujeres que han sido
+secuestradas. Tienes que llamarme.</i>
+
+868
+01:20:56,931 --> 01:20:58,991
+Mulder, la agente del FBI está viva.
+
+869
+01:21:57,234 --> 01:21:59,505
+FBI, agente especial a cargo Fosse.
+
+870
+01:22:03,413 --> 01:22:04,454
+Es para usted.
+
+871
+01:22:05,496 --> 01:22:06,983
+Agente especial Drummy.
+
+872
+01:22:07,105 --> 01:22:09,062
+<i>He estado intentando
+hablar con usted por horas.</i>
+
+873
+01:22:09,248 --> 01:22:11,350
+No puedo hallar a Mulder.
+
+874
+01:22:11,400 --> 01:22:13,924
+<i>- ¿Habla la doctora Scully?
+- ¡Sí, habla la Dra. Scully!</i>
+
+875
+01:22:13,974 --> 01:22:17,219
+<i>- ¿Dónde está?
+- Si lo supiera, no estaríamos hablando.</i>
+
+876
+01:22:17,269 --> 01:22:22,046
+Dra. Scully, sugiero que llame a
+la policía. No es asunto del FBI.
+
+877
+01:22:22,096 --> 01:22:23,435
+¡Escúcheme!
+
+878
+01:22:24,118 --> 01:22:25,910
+¡Necesito su ayuda!
+
+879
+01:22:26,065 --> 01:22:28,344
+Lo siento, no puedo ayudarla.
+
+880
+01:22:28,394 --> 01:22:31,070
+¡Entonces déjeme hablar con alguien
+con pelotas que pueda hacerlo!
+
+881
+01:22:51,966 --> 01:22:53,749
+¡No me toquen!
+
+882
+01:24:27,775 --> 01:24:29,259
+Vas a estar bien.
+
+883
+01:24:36,528 --> 01:24:39,711
+Lo cuidé bien.
+Lo he cuidado muy bien.
+
+884
+01:24:39,761 --> 01:24:41,991
+Ya no necesitas éste.
+
+885
+01:25:56,396 --> 01:25:59,525
+Mírame.
+Vas a vivir.
+
+886
+01:25:59,941 --> 01:26:02,305
+Tendrás un cuerpo sano y fuerte.
+
+887
+01:27:34,504 --> 01:27:35,547
+Disculpe.
+
+888
+01:27:36,694 --> 01:27:39,364
+- Soy Dana Scully y ese es mi auto.
+- Muy bien.
+
+889
+01:27:39,717 --> 01:27:43,034
+Hablé con algún mandamás del FBI.
+Llamó desde Washington.
+
+890
+01:27:43,084 --> 01:27:46,076
+Sí, es él. Walter Skinner.
+
+891
+01:27:47,225 --> 01:27:49,831
+¿Hay algún indicio de lo que ocurrió?
+¿Alguna huella?
+
+892
+01:27:50,457 --> 01:27:54,320
+Nada, es una nieve muy densa.
+Pero encontramos esto.
+
+893
+01:27:54,732 --> 01:27:57,539
+Tal vez quiera dárselo.
+Con permiso.
+
+894
+01:27:59,216 --> 01:28:01,245
+Es su teléfono celular.
+Tiene manchas de sangre.
+
+895
+01:28:01,295 --> 01:28:04,000
+Oye, cálmate.
+Para y piensa. Él está bien.
+
+896
+01:28:04,144 --> 01:28:05,631
+Debe estarlo.
+De alguna forma salió de ahí...
+
+897
+01:28:05,719 --> 01:28:07,226
+... y si puso salir,
+seguramente fue hacia arriba.
+
+898
+01:29:27,621 --> 01:29:28,872
+¡Alto!
+
+899
+01:29:29,109 --> 01:29:30,152
+¡Retrocedan!
+
+900
+01:29:30,537 --> 01:29:31,580
+¡Aléjense!
+
+901
+01:29:32,131 --> 01:29:33,637
+¡Atrás! ¡Atrás!
+
+902
+01:29:35,751 --> 01:29:38,475
+¿Hablan inglés?
+¿Alguien habla inglés?
+
+903
+01:29:39,223 --> 01:29:41,020
+¡La quiero fuera de aquí!
+
+904
+01:29:41,089 --> 01:29:44,174
+¡Quiero que saquen esos tubos
+de su cuello y que la suturen!
+
+905
+01:29:44,749 --> 01:29:46,537
+¡Hágalo! ¡Hágalo!
+
+906
+01:30:20,694 --> 01:30:21,957
+Lo vamos a encontrar.
+
+907
+01:30:27,238 --> 01:30:29,589
+Conozco a Mulder. Cuando consiga un
+teléfono, lo primero que hará es llamar.
+
+908
+01:30:30,366 --> 01:30:32,176
+No hará nada alocado.
+
+909
+01:30:36,539 --> 01:30:38,264
+Nada demasiado alocado.
+
+910
+01:31:37,938 --> 01:31:39,522
+Espere un segundo. Retroceda.
+
+911
+01:31:56,474 --> 01:31:57,591
+¿De qué se trata?
+
+912
+01:32:05,303 --> 01:32:07,365
+Proverbios, 25:2.
+
+913
+01:32:25,212 --> 01:32:27,909
+"Gloria de Dios es ocultar un asunto".
+
+914
+01:32:30,009 --> 01:32:34,398
+Lo tengo. Una factura de suministros
+médicos a nombre del Dr. Uroff-Koltoft.
+
+915
+01:32:34,596 --> 01:32:36,543
+Hay un domicilio en la calle Bellflower.
+
+916
+01:32:38,879 --> 01:32:40,723
+Tal vez pueda googlearlo.
+
+917
+01:32:46,582 --> 01:32:48,085
+- Escuche.
+- ¿Qué?
+
+918
+01:32:58,052 --> 01:33:00,617
+Perros. ¡Perros!
+
+919
+01:33:50,035 --> 01:33:51,077
+¡Oiga!
+
+920
+01:33:54,662 --> 01:33:55,767
+¡Mulder!
+
+921
+01:33:56,852 --> 01:33:58,254
+¿Puedes oírme?
+
+922
+01:34:00,710 --> 01:34:02,514
+Lamento lo de tu auto.
+
+923
+01:34:05,089 --> 01:34:07,607
+La chica... sigue adentro.
+
+924
+01:34:17,282 --> 01:34:18,450
+¡Manos a la vista!
+
+925
+01:34:19,160 --> 01:34:20,428
+¡Manos a la vista!
+
+926
+01:34:21,453 --> 01:34:24,201
+¡Baje el escalpelo!
+¡Baje ese escalpelo!
+
+927
+01:34:24,306 --> 01:34:26,562
+¡Baje ese escalpelo o le
+vuelo la mano de un tiro!
+
+928
+01:34:27,396 --> 01:34:28,582
+¡Vaya por ahí!
+
+929
+01:34:32,273 --> 01:34:33,858
+¡Dios mío!
+¿Qué han hecho?
+
+930
+01:34:34,462 --> 01:34:35,674
+¿Qué hicieron?
+
+931
+01:34:39,989 --> 01:34:41,950
+Mulder necesita ropa
+abrigada y líquidos.
+
+932
+01:34:45,306 --> 01:34:46,723
+Por Dios.
+
+933
+01:34:50,003 --> 01:34:51,602
+Tengo trabajo aquí.
+
+934
+01:34:51,718 --> 01:34:53,489
+¡Adentro! ¡Adentro!
+
+935
+01:35:12,004 --> 01:35:13,464
+La chica... está adentro.
+
+936
+01:35:13,568 --> 01:35:15,393
+Está con Scully.
+Está en buenas manos.
+
+937
+01:35:17,426 --> 01:35:19,220
+- ¿Skinner?
+- Sí.
+
+938
+01:35:21,388 --> 01:35:22,773
+Tengo frío.
+
+939
+01:35:23,682 --> 01:35:24,949
+Te tengo.
+
+940
+01:35:26,706 --> 01:35:27,899
+Te tengo.
+
+941
+01:35:41,654 --> 01:35:42,696
+¿Mulder?
+
+942
+01:35:42,867 --> 01:35:44,116
+¿Qué pasa, doc?
+
+943
+01:35:46,934 --> 01:35:48,545
+El Padre Joe murió.
+
+944
+01:35:56,839 --> 01:35:58,925
+Era un hombre muy enfermo, sin dudas
+
+945
+01:36:06,640 --> 01:36:07,892
+¿Viste la historia?
+
+946
+01:36:09,977 --> 01:36:12,681
+El FBI afirma que el Padre
+Joe era un cómplice.
+
+947
+01:36:14,043 --> 01:36:16,406
+Ni una palabra de su conexión psíquica.
+
+948
+01:36:18,006 --> 01:36:19,505
+Está muerto, Mulder.
+
+949
+01:36:20,612 --> 01:36:21,972
+Nunca lo sabremos.
+
+950
+01:36:22,022 --> 01:36:24,748
+Lo sé, Scully, y puedo probarlo.
+
+951
+01:36:25,096 --> 01:36:27,197
+¿El Padre Joe murió de
+cáncer de pulmón, verdad?
+
+952
+01:36:27,390 --> 01:36:29,219
+Al igual que ese tipo al que
+el Dr. Frankenstein...
+
+953
+01:36:29,269 --> 01:36:30,410
+... intentó darle un nuevo cuerpo.
+
+954
+01:36:30,460 --> 01:36:32,159
+- Mulder...
+- ¿A qué hora retiraste aquellos...
+
+955
+01:36:32,209 --> 01:36:34,238
+... tubos del cuello de esa mujer?
+¿A qué hora interrumpiste...
+
+956
+01:36:34,288 --> 01:36:35,740
+... el flujo de sangre a
+la cabeza de ese hombre?
+
+957
+01:36:35,790 --> 01:36:37,104
+Ahí fue cuando el Padre Joe murió.
+
+958
+01:36:37,154 --> 01:36:39,005
+Tráeme su certificado de
+defunción y te lo mostraré...
+
+959
+01:36:39,055 --> 01:36:41,349
+... e iré con el FBI
+y se lo mostraré a ellos.
+
+960
+01:36:41,674 --> 01:36:44,017
+¿Realmente crees que
+tomarán tu llamada?
+
+961
+01:36:44,385 --> 01:36:46,602
+Es una injusticia al nombre del tipo.
+
+962
+01:36:49,329 --> 01:36:52,298
+Bueno, considerando sus
+crímenes contra esos jovencitos...
+
+963
+01:36:53,144 --> 01:36:54,708
+...¿a quién va a importarle?
+
+964
+01:36:54,812 --> 01:36:56,583
+Pensé que tú también creíste en él.
+
+965
+01:36:57,315 --> 01:36:58,879
+Quise creer en él.
+
+966
+01:36:59,817 --> 01:37:03,118
+Creí en él.
+Actué en consecuencia.
+
+967
+01:37:08,576 --> 01:37:11,059
+¿Por qué no me dices qué te dijo?
+
+968
+01:37:27,672 --> 01:37:30,431
+EL FBI ARRESTA A UN DOCTOR
+FRANKENSTEIN DE NUESTROS DÍAS
+
+969
+01:37:33,115 --> 01:37:34,330
+Me dijo...
+
+970
+01:37:36,343 --> 01:37:37,819
+..."no se rinda".
+
+971
+01:37:40,169 --> 01:37:43,866
+Y no lo hice.
+Y eso salvó tu vida.
+
+972
+01:37:46,649 --> 01:37:49,072
+Pero llevé a ese chico a un infierno.
+
+973
+01:37:49,553 --> 01:37:51,954
+Y tengo otra cirugía
+programada para esta mañana...
+
+974
+01:37:52,523 --> 01:37:55,528
+... porque creí que Dios
+estaba pidiéndomelo.
+
+975
+01:37:56,931 --> 01:37:59,652
+Nada menos que a través
+de un sacerdote pedófilo.
+
+976
+01:38:01,335 --> 01:38:04,283
+¿Y si al fin de cuentas, las oraciones
+del Padre Joe fueron respondidas?
+
+977
+01:38:06,131 --> 01:38:07,726
+¿Y si fue perdonado?
+
+978
+01:38:09,327 --> 01:38:10,862
+Por no haberse rendido.
+
+979
+01:38:18,067 --> 01:38:20,122
+Intenta probar ésa, Mulder.
+
+980
+01:38:26,151 --> 01:38:27,842
+Me esperan en el hospital.
+
+981
+01:38:35,848 --> 01:38:36,891
+¿Scully?
+
+982
+01:38:38,872 --> 01:38:40,400
+¿Por qué diría eso?
+
+983
+01:38:42,000 --> 01:38:45,633
+"No se rinda".
+¿Por qué te diría tal cosa?
+
+984
+01:38:50,341 --> 01:38:52,745
+Creo que indudablemente
+hablaba de ti, Mulder.
+
+985
+01:38:52,795 --> 01:38:56,136
+No me lo dijo a mí, te lo dijo a ti.
+
+986
+01:39:01,706 --> 01:39:03,001
+Si el Padre Joe era el demonio...
+
+987
+01:39:03,051 --> 01:39:05,731
+...¿por qué decir lo opuesto
+a lo que diría el demonio?
+
+988
+01:39:09,526 --> 01:39:11,265
+Tal vez sea esa la respuesta.
+
+989
+01:39:11,814 --> 01:39:13,526
+Una respuesta algo más extensa.
+
+990
+01:39:15,157 --> 01:39:16,542
+¿A qué te refieres?
+
+991
+01:39:17,635 --> 01:39:19,273
+No te rindas.
+
+992
+01:39:26,209 --> 01:39:28,966
+Por favor, no lo hagas más
+difícil de lo que ya es.
+
+993
+01:39:31,944 --> 01:39:33,156
+Está bien.
+
+994
+01:39:33,706 --> 01:39:34,749
+Está bien.
+
+995
+01:39:36,845 --> 01:39:37,887
+Si tienes alguna duda...
+
+996
+01:39:40,077 --> 01:39:41,580
+... cualquier tipo de duda...
+
+997
+01:39:42,996 --> 01:39:45,173
+... simplemente cancela
+la cirugía de esta mañana.
+
+998
+01:39:48,835 --> 01:39:50,686
+Y luego nos vamos de aquí.
+
+999
+01:39:54,979 --> 01:39:56,366
+Sólo tú y yo.
+
+1000
+01:40:02,390 --> 01:40:05,108
+¿Tan lejos como podamos de la oscuridad?
+
+1001
+01:40:08,125 --> 01:40:09,480
+No estoy seguro de que funcione así.
+
+1002
+01:40:10,940 --> 01:40:12,939
+Creo que tal vez, la oscuridad
+te encuentra...
+
+1003
+01:40:13,749 --> 01:40:14,984
+... y a mí.
+
+1004
+01:40:16,756 --> 01:40:17,799
+Sé que es así.
+
+1005
+01:40:23,685 --> 01:40:24,728
+Pero intentémoslo.
+
+1006
+01:41:52,145 --> 01:41:54,365
+¿Está lista para comenzar, Dra. Scully?
+
+1007
+01:42:15,084 --> 01:42:16,127
+Sí.
+
+1008
+01:42:24,963 --> 01:42:30,863
+Subtítulo por aRGENTeaM
+www.argenteam.net
+
