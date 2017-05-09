@@ -1229,12 +1229,12 @@ Las muestras de sangre coincidieron.
 
 272
 00:26:35,840 --> 00:26:38,434
-Ambas eran O-positivo. Las volverán a
+Ambas eran 0-positivo. Las volverán a
 analizar.
 
 273
 00:26:38,520 --> 00:26:40,988
-Revise el pasado de Doctor Blockhead.
+Revisé el pasado de Doctor Blockhead.
 
 274
 00:26:41,160 --> 00:26:44,197
@@ -1821,7 +1821,7 @@ El aparcamiento.
 405
 00:42:20,360 --> 00:42:24,194
 Revise el área detrás de esa casa
-rodante y dígame que encuentra.
+rodante y dígame qué encuentra.
 
 406
 00:42:24,280 --> 00:42:25,554

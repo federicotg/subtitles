@@ -1065,7 +1065,7 @@ O alguna muy parecida.
 
 239
 00:23:38,320 --> 00:23:40,390
-El ordenador dice que es ella,
+La computadora dice que es ella,
 
 240
 00:23:40,520 --> 00:23:46,231
@@ -1074,7 +1074,7 @@ Tampoco está en la lista de criminales.
 
 241
 00:23:46,360 --> 00:23:51,115
-Revise a fondo
+Revisé a fondo
 los archivos de la nación.
 
 242

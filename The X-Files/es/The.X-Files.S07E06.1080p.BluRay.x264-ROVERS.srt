@@ -243,7 +243,7 @@ y se escabulló en la oscuridad.
 
 57
 00:07:29,240 --> 00:07:32,869
-Lo mencionas como "el".
+Lo mencionas como "él".
 ¿Cuál es su nombre?
 
 58
@@ -284,7 +284,7 @@ Dices que es invulnerable, ¿no?
 
 66
 00:08:05,080 --> 00:08:10,552
-En 1998, un soldado ingles cayó 1.500 metros
+En 1998, un soldado inglés cayó 1.500 metros
 y no se le abrió el paracaídas.
 
 67
@@ -640,7 +640,7 @@ Las habré perdido al caer.
 
 147
 00:16:36,920 --> 00:16:42,756
-Revise el edificio.
+Revisé el edificio.
 No hay rastros de Henry Weems.
 
 148
@@ -880,7 +880,7 @@ No te preocupes.
 
 200
 00:21:15,200 --> 00:21:18,192
-¿Estarás bien mientras no este?
+¿Estarás bien mientras no esté?
 
 201
 00:21:20,240 --> 00:21:23,198
@@ -954,7 +954,7 @@ hasta que al fin lo subieron a ese.
 
 217
 00:22:31,280 --> 00:22:34,431
-- Adivina que asiento le tocó.
+- Adivina qué asiento le tocó.
 - ¿El 13?
 
 218
