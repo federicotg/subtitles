@@ -578,7 +578,7 @@ cazando alienígenas,
 125
 00:11:26,880 --> 00:11:29,792
 cuando usted
-miraba "Mi Marciano Favorito
+miraba "Mi Marciano Favorito"
 
 126
 00:11:29,880 --> 00:11:32,440
@@ -766,7 +766,7 @@ en una celda o en el autobús.
 
 165
 00:14:28,960 --> 00:14:32,873
-Ya que estamos en EEUU,
+Ya que estamos en EE.UU.,
 tiene derecho a elegir.
 
 166
@@ -1370,7 +1370,7 @@ los puntos, ¿verdad, hijo?
 
 294
 00:31:12,640 --> 00:31:18,112
-Te di algo de madera, te encargue
+Te di algo de madera, te encargué
 un gabinete, e hiciste una catedral.
 
 295
