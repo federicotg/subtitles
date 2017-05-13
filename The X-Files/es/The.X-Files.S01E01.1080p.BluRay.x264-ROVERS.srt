@@ -1674,7 +1674,7 @@ Está enferma.
 371
 00:33:41,240 --> 00:33:44,471
 Tu padre quiere llevarte a casa.
-El te limpiará.
+Él te limpiará.
 
 372
 00:33:44,600 --> 00:33:46,795
