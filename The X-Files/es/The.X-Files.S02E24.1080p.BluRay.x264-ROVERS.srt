@@ -607,7 +607,7 @@ No estoy tan seguro.
 133
 00:13:29,000 --> 00:13:31,195
 ¡No le haga daño!
-Díganos que quiere.
+Díganos qué quiere.
 
 134
 00:13:31,520 --> 00:13:34,398
