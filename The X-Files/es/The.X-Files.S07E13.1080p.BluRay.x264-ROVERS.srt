@@ -10,7 +10,7 @@ Diez segundos para el inicio.
 3
 00:00:13,840 --> 00:00:19,597
 A un lado, idiotas.
-Soy una maquina asesina.
+Soy una máquina asesina.
 
 4
 00:00:22,480 --> 00:00:24,789
@@ -73,7 +73,7 @@ Da la orden, Retro.
 
 18
 00:02:10,880 --> 00:02:14,031
-Es todo una masacre.
+Es toda una masacre.
 
 19
 00:02:23,960 --> 00:02:26,269
@@ -266,8 +266,9 @@ económicos.
 ¿En efectivo o en acciones?
 
 61
-00:08:25,559 --> 13:15:21,858
- de capital preferentemente.
+00:08:23,559 --> 00:08:25,258
+Acciones... 
+... De capital preferentemente.
 
 62
 00:08:25,640 --> 00:08:29,918
@@ -281,7 +282,7 @@ para evadir regulaciones oficiales.
 
 64
 00:08:32,640 --> 00:08:35,029
-Para vender en locales de EEUU y Japón.
+Para vender en locales de EE.UU. y Japón.
 
 65
 00:08:35,160 --> 00:08:39,472
