@@ -74,7 +74,7 @@ Muéstralo. Digan "whisky".
 
 18
 00:01:15,200 --> 00:01:21,116
-"Por su gran sabiduría, experticia
+"Por su gran sabiduría, experiencia
 y compasión en el ejercicio médico".
 
 19
@@ -784,7 +784,7 @@ Si hice algo que le molestara...
 179
 00:17:32,440 --> 00:17:37,070
 ¿De qué vale intimidarme
-si no sé en que lo ofendí?
+si no sé en qué lo ofendí?
 
 180
 00:17:38,800 --> 00:17:40,870
@@ -1018,7 +1018,7 @@ Luego se cose y se hace el hechizo.
 
 234
 00:22:54,640 --> 00:22:57,029
-Depende de con quién este lidiando.
+Depende de con quién esté lidiando.
 
 235
 00:22:57,120 --> 00:23:01,477
@@ -1313,12 +1313,12 @@ ni número de seguro social.
 302
 00:30:44,680 --> 00:30:48,434
 El mundo la conoce
-como "Mujer número
+como "Mujer número 6149.
 
 303
 00:30:48,560 --> 00:30:54,271
-Su nombre aparece
-en un registro de vacunación de .
+Su nombre aparece en un registro 
+de vacunación de VISTA en 1981.
 
 304
 00:30:54,400 --> 00:30:58,279
@@ -1528,7 +1528,7 @@ Estoy ciega.
 
 351
 00:38:21,480 --> 00:38:23,550
-Quédese donde está. ¡Abajo!
+Quédense donde están. ¡Abajo!
 
 352
 00:38:42,200 --> 00:38:43,952
