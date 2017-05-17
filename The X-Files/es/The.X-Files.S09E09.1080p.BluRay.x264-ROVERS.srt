@@ -1137,7 +1137,7 @@ en peligro?
 250
 00:33:01,680 --> 00:33:07,277
 Podríamos ayudarla,
-si nos dice que dijo este hombre.
+si nos dice qué dijo este hombre.
 
 251
 00:33:07,360 --> 00:33:11,956
