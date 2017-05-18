@@ -1781,7 +1781,7 @@ Destruye pruebas, querrá decir.
 
 388
 00:42:48,800 --> 00:42:53,078
-- A ver que escribió.
+- A ver qué escribió.
 - Se lo diré. Él la mata.
 
 389
