@@ -174,7 +174,7 @@ No. Lo siento.
 40
 00:03:49,920 --> 00:03:53,037
 - ¿Dónde has estado?
-- Trate de localizarte.
+- Traté de localizarte.
 
 41
 00:03:53,160 --> 00:03:57,676
