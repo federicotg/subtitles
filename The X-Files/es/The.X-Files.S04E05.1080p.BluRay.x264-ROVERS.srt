@@ -1320,7 +1320,7 @@ del campo de batalla en los registros.
 
 300
 00:24:44,720 --> 00:24:46,676
-Sabes donde están los otros refugios.
+Sabes dónde están los otros refugios.
 
 301
 00:24:46,880 --> 00:24:47,915

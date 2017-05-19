@@ -1859,7 +1859,7 @@ EXTREMADAMENTE PELIGROSO.
 
 407
 00:38:21,080 --> 00:38:24,072
-Espero que no este comunicándose
+Espero que no esté comunicándose
 con algún otro hombre.
 
 408
@@ -1992,7 +1992,7 @@ en cinco estados.
 
 436
 00:42:56,600 --> 00:43:02,197
-Al menos déle a las familias algo de paz.
+Al menos dele a las familias algo de paz.
 Díganos cuántas de la lista son suyas.
 
 437

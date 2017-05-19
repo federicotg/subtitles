@@ -694,11 +694,11 @@ Sólo le pido que vayamos a ver a Billy.
 
 154
 00:16:57,840 --> 00:17:00,274
-Para ver que dice.
+Para ver qué dice.
 
 155
 00:17:01,880 --> 00:17:07,318
-- ¿Para ver que dice dónde?
+- ¿Para ver qué dice dónde?
 - Donde quiera. Me aseguraré de que vaya.
 
 156

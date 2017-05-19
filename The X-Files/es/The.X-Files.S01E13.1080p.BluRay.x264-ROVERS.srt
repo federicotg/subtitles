@@ -1398,7 +1398,7 @@ Sé lo que quiere.
 
 321
 00:29:49,360 --> 00:29:51,396
-Y se con quién quiere hablar.
+Y sé con quién quiere hablar.
 
 322
 00:29:53,400 --> 00:29:56,551
@@ -1495,7 +1495,7 @@ estaba allí para verme comer la mía.
 
 343
 00:32:18,440 --> 00:32:22,115
-¡Y él... miedo...
+¡Y el... miedo...
 
 344
 00:32:22,200 --> 00:32:24,509
@@ -1635,7 +1635,7 @@ con el autor de una matanza.
 
 375
 00:34:54,680 --> 00:34:58,559
-Especialmente con uno que se que
+Especialmente con uno que sé que
 está planeando cometer un crimen
 
 376

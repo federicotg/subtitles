@@ -881,7 +881,7 @@ Hacia Colorado.
 192
 00:17:49,800 --> 00:17:52,678
 Vamos a intentar interceptarlo
-y ver que lleva a bordo.
+y ver qué lleva a bordo.
 
 193
 00:17:52,840 --> 00:17:57,675
@@ -1072,7 +1072,7 @@ GENERAL DEL FBI. WASHINGTON D.C.
 
 233
 00:22:06,440 --> 00:22:10,956
-Mande analizar la foto por ordenador.
+Mandé analizar la foto por ordenador.
 En principio, parece ser legítima.
 
 234
