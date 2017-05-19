@@ -246,7 +246,7 @@ líquidos en las últimas 48 horas.
 58
 00:07:00,200 --> 00:07:04,034
 No nos ayuda mucho
-que este en un ambiente restringido.
+que esté en un ambiente restringido.
 
 59
 00:07:04,120 --> 00:07:09,752

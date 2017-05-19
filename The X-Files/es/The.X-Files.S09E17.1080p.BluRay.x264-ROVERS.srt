@@ -586,7 +586,7 @@ Siento un llamado que viene de él.
 130
 00:17:56,560 --> 00:18:02,999
 Cadete, permítame advertirle que hay
-una gran probabilidad de que este loco.
+una gran probabilidad de que esté loco.
 
 131
 00:18:03,840 --> 00:18:06,513

@@ -277,7 +277,7 @@ No hablen con él.
 61
 00:07:06,800 --> 00:07:10,110
 No inicien una conversación con él,
-aunque este desarmado.
+aunque esté desarmado.
 
 62
 00:07:10,240 --> 00:07:13,710
@@ -1065,7 +1065,7 @@ a Modell, él me buscó a mí.
 235
 00:24:10,760 --> 00:24:13,672
 No lo creo. Ni siquiera estoy
-seguro de que él este jugando.
+seguro de que él esté jugando.
 
 236
 00:24:13,760 --> 00:24:17,753

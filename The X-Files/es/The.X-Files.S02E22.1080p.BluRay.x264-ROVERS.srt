@@ -171,7 +171,7 @@ rápido porque no pudo.
 
 39
 00:07:29,880 --> 00:07:32,792
-es probable que algo este pasando.
+es probable que algo esté pasando.
 
 40
 00:07:33,880 --> 00:07:37,316

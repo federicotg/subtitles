@@ -1200,7 +1200,7 @@ Yo estoy... trabajando con el agente Mulder.
 
 267
 00:21:43,760 --> 00:21:49,039
-Dijo que el pirómano quizá este usando
+Dijo que el pirómano quizá esté usando
 combustible para cohetes como catalizador.
 
 268

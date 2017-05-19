@@ -879,7 +879,7 @@ De vuelta al lugar de esa noche.
 
 194
 00:20:12,760 --> 00:20:14,830
-No creo que este funcionando.
+No creo que esté funcionando.
 
 195
 00:20:15,240 --> 00:20:18,676
