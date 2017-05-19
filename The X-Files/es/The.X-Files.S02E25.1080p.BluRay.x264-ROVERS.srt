@@ -880,7 +880,7 @@ Necesito verte ahora mismo.
 
 196
 00:20:11,280 --> 00:20:15,478
-- ¿Adonde estás?
+- ¿Dónde estás?
 - En casa. ¿Puedes venir?
 
 197
@@ -1759,7 +1759,7 @@ No está aquí.
 
 394
 00:43:43,920 --> 00:43:46,878
-¿Adonde está Mulder?
+¿Dónde está Mulder?
 
 395
 00:43:48,200 --> 00:43:50,316

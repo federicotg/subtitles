@@ -635,7 +635,7 @@ Ahora suéltela.
 
 141
 00:13:45,880 --> 00:13:48,633
-- Dígame donde está.
+- Dígame dónde está.
 - ¡Déjela ir!
 
 142
@@ -976,7 +976,7 @@ Elijo salir de aquí.
 
 219
 00:22:34,800 --> 00:22:37,075
-Sabemos donde está su hermana.
+Sabemos dónde está su hermana.
 
 220
 00:22:37,840 --> 00:22:42,277
@@ -1496,7 +1496,7 @@ yo no sepa la verdad.
 
 334
 00:37:21,520 --> 00:37:23,795
-Dígame donde está mi hermana.
+Dígame dónde está mi hermana.
 
 335
 00:37:23,880 --> 00:37:27,031
@@ -1531,7 +1531,7 @@ su pregunta? ¿Es lo que quiere?
 
 342
 00:38:10,680 --> 00:38:12,671
-Dígame donde está.
+Dígame dónde está.
 
 343
 00:38:16,760 --> 00:38:18,830
