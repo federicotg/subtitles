@@ -1815,7 +1815,7 @@ con la aplicación práctica del compuesto,
 
 402
 00:34:01,640 --> 00:34:04,712
-aunque no sepa de que se trata.
+aunque no sepa de qué se trata.
 
 403
 00:34:04,800 --> 00:34:07,268

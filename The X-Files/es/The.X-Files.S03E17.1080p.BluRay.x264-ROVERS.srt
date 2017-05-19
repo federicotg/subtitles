@@ -1447,7 +1447,7 @@ para jugar al gato y al ratón con nosotros.
 
 320
 00:27:44,480 --> 00:27:47,472
-Quizás no este jugando.
+Quizás no esté jugando.
 Quizás ese sea el asunto.
 
 321

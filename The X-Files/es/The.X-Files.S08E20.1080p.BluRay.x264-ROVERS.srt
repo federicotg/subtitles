@@ -408,7 +408,7 @@ Por favor...
 
 89
 00:09:22,920 --> 00:09:26,435
-¿Por qué no nos dice de que se trata esto?
+¿Por qué no nos dice de qué se trata esto?
 
 90
 00:09:26,520 --> 00:09:30,115
@@ -431,7 +431,7 @@ He perdido gran parte de mi trabajo.
 94
 00:09:40,960 --> 00:09:45,556
 ¿Por qué no nos explica
-lo que está haciendo y que es todo esto?
+lo que está haciendo y qué es todo esto?
 
 95
 00:09:45,680 --> 00:09:51,277

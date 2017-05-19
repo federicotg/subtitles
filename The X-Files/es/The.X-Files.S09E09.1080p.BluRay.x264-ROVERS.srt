@@ -1386,7 +1386,7 @@ Te entendemos. ¿Langly?
 
 305
 00:41:08,360 --> 00:41:11,397
-Puede que mi teléfono este intervenido.
+Puede que mi teléfono esté intervenido.
 
 306
 00:41:11,520 --> 00:41:15,069

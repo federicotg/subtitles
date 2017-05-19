@@ -510,7 +510,7 @@ a encontrarlo tirado en un campo.
 
 113
 00:13:30,760 --> 00:13:33,399
-Nada indica que no este a salvo.
+Nada indica que no esté a salvo.
 
 114
 00:14:00,440 --> 00:14:03,034

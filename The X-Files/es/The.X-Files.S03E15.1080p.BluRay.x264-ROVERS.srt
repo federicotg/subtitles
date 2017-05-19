@@ -1303,7 +1303,7 @@ te llamaré, ¿de acuerdo?
 
 292
 00:29:54,240 --> 00:29:56,708
-¿Algo que no este en el menú?
+¿Algo que no esté en el menú?
 
 293
 00:29:57,720 --> 00:29:59,756

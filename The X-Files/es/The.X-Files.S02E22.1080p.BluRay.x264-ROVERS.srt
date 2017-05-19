@@ -1353,7 +1353,7 @@ La terminal está a media hora de aquí.
 297
 00:31:34,560 --> 00:31:38,155
 - Llame a la Policía.
-- No, no saben de que se trata.
+- No, no saben de qué se trata.
 
 298
 00:31:38,240 --> 00:31:42,597

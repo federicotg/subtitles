@@ -656,7 +656,7 @@ Si no me necesita me voy.
 144
 00:14:30,800 --> 00:14:34,429
 Venga mañana para controlar
-que no este infectado.
+que no esté infectado.
 
 145
 00:14:34,600 --> 00:14:36,431
