@@ -560,7 +560,7 @@ fueron desgarradas.
 
 125
 00:13:15,000 --> 00:13:17,878
-Puedo decirles de que murió.
+Puedo decirles de qué murió.
 
 126
 00:13:18,040 --> 00:13:20,190
@@ -855,7 +855,7 @@ Bien. Llámala.
 191
 00:19:53,600 --> 00:19:58,799
 - ¿Dónde vas?
-- A ver que bicho me picó.
+- A ver qué bicho me picó.
 
 192
 00:20:14,640 --> 00:20:16,551
@@ -1741,7 +1741,7 @@ de metil pirrolidina piridina.
 
 391
 00:42:01,320 --> 00:42:04,710
-Creo que es podría
+Creo que eso podría
 salvar la vida de Mulder.
 
 392

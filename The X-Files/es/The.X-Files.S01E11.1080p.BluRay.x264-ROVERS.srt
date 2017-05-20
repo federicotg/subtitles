@@ -1303,7 +1303,7 @@ Vienen, me hacen pruebas,
 
 299
 00:23:15,880 --> 00:23:18,758
-¡y husmean para ver que salió mal!
+¡y husmean para ver qué salió mal!
 
 300
 00:23:21,000 --> 00:23:23,355
