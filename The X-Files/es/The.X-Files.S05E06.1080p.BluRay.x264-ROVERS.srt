@@ -440,7 +440,7 @@ que debía ayudar a alguien. Una mujer.
 99
 00:12:01,480 --> 00:12:06,270
 - La llamada se hizo desde su casa.
-- No tengo idea de que me habla.
+- No tengo idea de qué me habla.
 
 100
 00:12:06,360 --> 00:12:10,194
