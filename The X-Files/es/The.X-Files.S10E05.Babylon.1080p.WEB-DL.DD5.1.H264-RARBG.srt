@@ -2698,7 +2698,7 @@ Agente Mulder?
 
 589
 00:30:47,696 --> 00:30:51,013
-No puedo decirte que es lo que dijo.
+No puedo decirte qué es lo que dijo.
 
 590
 00:30:52,233 --> 00:30:53,415
