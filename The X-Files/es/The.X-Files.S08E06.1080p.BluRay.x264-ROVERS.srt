@@ -86,7 +86,7 @@ JUEVES 7 DE DICIEMBRE,
 19
 00:03:54,400 --> 00:03:59,235
 ¿Qué hago aquí? Estoy en esta celda.
-No sé dónde estoy ni como llegue...
+No sé dónde estoy ni como llegué...
 
 20
 00:03:59,320 --> 00:04:02,118
