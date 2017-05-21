@@ -729,7 +729,7 @@ repuestos que pesaban 1400 kilos.
 
 159
 00:15:53,800 --> 00:15:58,920
-Llame a tres estaciones de pesaje de la ruta.
+Llamé a tres estaciones de pesaje de la ruta.
 Según sus registros, pesaba 2300 kilos.
 
 160
