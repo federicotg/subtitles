@@ -1280,7 +1280,7 @@ Tendrá que irse.
 
 285
 00:25:39,480 --> 00:25:41,869
-Sí, ya lo sé. Yo solicite la citación.
+Sí, ya lo sé. Yo solicité la citación.
 
 286
 00:25:41,960 --> 00:25:45,714

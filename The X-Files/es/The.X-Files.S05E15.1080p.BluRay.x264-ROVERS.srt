@@ -1285,7 +1285,7 @@ Un minuto, por favor.
 
 285
 00:28:46,520 --> 00:28:51,071
-Me está probando. Quiere ver que rápido
+Me está probando. Quiere ver qué rápido
 tiro de la cadena y lo hago desaparecer.
 
 286
