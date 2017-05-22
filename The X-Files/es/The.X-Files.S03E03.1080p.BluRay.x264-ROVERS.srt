@@ -747,7 +747,7 @@ Déjate de jugar con el control remoto.
 
 165
 00:14:54,400 --> 00:14:56,914
-.. y solía dormir con un cinturón de noche...
+... y solía dormir con un cinturón de noche...
 
 166
 00:14:57,040 --> 00:15:00,794

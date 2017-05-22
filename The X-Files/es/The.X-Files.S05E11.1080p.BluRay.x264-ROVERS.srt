@@ -1203,7 +1203,7 @@ Relájese.
 
 262
 00:29:05,880 --> 00:29:07,996
-..120. Presión 130 sobre 80.
+... 120. Presión 130 sobre 80.
 
 263
 00:29:11,080 --> 00:29:15,278
@@ -1377,7 +1377,7 @@ Algo está mal.
 301
 00:32:44,240 --> 00:32:46,959
 No hice nada.
-Ni siquiera entre a Internet.
+Ni siquiera entré a Internet.
 
 302
 00:32:47,040 --> 00:32:49,190
