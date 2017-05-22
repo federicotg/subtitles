@@ -1445,7 +1445,7 @@ Bien.
 
 321
 00:37:57,160 --> 00:38:02,871
-Se llamaba Knowle Rohrer, un ex marine,
+Se llamaba Knowle Rohrer, un exmarine,
 que trabajaba para el Depto. de Defensa.
 
 322
@@ -1580,7 +1580,7 @@ No. Sólo me pagaban por mi trabajo.
 
 350
 00:40:42,960 --> 00:40:45,918
-Por eso, ayude al agente Mulder.
+Por eso, ayudé al agente Mulder.
 
 351
 00:40:46,000 --> 00:40:51,518
@@ -1883,7 +1883,7 @@ en los Archivos X?
 
 418
 00:46:42,560 --> 00:46:47,395
-Aceptamos el trabajo para darlo mejor
+Aceptamos el trabajo para dar lo mejor
 de nosotros. Nos iremos del mismo modo.
 
 419
@@ -2904,7 +2904,7 @@ Ya se la contaste. ¿No, Fox?
 
 639
 01:11:53,440 --> 01:11:57,274
-- Te ayude a encontrarla.
+- Te ayudé a encontrarla.
 - Tú no me ayudaste.
 
 640
