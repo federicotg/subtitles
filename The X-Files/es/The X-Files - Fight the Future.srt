@@ -1281,7 +1281,7 @@ falsa? ¿A este hombre no lo mató la explosión?
 
 283
 00:38:08,162 --> 00:38:13,532
-No se lo que mató a este hombre.
+No sé lo que mató a este hombre.
 No creo que nadie te lo pueda decir.
 
 284
