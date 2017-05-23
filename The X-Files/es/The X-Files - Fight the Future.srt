@@ -437,7 +437,7 @@ una milla alrededor del edificio!
 99
 00:17:06,001 --> 00:17:09,869
 - ¿Diez minutos?
-- ¡No pienses! ¡Tome el teléfono y hágalo!
+- ¡No piense! ¡Tome el teléfono y hágalo!
 
 100
 00:17:11,173 --> 00:17:12,531
