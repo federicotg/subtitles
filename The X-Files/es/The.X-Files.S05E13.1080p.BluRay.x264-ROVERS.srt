@@ -91,7 +91,7 @@ Vamos a decirles.
 20
 00:01:22,960 --> 00:01:26,270
 KAZAJSTÁN
-EX UNIÓN SOVIÉTICA
+ANTIGUA UNIÓN SOVIÉTICA
 
 21
 00:01:31,520 --> 00:01:33,556
@@ -562,7 +562,7 @@ Creo que debe conocerla.
 
 121
 00:11:31,480 --> 00:11:33,994
-Creo que tal vez cambie de opinión.
+Creo que tal vez cambié de opinión.
 
 122
 00:11:36,000 --> 00:11:39,151
@@ -2010,7 +2010,7 @@ informe de la ONU sobre
 443
 00:39:42,440 --> 00:39:44,670
 un incidente similar en
-la ex Unión Soviética?
+la antigua Unión Soviética?
 
 444
 00:39:44,800 --> 00:39:45,835

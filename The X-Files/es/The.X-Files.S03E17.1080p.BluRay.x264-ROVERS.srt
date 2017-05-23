@@ -1136,7 +1136,7 @@ en medio de algo aquí, de modo que...
 
 251
 00:22:55,800 --> 00:23:00,510
-- ¿Quién es usted y que hace aquí?
+- ¿Quién es usted y qué hace aquí?
 - ¡Váyase de paseo!
 
 252

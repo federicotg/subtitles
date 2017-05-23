@@ -499,7 +499,7 @@ Tiene una fiebre de 39 grados.
 
 113
 00:11:19,640 --> 00:11:22,598
-- Que bueno que llegó rápido.
+- Qué bueno que llegó rápido.
 - ¿Qué se lo está causando?
 
 114

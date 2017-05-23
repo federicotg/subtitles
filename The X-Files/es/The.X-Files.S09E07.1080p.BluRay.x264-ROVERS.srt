@@ -249,7 +249,7 @@ No eres hombre de palabra.
 58
 00:10:45,760 --> 00:10:49,548
 ¿Qué otra cosa me quitaste?
-Muéstrame que más tienes.
+Muéstrame qué más tienes.
 
 59
 00:10:49,640 --> 00:10:52,359
@@ -743,7 +743,7 @@ No sabe que estoy aquí.
 
 168
 00:26:11,000 --> 00:26:15,471
-Ni que Skinner se fue a Mexico
+Ni que Skinner se fue a México
 para hablar con la policía federal.
 
 169
@@ -758,7 +758,7 @@ de encontrar a
 
 171
 00:26:21,800 --> 00:26:24,109
-un ex marine con la
+un exmarine con la
 descripción de Doggett.
 
 172

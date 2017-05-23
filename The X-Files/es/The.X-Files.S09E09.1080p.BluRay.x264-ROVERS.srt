@@ -195,7 +195,7 @@ Estaré encantada de cooperar.
 44
 00:06:39,760 --> 00:06:45,835
 Pero me gustaría que me dijeran
-a quién o que están investigando.
+a quién o qué están investigando.
 
 45
 00:06:55,200 --> 00:06:57,839
@@ -1166,7 +1166,7 @@ de manera poco ética.
 256
 00:33:27,840 --> 00:33:34,154
 Su misión era infiltrarse en una secta
-religiosa, dirigida por un ex militar,
+religiosa, dirigida por un exmilitar,
 
 257
 00:33:34,320 --> 00:33:37,710

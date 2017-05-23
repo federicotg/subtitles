@@ -1416,7 +1416,7 @@ No soy compañía, soy tu esposa.
 
 306
 00:21:37,500 --> 00:21:39,500
-Ex esposa.
+Exesposa.
 Tú me pediste el divorcio.
 
 307

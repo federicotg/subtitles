@@ -309,7 +309,7 @@ un perfil para capturar al asesino.
 69
 00:08:18,440 --> 00:08:22,831
 - ¿Y cómo es?
-- Un ex militar blanco de 25 a 35 años.
+- Un exmilitar blanco de 25 a 35 años.
 
 70
 00:08:22,960 --> 00:08:27,670
@@ -858,7 +858,7 @@ A menos que estés totalmente seguro.
 189
 00:24:48,520 --> 00:24:50,715
 Soy Barbara.
-La ex esposa de John.
+La exesposa de John.
 
 190
 00:24:50,960 --> 00:24:55,750
@@ -1303,7 +1303,7 @@ para acercarse al agente Doggett.
 
 287
 00:36:54,480 --> 00:36:59,190
-La ex esposa del agente Doggett
+La exesposa del agente Doggett
 me reconoció.
 
 288
@@ -1352,7 +1352,7 @@ Me obsesioné con el caso.
 298
 00:37:49,640 --> 00:37:54,509
 Vigilé de cerca
-al agente Doggett y a su ex esposa.
+al agente Doggett y a su exesposa.
 
 299
 00:37:54,640 --> 00:37:58,872

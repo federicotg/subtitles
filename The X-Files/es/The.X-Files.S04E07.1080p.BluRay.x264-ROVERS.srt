@@ -474,7 +474,7 @@ de 46 años,
 
 107
 00:08:58,520 --> 00:09:01,910
-ex comandante de un buque torpedero.
+excomandante de un buque torpedero.
 
 108
 00:09:03,720 --> 00:09:06,109
