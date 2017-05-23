@@ -30,7 +30,7 @@ Soy Wesley Brewer en la ruta siete.
 
 8
 00:02:00,280 --> 00:02:03,716
-Parece que llegare a
+Parece que llegaré a
 las ocho aproximadamente.
 
 9

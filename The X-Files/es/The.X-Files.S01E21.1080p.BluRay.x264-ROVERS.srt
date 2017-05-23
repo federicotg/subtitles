@@ -662,7 +662,7 @@ Te ayudaré en la vigilancia.
 
 147
 00:11:47,600 --> 00:11:51,115
-Yo vigilare. Tú revisa los casos
+Yo vigilaré. Tú revisa los casos
 anteriores para probar que fue él.
 
 148
