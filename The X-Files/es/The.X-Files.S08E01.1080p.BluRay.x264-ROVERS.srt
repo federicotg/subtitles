@@ -639,7 +639,7 @@ en la gaveta del medio.
 141
 00:22:42,880 --> 00:22:46,873
 - Sé la repuesta.
-- Ni siquiera se la pregunta.
+- Ni siquiera sé la pregunta.
 
 142
 00:22:46,960 --> 00:22:49,190
@@ -788,7 +788,7 @@ Mulder se sentía amenazado por el FBI.
 174
 00:25:49,040 --> 00:25:54,558
 No dije eso. Él sentía que los recortes
-presupuestales amenazaban los archivos X.
+presupuestarios amenazaban los archivos X.
 
 175
 00:25:54,800 --> 00:26:00,875
@@ -812,7 +812,7 @@ Pero usted estuvo aquí hasta las diez.
 
 179
 00:26:43,160 --> 00:26:47,950
-¿Cree que entre aquí
+¿Cree que entré aquí
 usando la tarjeta de Mulder?
 
 180
@@ -1025,7 +1025,7 @@ Sé lo que vi.
 225
 00:31:56,440 --> 00:32:01,514
 No me quedaré aquí a escucharlo.
-Observe mientras pasaba.
+Observé mientras pasaba.
 
 226
 00:32:29,560 --> 00:32:32,028
@@ -1316,7 +1316,7 @@ ESCUELA PARA SORDOS FLEMINGTOWN
 - Tiene que explicar antes de...
 
 288
-00:42:03,396 --> 13:15:21,858
+00:42:03,396 --> 00:42:06,396
 - ¿Está allá abajo?
 - Está en mi oficina.
 
