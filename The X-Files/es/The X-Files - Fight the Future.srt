@@ -2855,7 +2855,7 @@ Esto tiene que ver con lo de Dallas.
 631
 01:17:51,694 --> 01:17:55,494
 - ¿Dónde está? La encontraré.
-- No sé dónde está, pero se quién lo sabe.
+- No sé dónde está, pero sé quién lo sabe.
 
 632
 01:17:55,598 --> 01:18:01,468

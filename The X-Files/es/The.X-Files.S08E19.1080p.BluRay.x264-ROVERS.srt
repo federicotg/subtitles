@@ -904,7 +904,7 @@ Kersh. Alvin Kersh.
 205
 00:29:02,200 --> 00:29:05,556
 Soy biólogo,
-de modo que se algo de animales.
+de modo que sé algo de animales.
 
 206
 00:29:05,680 --> 00:29:10,071
