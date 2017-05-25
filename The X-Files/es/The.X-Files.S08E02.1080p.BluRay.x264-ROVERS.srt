@@ -381,7 +381,7 @@ buscando a la persona equivocada.
 
 85
 00:09:41,680 --> 00:09:44,558
-Adondequiera que este, nos lleva ventaja.
+Adondequiera que esté, nos lleva ventaja.
 
 86
 00:09:57,400 --> 00:10:02,428
@@ -448,7 +448,7 @@ Teme por mí.
 100
 00:13:30,760 --> 00:13:36,118
 Tiene derecho de tener miedo.
-Ya no sabemos en quien confiar.
+Ya no sabemos en quién confiar.
 
 101
 00:13:40,200 --> 00:13:44,113
@@ -462,7 +462,7 @@ Siempre lo he sabido.
 
 103
 00:13:55,400 --> 00:13:58,472
-Te entainllaré la pierna.
+Te entablillaré la pierna.
 
 104
 00:13:59,760 --> 00:14:07,189
@@ -960,7 +960,7 @@ Cuidado con la pierna.
 
 215
 00:28:01,120 --> 00:28:05,352
-- Llévame al hospital.
+- Llévalo al hospital.
 - ¿Y tú qué?
 
 216
