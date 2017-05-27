@@ -1736,7 +1736,7 @@ Chocado por un coche blanco.
 
 387
 00:36:58,920 --> 00:37:01,832
-Mande la muestra de pintura a Washington.
+Mandé la muestra de pintura a Washington.
 
 388
 00:37:01,920 --> 00:37:07,358
