@@ -234,7 +234,7 @@ Estaba en el fondo.
 52
 00:09:18,960 --> 00:09:21,315
 ¿Le puedo preguntar
-que le pasó en la mano?
+qué le pasó en la mano?
 
 53
 00:09:21,400 --> 00:09:25,188
@@ -292,7 +292,7 @@ Espero que lo hagan esta tarde.
 
 65
 00:10:06,040 --> 00:10:11,034
-- ¿Cuanta gasolina tiene?
+- ¿Cuánta gasolina tiene?
 - Un cuarto de tanque. Llegaré.
 
 66
