@@ -562,7 +562,7 @@ quién será un asesino.
 
 126
 00:11:41,284 --> 00:11:43,366
-O quien será asesinado.
+O quién será asesinado.
 
 127
 00:11:57,133 --> 00:11:58,714

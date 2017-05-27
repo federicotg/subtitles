@@ -373,7 +373,7 @@ La conociste ayer.
 83
 00:09:30,000 --> 00:09:32,798
 - ¿Ayer?
-- El miercoles.
+- El miércoles.
 
 84
 00:09:34,480 --> 00:09:39,918
