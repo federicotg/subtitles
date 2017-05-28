@@ -399,7 +399,7 @@ Tammi te dijo que quería hablarte, ¿no?
 
 89
 00:10:34,080 --> 00:10:37,470
-¿Quieres contarme que pasó anoche?
+¿Quieres contarme qué pasó anoche?
 
 90
 00:10:43,360 --> 00:10:49,993
