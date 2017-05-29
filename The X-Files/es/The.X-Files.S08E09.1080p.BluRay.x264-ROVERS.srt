@@ -503,7 +503,7 @@ Mira.
 
 109
 00:12:48,160 --> 00:12:52,073
-He tocada fondo unas cuantas veces
+He tocado fondo unas cuantas veces
 y me he levantado.
 
 110
@@ -1429,7 +1429,7 @@ alguien más tenga que morir.
 
 312
 00:38:03,240 --> 00:38:06,118
-Nunca le di un nombre.
+Nunca le dio un nombre.
 
 313
 00:38:10,640 --> 00:38:14,553
