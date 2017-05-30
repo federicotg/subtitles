@@ -1862,7 +1862,7 @@ hospital está bajo amenaza terrorista.
 
 408
 00:20:45,827 --> 00:20:48,681
-Tengo un cordón de Agentes cerca
+Tengo un cordón de agentes cerca
 como precaución contra un ataque...
 
 409
@@ -1871,7 +1871,7 @@ como precaución contra un ataque...
 
 410
 00:20:49,918 --> 00:20:51,027
-... antes que podamos traer
+... antes de que podamos traer
 al escuadrón de explosivos.
 
 411

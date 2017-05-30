@@ -201,7 +201,7 @@ sino al agente Mulder.
 
 44
 00:06:12,760 --> 00:06:17,754
-Quisiera saber sobre que
+Quisiera saber sobre qué
 hablaron con el agente Mulder.
 
 45
@@ -566,7 +566,7 @@ Vinimos porque no atendía el teléfono.
 123
 00:16:10,320 --> 00:16:14,950
 Lo siento.
-Fui a cazar y desconecte el radio.
+Fui a cazar y desconecté el radio.
 
 124
 00:16:15,080 --> 00:16:18,914
@@ -607,7 +607,7 @@ no identificado.
 
 132
 00:16:43,760 --> 00:16:47,958
-Lo encontraron el 7 de junio,
+Lo encontraron el 7 de mayo,
 al día siguiente
 
 133
@@ -821,7 +821,7 @@ no mataría a un hombre a sangre fría.
 178
 00:25:48,320 --> 00:25:51,357
 A menos que estuviera protegiendo
-ala Sra. Hangemuhl.
+a la Sra. Hangemuhl.
 
 179
 00:25:51,480 --> 00:25:52,469
