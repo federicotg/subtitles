@@ -675,7 +675,7 @@ Aquí está la agente Scully.
 
 151
 00:17:52,680 --> 00:17:54,750
-Páseme el radio.
+Páseme la radio.
 
 152
 00:17:55,920 --> 00:17:58,878

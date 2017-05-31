@@ -566,7 +566,7 @@ Vinimos porque no atendía el teléfono.
 123
 00:16:10,320 --> 00:16:14,950
 Lo siento.
-Fui a cazar y desconecté el radio.
+Fui a cazar y desconecté la radio.
 
 124
 00:16:15,080 --> 00:16:18,914
