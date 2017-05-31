@@ -412,7 +412,7 @@ que olvidé presionar el botón.
 
 91
 00:10:38,360 --> 00:10:44,515
-No me quedó claro que quieres hacer
+No me quedó claro qué quieres hacer
 con Haskell y la historia de su esposa.
 
 92
@@ -1409,7 +1409,7 @@ Dígame dónde está Scully.
 
 307
 00:35:29,840 --> 00:35:31,558
-Segundad.
+Seguridad.
 
 308
 00:35:38,800 --> 00:35:40,870
