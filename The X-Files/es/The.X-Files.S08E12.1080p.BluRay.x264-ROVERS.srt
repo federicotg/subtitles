@@ -217,7 +217,7 @@ Vamos.
 47
 00:05:55,320 --> 00:06:00,155
 Steven Melnick, ingeniero mecánico.
-El construyó este túnel.
+Él construyó este túnel.
 
 48
 00:06:00,240 --> 00:06:02,549
@@ -327,7 +327,7 @@ Yo seré tus ojos y tus oídos.
 71
 00:07:43,120 --> 00:07:49,116
 Me gustaría que alguien me dijera
-que diablos tengo que buscar.
+qué diablos tengo que buscar.
 
 72
 00:07:53,360 --> 00:07:56,318
@@ -871,7 +871,7 @@ a traerlo aquí hasta que sepa qué es.
 192
 00:18:22,520 --> 00:18:28,390
 Dejen esos cadáveres allí y vayan a buscar
-a quienquiera que este en el túnel.
+a quienquiera que esté en el túnel.
 
 193
 00:18:30,880 --> 00:18:33,713
@@ -1166,7 +1166,7 @@ Necesitamos un diagnóstico.
 257
 00:23:25,840 --> 00:23:29,037
 - Nos encargaremos de ello.
-- Yo ya me ocupe de eso.
+- Yo ya me ocupé de eso.
 
 258
 00:23:34,040 --> 00:23:36,315
@@ -1202,7 +1202,7 @@ Quiero ver los informes de la inspección.
 265
 00:23:54,120 --> 00:23:58,352
 Quiero saber quién bajó
-a ese túnel y que vieron.
+a ese túnel y qué vieron.
 
 266
 00:23:58,480 --> 00:24:02,359
@@ -1540,7 +1540,7 @@ Cuénteles todo lo que sabemos.
 341
 00:31:12,720 --> 00:31:16,872
 Tenemos que descubrir
-cuanto antes que lo desencadena.
+cuanto antes qué lo desencadena.
 
 342
 00:31:19,480 --> 00:31:23,598
@@ -1668,7 +1668,7 @@ Necesito una idea
 
 369
 00:33:31,120 --> 00:33:32,838
-de que desata la reacción
+de qué desata la reacción
 de este organismo.
 
 370
@@ -1753,7 +1753,7 @@ Nada. No ha sido afectado.
 
 388
 00:35:18,840 --> 00:35:21,354
-Tal vez sepa que desata esa reacción.
+Tal vez sepa qué desata esa reacción.
 
 389
 00:35:21,480 --> 00:35:24,074

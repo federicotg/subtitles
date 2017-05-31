@@ -314,7 +314,7 @@ Mis hombre y yo revisamos el barco.
 72
 00:07:57,440 --> 00:08:01,513
 Nada definitivo. Pero es improbable
-que el perro aún este en el barco.
+que el perro aún esté en el barco.
 
 73
 00:08:01,640 --> 00:08:03,517
