@@ -550,7 +550,7 @@ Hice blindar el vehículo.
 
 123
 00:08:56,892 --> 00:09:00,883
-Porque nunca se sabe cuando un pistolero
+Porque nunca se sabe cuándo un pistolero
 liberal podría imitar a Hinckley.
 
 124
