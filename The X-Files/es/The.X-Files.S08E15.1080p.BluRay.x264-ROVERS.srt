@@ -810,7 +810,7 @@ que pueda curar al hombre que encontré.
 181
 00:20:57,040 --> 00:21:00,635
 Lo encontraste, pero ni siquiera sabes
-que tienes en las manos.
+qué tienes en las manos.
 
 182
 00:21:16,680 --> 00:21:19,911
