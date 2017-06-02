@@ -1085,7 +1085,7 @@ Espero que nada.
 
 240
 00:22:35,600 --> 00:22:39,752
-Si no quiere hacerlo lo harán mis hombres.
+Si no quiere hacerlo, lo harán mis hombres.
 
 241
 00:22:39,920 --> 00:22:41,956
