@@ -2107,7 +2107,7 @@ Sigue investigando.
 455
 00:32:41,900 --> 00:32:44,400
 - ¿Cómo lo vamos a encontrar?
-- El es un peón.
+- Él es un peón.
 
 456
 00:32:44,400 --> 00:32:46,300
