@@ -371,7 +371,7 @@ Imploré por este trabajo.
 
 87
 00:10:49,520 --> 00:10:54,469
-Estaba en contaduria. Procesaba los gastos
+Estaba en contaduría. Procesaba los gastos
 de viaje de los agentes Mulder y Scully.
 
 88
@@ -381,7 +381,7 @@ Entonces, está calificada.
 89
 00:10:57,280 --> 00:11:02,559
 Quizá no lo este,
-pero me se los Archivos X de pe a pa.
+pero me sé los Archivos X de pe a pa.
 
 90
 00:11:02,680 --> 00:11:07,196
@@ -408,7 +408,7 @@ Santo Dios. Hay más de esa cosa.
 95
 00:11:38,600 --> 00:11:43,879
 - Así parece.
-- ¿Sabe que puede ser? Bilis.
+- ¿Sabe qué puede ser? Bilis.
 
 96
 00:11:46,440 --> 00:11:49,352
@@ -966,7 +966,7 @@ Lo está enfrentado.
 
 219
 00:31:09,800 --> 00:31:12,712
-¿Y el quién es?
+¿Y él quién es?
 
 220
 00:31:12,800 --> 00:31:15,394

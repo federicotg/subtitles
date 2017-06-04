@@ -929,7 +929,7 @@ en el cuadrante posterior derecho.
 
 207
 00:25:48,640 --> 00:25:52,633
-¿Sabe que causó la pérdida de potencia?
+¿Sabe qué causó la pérdida de potencia?
 
 208
 00:25:52,720 --> 00:25:58,033
