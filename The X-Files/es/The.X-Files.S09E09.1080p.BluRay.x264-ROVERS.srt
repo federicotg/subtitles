@@ -1,6 +1,6 @@
 1
 00:00:05,400 --> 00:00:08,915
-FRONTERA ENTRE EEUU Y CANADÁ
+FRONTERA ENTRE EE.UU. Y CANADÁ
 
 2
 00:00:10,760 --> 00:00:14,469
@@ -9,7 +9,7 @@ DAKOTA DEL NORTE
 
 3
 00:00:23,120 --> 00:00:25,156
-PATRULLA DE FRONTERAS DE EEUU
+PATRULLA DE FRONTERAS DE EE.UU.
 
 4
 00:00:25,240 --> 00:00:28,630
@@ -175,7 +175,7 @@ Porque se lo preguntamos a usted.
 40
 00:06:08,320 --> 00:06:16,193
 Lo hallaron en Dakota del Norte, durante un
-cruce ilegal de fronteras de Canadá a EEUU.
+cruce ilegal de fronteras de Canadá a EE.UU.
 
 41
 00:06:16,320 --> 00:06:23,635
@@ -325,7 +325,7 @@ de su poder.
 
 73
 00:08:48,960 --> 00:08:52,555
-FRONTERA ENTRE CANADÁ Y EEUU
+FRONTERA ENTRE CANADÁ Y EE.UU.
 CONDADO DE BURKE, DAKOTA DEL NORTE
 
 74
