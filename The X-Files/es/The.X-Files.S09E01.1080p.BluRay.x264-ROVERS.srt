@@ -1276,7 +1276,7 @@ Le agradezco que haga esto.
 283
 00:34:20,440 --> 00:34:24,274
 - Era lo correcto.
-- Infórmeme que sucede.
+- Infórmeme qué sucede.
 
 284
 00:34:26,440 --> 00:34:27,395
@@ -1492,7 +1492,7 @@ antes de que nos diga algo.
 331
 00:39:17,680 --> 00:39:24,028
 Fue difícil, pero descubrimos que
-Carlo Wormus, el que se ahogó en el auto,
+Carl Wormus, el que se ahogó en el auto,
 
 332
 00:39:24,120 --> 00:39:28,716

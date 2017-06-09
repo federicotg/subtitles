@@ -1123,7 +1123,7 @@ D5, salina 150 a la mitad.
 
 250
 00:25:54,000 --> 00:25:58,516
-- Díganos que sucedió.
+- Díganos qué sucedió.
 - Mulder, no tiene nada que ver con usted.
 
 251
