@@ -204,7 +204,7 @@ con su nombre y fecha de nacimiento.
 45
 00:04:28,920 --> 00:04:33,152
 John Fitzgerald Byers.
-22 del noviembre de 1963.
+22 de noviembre de 1963.
 
 46
 00:04:33,240 --> 00:04:36,596
