@@ -22,7 +22,7 @@ Cosas malas.
 
 6
 00:00:20,760 --> 00:00:24,594
-Les cause dolor
+Les causé dolor
 a quienes se me acercaban.
 
 7
@@ -88,7 +88,7 @@ Traje a Victor.
 20
 00:01:23,840 --> 00:01:28,834
 - Victor ha mejorado.
-- Sí. Tan sólo míran.
+- Sí. Tan sólo míralo.
 
 21
 00:01:34,920 --> 00:01:37,718
@@ -1289,7 +1289,7 @@ son correctos, habrá una cuarta víctima.
 
 286
 00:32:30,600 --> 00:32:34,195
-Parece que la ama de llaves
+Parece que el ama de llaves
 no viene hace tiempo.
 
 287
