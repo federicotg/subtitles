@@ -213,7 +213,7 @@ Sí. Están revisando los Archivos X.
 48
 00:07:05,360 --> 00:07:11,071
 Dudo que el agente Follmer siquiera sepa
-quiénes somos y que hacemos.
+quiénes somos y qué hacemos.
 
 49
 00:07:11,760 --> 00:07:14,832
@@ -1068,7 +1068,7 @@ Una almohada.
 235
 00:29:33,880 --> 00:29:38,908
 Espero que podamos averiguar
-que lo trajo aquí.
+qué lo trajo aquí.
 
 236
 00:30:27,080 --> 00:30:30,755
@@ -1290,7 +1290,7 @@ Es un pedazo de la nave espacial.
 284
 00:37:43,320 --> 00:37:47,279
 Quiero explicar
-que pasó antes de que la veas.
+qué pasó antes de que la veas.
 
 285
 00:37:47,360 --> 00:37:50,830

@@ -723,7 +723,7 @@ Tomé una pastilla.
 
 161
 00:16:59,120 --> 00:17:03,033
-- No te encontré y me preocupe.
+- No te encontré y me preocupé.
 - Vine a casa.
 
 162
