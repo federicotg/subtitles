@@ -437,7 +437,7 @@ Aquí se detuvo. Aquí mismo.
 
 102
 00:15:27,480 --> 00:15:32,634
-Si descubrimos que es esto,
+Si descubrimos qué es esto,
 quizá podamos revertirlo.
 
 103
