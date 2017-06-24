@@ -660,7 +660,7 @@ tendremos que enfrentar los hechos.
 149
 00:15:56,000 --> 00:16:01,472
 Tú estuviste ahí. Fassl era el único
-presente en la casa. El los mató.
+presente en la casa. Él los mató.
 
 150
 00:16:01,560 --> 00:16:04,393
@@ -1266,7 +1266,7 @@ que encontramos en el asesinato anterior,
 
 279
 00:29:01,960 --> 00:29:05,589
-y lo agregue a las pruebas
+y lo agregué a las pruebas
 de nuestro caso.
 
 280
