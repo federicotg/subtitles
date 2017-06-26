@@ -1517,7 +1517,7 @@ Pierde tiempo. ¿Me entiende?
 
 324
 00:43:14,960 --> 00:43:17,269
-y saben que estás haciendo.
+y saben qué estás haciendo.
 
 325
 00:43:17,400 --> 00:43:20,437
