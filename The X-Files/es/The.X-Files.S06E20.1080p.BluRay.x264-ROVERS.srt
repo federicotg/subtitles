@@ -1671,7 +1671,7 @@ Siéntate en la parte de atrás y espera.
 371
 00:35:08,400 --> 00:35:14,032
 A las 10:15 se anunciará un receso.
-Acércate al blanco y dispara dos veces.
+Acércate al blanco y dispara tres veces.
 
 372
 00:35:15,240 --> 00:35:17,959
